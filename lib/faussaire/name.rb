@@ -29,6 +29,11 @@ module Faussaire
         fetch(key)
       end
 
+      def name
+        first_name = [female_first_name, male_first_name].sample
+        [first_name, family_name].join(' ')
+      end
+
       private
 
       def fetch(key)

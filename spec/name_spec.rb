@@ -54,5 +54,28 @@ RSpec.describe Faussaire::Name do
 
       expect(full_name1).not_to eq(full_name2)
     end
+
+    it 'checks the uniqueness of every occurrence' do
+      generated_names = []
+
+      3.times do
+        full_name = Faussaire::Name.name
+
+        # Additional check for a unique name
+        expect(full_name).not_to be_empty
+
+        expect(generated_names).not_to include(full_name)
+        generated_names << full_name
+      end
+    end
+
+    it 'returns unique names when called multiple times' do
+      names = 3.times.map { Faussaire::Name.name }
+
+      # Additional check for unique non-empty names
+      expect(names).to all(be_a(String)).and all(be_truthy)
+      # Truthy is like .present?
+      expect(names).to eq(names.uniq)
+    end
   end
 end

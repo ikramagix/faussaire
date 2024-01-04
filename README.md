@@ -8,7 +8,7 @@ Elle prend en charge le français, le grec et une version plus minimaliste en an
 
 - 🇫🇷 : Proposer des données plus complètes pour un rendu plus réaliste. Le rendu parfois générique de Faker ne rendait pas justice à la splendeur de la langue française. C'est aussi une occasion de faire découvrir notre patrimoine culturel au monde entier.
 - 🇬🇷 : Trop souvent délaissée à cause de son alphabet, elle est pourtant parlée par 15 millions de personnes.
-- 🌍: Il est devenu indispensable d'avoir une alternative "globish", qui puisse s'adapter aux locales quand c'est pertinent (addresses par exemple) mais soit en anglais pour le reste.
+- 🌍: Il est devenu indispensable d'avoir une alternative "globish", qui puisse s'adapter aux locales quand c'est pertinent (addresses par exemple) mais reste en anglais pour le reste.
 
 TODO: Delete this and the text below, and describe your gem
 

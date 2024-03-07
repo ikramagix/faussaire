@@ -1,5 +1,15 @@
 # Faussaire
 
+Une alternative made in France à la gem "Faker" remise au goût du jour avec des propositions plus crédibles.
+
+Elle prend en charge le français, le grec et une version plus minimaliste en anglais.
+
+## Pourquoi j'ai commencé Faussaire :
+
+- 🇫🇷 : Proposer des données plus complètes pour un rendu plus réaliste. Le rendu parfois générique de Faker ne rendait pas justice à la splendeur de la langue française. C'est aussi une occasion de faire découvrir notre patrimoine culturel au monde entier.
+- 🇬🇷 : Trop souvent délaissée à cause de son alphabet, elle est pourtant parlée par 15 millions de personnes.
+- 🌍: Il est devenu indispensable d'avoir une alternative "globish", qui puisse s'adapter aux locales quand c'est pertinent (addresses par exemple) mais reste en anglais pour le reste.
+
 TODO: Delete this and the text below, and describe your gem
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/faussaire`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -28,7 +38,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/faussaire.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ikramagic/faussaire
 
 ## License
 

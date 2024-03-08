@@ -833,6 +833,42 @@ fr:
         - Martinez
         - Lee
     address:
+      region:
+        - Alsace
+        - Aquitaine
+        - Auvergne
+        - Auvergne-Rhône-Alpes
+        - Basse-Normandie
+        - Bourgogne
+        - Bourgogne-Franche-Comté
+        - Bretagne
+        - Centre
+        - Champagne-Ardenne
+        - Corse
+        - Franche-Comté
+        - Grand Est
+        - Guadeloupe
+        - Guyane
+        - Haute-Normandie
+        - Hauts-de-France
+        - Île-de-France
+        - La Réunion
+        - Languedoc-Roussillon
+        - Limousin
+        - Lorraine
+        - Martinique
+        - Mayotte
+        - Midi-Pyrénées
+        - Nord-Pas-de-Calais
+        - Normandie
+        - Nouvelle-Aquitaine
+        - Picardie
+        - Poitou-Charentes
+        - Rhône-Alpes
+        - Centre-Val de Loire
+        - Occitanie
+        - Pays de la Loire
+        - Provence-Alpes-Côte d'Azur
       street_name:
         - Charles de Gaulle
         - Louis Pasteur
@@ -1099,6 +1135,10 @@ fr:
         - Hugues Capet
         - Mathieu Madénian
         - Charles Martel
+        - Messire Chariotte
+        - Paquebot de Jean-Marie
+        - Stoleferino
+        - Hybride-sur-Seine
         - Hyacinthe Rigaud
         - Étienne Terrus
         - Aristide Maillol

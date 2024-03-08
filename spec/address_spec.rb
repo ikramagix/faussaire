@@ -150,4 +150,13 @@ RSpec.describe Faussaire::Address do
       end
     end
   end
+
+  describe '.region' do
+    let(:regions) { Faussaire::Address.send(:data)['fr']['faussaire']['address']['region'] }
+    it 'does not contain duplicates' do
+      duplicates = regions.select { |region| regions.count(region) > 1 }.uniq
+      
+      expect(duplicates.empty?).to be(true), "Found duplicates: #{duplicates.join(', ')}"
+    end
+  end
 end

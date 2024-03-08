@@ -54,9 +54,7 @@ module Faussaire
       end
 
       def region
-      end
-
-      def building
+        fetch('fr.faussaire.address.region')
       end
 
       private

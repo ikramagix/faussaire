@@ -3,6 +3,7 @@
 require_relative "faussaire/version"
 require_relative "faussaire/base"
 require_relative "faussaire/name"
+require_relative 'faussaire/address'
 
 module Faussaire
   class Error < StandardError; end
@@ -10,6 +11,7 @@ module Faussaire
   # Initialize data for the Faussaire gem
   def self.initialize_data
     Faussaire::Name.initialize_data
+    Faussaire::Address.initialize_data
     # Add other modules' initialize_data methods if necessary
   end
 

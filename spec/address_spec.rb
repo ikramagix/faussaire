@@ -79,4 +79,34 @@ RSpec.describe Faussaire::Address do
   
       expect(invalid_values).to be_empty, "Invalid overseas department numbers found: #{invalid_values.join(', ')}"
     end
+
+  describe ".dpt_name" do
+      before(:all) do
+        @dpt_names = Faussaire::Address.send(:data)['fr']['faussaire']['address']['dpt_name']
+      end
+    
+      it "contains only strings" do
+        expect(@dpt_names).to all(be_a(String))
+      end
+    
+      it "contains no nil values" do
+        expect(@dpt_names).not_to include(nil, ' ')
+      end
+    
+      it "has the correct number of department names" do
+        expect(@dpt_names.count).to eq(101)
+      end
+    
+      it "has no duplicates" do
+        expect(@dpt_names.uniq.count).to eq(@dpt_names.count)
+      end
+    
+      it "has valid department names" do
+        dpt_names = Faussaire::Address.send(:data)['fr']['faussaire']['address']['dpt_name']
+        valid_format_regex = /\A[\p{L}'\-]+(?:[\s\-'][\p{L}'\-]+)*\z/
+      
+        invalid_names = dpt_names.select { |name| name !~ valid_format_regex }
+        expect(invalid_names).to be_empty, "Invalid department names found: #{invalid_names.join(', ')}"
+        end
+    end
 end

@@ -34,4 +34,31 @@ RSpec.describe Faussaire::Address do
         expect(all_cities & invalid_cities).to be_empty
     end
   end
+
+  describe ".street_number_99" do
+    it "returns a number between 1 and 99, never 0 or a number with more than 2 digits" do
+      number = Faussaire::Address.street_number_99.to_i
+      expect(number).to be_between(1, 99)
+    end
+  end
+
+  describe ".street_number_999" do
+    it "does not have 123 duplicates" do
+      numbers = Faussaire::Address.send(:data)['fr']['faussaire']['address']['street_number_999']
+      duplicates = numbers.group_by { |number| number }
+                          .select { |_, occurrences| occurrences.size > 1 }
+                          .keys
+      expect(numbers.uniq.size).to eq(numbers.size), "Duplicates were found: #{duplicates.join(', ')}"
+    end
+  end  
+
+  describe ".street_number_9999" do
+    it "does not have 1234 duplicates" do
+      numbers = Faussaire::Address.send(:data)['fr']['faussaire']['address']['street_number_9999']
+      duplicates = numbers.group_by { |number| number }
+                          .select { |_, occurrences| occurrences.size > 1 }
+                          .keys
+      expect(numbers.uniq.size).to eq(numbers.size), "Duplicates were found: #{duplicates.join(', ')}"    
+    end
+  end
 end

@@ -15,6 +15,18 @@ module Faussaire
         fetch(key)
       end
 
+      def street_number_99
+        fetch('fr.faussaire.address.street_number_99')
+      end
+
+      def street_number_999
+        fetch('fr.faussaire.address.street_number_999')
+      end
+
+      def street_number_9999
+        fetch('fr.faussaire.address.street_number_9999')
+      end
+
       private
 
       def fetch(key)

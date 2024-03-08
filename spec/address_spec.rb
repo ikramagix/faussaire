@@ -118,5 +118,36 @@ RSpec.describe Faussaire::Address do
         expect(postal_code).to match(/\A\d{5}\z/)
       end
     end
+
+    let(:street_types) { Faussaire::Address.send(:data)['fr']['faussaire']['address']['street_type'] }
+    let(:street_names) { Faussaire::Address.send(:data)['fr']['faussaire']['address']['street_name'] }
+  
+    describe '.street_type' do
+      it 'returns a string' do
+        expect(Faussaire::Address.street_type).to be_a(String)
+      end
+  
+      it 'returns a string with valid UTF-8 encoding' do
+        expect(Faussaire::Address.street_type.encoding).to eq(Encoding::UTF_8)
+      end
+  
+      it 'returns a valid street type included in the YAML list' do
+        expect(street_types).to include(Faussaire::Address.street_type)
+      end
+    end
+  
+    describe '.street_name' do
+      it 'returns a string' do
+        expect(Faussaire::Address.street_name).to be_a(String)
+      end
+  
+      it 'returns a string with valid UTF-8 encoding' do
+        expect(Faussaire::Address.street_name.encoding).to eq(Encoding::UTF_8)
+      end
+  
+      it 'returns a valid street name included in the YAML list' do
+        expect(street_names).to include(Faussaire::Address.street_name)
+      end
+    end
   end
 end

@@ -29,9 +29,11 @@ module Faussaire
 
       
       def street_type
+        fetch('fr.faussaire.address.street_type')
       end
 
       def street_name
+        fetch('fr.faussaire.address.street_name')
       end
 
       def dpt_name

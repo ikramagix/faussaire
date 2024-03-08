@@ -833,6 +833,434 @@ fr:
         - Martinez
         - Lee
     address:
+      street_name:
+        - Charles de Gaulle
+        - Louis Pasteur
+        - Abbé Pierre
+        - Marie Curie
+        - Coluche
+        - Victor Hugo
+        - Bourvil
+        - Molière
+        - Jacques-Yves Cousteau
+        - Édith Piaf
+        - Marcel Pagnol
+        - Georges Brassens
+        - Fernandel
+        - Jean de La Fontaine
+        - Jules Verne
+        - Napoléon Bonaparte
+        - Louis de Funès
+        - Jean Gabin
+        - Daniel Balavoine
+        - Serge Gainsbourg
+        - Zinédine Zidane
+        - Charlemagne
+        - François Mitterrand
+        - Gustave Eiffel
+        - Émile Zola
+        - Sœur Emmanuelle
+        - Jean Moulin
+        - Charles Aznavour
+        - Jeanne d'Arc
+        - Maréchal Leclerc
+        - Voltaire
+        - Johnny Hallyday
+        - Antoine de Saint-Exupéry
+        - Claude François
+        - Christian Cabrol
+        - Jean-Paul Belmondo
+        - Jules Ferry
+        - Louis Lumière
+        - Michel Platini
+        - Jacques Chirac
+        - Charles Trenet
+        - Georges Pompidou
+        - Jacques Prévert
+        - Éric Tabarly
+        - Louis VI Le Gros
+        - David Douillet
+        - Henri Salvador
+        - Jean-Jacques Goldman
+        - Jean Jaurès
+        - Albert Camus
+        - Dalida Portofino
+        - Léon Zitrone
+        - Simone Veil
+        - Alain Delon
+        - Aimé Jacquet
+        - Francis Cabrel
+        - Brigitte Bardot
+        - Guy de Maupassant
+        - Alexandre Dumas
+        - Honoré de Balzac
+        - Paul Verlaine
+        - Jean-Jacques Rousseau
+        - Maximilien de Robespierre
+        - Bernard Kouchner
+        - Claude Monet
+        - Michel Serrault
+        - Auguste Renoir
+        - Patrick Sébastien
+        - Vercingétorix
+        - Raymond Poulidor
+        - Charles Baudelaire
+        - Pierre Corneille
+        - Arthur Rimbaud
+        - Georges Clemenceau
+        - Jean Ferrat
+        - Jean Cocteau
+        - Pierre de Coubertin
+        - Jean Renoir
+        - Catherine Deneuve
+        - Gérard Depardieu
+        - Françoise Dolto
+        - Charles Aznavour
+        - Auguste Barbaza
+        - Armand Barbès
+        - Félix Barthe
+        - Edmond Bartissol
+        - Léon Blum
+        - Jean Bonnail
+        - Jean Bousgarbiès
+        - Georges Bruguier
+        - Bernard Cadenat
+        - Antoine Cayrel
+        - Raymond Chesa
+        - Antoine-Hippolyte Cros
+        - Antoine Courrière
+        - Raymond Courrière
+        - Pierre François Dejean
+        - Henri Dujardin-Beaumetz
+        - Jean Durand
+        - Philippe Fabre d'Églantine
+        - Ernest Ferroul
+        - Jules Fil
+        - Albert Gau
+        - Henri Gout
+        - Georges Guille
+        - Claudi Martí
+        - Guillaume Peyrusse
+        - Eugène Poubelle
+        - Albert Sarraut
+        - Marcel Souquet
+        - Adolphe Turrel
+        - Françoise de Veyrinas
+        - Ferdinand Alquié
+        - Emmanuel Auricoste
+        - Kevin Ayers
+        - Pierre Cabanne
+        - Maître de Cabestany
+        - Jean-Joseph Cassanéa de Mondonville
+        - André Cayatte
+        - Jacques Charpentier
+        - René Coll
+        - Benjamin Crémieux
+        - Joseph Delteil
+        - Henry Fourès
+        - Henri Gougaud
+        - René Iché
+        - Yves Jeuland
+        - Paul Lacombe
+        - Achille Laugé
+        - Hervé Joseph Lebrun
+        - Jacques Madaule
+        - Clémentine Margaine
+        - Charles Trenet
+        - Philippe Noiret
+        - Marie-Louise Petiet
+        - Pierre Richard
+        - Olivia Ruiz
+        - Jean-Philippe Sarcos
+        - Louis Alibert
+        - Joseph Anglade
+        - Jean-Marie Besset
+        - Gaston Bonheur
+        - Joë Bousquet
+        - Raymond Busquet
+        - Georges Canguilhem
+        - Benjamin Crémieux
+        - René Depestre
+        - Régis Franc
+        - André Héléna
+        - Henry de Monfreid
+        - René Nelli
+        - Pierre Reverdy
+        - Déodat Roché
+        - Alexandre Soumet
+        - Irénée Bonnafous
+        - Maurice Bujon
+        - Jean Cau
+        - Jean Guiraud
+        - Jacques Hiron
+        - Guillaume d'Alzonne de Marcillac
+        - Félix Armand
+        - André Boyer-Mas
+        - Arthur Richard Dillon
+        - Jean Dours
+        - Jacques Fihey
+        - Bernard de Montfaucon
+        - Prudent de Narbonne
+        - Nicolas Pavillon
+        - Jean-François Régis
+        - Pierre de Rosset de Rocozels
+        - Joseph Salvat
+        - Bérenger Saunière
+        - Marie-Thérèse de Soubiran
+        - Benoît de Termes
+        - Saint Sébastien
+        - Saint Prudent
+        - Saint Théodard
+        - Saint Dominique
+        - Pierre Nolasque
+        - Benoît XII
+        - Antoine François Andréossy
+        - Antoine Aymard
+        - Édouard Aymard
+        - Louis Bastoul
+        - Jean-Louis Baux
+        - Pierre Bayle
+        - Arnaud Beltrame
+        - Jean Bringer
+        - Jean Danjou
+        - Antoine Alexandre Dejean
+        - Jean François Aimé Dejean
+        - Jean-François Delort de Gléon
+        - Paul Didier
+        - François Esperonnier
+        - Charles Espinasse
+        - Bernard Frère
+        - François-Henry Laperrine
+        - Pol Lapeyre
+        - Aimé Ramond
+        - Maurice Sarrail
+        - Marie Scipion d'Exéa
+        - Raymond Viviès
+        - Gnaeus Domitius Ahenobarbus
+        - Ermessende de Carcassonne
+        - Françoise de Cezelli
+        - Olivier de Termes
+        - Jean Hercule de Rosset de Rocozels de Fleury
+        - Bernard-Othon de Niort
+        - François Gaston de Lévis
+        - Guilhem Bélibaste
+        - Déodat Roché
+        - Jean-François de La Rocque de Roberval
+        - Paul Guiraud
+        - Urbain Gibert
+        - Jean-Pierre Cros-Mayrevieille
+        - Aubry Ier de Mâcon
+        - Ermengarde de Narbonne
+        - Paul Barrière
+        - Gilbert Benausse
+        - Daniel Bustaffa
+        - Didier Codorniou
+        - Amédée Domenech
+        - Henri Ferrero
+        - Joseph Gonzales
+        - Renaud Herpe
+        - Christian Labit
+        - Pierre Lacans
+        - Camille Lacourt
+        - Jo Maso
+        - Automne Pavia
+        - André Quilis
+        - Henri Rancoule
+        - Gilles Sanders
+        - François Sangalli
+        - Laurent Spanghero
+        - Claude Spanghero
+        - Jean-Marie Spanghero
+        - Walter Spanghero
+        - Franck Tournaire
+        - Marcelin Albert
+        - Léon Castel
+        - Alexandre Piquemal
+        - Émile Pouytès
+        - Charles Cros
+        - Henri Daydé
+        - Pierre Duhem
+        - Albert Fert
+        - Bertrand Garipuy
+        - Jean Guilaine
+        - Antoine Marfan
+        - Paul Sabatier
+        - William Chauvenet
+        - Armand Gautier
+        - Paul Tournal
+        - François Andréossy
+        - Pierre Bayle
+        - Gilles Goujon
+        - Louis Martrou
+        - Louis de Mas Latrie
+        - Joseph Poux
+        - Jean-Michel Signoles
+        - Claire Maurier
+        - Hugues Capet
+        - Mathieu Madénian
+        - Charles Martel
+        - Hyacinthe Rigaud
+        - Étienne Terrus
+        - Aristide Maillol
+        - Gustave Violet
+        - Martin Vivès
+        - François de Fossa
+        - Bonaventure Petit
+        - Déodat de Séverac
+        - Pau Casals
+        - Jordi Barre
+        - Jocelyne Jocya
+        - Pascal Comelade
+        - Gérard Jacquet
+        - Jacques Arago
+        - Étienne Arago
+        - Louis Codet
+        - Ludovic Massé
+        - Louis Amade
+        - Jordi Pere Cerdà
+        - Arthur Conte
+        - Dominique Bona
+        - Michel Jean Joseph Brial
+        - Bernard Alart
+        - Pierre Bardou-Job
+        - Hugues Alexandre Joseph Meunier
+        - Jean Arago
+        - Joseph Joffre
+        - Joseph Aymerich
+        - Antoine Casenobe
+        - François Arago
+        - Justin Alavaill
+        - Les Communards
+        - Charles Dupuy
+        - François Jaubert de Passa
+        - Joseph Sarda
+        - Antoine Fourquet
+        - Julien Panchot
+        - Louis Torcatis
+        - Annie Garrigues
+        - Marcel Oms
+        - La Bohème-Oubarka Rès
+      street_type:
+        - Abbaye
+        - Aire
+        - Allée
+        - Ancien chemin
+        - Ancienne route
+        - Autoroute
+        - Avenue
+        - Bas chemin
+        - Bastide
+        - Berges
+        - Bois
+        - Boulevard
+        - Bourg
+        - Butte
+        - Camping
+        - Carrefour
+        - Centre commercial
+        - Chalet
+        - Chapelle
+        - Château
+        - Chaussée
+        - Chaussées
+        - Chemin
+        - Cheminement
+        - Cloître
+        - Clos
+        - Col
+        - Colline
+        - Contour
+        - Corniche
+        - Cote
+        - Côteau
+        - Cour
+        - Cours
+        - Digue
+        - Domaine
+        - Enceinte
+        - Enclave
+        - Espace
+        - Esplanade
+        - Faubourg
+        - Ferme
+        - Fontaine
+        - Fort
+        - Forum
+        - Fosse
+        - Fosses
+        - Galerie
+        - Galeries
+        - Grand boulevard
+        - Grand ensemble
+        - Grand rue
+        - Grande rue
+        - Grands ensembles
+        - Halle
+        - Halles
+        - Hameau
+        - Hameaux
+        - Haut chemin
+        - Hippodrome
+        - HLM
+        - Impasse
+        - Jardin
+        - Jardins
+        - Lieu dit
+        - Lotissement
+        - Lotissements
+        - Manoir
+        - Mas
+        - Montée
+        - Nouvelle route
+        - Palais
+        - Parc
+        - Parvis
+        - Passage
+        - Passage à niveau
+        - Passerelle
+        - Pavillons
+        - Péripherique
+        - Petit chemin
+        - Petite allée
+        - Petite avenue
+        - Petite impasse
+        - Petite route
+        - Petite rue
+        - Place
+        - Plage
+        - Plaine
+        - Plateau
+        - Pointe
+        - Pont
+        - Porche
+        - Port
+        - Porte
+        - Portique
+        - Pourtour
+        - Presqu'île
+        - Promenade
+        - Quai
+        - Résidence
+        - Rocade
+        - Rond point
+        - Route
+        - Rue
+        - Ruelle
+        - Sentier
+        - Square
+        - Stade
+        - Station
+        - Terrasses
+        - Terre plein
+        - Tour
+        - Traverse
+        - Vallée
+        - Vieille route
+        - Vieux chemin
+        - Voie
+        - Zone industrielle
+        - Zone artisanale
+        - Zone d'activité
       postal_code:
         - 01360
         - 02360

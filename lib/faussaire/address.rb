@@ -27,6 +27,13 @@ module Faussaire
         fetch('fr.faussaire.address.street_number_9999')
       end
 
+      
+      def street_type
+      end
+
+      def street_name
+      end
+
       def dpt_name
         fetch('fr.faussaire.address.dpt_name')
       end
@@ -42,6 +49,12 @@ module Faussaire
       def postal_code
         code = fetch('fr.faussaire.address.postal_code')
         code.to_s.rjust(5, '0')
+      end
+
+      def region
+      end
+
+      def building
       end
 
       private

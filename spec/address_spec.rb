@@ -17,12 +17,12 @@ RSpec.describe Faussaire::Address do
     end
 
     # This test ensures that cities with special characters are not altered
-    it "preserves special characters like é & è & ê" do
+    it "preserves special characters like lettes with accents or hyphens" do
       cities = Faussaire::Address.instance_variable_get(:@data)['fr']['faussaire']['address']['city']
-      special_chars_cities = cities.select { |city| city =~ /[éèê]/ }
+      special_chars_cities = cities.select { |city| city =~ /[àâäéèêëîïôöùûüÿç-]/ }
       expect(special_chars_cities).not_to be_empty
       special_chars_cities.each do |city|
-        expect(city).to match(/[éèê]/)
+        expect(city).to match(/[àâäéèêëîïôöùûüÿç-]/)
       end
     end
 
@@ -35,25 +35,21 @@ RSpec.describe Faussaire::Address do
     end
   end
 
-  describe ".street_number_99" do
-    it "returns a number between 1 and 99, never 0 or a number with more than 2 digits" do
+  describe ".street_number" do
+    it "street_number_99 returns a number between 1 and 99, never 0 or a number with more than 2 digits" do
       number = Faussaire::Address.street_number_99.to_i
       expect(number).to be_between(1, 99)
     end
-  end
 
-  describe ".street_number_999" do
-    it "does not have 123 duplicates" do
+    it "street_number_999 does not have duplicate values" do
       numbers = Faussaire::Address.send(:data)['fr']['faussaire']['address']['street_number_999']
       duplicates = numbers.group_by { |number| number }
                           .select { |_, occurrences| occurrences.size > 1 }
                           .keys
       expect(numbers.uniq.size).to eq(numbers.size), "Duplicates were found: #{duplicates.join(', ')}"
-    end
   end  
 
-  describe ".street_number_9999" do
-    it "does not have 1234 duplicates" do
+    it "street_number_9999 does not have duplicate values" do
       numbers = Faussaire::Address.send(:data)['fr']['faussaire']['address']['street_number_9999']
       duplicates = numbers.group_by { |number| number }
                           .select { |_, occurrences| occurrences.size > 1 }

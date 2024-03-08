@@ -17,7 +17,7 @@ RSpec.describe Faussaire::Address do
     end
 
     # This test ensures that cities with special characters are not altered
-    it "preserves special characters like lettes with accents or hyphens" do
+    it "preserves special characters like letters with accents or hyphens" do
       cities = Faussaire::Address.instance_variable_get(:@data)['fr']['faussaire']['address']['city']
       special_chars_cities = cities.select { |city| city =~ /[àâäéèêëîïôöùûüÿç-]/ }
       expect(special_chars_cities).not_to be_empty
@@ -28,10 +28,15 @@ RSpec.describe Faussaire::Address do
 
     # This test ensures an invalid city names like Mont-de-Marsan, Bastille, or Vichy is never returned
 
-    it "does not include invalid city names like Mont-de-Marsan, Bastille, or Vichy" do
-        all_cities = Faussaire::Address.send(:data)['fr']['faussaire']['address']['city']
-        invalid_cities = ["Mont-de-Marsan", "Bastille", "Vichy"]
-        expect(all_cities & invalid_cities).to be_empty
+    it "does not include invalid city names or names ending with a space" do
+      all_cities = Faussaire::Address.send(:data)['fr']['faussaire']['address']['city']
+      invalid_cities = ["Mont-de-Marsan", "Bastille", "Vichy"]
+    
+      # This test ensures that a city name never end with a space
+      cities_with_trailing_space = all_cities.select { |city| city.match(/ $/) }
+    
+      expect(all_cities & invalid_cities).to be_empty, "Invalid city names were found: #{(all_cities & invalid_cities).join(', ')}"
+      expect(cities_with_trailing_space).to be_empty, "City names with trailing spaces were found: #{cities_with_trailing_space.join(', ')}"
     end
   end
 

@@ -833,6 +833,197 @@ fr:
         - Martinez
         - Lee
     address:
+      postal_code:
+        - 01360
+        - 02360
+        - 03360
+        - 04360
+        - 05360
+        - 06360
+        - 07360
+        - 08360
+        - 09360
+        - 13600
+        - 11360
+        - 12360
+        - 13360
+        - 14360
+        - 15360
+        - 16360
+        - 17360
+        - 18360
+        - 19360
+        - 23600
+        - 21360
+        - 22360
+        - 23360
+        - 24360
+        - 25360
+        - 26360
+        - 27360
+        - 28360
+        - 29360
+        - 33600
+        - 31360
+        - 32360
+        - 33360
+        - 34360
+        - 35360
+        - 36360
+        - 37360
+        - 38360
+        - 39360
+        - 43600
+        - 41360
+        - 42360
+        - 43360
+        - 44360
+        - 45360
+        - 46360
+        - 47360
+        - 48360
+        - 49360
+        - 53600
+        - 51360
+        - 52360
+        - 53360
+        - 54360
+        - 55360
+        - 56360
+        - 57360
+        - 58360
+        - 59360
+        - 63600
+        - 61360
+        - 62360
+        - 63360
+        - 64360
+        - 65360
+        - 66360
+        - 67360
+        - 68360
+        - 69360
+        - 73600
+        - 71360
+        - 72360
+        - 73360
+        - 74360
+        - 75360
+        - 76360
+        - 77360
+        - 78360
+        - 79360
+        - 83600
+        - 81360
+        - 82360
+        - 83360
+        - 84360
+        - 85360
+        - 86360
+        - 87360
+        - 88360
+        - 89360
+        - 93600
+        - 91360
+        - 92360
+        - 93360
+        - 94360
+        - 95360
+        - 01000
+        - 02000
+        - 03000
+        - 04000
+        - 05000
+        - 06000
+        - 07000
+        - 08000
+        - 09000
+        - 10000
+        - 11000
+        - 12000
+        - 13000
+        - 14000
+        - 15000
+        - 16000
+        - 17000
+        - 18000
+        - 19000
+        - 20000
+        - 21000
+        - 22000
+        - 23000
+        - 24000
+        - 25000
+        - 26000
+        - 27000
+        - 28000
+        - 29000
+        - 30000
+        - 31000
+        - 32000
+        - 33000
+        - 34000
+        - 35000
+        - 36000
+        - 37000
+        - 38000
+        - 39000
+        - 40000
+        - 41000
+        - 42000
+        - 43000
+        - 44000
+        - 45000
+        - 46000
+        - 47000
+        - 48000
+        - 49000
+        - 50000
+        - 51000
+        - 52000
+        - 53000
+        - 54000
+        - 55000
+        - 56000
+        - 57000
+        - 58000
+        - 59000
+        - 60000
+        - 61000
+        - 62000
+        - 63000
+        - 64000
+        - 65000
+        - 66000
+        - 67000
+        - 68000
+        - 69000
+        - 70000
+        - 71000
+        - 72000
+        - 73000
+        - 74000
+        - 75000
+        - 76000
+        - 77000
+        - 78000
+        - 79000
+        - 80000
+        - 81000
+        - 82000
+        - 83000
+        - 84000
+        - 85000
+        - 86000
+        - 87000
+        - 88000
+        - 89000
+        - 90000
+        - 91000
+        - 92000
+        - 93000
+        - 94000
+        - 95000
       dpt_name:
         - Ain
         - Aisne
@@ -1327,7 +1518,7 @@ fr:
         - Amplier
         - Andres
         - Angres
-        - Annay 
+        - Annay
         - Annezin
         - Anvin
         - Anzin-Saint-Aubin
@@ -1357,7 +1548,7 @@ fr:
         - Avesnes
         - Avesnes-le-Comte
         - Avesnes-lès-Bapaume
-        - Avion 
+        - Avion
         - Avondance
         - Avroult
         - Ayette
@@ -1571,10 +1762,10 @@ fr:
         - Estréelles
         - Étaing
         - Étaples
-        - Éterpigny 
+        - Éterpigny
         - Étrun
         - Évin-Malmaison
-        - Famechon 
+        - Famechon
         - Fampoux
         - Farbus
         - Fauquembergues
@@ -1940,16 +2131,16 @@ fr:
         - Recques-sur-Course
         - Recques-sur-Hem
         - Regnauville
-        - Reigny 
+        - Reigny
         - Remilly-Wirquin
         - Remiencourt
         - Renty
-        - Requicourt 
+        - Requicourt
         - Rety
-        - Richebourg 
+        - Richebourg
         - Rimboval
         - Rinxent
-        - Rivière 
+        - Rivière
         - Roëllecourt
         - Roclincourt
         - Rodelinghem
@@ -1962,13 +2153,13 @@ fr:
         - Rœux
         - Rombly
         - Roussent
-        - Rouvroy 
+        - Rouvroy
         - Royon
         - Ruisseauville
         - Ruitz
         - Rumaucourt
         - Ruminghem
-        - Rumilly 
+        - Rumilly
         - Sachin
         - Sailly-au-Bois
         - Sailly-en-Ostrevent
@@ -1980,20 +2171,20 @@ fr:
         - Sains-lès-Pernes
         - Sains-lès-Ternois
         - Sains-lès-Ternois
-        - Saint-Amand 
-        - Saint-Aubin 
-        - Saint-Augustin 
+        - Saint-Amand
+        - Saint-Aubin
+        - Saint-Augustin
         - Saint-Denœux
         - Saint-Étienne-au-Mont
         - Saint-Floris
         - Saint-Folquin
-        - Saint-Georges 
+        - Saint-Georges
         - Saint-Hilaire-Cottes
         - Saint-Inglevert
-        - Saint-Josse 
+        - Saint-Josse
         - Saint-Laurent-Blangy
-        - Saint-Léger 
-        - Saint-Léonard 
+        - Saint-Léger
+        - Saint-Léonard
         - Saint-Martin-Boulogne
         - Saint-Martin-Choquel
         - Saint-Martin-d'Hardinghem
@@ -2001,15 +2192,15 @@ fr:
         - Saint-Martin-sur-Cojeul
         - Saint-Michel-sous-Bois
         - Saint-Michel-sur-Ternoise
-        - Saint-Nicolas 
-        - Saint-Omer 
+        - Saint-Nicolas
+        - Saint-Omer
         - Saint-Omer-Capelle
         - Saint-Pol-sur-Ternoise
         - Saint-Rémy-au-Bois
         - Saint-Tricat
         - Saint-Venant
-        - Sainte-Austreberthe 
-        - Sainte-Catherine 
+        - Sainte-Austreberthe
+        - Sainte-Catherine
         - Sainte-Marie-Kerque
         - Sallaumines
         - Salperwick
@@ -2026,11 +2217,11 @@ fr:
         - Saulchoy
         - Saulty
         - Savy-Berlette
-        - Selles 
+        - Selles
         - Sempy
         - Seninghem
         - Senlecques
-        - Senlis 
+        - Senlis
         - Séricourt
         - Serques
         - Servins
@@ -2047,13 +2238,13 @@ fr:
         - Sus-Saint-Léger
         - Tangry
         - Tardinghen
-        - Teneur 
+        - Teneur
         - Ternas
         - Thélus
         - Thérouanne
         - Thiembronne
         - La Thieuloye
-        - Thièvres 
+        - Thièvres
         - Tigny-Noyelle
         - Tilloy-lès-Hermaville
         - Tilloy-lès-Mofflaines
@@ -2062,7 +2253,7 @@ fr:
         - Tincques
         - Tingry
         - Tollent
-        - Torcy 
+        - Torcy
         - Tortefontaine
         - Tortequesne
         - Le Touquet-Paris-Plage
@@ -2075,9 +2266,9 @@ fr:
         - Vacquerie-le-Boucq
         - Vacqueriette-Erquières
         - Valhuon
-        - Vaudricourt 
+        - Vaudricourt
         - Vaudringhem
-        - Vaulx 
+        - Vaulx
         - Vaulx-Vraucourt
         - Vélu
         - Vendin-le-Vieil
@@ -2117,7 +2308,7 @@ fr:
         - Wardrecques
         - Warlencourt-Eaucourt
         - Warlincourt-lès-Pas
-        - Warlus 
+        - Warlus
         - Warluzel
         - Le Wast
         - Wavrans-sur-l'Aa
@@ -2154,8 +2345,8 @@ fr:
         - Aisonville-et-Bernoville
         - Aizelles
         - Aizy-Jouy
-        - Alaincourt 
-        - Allemant 
+        - Alaincourt
+        - Allemant
         - Ambleny
         - Ambrief
         - Amifontaine
@@ -2166,7 +2357,7 @@ fr:
         - Anizy-le-Grand
         - Annois
         - Any-Martin-Rieux
-        - Archon 
+        - Archon
         - Arcy-Sainte-Restitue
         - Armentières-sur-Ourcq
         - Arrancy
@@ -2180,14 +2371,14 @@ fr:
         - Aubigny-en-Laonnois
         - Audignicourt
         - Audigny
-        - Augy 
+        - Augy
         - Aulnois-sous-Laon
-        - Les Autels 
+        - Les Autels
         - Autremencourt
         - Autreppes
-        - Autreville 
+        - Autreville
         - Azy-sur-Marne
-        - Bagneux 
+        - Bagneux
         - Bancigny
         - Barenton-Bugny
         - Barenton-Cel
@@ -2200,19 +2391,19 @@ fr:
         - Beaumé
         - Beaumont-en-Beine
         - Beaurevoir
-        - Beaurieux 
+        - Beaurieux
         - Beautor
         - Beauvois-en-Vermandois
-        - Becquigny 
-        - Belleau 
+        - Becquigny
+        - Belleau
         - Bellenglise
         - Belleu
         - Bellicourt
         - Benay
         - Bergues-sur-Sambre
-        - Berlancourt 
+        - Berlancourt
         - Berlise
-        - Bernot 
+        - Bernot
         - Bernoy-le-Château
         - Berny-Rivière
         - Berrieux
@@ -2230,7 +2421,7 @@ fr:
         - Bézu-Saint-Germain
         - Bichancourt
         - Bieuxy
-        - Bièvres 
+        - Bièvres
         - Billy-sur-Aisne
         - Billy-sur-Ourcq
         - Blanzy-lès-Fismes
@@ -2238,7 +2429,7 @@ fr:
         - Blesmes
         - Bohain-en-Vermandois
         - Bois-lès-Pargny
-        - Boncourt 
+        - Boncourt
         - Bonneil
         - Bonnesvalyn
         - Bony
@@ -2251,18 +2442,18 @@ fr:
         - Bourguignon-sous-Coucy
         - Bourguignon-sous-Montbavin
         - La Bouteille
-        - Braine 
+        - Braine
         - Brancourt-en-Laonnois
         - Brancourt-le-Grand
         - Brasles
         - Bray-Saint-Christophe
-        - Braye 
+        - Braye
         - Braye-en-Laonnois
         - Braye-en-Thiérache
-        - Brécy 
+        - Brécy
         - Brenelle
         - Breny
-        - Brie 
+        - Brie
         - Brissay-Choigny
         - Brissy-Hamégicourt
         - Brumetz
@@ -2278,14 +2469,14 @@ fr:
         - Buironfosse
         - Burelles
         - Bussiares
-        - Buzancy 
+        - Buzancy
         - Caillouël-Crépigny
         - Camelin
         - La Capelle
-        - Castres 
+        - Castres
         - Le Catelet
-        - Caulaincourt 
-        - Caumont 
+        - Caulaincourt
+        - Caumont
         - Celles-lès-Condé
         - Celles-sur-Aisne
         - Cerizy
@@ -2296,14 +2487,14 @@ fr:
         - Chacrise
         - Chaillevois
         - Chalandry
-        - Chambry 
+        - Chambry
         - Chamouille
-        - Champs 
+        - Champs
         - Chaourse
         - La Chapelle-sur-Chézy
         - Charly-sur-Marne
         - Le Charmel
-        - Charmes 
+        - Charmes
         - Chartèves
         - Chassemy
         - Château-Thierry
@@ -2313,7 +2504,7 @@ fr:
         - Chaudun
         - Chauny
         - Chavignon
-        - Chavigny 
+        - Chavigny
         - Chavonne
         - Chérêt
         - Chermizy-Ailles
@@ -2326,7 +2517,7 @@ fr:
         - Chézy-en-Orxois
         - Chézy-sur-Marne
         - Chierry
-        - Chigny 
+        - Chigny
         - Chivres-en-Laonnois
         - Chivres-Val
         - Chivy-lès-Étouvelles
@@ -2336,11 +2527,11 @@ fr:
         - Ciry-Salsogne
         - Clacy-et-Thierret
         - Clairfontaine
-        - Clamecy 
+        - Clamecy
         - Clastres
         - Clermont-les-Fermes
         - Cœuvres-et-Valsery
-        - Coincy 
+        - Coincy
         - Coingt
         - Colligis-Crandelain
         - Colonfay
@@ -2354,17 +2545,17 @@ fr:
         - Contis-lès-Bucy
         - Contreuve
         - Cormicy
-        - Cormont 
-        - Corcy 
+        - Cormont
+        - Corcy
         - Coucy-la-Ville
         - Coucy-le-Château-Auffrique
         - Coucy-lès-Eppes
         - Courbes
         - Courboin
         - Courcelles-sur-Vesle
-        - Courchamps 
+        - Courchamps
         - Courmelles
-        - Courmont 
+        - Courmont
         - Couvrelles
         - Coyolles
         - Craonne
@@ -2375,7 +2566,7 @@ fr:
         - Crecy-sur-Serre
         - Crépy-en-Valois
         - Crézancy
-        - Crouy 
+        - Crouy
         - Cuirieux
         - Cuiry-Housse
         - Cuiry-lès-Chaudardes"
@@ -2393,7 +2584,7 @@ fr:
         - Cuiry-lès-Iviers
         - Cuissy-et-Geny
         - Cuisy-en-Almont
-        - Cutry 
+        - Cutry
         - Cys-la-Commune
         - Dagny-Lambercy
         - Dallon
@@ -2410,17 +2601,17 @@ fr:
         - Dommiers
         - Domptin
         - Dorengt
-        - Douchy 
+        - Douchy
         - Dravegny
         - Droizy
-        - Dury 
+        - Dury
         - Ébouleau
         - Effry
         - Englancourt
-        - Épagny 
+        - Épagny
         - Éparcy
         - Épaux-Bézu
-        - Épieds 
+        - Épieds
         - L'Épine-aux-Bois
         - Eppes
         - Erlon
@@ -2435,11 +2626,11 @@ fr:
         - Étouvelles
         - Étréaupont
         - Étreillers
-        - Étrépilly 
+        - Étrépilly
         - Étreux
         - Évergnicourt
-        - Faverolles 
-        - Fayet 
+        - Faverolles
+        - Fayet
         - La Fère
         - Fère-en-Tardenois
         - La Ferté-Chevresis
@@ -2447,25 +2638,25 @@ fr:
         - Fesmy-le-Sart
         - Festieux
         - Fieulaine
-        - Filain 
-        - La Flamengrie 
+        - Filain
+        - La Flamengrie
         - Flavigny-le-Grand-et-Beaurain
         - Flavy-le-Martel
-        - Fleury 
+        - Fleury
         - Fluquières
         - Folembray
         - Fonsomme
         - Fontaine-lès-Clercs
         - Fontaine-lès-Vervins
-        - Fontaine-Notre-Dame 
+        - Fontaine-Notre-Dame
         - Fontaine-Uterte
-        - Fontenelle 
-        - Fontenoy 
+        - Fontenelle
+        - Fontenoy
         - Foreste
         - Fossoy
         - Fourdrain
         - Francilly-Selency
-        - Franqueville 
+        - Franqueville
         - Fresnes-en-Tardenois
         - Fresnes-sous-Coucy
         - Fresnoy-le-Grand
@@ -2477,20 +2668,20 @@ fr:
         - Gauchy
         - Gercy
         - Gergny
-        - Germaine 
+        - Germaine
         - Gibercourt
         - Gizy
-        - Gland 
+        - Gland
         - Goudelancourt-lès-Berrieux
         - Goudelancourt-lès-Pierrepont
         - Goussancourt
-        - Gouy 
+        - Gouy
         - Grand-Rozoy
         - Grand-Verly
         - Grandlup-et-Fay
         - Grandrieux
         - Gricourt
-        - Grisolles 
+        - Grisolles
         - Gronard
         - Grougis
         - Grugies
@@ -2502,12 +2693,12 @@ fr:
         - Happencourt
         - Haramont
         - Harcigny
-        - Hargicourt 
+        - Hargicourt
         - Harly
         - Hartennes-et-Taux
         - Hary
         - Hautevesnes
-        - Hauteville 
+        - Hauteville
         - Haution
         - La Hérie
         - Le Hérie-la-Viéville
@@ -2527,8 +2718,8 @@ fr:
         - Jouaignes
         - Jumencourt
         - Jumigny
-        - Jussy 
-        - Juvigny 
+        - Jussy
+        - Juvigny
         - Juvincourt-et-Damary
         - Laffaux
         - Laigny
@@ -2536,7 +2727,7 @@ fr:
         - Landifay-et-Bertaignemont
         - Landouzy-la-Cour
         - Landouzy-la-Ville
-        - Landricourt 
+        - Landricourt
         - Laniscourt
         - Lappion
         - Largny-sur-Automne
@@ -2555,13 +2746,13 @@ fr:
         - Lesquielles-Saint-Germain
         - Leuilly-sous-Coucy
         - Leury
-        - Leuze 
+        - Leuze
         - Levergies
         - Lhuys
         - Licy-Clignon
         - Lierval
         - Liesse-Notre-Dame
-        - Liez 
+        - Liez
         - Limé
         - Lislet
         - Logny-lès-Aubenton
@@ -2570,7 +2761,7 @@ fr:
         - Louâtre
         - Loupeigne
         - Lucy-le-Bocage
-        - Lugny 
+        - Lugny
         - Luzoir
         - Ly-Fontaine
         - Maast-et-Violaine
@@ -2583,8 +2774,8 @@ fr:
         - La Malmaison
         - Malzy
         - Manicamp
-        - Marchais 
-        - Marcy 
+        - Marchais
+        - Marcy
         - Marcy-sous-Marle
         - Marest-Dampcourt
         - Mareuil-en-Dôle
@@ -2595,7 +2786,7 @@ fr:
         - Marizy-Sainte-Geneviève
         - Marle
         - Marly-Gomont
-        - Martigny 
+        - Martigny
         - Martigny-Courpierre
         - Mauregny-en-Haye
         - Mayot
@@ -2611,7 +2802,7 @@ fr:
         - Missy-aux-Bois
         - Missy-lès-Pierrepont
         - Missy-sur-Aisne
-        - Molain 
+        - Molain
         - Molinchart
         - Monampteuil
         - Monceau-le-Neuf-et-Faucouzy
@@ -2623,16 +2814,16 @@ fr:
         - Mons-en-Laonnois
         - Mont-d'Origny
         - Mont-Notre-Dame
-        - Mont-Saint-Jean 
-        - Mont-Saint-Martin 
+        - Mont-Saint-Jean
+        - Mont-Saint-Martin
         - Mont-Saint-Père
-        - Montaigu 
+        - Montaigu
         - Montbavin
         - Montbrehain
         - Montchâlons
-        - Montcornet 
+        - Montcornet
         - Montescourt-Lizerolles
-        - Montfaucon 
+        - Montfaucon
         - Montgobert
         - Montgru-Saint-Hilaire
         - Monthenault
@@ -2648,12 +2839,12 @@ fr:
         - Montlevon
         - Montloué
         - Montreuil-aux-Lions
-        - Morcourt 
+        - Morcourt
         - Morgny-en-Thiérache
         - Morsain
-        - Mortefontaine 
-        - Mortiers 
-        - Moulins 
+        - Mortefontaine
+        - Mortiers
+        - Moulins
         - Moussy-Verneuil
         - Moÿ-de-l'Aisne
         - Muret-et-Crouttes
@@ -2675,7 +2866,7 @@ fr:
         - Neuville-Saint-Amand
         - Neuville-sur-Ailette
         - Neuville-sur-Margival
-        - Neuvillette 
+        - Neuvillette
         - Nizy-le-Comte
         - Nogent-l'Artaud
         - Nogentel
@@ -2687,15 +2878,15 @@ fr:
         - Nouvion-le-Vineux
         - Nouvron-Vingré
         - Noyales
-        - Œuilly 
-        - Ognes 
+        - Œuilly
+        - Ognes
         - Ohis
         - Oigny-en-Valois
-        - Oisy 
+        - Oisy
         - Ollezy
         - Omissy
         - Orainville
-        - Orgeval 
+        - Orgeval
         - Origny-en-Thiérache
         - Origny-Sainte-Benoite
         - Osly-Courtil
@@ -2708,7 +2899,7 @@ fr:
         - Pancy-Courtecon
         - Papleux
         - Parcy-et-Tigny
-        - Parfondeval 
+        - Parfondeval
         - Parfondru
         - Pargnan
         - Pargny-Filain
@@ -2722,16 +2913,16 @@ fr:
         - Pernant
         - Petit-Verly
         - Pierremande
-        - Pierrepont 
+        - Pierrepont
         - Pignicourt
-        - Pinon 
+        - Pinon
         - Pithon
-        - Pleine-Selve 
+        - Pleine-Selve
         - Le Plessier-Huleu
         - Ploisy
         - Plomion
         - Ployart-et-Vaurseine
-        - Pommiers 
+        - Pommiers
         - Pont-Arcy
         - Pont-Saint-Mard
         - Pontavert
@@ -2756,9 +2947,9 @@ fr:
         - Raillimont
         - Ramicourt
         - Regny
-        - Remaucourt 
+        - Remaucourt
         - Remies
-        - Remigny 
+        - Remigny
         - Renansart
         - Renneval
         - Résigny
@@ -2768,16 +2959,16 @@ fr:
         - Ribeauville
         - Ribemont
         - Rocourt-Saint-Martin
-        - Rocquigny 
+        - Rocquigny
         - Rogécourt
         - Rogny
         - Romeny-sur-Marne
-        - Romery 
-        - Ronchères 
+        - Romery
+        - Ronchères
         - Roucy
         - Rougeries
         - Roupy
-        - Rouvroy 
+        - Rouvroy
         - Rouvroy-sur-Serre
         - Royaucourt-et-Chailvet
         - Rozet-Saint-Albin
@@ -2787,38 +2978,38 @@ fr:
         - Saconin-et-Breuil
         - Sains-Richaumont
         - Saint-Algis
-        - Saint-Aubin 
+        - Saint-Aubin
         - Saint-Bandry
         - Saint-Christophe-à-Berry
-        - Saint-Clément 
+        - Saint-Clément
         - Saint-Erme-Outre-et-Ramecourt
-        - Saint-Eugène 
+        - Saint-Eugène
         - Saint-Gengoulph
-        - Saint-Gobain 
+        - Saint-Gobain
         - Saint-Gobert
-        - Saint-Mard 
+        - Saint-Mard
         - Saint-Martin-Rivière
-        - Saint-Michel 
+        - Saint-Michel
         - Saint-Nicolas-aux-Bois
         - Saint-Paul-aux-Bois
         - Saint-Pierre-Aigle
         - Saint-Pierre-lès-Franqueville
-        - Saint-Pierremont 
+        - Saint-Pierremont
         - Saint-Quentin
         - Saint-Rémy-Blanzy
-        - Saint-Simon 
-        - Saint-Thomas 
-        - Sainte-Croix 
-        - Sainte-Geneviève 
+        - Saint-Simon
+        - Saint-Thomas
+        - Sainte-Croix
+        - Sainte-Geneviève
         - Sainte-Preuve
         - Samoussy
         - Sancy-les-Cheminots
         - Saponay
         - Saulchery
-        - Savy 
+        - Savy
         - Seboncourt
         - Selens
-        - La Selve 
+        - La Selve
         - Septmonts
         - Les Septvallons
         - Septvaux
@@ -2826,15 +3017,15 @@ fr:
         - Serain
         - Seraucourt-le-Grand
         - Serches
-        - Sergy 
+        - Sergy
         - Seringes-et-Nesles
         - Sermoise
         - Servais
-        - Serval 
+        - Serval
         - Séry-lès-Mézières
         - Silly-la-Poterie
         - Sinceny
-        - Sissonne 
+        - Sissonne
         - Sissy
         - Soissons
         - Soize
@@ -2842,9 +3033,9 @@ fr:
         - Sommeron
         - Sommette-Eaucourt
         - Sons-et-Ronchères
-        - Sorbais 
-        - Soucy 
-        - Soupir 
+        - Sorbais
+        - Soucy
+        - Soupir
         - Le Sourd
         - Surfontaine
         - Taillefontaine
@@ -2870,7 +3061,7 @@ fr:
         - Ugny-le-Gay
         - Urcel
         - Urvillers
-        - Vadencourt 
+        - Vadencourt
         - Vailly-sur-Aisne
         - La Vallée-au-Blé
         - La Vallée-Mulâtre
@@ -2899,7 +3090,7 @@ fr:
         - Vermand
         - Verneuil-sous-Coucy
         - Verneuil-sur-Serre
-        - Versigny 
+        - Versigny
         - Vervins
         - Vesles-et-Caumont
         - Veslud
@@ -2921,11 +3112,11 @@ fr:
         - Villeneuve-sur-Aisne
         - Villeneuve-sur-Fère
         - Villequier-Aumont
-        - Villeret 
+        - Villeret
         - Villers-Agron-Aiguizy
         - Villers-Cotterêts
         - Villers-Hélon
-        - Villers-le-Sec 
+        - Villers-le-Sec
         - Villers-lès-Guise
         - Villers-Saint-Christophe
         - Villers-sur-Fère
@@ -2959,8 +3150,8 @@ fr:
         - Airaines
         - Aizecourt-le-Bas
         - Aizecourt-le-Haut
-        - Albert 
-        - Allaines 
+        - Albert
+        - Allaines
         - Allenay
         - Allery
         - Allonville
@@ -2968,24 +3159,24 @@ fr:
         - Andechy
         - Argœuves
         - Argoules
-        - Arguel 
-        - Armancourt 
+        - Arguel
+        - Armancourt
         - Arquèves
         - Arrest
-        - Arry 
+        - Arry
         - Arvillers
         - Assainvillers
         - Assevillers
-        - Athies 
+        - Athies
         - Aubercourt
-        - Aubigny 
+        - Aubigny
         - Aubvillers
         - Auchonvillers
-        - Ault 
+        - Ault
         - Aumâtre
-        - Aumont 
+        - Aumont
         - Autheux
-        - Authie 
+        - Authie
         - Authieule
         - Authuille
         - Avelesges
@@ -2993,11 +3184,11 @@ fr:
         - Avesnes-Chaussoy
         - Ayencourt
         - Bacouel-sur-Selle
-        - Bailleul 
+        - Bailleul
         - Baizieux
-        - Balâtre 
+        - Balâtre
         - Barleux
-        - Barly 
+        - Barly
         - Bavelincourt
         - Bayencourt
         - Bayonvillers
@@ -3005,7 +3196,7 @@ fr:
         - Béalcourt
         - Beaucamps-le-Jeune
         - Beaucamps-le-Vieux
-        - Beauchamps 
+        - Beauchamps
         - Beaucourt-en-Santerre
         - Beaucourt-sur-l'Ancre
         - Beaucourt-sur-l'Hallue
@@ -3013,9 +3204,9 @@ fr:
         - Beaumetz
         - Beaumont-Hamel
         - Beauquesne
-        - Beauval 
+        - Beauval
         - Bécordel-Bécourt
-        - Becquigny 
+        - Becquigny
         - Béhen
         - Béhencourt
         - Bellancourt
@@ -3029,7 +3220,7 @@ fr:
         - Bernaville
         - Bernay-en-Ponthieu
         - Bernes
-        - Berneuil 
+        - Berneuil
         - Berny-en-Santerre
         - Bertangles
         - Berteaucourt-les-Dames
@@ -3043,25 +3234,25 @@ fr:
         - Beuvraignes
         - Biaches
         - Biarre
-        - Biencourt 
-        - Billancourt 
+        - Biencourt
+        - Billancourt
         - Blangy-sous-Poix
         - Blangy-Tronville
         - Boisbergues
         - Le Boisle
-        - Boismont 
-        - Bonnay 
-        - Bonneville 
+        - Boismont
+        - Bonnay
+        - Bonneville
         - Bosquel
         - Bouchavesnes-Bergen
         - Bouchoir
-        - Bouchon 
-        - Boufflers 
-        - Bougainville 
+        - Bouchon
+        - Boufflers
+        - Bougainville
         - Bouillancourt-en-Séry
         - Bouillancourt-la-Bataille
         - Bouquemaison
-        - Bourdon 
+        - Bourdon
         - Bourseville
         - Boussicourt
         - Bouttencourt
@@ -3072,14 +3263,14 @@ fr:
         - Boves
         - Braches
         - Brailly-Cornehotte
-        - Brassy 
+        - Brassy
         - Bray-lès-Mareuil
         - Bray-sur-Somme
         - Breilly
-        - Bresle 
-        - Breuil 
-        - Brévillers 
-        - Brie 
+        - Bresle
+        - Breuil
+        - Brévillers
+        - Brie
         - Briquemesnil-Floxicourt
         - Brocourt
         - Brouchy
@@ -3098,14 +3289,14 @@ fr:
         - Bussy-lès-Poix
         - Buverchy
         - Cachy
-        - Cagny 
+        - Cagny
         - Cahon
         - Caix
         - Cambron
-        - Camon 
+        - Camon
         - Camps-en-Amiénois
         - Canaples
-        - Canchy 
+        - Canchy
         - Candas
         - Cannessières
         - Cantigny
@@ -3115,7 +3306,7 @@ fr:
         - Le Cardonnois
         - Carnoy-Mametz
         - Carrépuis
-        - Cartigny 
+        - Cartigny
         - Caulières
         - Cavillon
         - Cayeux-en-Santerre
@@ -3128,12 +3319,12 @@ fr:
         - Chaussoy-Epagny
         - La Chavatte
         - Chépy
-        - Chilly 
+        - Chilly
         - Chipilly
         - Chirmont
         - Chuignes
         - Chuignolles
-        - Citerne 
+        - Citerne
         - Cizancourt
         - Clairy-Saulchoix
         - Cléry-sur-Somme
@@ -3145,8 +3336,8 @@ fr:
         - Condé-Folie
         - Contalmaison
         - Contay
-        - Conteville 
-        - Contre 
+        - Conteville
+        - Contre
         - Conty
         - Corbie
         - Cottenchy
@@ -3156,33 +3347,33 @@ fr:
         - Courcelles-au-Bois
         - Courcelles-sous-Moyencourt
         - Courcelles-sous-Thoix
-        - Courtemanche 
+        - Courtemanche
         - Cramont
         - Crécy-en-Ponthieu
         - Crémery
         - Cressy-Omencourt
-        - Creuse 
+        - Creuse
         - Croix-Moligneaux
         - Croixrault
         - Le Crotoy
         - Crouy-Saint-Pierre
         - Curchy
         - Curlu
-        - Damery 
+        - Damery
         - Dancourt-Popincourt
         - Daours
         - Dargnies
         - Davenescourt
         - Démuin
         - Dernancourt
-        - Devise 
+        - Devise
         - Doingt
         - Domart-en-Ponthieu
         - Domart-sur-la-Luce
         - Domesmont
         - Dominois
         - Domléger-Longvillers
-        - Dommartin 
+        - Dommartin
         - Dompierre-Becquincourt
         - Dompierre-sur-Authie
         - Domqueur
@@ -3190,26 +3381,26 @@ fr:
         - Doudelainville
         - Douilly
         - Doullens
-        - Doullens 
-        - Dourges 
+        - Doullens
+        - Dourges
         - Dours
         - Dreuil-lès-Amiens
-        - Drucat 
+        - Drucat
         - Driencourt
-        - Dubois 
-        - Duddington 
-        - Dury 
+        - Dubois
+        - Duddington
+        - Dury
         - Eaucourt-sur-Somme
         - Eaucourt-sur-l'Hallue
         - Éclusier-Vaux
-        - Éclusier-Vaux 
+        - Éclusier-Vaux
         - Embreville
         - Englebelmer
         - Ennemain
         - Épagne-Épagnette
         - Épehy
         - Épénancourt
-        - Épenoy 
+        - Épenoy
         - Éplessier
         - Équancourt
         - Équennes-Éramecourt
@@ -3217,14 +3408,14 @@ fr:
         - Erquinvillers
         - Esclainvillers
         - Esclavolles-Lurey
-        - Esclavolles-Lurey 
-        - Esclusham 
+        - Esclavolles-Lurey
+        - Esclusham
         - Essertaux
         - Estrées-Deniécourt
         - Estrées-lès-Crécy
-        - Estrées-lès-Crécy 
+        - Estrées-lès-Crécy
         - Estrées-Mons
-        - Étalon 
+        - Étalon
         - Éterpigny
         - Étinehem
         - Étinehem-Méricourt
@@ -3233,30 +3424,30 @@ fr:
         - Évricourt
         - Falvy
         - Famechon
-        - Faverolles 
-        - Favières 
-        - Fay 
-        - Fécamp 
+        - Faverolles
+        - Favières
+        - Fay
+        - Fécamp
         - Feffes
         - Fieffes-Montrelet
         - Fienvillers
         - Flaucourt
-        - Flers 
-        - Fleury 
-        - Fleury 
+        - Flers
+        - Fleury
+        - Fleury
         - Flixecourt
-        - Foeil 
-        - Folies 
+        - Foeil
+        - Folies
         - Fontaine-lès-Cappy
         - Fontaine-lès-Clercs
         - Fontaine-lès-Ribécourt
         - Fontaine-sur-Maye
         - Fontaine-sur-Somme
-        - Fontaine-sur-Somme 
+        - Fontaine-sur-Somme
         - Forest-l'Abbaye
         - Forest-Montiers
-        - Forest-Montiers 
-        - Forest-Montiers 
+        - Forest-Montiers
+        - Forest-Montiers
         - Fort-Mahon-Plage
         - Fortel-en-Artois
         - Fossemanant
@@ -3265,14 +3456,14 @@ fr:
         - Fouencamps
         - Fourcigny
         - Fourdrinoy
-        - Fourdrinoy 
+        - Fourdrinoy
         - Fournival
         - Fransu
         - Fransures
-        - Fransu 
-        - Fransures 
+        - Fransu
+        - Fransures
         - Franvillers
-        - Franvillers 
+        - Franvillers
         - Fréchencourt
         - Frémontiers
         - Fresnoy-Andainville
@@ -3285,7 +3476,7 @@ fr:
         - Fresnières
         - Frettecuisse
         - Friaucourt
-        - Frise 
+        - Frise
         - Frohen-sur-Authie
         - Froissy
         - Froyelles
@@ -3294,7 +3485,7 @@ fr:
         - Gézaincourt
         - Gentelles
         - Germainvilliers
-        - Germainvilliers 
+        - Germainvilliers
         - Germeval
         - Ginchy
         - Gorenflos
@@ -3320,8 +3511,8 @@ fr:
         - Hallivillers
         - Halloy-lès-Pernois
         - Hallu
-        - Ham 
-        - Le Hamel 
+        - Ham
+        - Le Hamel
         - Hamelet
         - Hancourt
         - Hangard
@@ -3333,7 +3524,7 @@ fr:
         - Hattencourt
         - Hautvillers-Ouville
         - Havernas
-        - Hébécourt 
+        - Hébécourt
         - Hédauville
         - Heilly
         - Hem-Hardinval
@@ -3342,12 +3533,12 @@ fr:
         - Herbécourt
         - Hérissart
         - Herleville
-        - Herly 
+        - Herly
         - Hervilly
         - Hesbécourt
         - Hescamps
         - Heucourt-Croquoison
-        - Heudicourt 
+        - Heudicourt
         - Heuzecourt
         - Hiermont
         - Hombleux
@@ -3361,10 +3552,10 @@ fr:
         - Irles
         - Jumel
         - Laboissière-en-Santerre
-        - Lachapelle 
+        - Lachapelle
         - Lafresguimont-Saint-Martin
         - Lahoussoye
-        - Laleu 
+        - Laleu
         - Lamaronde
         - Lamotte-Brebière
         - Lamotte-Buleux
@@ -3373,7 +3564,7 @@ fr:
         - Lanches-Saint-Hilaire
         - Languevoisin-Quiquery
         - Laucourt
-        - Laviéville 
+        - Laviéville
         - Lawarde-Mauger-l'Hortoy
         - Léalvillers
         - Lesbœufs
@@ -3382,13 +3573,13 @@ fr:
         - Liéramont
         - Liercourt
         - Ligescourt
-        - Lignières 
+        - Lignières
         - Lignières-Châtelain
         - Lignières-en-Vimeu
         - Lihons
-        - Limeux 
+        - Limeux
         - Liomer
-        - Long 
+        - Long
         - Longavesnes
         - Longpré-les-Corps-Saints
         - Longueau
@@ -3398,7 +3589,7 @@ fr:
         - Louvrechy
         - Lucheux
         - Machiel
-        - Machy 
+        - Machy
         - Mailly-Maillet
         - Mailly-Raineval
         - Maisnières
@@ -3411,19 +3602,19 @@ fr:
         - Marchélepot-Misery
         - Marestmontiers
         - Mareuil-Caubert
-        - Maricourt 
+        - Maricourt
         - Marieux
         - Marlers
         - Marquaix
         - Marquivillers
         - Martainneville
         - Matigny
-        - Maucourt 
-        - Maurepas 
+        - Maucourt
+        - Maurepas
         - Le Mazis
         - Méaulte
         - Méharicourt
-        - Meigneux 
+        - Meigneux
         - Le Meillard
         - Méneslies
         - Méréaucourt
@@ -3454,12 +3645,12 @@ fr:
         - Monsures
         - Montagne-Fayel
         - Montauban-de-Picardie
-        - Montdidier 
+        - Montdidier
         - Montigny-les-Jongleurs
         - Montigny-sur-l'Hallue
         - Montonvillers
         - Morchain
-        - Morcourt 
+        - Morcourt
         - Moreuil
         - Morisel
         - Morlancourt
@@ -3468,7 +3659,7 @@ fr:
         - Mouflières
         - Moyencourt
         - Moyencourt-lès-Poix
-        - Moyenneville 
+        - Moyenneville
         - Muille-Villette
         - Nampont
         - Namps-Maisnil
@@ -3484,7 +3675,7 @@ fr:
         - Neuville-Coppegueule
         - La Neuville-lès-Bray
         - La Neuville-Sire-Bernard
-        - Neuvillette 
+        - Neuvillette
         - Nibas
         - Nouvion
         - Noyelles-en-Chaussée
@@ -3494,23 +3685,23 @@ fr:
         - Occoches
         - Ochancourt
         - Offignies
-        - Offoy 
+        - Offoy
         - Oisemont
         - Oissy
-        - Oneux 
+        - Oneux
         - Oresmaux
         - Oust-Marest
         - Outrebois
         - Ovillers-la-Boisselle
         - Pargny
         - Parvillers-le-Quesnoy
-        - Pendé 
+        - Pendé
         - Pernois
-        - Péronne 
+        - Péronne
         - Picquigny
         - Piennes-Onvillers
         - Pierregot
-        - Pissy 
+        - Pissy
         - Plachy-Buyon
         - Le Plessier-Rozainvillers
         - Pœuilly
@@ -3544,32 +3735,32 @@ fr:
         - Rainneville
         - Ramburelles
         - Rambures
-        - Rancourt 
+        - Rancourt
         - Regnière-Écluse
         - Remaisnil
         - Remaugies
         - Remiencourt
         - Rethonvillers
         - Revelles
-        - Ribeaucourt 
+        - Ribeaucourt
         - Ribemont-sur-Ancre
         - Riencourt
         - Rivery
         - Rogy
         - Roiglise
         - Roisel
-        - Rollot 
+        - Rollot
         - Ronssoy
         - Rosières-en-Santerre
         - Rouvrel
         - Rouvroy-en-Santerre
         - Rouy-le-Grand
         - Rouy-le-Petit
-        - Roye 
+        - Roye
         - Rubempré
         - Rubescourt
-        - Rue 
-        - Rumigny 
+        - Rue
+        - Rumigny
         - Saigneville
         - Sailly-Flibeaucourt
         - Sailly-Laurette
@@ -3583,26 +3774,26 @@ fr:
         - Saint-Christ-Briost
         - Saint-Fuscien
         - Saint-Germain-sur-Bresle
-        - Saint-Gratien 
+        - Saint-Gratien
         - Saint-Léger-lès-Authie
         - Saint-Léger-lès-Domart
         - Saint-Léger-sur-Bresle
-        - Saint-Mard 
+        - Saint-Mard
         - Saint-Maulvis
         - Saint-Maxent
-        - Saint-Ouen 
+        - Saint-Ouen
         - Saint-Quentin-en-Tourmont
         - Saint-Quentin-la-Motte-Croix-au-Bailly
         - Saint-Riquier
         - Saint-Sauflieu
-        - Saint-Sauveur 
+        - Saint-Sauveur
         - Saint-Vaast-en-Chaussée
         - Saint-Valery-sur-Somme
         - Sainte-Segrée
         - Saisseval
         - Saleux
         - Salouël
-        - Sancourt 
+        - Sancourt
         - Saulchoy-sous-Poix
         - Sauvillers-Mongival
         - Saveuse
@@ -3610,14 +3801,14 @@ fr:
         - Senlis-le-Sec
         - Sentelie
         - Seux
-        - Sorel 
+        - Sorel
         - Sorel-en-Vimeu
-        - Soues 
+        - Soues
         - Sourdon
         - Soyécourt
         - Surcamps
-        - Suzanne 
-        - Tailly 
+        - Suzanne
+        - Tailly
         - Talmas
         - Templeux-la-Fosse
         - Templeux-le-Guérard
@@ -3628,9 +3819,9 @@ fr:
         - Thiepval
         - Thieulloy-l'Abbaye
         - Thieulloy-la-Ville
-        - Thièvres 
+        - Thièvres
         - Thoix
-        - Thory 
+        - Thory
         - Tilloloy
         - Tilloy-Floriville
         - Tincourt-Boucly
@@ -3640,23 +3831,23 @@ fr:
         - Toutencourt
         - Le Translay
         - Treux
-        - Trois-Rivières 
-        - Tully 
+        - Trois-Rivières
+        - Tully
         - Ugny-l'Équipée
-        - Vadencourt 
+        - Vadencourt
         - Vaire-sous-Corbie
         - Valines
-        - Varennes 
+        - Varennes
         - Vauchelles-lès-Authie
         - Vauchelles-lès-Domart
         - Vauchelles-les-Quesnoy
-        - Vaudricourt 
-        - Vauvillers 
+        - Vaudricourt
+        - Vauvillers
         - Vaux-en-Amiénois
         - Vaux-Marquenneville
         - Vaux-sur-Somme
         - Vecquemont
-        - Velennes 
+        - Velennes
         - Vercourt
         - Vergies
         - Vermandovillers
@@ -3667,9 +3858,9 @@ fr:
         - Ville-le-Marclet
         - Ville-sur-Ancre
         - Villecourt
-        - Villeroy 
+        - Villeroy
         - Villers-aux-Érables
-        - Villers-Bocage 
+        - Villers-Bocage
         - Villers-Bretonneux
         - Villers-Campsart
         - Villers-Carbonnel
@@ -3687,13 +3878,13 @@ fr:
         - Warsy
         - Wiry-au-Mont
         - Wiencourt-l'Équipée
-        - Y 
+        - Y
         - Yaucourt-Bussus
         - Yonval
         - Yzengremer
         - Yzeux
-            - Metz
-          - Aboncourt 
+          - Metz
+          - Aboncourt
           - Aboncourt-sur-Seille
           - Abreschviller
           - Achain
@@ -3711,47 +3902,47 @@ fr:
           - Amanvillers
           - Amelécourt
           - Amnéville
-          - Ancerville 
+          - Ancerville
           - Ancy-Dornot
           - Angevillers
-          - Antilly 
+          - Antilly
           - Anzeling
           - Apach
           - Argancy
           - Arraincourt
           - Arriance
-          - Arry 
+          - Arry
           - Ars-Laquenexy
           - Ars-sur-Moselle
           - Arzviller
-          - Aspach 
+          - Aspach
           - Assenoncourt
           - Attilloncourt
-          - Aube 
+          - Aube
           - Audun-le-Tiche
           - Augny
           - Aulnois-sur-Seille
           - Aumetz
-          - Avricourt 
+          - Avricourt
           - Ay-sur-Moselle
           - Azoudange
           - Bacourt
           - Baerenthal
           - Bambiderstroff
           - Le Ban-Saint-Martin
-          - Bannay 
+          - Bannay
           - Barchain
           - Baronville
           - Barst
           - Basse-Ham
           - Basse-Rentgen
           - Bassing
-          - Baudrecourt 
+          - Baudrecourt
           - Bazoncourt
           - Bébing
           - Béchy
           - Behren-lès-Forbach
-          - Bellange 
+          - Bellange
           - Belles-Forêts
           - Bénestroff
           - Béning-lès-Saint-Avold
@@ -3760,10 +3951,10 @@ fr:
           - Berling
           - Bermering
           - Berthelming
-          - Bertrange 
+          - Bertrange
           - Berviller-en-Moselle
           - Bettange
-          - Bettborn 
+          - Bettborn
           - Bettelainville
           - Betting
           - Bettviller
@@ -3789,15 +3980,15 @@ fr:
           - Boulay-Moselle
           - Bourdonnay
           - Bourgaltroff
-          - Bourscheid 
+          - Bourscheid
           - Bousbach
-          - Bousse 
+          - Bousse
           - Bousseviller
           - Boust
           - Boustroff
           - Bouzonville
           - Bréhain
-          - Breidenbach 
+          - Breidenbach
           - Breistroff-la-Grande
           - Brettnach
           - Bronvaux
@@ -3805,13 +3996,13 @@ fr:
           - Brouderdorff
           - Brouviller
           - Brulange
-          - Buchy 
+          - Buchy
           - Buding
           - Budling
           - Buhl-Lorraine
           - Burlioncourt
           - Burtoncourt
-          - Cappel 
+          - Cappel
           - Carling
           - Cattenom
           - Chailly-lès-Ennery
@@ -3825,8 +4016,8 @@ fr:
           - Château-Voué
           - Châtel-Saint-Germain
           - Chémery-les-Deux
-          - Cheminot 
-          - Chenois 
+          - Cheminot
+          - Chenois
           - Chérisey
           - Chesny
           - Chicourt
@@ -3835,7 +4026,7 @@ fr:
           - Cocheren
           - Coin-lès-Cuvry
           - Coin-sur-Seille
-          - Coincy 
+          - Coincy
           - Colligny-Maizery
           - Colmen
           - Condé-Northen
@@ -3856,7 +4047,7 @@ fr:
           - Dalstein
           - Danne-et-Quatre-Vents
           - Dannelbourg
-          - Delme 
+          - Delme
           - Denting
           - Desseling
           - Destry
@@ -3868,16 +4059,16 @@ fr:
           - Distroff
           - Dolving
           - Domnom-lès-Dieuze
-          - Donjeux 
+          - Donjeux
           - Donnelay
           - Ébersviller
           - Éblange
           - Éguelshardt
           - Eincheville
-          - Elvange 
+          - Elvange
           - Elzange
           - Enchenberg
-          - Ennery 
+          - Ennery
           - Entrange
           - Epping
           - Erching
@@ -3895,20 +4086,20 @@ fr:
           - Farschviller
           - Faulquemont
           - Fénétrange
-          - Fèves 
+          - Fèves
           - Féy
           - Filstroff
           - Fixem
           - Flastroff
           - Fleisheim
           - Flétrange
-          - Fleury 
+          - Fleury
           - Flévy
           - Flocourt
           - Florange
           - Folkling
           - Folschviller
-          - Fonteny 
+          - Fonteny
           - Fontoy
           - Forbach
           - Fossieux
@@ -3924,16 +4115,16 @@ fr:
           - Fresnes-en-Saulnois
           - Freybouse
           - Freyming-Merlebach
-          - Fribourg 
+          - Fribourg
           - Gandrange
           - Garrebourg
           - Gavisse
           - Gelucourt
           - Gerbécourt
           - Givrycourt
-          - Glatigny 
+          - Glatigny
           - Goetzenbruck
-          - Goin 
+          - Goin
           - Gomelange
           - Gondrexange
           - Gorze
@@ -3962,12 +4153,12 @@ fr:
           - Guinzeling
           - Guntzviller
           - Haboudange
-          - Hagen 
+          - Hagen
           - Hagondange
           - Hallering
           - Halstroff
           - Ham-sous-Varsberg
-          - Hambach 
+          - Hambach
           - Hampont
           - Han-sur-Nied
           - Hangviller
@@ -3987,7 +4178,7 @@ fr:
           - Haute-Vigneulles
           - Havange
           - Hayange
-          - Hayes 
+          - Hayes
           - Hazembourg
           - Heining-lès-Bouzonville
           - Hellering-lès-Fénétrange
@@ -4001,7 +4192,7 @@ fr:
           - Hermelange
           - Herny
           - Hertzing
-          - Hesse 
+          - Hesse
           - Hestroff
           - Hettange-Grande
           - Hilbesheim
@@ -4015,8 +4206,8 @@ fr:
           - Hommarting
           - Hommert
           - Honskirch
-          - L'Hôpital 
-          - Hoste 
+          - L'Hôpital
+          - Hoste
           - Hottviller
           - Hultehouse
           - Hundling
@@ -4031,8 +4222,8 @@ fr:
           - ling
           - Jallaucourt
           - Jouy-aux-Arches
-          - Jury 
-          - Jussy 
+          - Jury
+          - Jussy
           - Juvelize
           - Juville
           - Kalhausen
@@ -4046,14 +4237,14 @@ fr:
           - Kirsch-lès-Sierck
           - Kirschnaumen
           - Kirviller
-          - Klang 
+          - Klang
           - Knutange
           - Kœnigsmacker
           - Kuntzig
           - Lachambre
           - Lafrimbolle
-          - Lagarde 
-          - Lambach 
+          - Lagarde
+          - Lambach
           - Landange
           - Landroff
           - Laneuveville-en-Saulnois
@@ -4066,12 +4257,12 @@ fr:
           - Laumesfeld
           - Launstroff
           - Lelling
-          - Lemberg 
+          - Lemberg
           - Lemoncourt
           - Lemud
           - Lengelsheim
           - Léning
-          - Lesse 
+          - Lesse
           - Lessy
           - Ley
           - Leyviller
@@ -4096,9 +4287,9 @@ fr:
           - Loudrefing
           - Loupershouse
           - Loutzviller
-          - Louvigny 
+          - Louvigny
           - Lubécourt
-          - Lucy 
+          - Lucy
           - Luppy
           - Luttange
           - Lutzelbourg
@@ -4118,9 +4309,9 @@ fr:
           - Marange-Zondrange
           - Marieulles
           - Marimont-lès-Bénestroff
-          - Marly 
-          - Marsal 
-          - Marsilly 
+          - Marly
+          - Marsal
+          - Marsilly
           - Marthille
           - La Maxe
           - Maxstadt
@@ -4129,7 +4320,7 @@ fr:
           - Meisenthal
           - Menskirch
           - Merschweiller
-          - Merten 
+          - Merten
           - Métairies-Saint-Quirin
           - Metting
           - Metzeresche
@@ -4146,22 +4337,22 @@ fr:
           - Mondorff
           - Monneren
           - Montbronn
-          - Montdidier 
+          - Montdidier
           - Montenach
           - Montigny-lès-Metz
           - Montois-la-Montagne
-          - Morhange 
-          - Morsbach 
+          - Morhange
+          - Morsbach
           - Morville-lès-Vic
           - Morville-sur-Nied
           - Moulins-lès-Metz
-          - Moussey 
+          - Moussey
           - Mouterhouse
           - Moyenvic
           - Moyeuvre-Grande
           - Moyeuvre-Petite
           - Mulcey
-          - Munster 
+          - Munster
           - Narbéfontaine
           - Nébing
           - Nelling
@@ -4192,14 +4383,14 @@ fr:
           - Ommeray
           - Oriocourt
           - Ormersviller
-          - Orny 
-          - Oron 
+          - Orny
+          - Oron
           - Ottange
           - Otton
           - Ottonville
           - Oudrenne
           - Pagny-lès-Goin
-          - Pange 
+          - Pange
           - Peltre
           - Petit-Réderching
           - Petit-Tenquin
@@ -4215,21 +4406,21 @@ fr:
           - Plesnois
           - Pommérieux
           - Pontoy
-          - Pontpierre 
+          - Pontpierre
           - Porcelette
           - Postroff
-          - Pouilly 
+          - Pouilly
           - Pournoy-la-Chétive
           - Pournoy-la-Grasse
           - Prévocourt
           - Puttelange-aux-Lacs
           - Puttelange-lès-Thionville
           - Puttigny
-          - Puzieux 
+          - Puzieux
           - Racrange
           - Rahling
           - Ranguevaux
-          - Raville 
+          - Raville
           - Réchicourt-le-Château
           - Rédange
           - Réding
@@ -4238,16 +4429,16 @@ fr:
           - Rémeling
           - Rémering
           - Rémering-lès-Puttelange
-          - Rémilly 
+          - Rémilly
           - Réning
           - Retonfey
           - Rettel
           - Reyersviller
           - Rezonville-Vionville
-          - Rhodes 
-          - Riche 
+          - Rhodes
+          - Riche
           - Richeling
-          - Richemont 
+          - Richemont
           - Richeval
           - Rimling
           - Rochonvillers
@@ -4257,7 +4448,7 @@ fr:
           - Rolbing
           - Rombas
           - Romelfing
-          - Roncourt 
+          - Roncourt
           - Roppeviller
           - Rorbach-lès-Dieuze
           - Rosbruck
@@ -4273,19 +4464,19 @@ fr:
           - Saint-Avold
           - Saint-Epvre
           - Saint-François-Lacroix
-          - Saint-Georges 
-          - Saint-Hubert 
+          - Saint-Georges
+          - Saint-Hubert
           - Saint-Jean-de-Bassel
           - Saint-Jean-Kourtzerode
           - Saint-Jean-Rohrbach
           - Saint-Julien-lès-Metz
           - Saint-Jure
-          - Saint-Louis 
+          - Saint-Louis
           - Saint-Louis-lès-Bitche
-          - Saint-Médard 
+          - Saint-Médard
           - Saint-Privat-la-Montagne
           - Saint-Quirin
-          - Sainte-Barbe 
+          - Sainte-Barbe
           - Sainte-Marie-aux-Chênes
           - Sainte-Ruffine
           - Salonnes
@@ -4300,7 +4491,7 @@ fr:
           - Schalbach
           - Schmittviller
           - Schneckenbusch
-          - Schœneck 
+          - Schœneck
           - Schorbach
           - Schwerdorff
           - Schweyen
@@ -4317,14 +4508,14 @@ fr:
           - Silly-en-Saulnois
           - Silly-sur-Nied
           - Solgne
-          - Sorbey 
+          - Sorbey
           - Sotzeling
           - Soucht
           - Spicheren
           - Stiring-Wendel
           - Stuckange
           - Sturzelbronn
-          - Suisse 
+          - Suisse
           - Talange
           - Tarquimpol
           - Tenteling
@@ -4353,17 +4544,17 @@ fr:
           - Le Val-de-Guéblange
           - Vallerange
           - Valmestroff
-          - Valmont 
+          - Valmont
           - Valmunster
           - Vannecourt
-          - Vantoux 
+          - Vantoux
           - Vany
           - Varize-Vaudoncourt
           - Varsberg
           - Vasperviller
           - Vatimont
           - Vaudreching
-          - Vaux 
+          - Vaux
           - Vaxy
           - Veckersviller
           - Veckring
@@ -4375,7 +4566,7 @@ fr:
           - Vibersviller
           - Vic-sur-Seille
           - Vieux-Lixheim
-          - Vigny 
+          - Vigny
           - Vigy
           - Viller
           - Villers-Stoncourt
@@ -4386,14 +4577,14 @@ fr:
           - Vitry-sur-Orne
           - Vittersbourg
           - Vittoncourt
-          - Viviers 
+          - Viviers
           - Vœlfling-lès-Bouzonville
           - Voimhaut
           - Volmerange-lès-Boulay
           - Volmerange-les-Mines
           - Volmunster
           - Volstroff
-          - Voyer 
+          - Voyer
           - Vry
           - Vulmont
           - Waldhouse
@@ -4425,7 +4616,7 @@ fr:
           - Alvimare
           - Ambrumesnil
           - Amfreville-la-Mi-Voie
-          - Amfreville-les-Champs 
+          - Amfreville-les-Champs
           - Anceaumeville
           - Ancourt
           - Ancourteville-sur-Héricourt
@@ -4451,11 +4642,11 @@ fr:
           - Aubermesnil-Beaumais
           - Auberville-la-Manuel
           - Auberville-la-Renault
-          - Aumale 
+          - Aumale
           - Auppegard
           - Authieux-Ratiéville
           - Les Authieux-sur-le-Port-Saint-Ouen
-          - Autigny 
+          - Autigny
           - Auvilliers
           - Auzebosc
           - Auzouville-l'Esneval
@@ -4475,7 +4666,7 @@ fr:
           - Bazinval
           - Beaubec-la-Rosière
           - Beaumont-le-Hareng
-          - Beaurepaire 
+          - Beaurepaire
           - Beaussault
           - Beautot
           - Beauval-en-Caux
@@ -4483,13 +4674,13 @@ fr:
           - Bec-de-Mortagne
           - Belbeuf
           - Bellencombre
-          - Bellengreville 
+          - Bellengreville
           - Belleville-en-Caux
-          - La Bellière 
+          - La Bellière
           - Belmesnil
           - Bénarville
           - Bénesville
-          - Bénouville 
+          - Bénouville
           - Bernières
           - Bertheauville
           - Bertreville
@@ -4519,9 +4710,9 @@ fr:
           - Le Bois-Robert
           - Boissay
           - Bolbec
-          - Bolleville 
-          - Bonsecours 
-          - Boos 
+          - Bolleville
+          - Bonsecours
+          - Boos
           - Bordeaux-Saint-Clair
           - Bornambusc
           - Bosc-Bérenger
@@ -4538,7 +4729,7 @@ fr:
           - Bourdainville
           - Le Bourg-Dun
           - Bourville
-          - Bouville 
+          - Bouville
           - Brachy
           - Bracquetuit
           - Bradiancourt
@@ -4547,8 +4738,8 @@ fr:
           - Brémontier-Merval
           - Bretteville-du-Grand-Caux
           - Bretteville-Saint-Laurent
-          - Buchy 
-          - Bully 
+          - Buchy
+          - Bully
           - Bures-en-Bray
           - Butot
           - Butot-Vénesville
@@ -4574,20 +4765,20 @@ fr:
           - La Chapelle-du-Bourgay
           - La Chapelle-Saint-Ouen
           - La Chapelle-sur-Dun
-          - La Chaussée 
+          - La Chaussée
           - Cideville
           - Clais
           - Clasville
           - Claville-Motteville
-          - Cléon 
+          - Cléon
           - Clères
           - Cleuville
-          - Cléville 
+          - Cléville
           - Cliponville
           - Colleville
           - Colmesnil-Manneville
           - Compainville
-          - Conteville 
+          - Conteville
           - Contremoulins
           - Cottévrard
           - Crasville-la-Mallet
@@ -4606,18 +4797,18 @@ fr:
           - Croixdalle
           - Cropus
           - Crosville-sur-Scie
-          - Cuverville 
+          - Cuverville
           - Cuverville-sur-Yères
           - Cuy-Saint-Fiacre
           - Dampierre-en-Bray
           - Dampierre-Saint-Nicolas
-          - Dancourt 
+          - Dancourt
           - Darnétal
           - Daubeuf-Serville
           - Dénestanville
           - Déville-lès-Rouen
-          - Dieppe 
-          - Doudeauville 
+          - Dieppe
+          - Doudeauville
           - Doudeville
           - Douvrend
           - Drosay
@@ -4633,7 +4824,7 @@ fr:
           - Elbeuf-sur-Andelle
           - Életot
           - Ellecourt
-          - Émanville 
+          - Émanville
           - Envermeu
           - Envronville
           - Épinay-sur-Duclair
@@ -4652,14 +4843,14 @@ fr:
           - Étalondes
           - Étoutteville
           - Étretat
-          - Eu 
+          - Eu
           - Fallencourt
           - Fécamp
           - Ferrières-en-Bray
           - La Ferté-Saint-Samson
           - Fesques
-          - La Feuillie 
-          - Flamanville 
+          - La Feuillie
+          - Flamanville
           - Flamets-Frétils
           - Flocques
           - Fongueusemare
@@ -4669,14 +4860,14 @@ fr:
           - Fontaine-le-Dun
           - Fontaine-sous-Préaux
           - La Fontelaye
-          - Fontenay 
+          - Fontenay
           - Forges-les-Eaux
           - Foucarmont
           - Foucart
           - Franqueville-Saint-Pierre
           - Fréauville
           - La Frénaye
-          - Freneuse 
+          - Freneuse
           - Fresles
           - Fresnay-le-Long
           - Fresne-le-Plan
@@ -4685,7 +4876,7 @@ fr:
           - Freulleville
           - Frichemesnil
           - Froberville
-          - Fry 
+          - Fry
           - Fultot
           - La Gaillarde
           - Gaillefontaine
@@ -4695,24 +4886,24 @@ fr:
           - Gerponville
           - Gerville
           - Goderville
-          - Gommerville 
+          - Gommerville
           - Gonfreville-Caillot
           - Gonfreville-l'Orcher
           - Gonnetot
           - Gonneville-la-Mallet
           - Gonneville-sur-Scie
           - Gonzeville
-          - Goupillières 
+          - Goupillières
           - Gournay-en-Bray
-          - Gouy 
+          - Gouy
           - Graimbouville
           - Grainville-la-Teinturière
           - Grainville-sur-Ry
           - Grainville-Ymauville
-          - Grand-Camp 
+          - Grand-Camp
           - Grand-Couronne
           - Le Grand-Quevilly
-          - Grandcourt 
+          - Grandcourt
           - Les Grandes-Ventes
           - Graval
           - Grèges
@@ -4723,7 +4914,7 @@ fr:
           - Gruchet-Saint-Siméon
           - Grugny
           - Grumesnil
-          - Guerville 
+          - Guerville
           - Gueures
           - Gueutteville
           - Gueutteville-les-Grès
@@ -4732,7 +4923,7 @@ fr:
           - Harcanville
           - Harfleur
           - Hattenville
-          - Haucourt 
+          - Haucourt
           - Haudricourt
           - Haussez
           - Hautot-l'Auvray
@@ -4742,7 +4933,7 @@ fr:
           - Hautot-sur-Seine
           - Les Hauts-de-Caux
           - Le Havre
-          - La Haye 
+          - La Haye
           - Héberville
           - Hénouville
           - Héricourt-en-Caux
@@ -4751,7 +4942,7 @@ fr:
           - Le Héron
           - Héronchelles
           - Heugleville-sur-Scie
-          - Heuqueville 
+          - Heuqueville
           - Heurteauville
           - Hodeng-au-Bosc
           - Hodeng-Hodenger
@@ -4768,7 +4959,7 @@ fr:
           - Ingouville
           - Isneauville
           - Jumièges
-          - Lamberville 
+          - Lamberville
           - Lammerville
           - Landes-Vieilles-et-Neuves
           - Lanquetot
@@ -4779,7 +4970,7 @@ fr:
           - Lindebeuf
           - Lintot
           - Lintot-les-Bois
-          - Les Loges 
+          - Les Loges
           - La Londe
           - Londinières
           - Longmesnil
@@ -4788,7 +4979,7 @@ fr:
           - Longuerue
           - Longueville-sur-Scie
           - Louvetot
-          - Lucy 
+          - Lucy
           - Luneray
           - Malaunay
           - Malleville-les-Grès
@@ -4801,9 +4992,9 @@ fr:
           - Maromme
           - Marques
           - Martainville-Épreville
-          - Martigny 
+          - Martigny
           - Martin-Église
-          - Massy 
+          - Massy
           - Mathonville
           - Maucomble
           - Maulévrier-Sainte-Gertrude
@@ -4834,15 +5025,15 @@ fr:
           - Mont-Cauvaire
           - Mont-Saint-Aignan
           - Montérolier
-          - Montigny 
+          - Montigny
           - Montivilliers
-          - Montmain 
+          - Montmain
           - Montreuil-en-Caux
           - Montroty
           - Montville
           - Morgny-la-Pommeraye
           - Morienne
-          - Mortemer 
+          - Mortemer
           - Morville-sur-Andelle
           - Motteville
           - Moulineaux
@@ -4857,7 +5048,7 @@ fr:
           - Néville
           - Nointot
           - Nolléval
-          - Normanville 
+          - Normanville
           - Norville
           - Notre-Dame-d'Aliermont
           - Notre-Dame-de-Bliquetuit
@@ -4871,7 +5062,7 @@ fr:
           - Oherville
           - Oissel
           - Omonville
-          - Orival 
+          - Orival
           - Osmoy-Saint-Valery
           - Ouainville
           - Oudalle
@@ -4884,8 +5075,8 @@ fr:
           - Petit-Caux
           - Petit-Couronne
           - Le Petit-Quevilly
-          - Petiville 
-          - Pierrecourt 
+          - Petiville
+          - Pierrecourt
           - Pierrefiques
           - Pierreval
           - Pissy-Pôville
@@ -4895,7 +5086,7 @@ fr:
           - Ponts-et-Marais
           - Port-Jérôme-sur-Seine
           - La Poterie-Cap-d'Antifer
-          - Préaux 
+          - Préaux
           - Prétot-Vicquemare
           - Preuseville
           - Puisenval
@@ -4912,44 +5103,44 @@ fr:
           - Rétonval
           - Reuville
           - Ricarville-du-Val
-          - Richemont 
-          - Rieux 
+          - Richemont
+          - Rieux
           - Rives-en-Seine
           - Riville
           - Robertot
           - Rocquefort
-          - Rocquemont 
+          - Rocquemont
           - Rogerville
           - Rolleville
           - Roncherolles-en-Bray
           - Roncherolles-sur-le-Vivier
           - Ronchois
-          - Rosay 
+          - Rosay
           - Roumare
           - Routes
-          - Rouville 
+          - Rouville
           - Rouvray-Catillon
           - Rouxmesnil-Bouteilles
           - Royville
-          - La Rue-Saint-Pierre 
-          - Ry 
+          - La Rue-Saint-Pierre
+          - Ry
           - Saâne-Saint-Just
           - Sahurs
           - Sainneville
           - Saint-Aignan-sur-Ry
           - Saint-André-sur-Cailly
           - Saint-Antoine-la-Forêt
-          - Saint-Arnoult 
+          - Saint-Arnoult
           - Saint-Aubin-Celloville
           - Saint-Aubin-de-Crétot
           - Saint-Aubin-Épinay
           - Saint-Aubin-le-Cauf
           - Saint-Aubin-lès-Elbeuf
           - Saint-Aubin-Routot
-          - Saint-Aubin-sur-Mer 
+          - Saint-Aubin-sur-Mer
           - Saint-Aubin-sur-Scie
           - Saint-Clair-sur-les-Monts
-          - Saint-Crespin 
+          - Saint-Crespin
           - Saint-Denis-d'Aclon
           - Saint-Denis-le-Thiboult
           - Saint-Denis-sur-Scie
@@ -4963,7 +5154,7 @@ fr:
           - Saint-Gilles-de-Crétot
           - Saint-Gilles-de-la-Neuville
           - Saint-Hellier
-          - Saint-Honoré 
+          - Saint-Honoré
           - Saint-Jacques-d'Aliermont
           - Saint-Jacques-sur-Darnétal
           - Saint-Jean-de-Folleville
@@ -4972,9 +5163,9 @@ fr:
           - Saint-Jouin-Bruneval
           - Saint-Laurent-de-Brèvedent
           - Saint-Laurent-en-Caux
-          - Saint-Léger-aux-Bois 
-          - Saint-Léonard 
-          - Saint-Lucien 
+          - Saint-Léger-aux-Bois
+          - Saint-Léonard
+          - Saint-Lucien
           - Saint-Maclou-de-Folleville
           - Saint-Maclou-la-Brière
           - Saint-Mards
@@ -5004,17 +5195,17 @@ fr:
           - Saint-Pierre-des-Jonquières
           - Saint-Pierre-en-Port
           - Saint-Pierre-en-Val
-          - Saint-Pierre-le-Vieux 
+          - Saint-Pierre-le-Vieux
           - Saint-Pierre-le-Viger
           - Saint-Pierre-lès-Elbeuf
           - Saint-Rémy-Boscrocourt
           - Saint-Riquier-en-Rivière
           - Saint-Riquier-ès-Plains
           - Saint-Romain-de-Colbosc
-          - Saint-Saëns 
+          - Saint-Saëns
           - Saint-Saire
           - Saint-Sauveur-d'Émalleville
-          - Saint-Sylvain 
+          - Saint-Sylvain
           - Saint-Vaast-d'Équiqueville
           - Saint-Vaast-Dieppedalle
           - Saint-Vaast-du-Val
@@ -5024,12 +5215,12 @@ fr:
           - Saint-Vincent-Cramesnil
           - Sainte-Adresse
           - Sainte-Agathe-d'Aliermont
-          - Sainte-Austreberthe 
+          - Sainte-Austreberthe
           - Sainte-Beuve-en-Rivière
-          - Sainte-Colombe 
+          - Sainte-Colombe
           - Sainte-Croix-sur-Buchy
-          - Sainte-Foy 
-          - Sainte-Geneviève 
+          - Sainte-Foy
+          - Sainte-Geneviève
           - Sainte-Hélène-Bondeville
           - Sainte-Marguerite-sur-Duclair
           - Sainte-Marguerite-sur-Mer
@@ -5042,11 +5233,11 @@ fr:
           - Sauchay
           - Saumont-la-Poterie
           - Sauqueville
-          - Saussay 
+          - Saussay
           - Sausseuzemare-en-Caux
           - Senneville-sur-Fécamp
           - Sept-Meules
-          - Serqueux 
+          - Serqueux
           - Servaville-Salmonville
           - Sierville
           - Sigy-en-Bray
@@ -5069,8 +5260,8 @@ fr:
           - Le Tilleul
           - Tocqueville-en-Caux
           - Tocqueville-les-Murs
-          - Torcy-le-Grand 
-          - Torcy-le-Petit 
+          - Torcy-le-Grand
+          - Torcy-le-Petit
           - Le Torp-Mesnil
           - Tôtes
           - Touffreville-la-Corbeline
@@ -5078,7 +5269,7 @@ fr:
           - Tourville-la-Rivière
           - Tourville-les-Ifs
           - Tourville-sur-Arques
-          - Toussaint 
+          - Toussaint
           - Le Trait
           - Trémauville
           - Le Tréport
@@ -5146,7 +5337,7 @@ fr:
           - Arc-sur-Tille
           - Arceau
           - Arcenant
-          - Arcey 
+          - Arcey
           - Arconcey
           - Argilly
           - Arnay-le-Duc
@@ -5154,8 +5345,8 @@ fr:
           - Arrans
           - Asnières-en-Montagne
           - Asnières-lès-Dijon
-          - Athée 
-          - Athie 
+          - Athée
+          - Athie
           - Aubaine
           - Aubigny-en-Plaine
           - Aubigny-la-Ronce
@@ -5174,18 +5365,18 @@ fr:
           - Barbirey-sur-Ouche
           - Bard-le-Régulier
           - Bard-lès-Époisses
-          - Barges 
+          - Barges
           - Barjon
-          - Baubigny 
+          - Baubigny
           - Baulme-la-Roche
-          - Beaulieu 
+          - Beaulieu
           - Beaumont-sur-Vingeanne
           - Beaune
           - Beaunotte
           - Beire-le-Châtel
           - Beire-le-Fort
           - Belan-sur-Ource
-          - Bellefond 
+          - Bellefond
           - Belleneuve
           - Bellenod-sur-Seine
           - Bellenot-sous-Pouilly
@@ -5208,7 +5399,7 @@ fr:
           - Blaisy-Bas
           - Blaisy-Haut
           - Blancey
-          - Blanot 
+          - Blanot
           - Bligny-le-Sec
           - Bligny-lès-Beaune
           - Bligny-sur-Ouche
@@ -5224,8 +5415,8 @@ fr:
           - Boussey
           - Boux-sous-Salmaise
           - Bouze-lès-Beaune
-          - Brain 
-          - Braux 
+          - Brain
+          - Braux
           - Brazey-en-Morvan
           - Brazey-en-Plaine
           - Brémur-et-Vaurois
@@ -5235,64 +5426,64 @@ fr:
           - Brianny
           - Brion-sur-Ource
           - Brochon
-          - Brognon 
+          - Brognon
           - Broin
           - Broindon
-          - Buffon 
+          - Buffon
           - Buncey
           - Bure-les-Templiers
           - Busseaut
           - Busserotte-et-Montenaille
           - La Bussière-sur-Ouche
-          - Bussières 
-          - Bussy-la-Pesle 
+          - Bussières
+          - Bussy-la-Pesle
           - Bussy-le-Grand
-          - Buxerolles 
+          - Buxerolles
           - Censerey
-          - Cérilly 
+          - Cérilly
           - Cessey-sur-Tille
           - Chaignay
           - Chailly-sur-Armançon
           - Chambain
           - Chambeire
           - Chamblanc
-          - Chambœuf 
+          - Chambœuf
           - Chambolle-Musigny
           - Chamesson
           - Champ-d'Oiseau
           - Champagne-sur-Vingeanne
-          - Champagny 
+          - Champagny
           - Champdôtre
-          - Champignolles 
+          - Champignolles
           - Champrenault
           - Chanceaux
           - Channay
-          - Charencey 
+          - Charencey
           - Charigny
-          - Charmes 
-          - Charny 
+          - Charmes
+          - Charny
           - Charrey-sur-Saône
           - Charrey-sur-Seine
           - Chassagne-Montrachet
           - Chassey
-          - Châteauneuf 
+          - Châteauneuf
           - Châtellenot
           - Châtillon-sur-Seine
           - Chaudenay-la-Ville
           - Chaudenay-le-Château
           - Chaugey
-          - La Chaume 
+          - La Chaume
           - Chaume-et-Courchamp
           - Chaume-lès-Baigneux
           - Chaumont-le-Bois
-          - Chaux 
-          - Chazeuil 
+          - Chaux
+          - Chazeuil
           - Chazilly
           - Chemin-d'Aisey
           - Chenôve
           - Cheuge
           - Chevannay
-          - Chevannes 
+          - Chevannes
           - Chevigny-en-Valière
           - Chevigny-Saint-Sauveur
           - Chivres
@@ -5301,11 +5492,11 @@ fr:
           - Civry-en-Montagne
           - Clamerey
           - Clénay
-          - Cléry 
+          - Cléry
           - Clomot
           - Collonges-et-Premières
           - Collonges-lès-Bévy
-          - Colombier 
+          - Colombier
           - Combertault
           - Comblanchien
           - Commarin
@@ -5329,7 +5520,7 @@ fr:
           - Courlon
           - Courtivron
           - Couternon
-          - Créancey 
+          - Créancey
           - Crécey-sur-Tille
           - Crépand
           - Crugey
@@ -5341,10 +5532,10 @@ fr:
           - Cussey-les-Forges
           - Cussy-la-Colonne
           - Cussy-le-Châtel
-          - Daix 
+          - Daix
           - Dampierre-en-Montagne
           - Dampierre-et-Flée
-          - Darcey 
+          - Darcey
           - Darois
           - Détain-et-Bruant
           - Diancey
@@ -5357,12 +5548,12 @@ fr:
           - Échalot
           - Échannay
           - Échenon
-          - Échevannes 
+          - Échevannes
           - Échevronne
           - Échigey
           - Écutigny
           - Éguilly
-          - Épagny 
+          - Épagny
           - Épernay-sous-Gevrey
           - Époisses
           - Éringes
@@ -5372,7 +5563,7 @@ fr:
           - Étais
           - Étalante
           - L'Étang-Vergy
-          - Étaules 
+          - Étaules
           - Étevaux
           - Étormay
           - Étrochey
@@ -5383,7 +5574,7 @@ fr:
           - Fénay
           - Le Fête
           - Fixin
-          - Flacey 
+          - Flacey
           - Flagey-Echézeaux
           - Flagey-lès-Auxonne
           - Flammerans
@@ -5397,20 +5588,20 @@ fr:
           - Fontaines-en-Duesmois
           - Fontaines-les-Sèches
           - Fontangy
-          - Fontenelle 
+          - Fontenelle
           - Forléans
           - Fraignot-et-Vesvrotte
-          - Francheville 
+          - Francheville
           - Franxault
-          - Frénois 
-          - Fresnes 
+          - Frénois
+          - Fresnes
           - Frôlois
           - Fussey
           - Gemeaux
-          - Genay 
+          - Genay
           - Genlis
           - Gergueil
-          - Gerland 
+          - Gerland
           - Gevrey-Chambertin
           - Gevrolles
           - Gilly-lès-Cîteaux
@@ -5424,13 +5615,13 @@ fr:
           - Grancey-sur-Ource
           - Grenant-lès-Sombernon
           - Grésigny-Sainte-Reine
-          - Grignon 
-          - Griselles 
+          - Grignon
+          - Griselles
           - Grosbois-en-Montagne
           - Grosbois-lès-Tichey
           - Gurgy-la-Ville
           - Gurgy-le-Château
-          - Hauteroche 
+          - Hauteroche
           - Hauteville-lès-Dijon
           - Heuilley-sur-Saône
           - Is-sur-Tille
@@ -5443,30 +5634,30 @@ fr:
           - Jouey
           - Jours-lès-Baigneux
           - Juillenay
-          - Juilly 
+          - Juilly
           - Labergement-Foigney
           - Labergement-lès-Auxonne
           - Labergement-lès-Seurre
-          - Labruyère 
+          - Labruyère
           - Lacanche
           - Lacour-d'Arcenay
           - Ladoix-Serrigny
           - Laignes
           - Lamarche-sur-Saône
           - Lamargelle
-          - Lantenay 
+          - Lantenay
           - Lanthes
-          - Lantilly 
+          - Lantilly
           - Laperrière-sur-Saône
-          - Larrey 
+          - Larrey
           - Lechâtelet
-          - Léry 
+          - Léry
           - Leuglay
           - Levernois
           - Licey-sur-Vingeanne
           - Liernais
-          - Lignerolles 
-          - Longchamp 
+          - Lignerolles
+          - Longchamp
           - Longeault-Pluvault
           - Longecourt-en-Plaine
           - Longecourt-lès-Culêtre
@@ -5476,7 +5667,7 @@ fr:
           - Lucenay-le-Duc
           - Lucey
           - Lusigny-sur-Ouche
-          - Lux 
+          - Lux
           - Maconge
           - Magnien
           - Magny-la-Ville
@@ -5489,7 +5680,7 @@ fr:
           - Les Maillys
           - Maisey-le-Duc
           - Mâlain
-          - Maligny 
+          - Maligny
           - Manlay
           - Marandeuil
           - Marcellois
@@ -5504,11 +5695,11 @@ fr:
           - Marigny-le-Cahouët
           - Marigny-lès-Reullée
           - Marliens
-          - Marmagne 
+          - Marmagne
           - Marsannay-la-Côte
           - Marsannay-le-Bois
           - Martrois
-          - Massingy 
+          - Massingy
           - Massingy-lès-Semur
           - Massingy-lès-Vitteaux
           - Mauvilly
@@ -5521,16 +5712,16 @@ fr:
           - Ménessaire
           - Ménétreux-le-Pitois
           - Merceuil
-          - Mesmont 
-          - Messanges 
+          - Mesmont
+          - Messanges
           - Messigny-et-Vantoux
           - Meuilley
           - Meulson
           - Meursanges
           - Meursault
-          - Millery 
+          - Millery
           - Mimeure
-          - Minot 
+          - Minot
           - Mirebeau-sur-Bèze
           - Missery
           - Moitron
@@ -5538,7 +5729,7 @@ fr:
           - Molinot
           - Moloy
           - Molphey
-          - Mont-Saint-Jean 
+          - Mont-Saint-Jean
           - Montagny-lès-Beaune
           - Montagny-lès-Seurre
           - Montbard
@@ -5552,12 +5743,12 @@ fr:
           - Montigny-sur-Aube
           - Montlay-en-Auxois
           - Montliot-et-Courcelles
-          - Montmain 
+          - Montmain
           - Montmançon
           - Montmoyen
-          - Montot 
+          - Montot
           - Morey-Saint-Denis
-          - Mosson 
+          - Mosson
           - La Motte-Ternant
           - Moutiers-Saint-Jean
           - Musigny
@@ -5573,18 +5764,18 @@ fr:
           - Noiron-sous-Gevrey
           - Noiron-sur-Bèze
           - Noiron-sur-Seine
-          - Nolay 
+          - Nolay
           - Norges-la-Ville
           - Normier
           - Nuits-Saint-Georges
           - Obtrée
-          - Oigny 
+          - Oigny
           - Oisilly
-          - Orain 
+          - Orain
           - Orgeux
           - Origny
           - Orret
-          - Orville 
+          - Orville
           - Ouges
           - Pagny-la-Ville
           - Pagny-le-Château
@@ -5596,7 +5787,7 @@ fr:
           - Perrigny-lès-Dijon
           - Perrigny-sur-l'Ognon
           - Pichanges
-          - Planay 
+          - Planay
           - Plombières-lès-Dijon
           - Pluvet
           - Poinçon-lès-Larrey
@@ -5606,7 +5797,7 @@ fr:
           - Pommard
           - Poncey-lès-Athée
           - Poncey-sur-l'Ignon
-          - Pont 
+          - Pont
           - Pont-et-Massène
           - Pontailler-sur-Saône
           - Posanges
@@ -5620,12 +5811,12 @@ fr:
           - Premeaux-Prissey
           - Prenois
           - Prusly-sur-Ource
-          - Puits 
+          - Puits
           - Puligny-Montrachet
           - Quemigny-sur-Seine
           - Quetigny
-          - Quincerot 
-          - Quincey 
+          - Quincerot
+          - Quincey
           - Quincy-le-Vicomte
           - Recey-sur-Ource
           - Remilly-en-Montagne
@@ -5638,8 +5829,8 @@ fr:
           - Rochefort-sur-Brévon
           - La Rochepot
           - Roilly
-          - Rougemont 
-          - Rouvray 
+          - Rougemont
+          - Rouvray
           - Rouvres-en-Plaine
           - Rouvres-sous-Meilly
           - Ruffey-lès-Beaune
@@ -5648,44 +5839,44 @@ fr:
           - Saffres
           - Saint-Andeux
           - Saint-Anthot
-          - Saint-Apollinaire 
-          - Saint-Aubin 
-          - Saint-Bernard 
+          - Saint-Apollinaire
+          - Saint-Aubin
+          - Saint-Bernard
           - Saint-Broing-les-Moines
-          - Saint-Didier 
+          - Saint-Didier
           - Saint-Euphrône
           - Saint-Germain-de-Modéon
           - Saint-Germain-le-Rocheux
           - Saint-Germain-lès-Senailly
-          - Saint-Hélier 
+          - Saint-Hélier
           - Saint-Jean-de-Bœuf
           - Saint-Jean-de-Losne
-          - Saint-Julien 
+          - Saint-Julien
           - Saint-Léger-Triey
           - Saint-Marc-sur-Seine
           - Saint-Martin-de-la-Mer
-          - Saint-Martin-du-Mont 
+          - Saint-Martin-du-Mont
           - Saint-Maurice-sur-Vingeanne
           - Saint-Maurice-Thizouaille
-          - Saint-Mesmin 
+          - Saint-Mesmin
           - Saint-Nicolas-lès-Cîteaux
-          - Saint-Philibert 
+          - Saint-Philibert
           - Saint-Pierre-en-Vaux
           - Saint-Prix-lès-Arnay
-          - Saint-Romain 
+          - Saint-Romain
           - Saint-Seine-en-Bâche
           - Saint-Seine-l'Abbaye
           - Saint-Symphorien-sur-Saône
           - Saint-Usage
           - Saint-Victor-sur-Ouche
-          - Sainte-Colombe 
+          - Sainte-Colombe
           - Sainte-Marie-sur-Ouche
           - Salmaise
           - Samerey
           - Santenay
           - Santosse
           - Saulieu
-          - Saussy 
+          - Saussy
           - Saussy-le-Bethelot
           - Savigny-lès-Beaune
           - Savigny-le-Sec
@@ -5695,7 +5886,7 @@ fr:
           - Saulon-la-Chapelle
           - Saulon-la-Rue
           - Saunières
-          - Saussy 
+          - Saussy
           - Saussy-le-Bethelot
           - Savigny-lès-Beaune
           - Savigny-le-Sec
@@ -5708,7 +5899,7 @@ fr:
           - Savigny-sous-Mâlain
           - Savouges
           - Saulieu
-          - Saussy 
+          - Saussy
           - Saussey
           - Savigny-lès-Beaune
           - Savigny-le-Sec
@@ -5731,17 +5922,17 @@ fr:
           - Souhey
           - Source-Seine
           - Soussey-sur-Brionne
-          - Spoy 
+          - Spoy
           - Sussey
-          - Tailly 
+          - Tailly
           - Talant
           - Talmay
-          - Tanay 
+          - Tanay
           - Tarsul
           - Tart
           - Tart-le-Bas
           - Tellecey
-          - Ternant 
+          - Ternant
           - Terrefondrée
           - Thenissey
           - Thoires
@@ -5752,7 +5943,7 @@ fr:
           - Thorey-sous-Charny
           - Thorey-sur-Ouche
           - Thoste
-          - Thury 
+          - Thury
           - Tichey
           - Til-Châtel
           - Tillenay
@@ -5783,7 +5974,7 @@ fr:
           - Venarey-les-Laumes
           - Verdonnet
           - Vernois-lès-Vesvres
-          - Vernot 
+          - Vernot
           - Véronnes
           - Verrey-sous-Drée
           - Verrey-sous-Salmaise
@@ -5809,7 +6000,7 @@ fr:
           - Villeberny
           - Villebichot
           - Villecomte
-          - Villedieu 
+          - Villedieu
           - Villeferry
           - La Villeneuve-les-Convers
           - Villeneuve-sous-Charigny
@@ -5826,8 +6017,8 @@ fr:
           - Villy-le-Moutier
           - Viserny
           - Vitteaux
-          - Vix 
-          - Volnay 
+          - Vix
+          - Volnay
           - Vonges
           - Vosne-Romanée
           - Voudenay

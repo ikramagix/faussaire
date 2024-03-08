@@ -107,6 +107,16 @@ RSpec.describe Faussaire::Address do
       
         invalid_names = dpt_names.select { |name| name !~ valid_format_regex }
         expect(invalid_names).to be_empty, "Invalid department names found: #{invalid_names.join(', ')}"
-        end
+      end
+
+    describe ".postal_code" do
+      it "returns a string of exactly five digits" do
+        postal_code = Faussaire::Address.postal_code
+          
+        expect(postal_code).to be_a(String)
+        expect(postal_code.length).to eq(5)
+        expect(postal_code).to match(/\A\d{5}\z/)
+      end
     end
+  end
 end

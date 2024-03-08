@@ -39,6 +39,11 @@ module Faussaire
         fetch('fr.faussaire.address.dpt_number_overseas')
       end
 
+      def postal_code
+        code = fetch('fr.faussaire.address.postal_code')
+        code.to_s.rjust(5, '0')
+      end
+
       private
 
       def fetch(key)

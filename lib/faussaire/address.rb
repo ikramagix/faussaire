@@ -27,6 +27,18 @@ module Faussaire
         fetch('fr.faussaire.address.street_number_9999')
       end
 
+      def dpt_name
+        fetch('fr.faussaire.address.dpt_name')
+      end
+
+      def dpt_number
+        fetch('fr.faussaire.address.dpt_number_metropolis')
+      end
+
+      def dpt_number_other
+        fetch('fr.faussaire.address.dpt_number_overseas')
+      end
+
       private
 
       def fetch(key)

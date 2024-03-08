@@ -62,4 +62,21 @@ RSpec.describe Faussaire::Address do
       expect(numbers.uniq.size).to eq(numbers.size), "Duplicates were found: #{duplicates.join(', ')}"    
     end
   end
+
+  describe ".dpt_number" do
+    it "is represented as a two-digit string and falls between '01' and '95'" do
+      dpt_numbers = Faussaire::Address.send(:data)['fr']['faussaire']['address']['dpt_number_metropolis'].map { |num| num.to_s.rjust(2, '0') }
+      invalid_values = dpt_numbers.select { |num_str| !(num_str =~ /\A\d{2}\z/) || num_str.to_i < 1 || num_str.to_i > 95 }
+  
+      expect(invalid_values).to be_empty, "Found invalid department numbers: #{invalid_values.join(', ')}"
+    end
+  end
+  
+    it "dpt_number_other is three digits and matches one of the specified overseas values" do
+      valid_overseas_dpt_numbers = [971, 972, 973, 974, 976]
+      dpt_numbers_other = Faussaire::Address.send(:data)['fr']['faussaire']['address']['dpt_number_overseas']
+      invalid_values = dpt_numbers_other.select { |num| !valid_overseas_dpt_numbers.include?(num.to_i) }
+  
+      expect(invalid_values).to be_empty, "Invalid overseas department numbers found: #{invalid_values.join(', ')}"
+    end
 end

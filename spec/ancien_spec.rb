@@ -34,5 +34,24 @@ RSpec.describe Faussaire::Ancien do
           end
         end
     end
-end
+
+    describe 'Absence of duplicates' do
+      context 'in creatures list' do
+        let(:creatures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.creature') }
   
+        it 'does not contain duplicates' do
+          duplicates = creatures.select { |item| creatures.count(item) > 1 }.uniq
+          expect(duplicates).to be_empty, "Found duplicates in creatures: #{duplicates.join(', ')}"
+        end
+      end
+  
+      context 'in historical figures list' do
+        let(:historical_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historical_figure') }
+  
+        it 'does not contain duplicates' do
+          duplicates = historical_figures.select { |item| historical_figures.count(item) > 1 }.uniq
+          expect(duplicates).to be_empty, "Found duplicates in historical figures: #{duplicates.join(', ')}"
+        end
+      end
+    end
+end

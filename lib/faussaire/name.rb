@@ -8,24 +8,20 @@ module Faussaire
     class << self
       def initialize_data
         @data = YAML.load_file(DATA_PATH)
-        #puts "Loaded data: #{@data.inspect}"
       end
 
       def female_first_name
         key = 'fr.faussaire.name.female_first_name'
-        #puts "Fetching key: #{key}"
         fetch(key)
       end
 
       def male_first_name
         key = 'fr.faussaire.name.male_first_name'
-        #puts "Fetching key: #{key}"
         fetch(key)
       end
 
       def family_name
         key = 'fr.faussaire.name.family_name'
-        #puts "Fetching key: #{key}"
         fetch(key)
       end
 

@@ -14,20 +14,20 @@ RSpec.describe Faussaire::Ancien do
       end
     end
 
-    describe '.historical_figure' do
-        let(:historical_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historical_figure') }
-        let(:historical_figure) { Faussaire::Ancien.historical_figure }
+    describe '.historic_figure' do
+        let(:historic_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historic_figure') }
+        let(:historic_figure) { Faussaire::Ancien.historic_figure }
     
         it 'returns a string' do
-          expect(historical_figure).to be_a(String)
+          expect(historic_figure).to be_a(String)
         end
     
-        it 'returns a valid historical figure from the YAML list' do
-          expect(historical_figures).to include(historical_figure)
+        it 'returns a valid historic figure from the YAML list' do
+          expect(historic_figures).to include(historic_figure)
         end
 
         it 'includes figures with the special character ’' do
-          special_character_figures = historical_figures.select { |figure| figure.include?("’") }
+          special_character_figures = historic_figures.select { |figure| figure.include?("’") }
           expect(special_character_figures).not_to be_empty
           special_character_figures.each do |figure|
             expect(figure).to include("’"), "Expected '#{figure}' to include the special character ’"
@@ -70,12 +70,12 @@ RSpec.describe Faussaire::Ancien do
       end
     end
 
-    context 'in historical figures list' do
-      let(:historical_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historical_figure') }
+    context 'in historic figures list' do
+      let(:historic_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historic_figure') }
 
       it 'does not contain duplicates' do
-        duplicates = historical_figures.select { |item| historical_figures.count(item) > 1 }.uniq
-        expect(duplicates).to be_empty, "Found duplicates in historical figures: #{duplicates.join(', ')}"
+        duplicates = historic_figures.select { |item| historic_figures.count(item) > 1 }.uniq
+        expect(duplicates).to be_empty, "Found duplicates in historic figures: #{duplicates.join(', ')}"
       end
     end
 

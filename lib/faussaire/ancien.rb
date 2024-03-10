@@ -13,8 +13,8 @@ module Faussaire
         fetch('fr.faussaire.ancien.creature').sample
     end
 
-    def self.historical_figure
-        fetch('fr.faussaire.ancien.historical_figure').sample
+    def self.historic_figure
+        fetch('fr.faussaire.ancien.historic_figure').sample
     end
 
     def self.words

@@ -9,7 +9,7 @@ RSpec.describe Faussaire::Bizness do
         end
       
         it 'contains the correct number of brands' do
-            expected_number_of_brands = 50
+            expected_number_of_brands = 500
             expect(brands.size).to eq(expected_number_of_brands)
         end
       

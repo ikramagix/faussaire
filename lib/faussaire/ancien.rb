@@ -16,5 +16,9 @@ module Faussaire
     def self.historical_figure
         fetch('fr.faussaire.ancien.historical_figure').sample
     end
+
+    def self.words
+      fetch('fr.faussaire.ancien.words')
+    end
   end
 end

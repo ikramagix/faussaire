@@ -54,4 +54,34 @@ RSpec.describe Faussaire::Ancien do
         end
       end
     end
+
+    let(:words) { Faussaire::Ancien.fetch('fr.faussaire.ancien.words') }
+
+    describe '.words' do
+
+      it 'fetches words list' do
+        expect(words).not_to be_nil
+        expect(words).to be_an(Array)
+      end
+
+    it 'does not contain the character *' do
+      words_with_character = words.select { |word| word.include?('*') }
+      expect(words_with_character).to be_empty, "Words containing the character '*': #{words_with_character.join(', ')}"
+    end
+
+    it 'does not start with a number followed by a period' do
+      words_with_number = words.select { |word| word.match?(/^\d+\./) }
+      expect(words_with_number).to be_empty, "Words starting with a number followed by a period: #{words_with_number.join(', ')}"
+    end
+
+    it 'does not contain (se)' do
+      words_with_se = words.select { |word| word.include?('(se)') }
+      expect(words_with_se).to be_empty, "Words containing '(se)': #{words_with_se.join(', ')}"
+    end
+
+    it 'does not contain duplicates' do
+      duplicates = words.select { |word| words.count(word) > 1 }.uniq
+      expect(duplicates).to be_empty, "Found duplicates in words: #{duplicates.join(', ')}"
+    end
+  end
 end

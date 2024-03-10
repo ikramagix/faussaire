@@ -35,26 +35,6 @@ RSpec.describe Faussaire::Ancien do
         end
     end
 
-    describe '.no duplicates' do
-      context 'in creatures list' do
-        let(:creatures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.creature') }
-  
-        it 'does not contain duplicates' do
-          duplicates = creatures.select { |item| creatures.count(item) > 1 }.uniq
-          expect(duplicates).to be_empty, "Found duplicates in creatures: #{duplicates.join(', ')}"
-        end
-      end
-  
-      context 'in historical figures list' do
-        let(:historical_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historical_figure') }
-  
-        it 'does not contain duplicates' do
-          duplicates = historical_figures.select { |item| historical_figures.count(item) > 1 }.uniq
-          expect(duplicates).to be_empty, "Found duplicates in historical figures: #{duplicates.join(', ')}"
-        end
-      end
-    end
-
     let(:words) { Faussaire::Ancien.fetch('fr.faussaire.ancien.words') }
 
     describe '.words' do
@@ -78,10 +58,34 @@ RSpec.describe Faussaire::Ancien do
       words_with_se = words.select { |word| word.include?('(se)') }
       expect(words_with_se).to be_empty, "Words containing '(se)': #{words_with_se.join(', ')}"
     end
+  end
 
-    it 'does not contain duplicates' do
-      duplicates = words.select { |word| words.count(word) > 1 }.uniq
-      expect(duplicates).to be_empty, "Found duplicates in words: #{duplicates.join(', ')}"
+  describe '.no duplicates' do
+    context 'in creatures list' do
+      let(:creatures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.creature') }
+
+      it 'does not contain duplicates' do
+        duplicates = creatures.select { |item| creatures.count(item) > 1 }.uniq
+        expect(duplicates).to be_empty, "Found duplicates in creatures: #{duplicates.join(', ')}"
+      end
+    end
+
+    context 'in historical figures list' do
+      let(:historical_figures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.historical_figure') }
+
+      it 'does not contain duplicates' do
+        duplicates = historical_figures.select { |item| historical_figures.count(item) > 1 }.uniq
+        expect(duplicates).to be_empty, "Found duplicates in historical figures: #{duplicates.join(', ')}"
+      end
+    end
+
+    context 'in words list' do
+      let(:words) { Faussaire::Ancien.fetch('fr.faussaire.ancien.words') }
+
+      it 'does not contain duplicates' do
+        duplicates = words.select { |word| words.count(word) > 1 }.uniq
+        expect(duplicates).to be_empty, "Found duplicates in words: #{duplicates.join(', ')}"
+      end
     end
   end
 end

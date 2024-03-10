@@ -5,6 +5,7 @@ require_relative "faussaire/base"
 require_relative "faussaire/name"
 require_relative 'faussaire/address'
 require_relative 'faussaire/ancien'
+require_relative 'faussaire/bizness'
 
 
 module Faussaire

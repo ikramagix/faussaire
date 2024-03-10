@@ -35,7 +35,7 @@ RSpec.describe Faussaire::Ancien do
         end
     end
 
-    describe 'Absence of duplicates' do
+    describe '.no duplicates' do
       context 'in creatures list' do
         let(:creatures) { Faussaire::Ancien.fetch('fr.faussaire.ancien.creature') }
   

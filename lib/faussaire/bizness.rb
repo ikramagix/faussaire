@@ -24,33 +24,21 @@ module Faussaire
     private
 
     def self.format(arr)
-        vowels = "aeiouyhéèà"
-        arr.each_with_index do |word, i|
-          next if word.nil?
-      
-          if word.end_with?('#')
-            arr[i] = word.chop # Remove the last character
-            # Check if arr[i + 1] is nil before accessing its first character
-            if arr[i + 1].nil?
-              arr[i] += "'"
-            else
-              arr[i] += vowels.include?(arr[i + 1][0].downcase) ? 'e ' : "'"
-            end
-          elsif word.end_with?("'") || (word.include?('#') && word[-3..-1] == "de ")
-            arr[i] = arr[i][0...-1] # Adjust slicing
-            # Check if arr[i + 1] is nil before accessing its first character
-            if arr[i + 1].nil?
-              arr[i] += "'"
-            else
-              arr[i] += vowels.include?(arr[i + 1][0].downcase) ? 'e ' : "'"
-            end
-          end
-      
-          arr[i] += ' ' unless arr[i].end_with?(' ', "'") || i == arr.size - 1
-          arr[i] = 'les ' + arr[i] if i == 5 # Specific logic for the sixth element
+      vowels = "aeiouyhéèà"
+      arr.each_with_index do |word, i|
+        if word.end_with?('#')
+          arr[i] = word.chop # Remove the last character
+          arr[i] += vowels.include?(arr[i + 1][0].downcase) ? 'e ' : "'"
+        elsif arr[i].end_with?("'") || (word.include?('#') && word[-3..-1] == "de ")
+          arr[i] = arr[i][0...-1] # Adjust slicing
+          arr[i] += vowels.include?(arr[i + 1][0].downcase) ? 'e ' : "'"
         end
-      
-        arr.join.squeeze(' ').strip
+
+        arr[i] += ' ' unless arr[i].end_with?(' ', "'") || i == arr.size - 1
+        arr[i] = 'les ' + arr[i] if i == 5 # Specific logic for the sixth element
       end
-    end 
+
+      arr.join.squeeze(' ').strip
+    end
+  end
 end

@@ -5,39 +5,42 @@ module Faussaire
     DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
 
     def self.fetch(key)
-      data = YAML.load_file(DATA_PATH)
-      data.dig(*key.split('.'))
+    data = YAML.load_file(DATA_PATH)
+    data.dig(*key.split('.'))
     end
 
     def self.brands
       fetch('fr.faussaire.bizness.brands')
     end
 
-    def self.pipotronic
-      phrases = fetch('fr.faussaire.bizness.pipotronics')
-      return unless phrases.is_a?(Array)
-
-      formatted_sentence = format(phrases.sample(7)) # Suppose we build a sentence with 7 parts
-      formatted_sentence
+    def self.load_dico
+      data = YAML.load_file(DATA_PATH)
+      dico = data.dig('fr', 'faussaire', 'bizness', 'pipotronics')
+      dico
     end
 
-    private
+    def self.pipotronic
+      dico = load_dico
+      selected_phrases = dico.map { |category| category.sample }
+      format(selected_phrases)
+    end
 
     def self.format(arr)
       vowels = "aeiouyhéèà"
-      arr.each_with_index do |word, i|
-        if word.end_with?('#')
-          arr[i] = word.chop # Remove the last character
-          arr[i] += vowels.include?(arr[i + 1][0].downcase) ? 'e ' : "'"
-        elsif arr[i].end_with?("'") || (word.include?('#') && word[-3..-1] == "de ")
-          arr[i] = arr[i][0...-1] # Adjust slicing
-          arr[i] += vowels.include?(arr[i + 1][0].downcase) ? 'e ' : "'"
+      arr.each_with_index do |phrase, i|
+        if phrase[-1] == '#'
+          phrase.chop!
+          next_phrase_starts_with_vowel = vowels.include?(arr[i + 1][0].downcase)
+          arr[i] += next_phrase_starts_with_vowel ? 'e ' : "'"
+        elsif phrase[-1] == '\'' || (phrase.include?('#') && phrase[-3..] == "de ")
+          arr[i] = phrase[0...-1]
+          next_phrase_starts_with_vowel = vowels.include?(arr[i + 1][0].downcase)
+          arr[i] += next_phrase_starts_with_vowel ? 'e ' : "'"
         end
 
         arr[i] += ' ' unless arr[i].end_with?(' ', "'") || i == arr.size - 1
-        arr[i] = 'les ' + arr[i] if i == 5 # Specific logic for the sixth element
+        arr[i] = 'les ' + arr[i] if i == 5
       end
-
       arr.join.squeeze(' ').strip
     end
   end

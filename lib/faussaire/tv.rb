@@ -8,5 +8,9 @@ module Faussaire
     data = YAML.load_file(DATA_PATH)
     data.dig(*key.split('.'))
     end
+
+    def self.shows
+      fetch('fr.faussaire.tv.show').sample
+    end
   end
 end

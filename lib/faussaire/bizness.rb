@@ -10,7 +10,7 @@ module Faussaire
     end
 
     def self.brands
-      fetch('fr.faussaire.bizness.brands')
+      fetch('fr.faussaire.bizness.brands').sample
     end
 
     def self.load_dico

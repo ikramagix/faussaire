@@ -32,7 +32,7 @@ RSpec.describe Faussaire::Tv do
           end
     end
 
-    describe '.no duplicates' do
+    describe '.no duplicate values' do
         context 'in shows list' do
           let(:shows) { Faussaire::Tv.fetch('fr.faussaire.tv.show') }
     

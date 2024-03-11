@@ -3037,7 +3037,7 @@ fr:
         - Crouy
         - Cuirieux
         - Cuiry-Housse
-        - Cuiry-lès-Chaudardes"
+        - Cuiry-lès-Chaudardes
         - Cuiry-lès-Iviers
         - Cuiry-lès-Iviers
         - Cuiry-lès-Chaudardes
@@ -11834,6 +11834,13 @@ fr:
           - "efficacité"
     tv:
       show:
+        - "Aventures sur le net"
+        - "Loft Story"
+        - "Koh-Lanta"
+        - "Popstars"
+        - "Star Academy"
+        - "L'île de la tentation"
+        - ""
       influencer:
       famous_couples:
       channel:

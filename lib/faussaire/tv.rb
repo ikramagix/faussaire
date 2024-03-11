@@ -9,7 +9,7 @@ module Faussaire
     data.dig(*key.split('.'))
     end
 
-    def self.shows
+    def self.show
       fetch('fr.faussaire.tv.show').sample
     end
   end

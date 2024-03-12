@@ -56,6 +56,22 @@ RSpec.describe Faussaire::Tv do
         end      
     end
 
+    describe '.channel' do
+      let(:channels) { Faussaire::Tv.fetch('fr.faussaire.tv.channel') }
+  
+      it 'does not contain "/" in any channel' do
+        expect(channels.none? { |channel| channel.include?('/') }).to be true
+      end
+  
+      it 'does not contain "VM3372:5" in any channel' do
+        expect(channels.none? { |channel| channel.include?('VM3372:5') }).to be true
+      end
+  
+      it 'does not contain "Anciennes chaînes :" in any channel' do
+        expect(channels.none? { |channel| channel.include?('Anciennes chaînes :') }).to be true
+      end
+    end  
+
     describe '.no duplicate values' do
         context 'in shows list' do
           let(:shows) { Faussaire::Tv.fetch('fr.faussaire.tv.show') }
@@ -72,6 +88,15 @@ RSpec.describe Faussaire::Tv do
           it 'does not contain duplicates' do
             duplicates = influencers.select { |item| influencers.count(item) > 1 }.uniq
             expect(duplicates).to be_empty, "Found duplicates in influencer : #{duplicates.join(', ')}"
+          end
+        end
+
+        context 'in channel list' do
+          let(:channels) { Faussaire::Tv.fetch('fr.faussaire.tv.channel') }
+        
+          it 'does not contain duplicates' do
+            duplicates = channels.select { |item| channels.count(item) > 1 }.uniq
+            expect(duplicates).to be_empty, "Found duplicates in channels : #{duplicates.join(', ')}"
           end
         end
     end

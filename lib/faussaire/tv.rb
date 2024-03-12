@@ -20,5 +20,9 @@ module Faussaire
     def self.famous_couples
       fetch('fr.faussaire.tv.famous_couples').sample
     end
+
+    def self.channel
+      fetch('fr.faussaire.tv.channel').sample
+    end
   end
 end

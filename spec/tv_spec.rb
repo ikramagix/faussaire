@@ -29,7 +29,31 @@ RSpec.describe Faussaire::Tv do
               unique_shows = sample_shows.uniq
               expect(unique_shows.size).to be > (0.5 * 56).to_i, "Expected more than half of the shows to be unique"
             end
+        end
+
+        describe '.famous_couples' do
+          let(:famous_couples) { Faussaire::Bizness.fetch('fr.faussaire.tv.famous_couples') }
+      
+          it 'returns an array' do
+            expect(famous_couples).to be_an(Array)
           end
+      
+          it 'is not empty' do
+            expect(famous_couples).not_to be_empty
+          end
+      
+          it 'contains only strings' do
+            expect(famous_couples).to all(be_a(String))
+          end
+      
+          it 'each string contains a year within parentheses' do
+            expect(famous_couples).to all(match(/\(\d{4}\)/))
+          end
+      
+          it 'includes "Lauren Bacall et Humphrey Bogart (1950)"' do
+            expect(famous_couples).to include("Lauren Bacall et Humphrey Bogart (1950)")
+          end
+        end      
     end
 
     describe '.no duplicate values' do
@@ -39,6 +63,15 @@ RSpec.describe Faussaire::Tv do
           it 'does not contain duplicates' do
             duplicates = shows.select { |item| shows.count(item) > 1 }.uniq
             expect(duplicates).to be_empty, "Found duplicates in shows : #{duplicates.join(', ')}"
+          end
+        end
+
+        context 'in influencer list' do
+          let(:influencers) { Faussaire::Tv.fetch('fr.faussaire.tv.influencer') }
+    
+          it 'does not contain duplicates' do
+            duplicates = influencers.select { |item| influencers.count(item) > 1 }.uniq
+            expect(duplicates).to be_empty, "Found duplicates in influencer : #{duplicates.join(', ')}"
           end
         end
     end

@@ -12692,5 +12692,30 @@ fr:
       - TLP
       - TV Sud Provence
       - Var Azur
-      festival_cannes: 
+      festival_cannes:
+        projected_films: 
+          - "2062"
+        most_represented_countries: 
+          - "376 (États-Unis)"
+          - "348 (France)"
+          - "183 (Italie)"
+          - "161 (Royaume-Uni)"
+          - "80 (Allemagne)"
+        palms_by_country: 
+            - "16 (États-Unis)"
+            - "9 (Italie)"
+            - "8 (France)"
+            - "7 (Royaume-Uni)"
+            - "3 (Japon)"
+            - "3 (Danemark)"
+        directors_with_two_palms:
+            - "Francis Ford Coppola (Conversation secrète, Apocalypse Now)"
+            - "Bille August (Pelle le Conquérant, Les Meilleures Intentions)"
+            - "Shōhei Imamura (La Ballade de Narayama, L'Anguille)"
+            - "Emir Kusturica (Papa est en voyage d'affaires, Underground)"
+            - "Luc et Jean-Pierre Dardenne (Rosetta, L'Enfant)"
+            - "Michael Haneke (Le Ruban blanc, Amour)"
+            - "Ken Loach (Le vent se lève, Moi, Daniel Blake)"
+            - "Ruben Östlund (The Square, Sans filtre)"
+
       rael: 

@@ -70,7 +70,48 @@ RSpec.describe Faussaire::Tv do
       it 'does not contain "Anciennes chaînes :" in any channel' do
         expect(channels.none? { |channel| channel.include?('Anciennes chaînes :') }).to be true
       end
-    end  
+    end
+
+    describe '.festival_cannes' do
+      context 'projected_films' do
+        let(:projected_films) { Faussaire::Tv.projected_films }
+        
+        it 'returns the total number of projected films as a string' do
+          expect(projected_films).to eq("2062")
+        end
+      end
+  
+      context 'most_represented_countries' do
+        let(:most_represented_countries) { Faussaire::Tv.most_represented_countries }
+  
+        it 'returns a list of strings with country names and their film counts' do
+          expected_countries = [
+            "376 (États-Unis)",
+            "348 (France)",
+            "183 (Italie)",
+            "161 (Royaume-Uni)",
+            "80 (Allemagne)"
+          ]
+          expect(most_represented_countries).to match_array(expected_countries)
+        end
+      end
+  
+      context 'palms_by_country' do
+        let(:palms_by_country) { Faussaire::Tv.palms_by_country }
+  
+        it 'returns a list of strings with country names and their Palme d’Or counts' do
+          expected_palms = [
+            "16 (États-Unis)",
+            "9 (Italie)",
+            "8 (France)",
+            "7 (Royaume-Uni)",
+            "3 (Japon)",
+            "3 (Danemark)"
+          ]
+          expect(palms_by_country).to match_array(expected_palms)
+        end
+      end
+    end
 
     describe '.no duplicate values' do
         context 'in shows list' do

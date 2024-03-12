@@ -24,5 +24,17 @@ module Faussaire
     def self.channel
       fetch('fr.faussaire.tv.channel').sample
     end
+
+    def self.projected_films
+      fetch('fr.faussaire.tv.festival_cannes.projected_films').first
+    end
+
+    def self.most_represented_countries
+      fetch('fr.faussaire.tv.festival_cannes.most_represented_countries')
+    end
+
+    def self.palms_by_country
+      fetch('fr.faussaire.tv.festival_cannes.palms_by_country')
+    end
   end
 end

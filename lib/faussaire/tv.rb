@@ -12,5 +12,13 @@ module Faussaire
     def self.show
       fetch('fr.faussaire.tv.show').sample
     end
+
+    def self.influencer
+      fetch('fr.faussaire.tv.influencer').sample
+    end
+
+    def self.famous_couples
+      fetch('fr.faussaire.tv.famous_couples').sample
+    end
   end
 end

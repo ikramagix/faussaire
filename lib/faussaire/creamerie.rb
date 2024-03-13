@@ -19,12 +19,26 @@ module Faussaire
       ##
       # Produces a random butter.
       #
+      # @return [Hash]
+      #
+      # @example
+      #   Faussaire::Creamerie.butter #=> { name: ..., type: ... }
+      def butter
+        {
+          name: fetch('fr.faussaire.creamerie.butter.name'),
+          type: fetch('fr.faussaire.creamerie.butter.type')
+        }
+      end
+      
+      ##
+      # Produces information about top butter producers.
+      #
       # @return [String]
       #
       # @example
-      #   Faussaire::Creamerie.butter #=> "Beurre Charentes-Poitou"
-      def butter
-        fetch('fr.faussaire.creamerie.butter')
+      #   Faussaire::Creamerie.butter_producers #=> "N°1: États-Unis (892,801 t)"
+      def butter_producers
+        fetch('fr.faussaire.creamerie.butter.top_producers')
       end
 
       ##

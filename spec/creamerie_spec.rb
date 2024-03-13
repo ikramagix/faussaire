@@ -9,10 +9,18 @@ RSpec.describe Faussaire::Creamerie do
   end
 
   describe '.butter' do
-    it 'returns a string' do
-      expect(Faussaire::Creamerie.butter).to be_a(String)
+    it 'returns a hash with name and type' do
+      butter = Faussaire::Creamerie.butter
+      expect(butter).to be_a(Hash)
+      expect(butter.keys).to contain_exactly(:type, :name)
     end
   end
+
+  describe '.butter_producers' do
+    it 'returns a string' do
+      expect(Faussaire::Creamerie.butter_producers).to be_a(String)
+    end
+  end  
 
   describe '.cream' do
     it 'returns a string' do

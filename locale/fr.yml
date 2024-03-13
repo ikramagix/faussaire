@@ -12693,809 +12693,883 @@ fr:
       - TV Sud Provence
       - Var Azur
       festival_cannes:
-        total_films: 
-          - "2062"
-        most_represented_countries: 
-          - "376 (États-Unis)"
-          - "348 (France)"
-          - "183 (Italie)"
-          - "161 (Royaume-Uni)"
-          - "80 (Allemagne)"
-        awarded_countries: 
-          - "Corée du Sud (total de 1 récompense)"
-          - "Algérie (total de 1 récompense)"
-          - "Brésil (total de 1 récompense)"
-          - "Chine (total de 1 récompense)"
-          - "Espagne (total de 1 récompense)"
-          - "Grèce (total de 1 récompense)"
-          - "Iran (total de 1 récompense)"
-          - "Nouvelle-Zélande (total de 1 récompense)"
-          - "Roumanie (total de 1 récompense)"
-          - "Thaïlande (total de 1 récompense)"
-          - "Tunisie (total de 1 récompense)"
-          - "Inde (total de 1 récompense)"
-          - "Mexique (total de 1 récompense)"
-          - "Sénégal (total de 1 récompense)"
-          - "Union soviétique (total de 2 récompenses)"
-          - "Yougoslavie (total de 2 récompenses)"
-          - "Allemagne de l'Ouest (total de 2 récompenses)"
-          - "Autriche (total de 2 récompenses)"
-          - "Belgique (total de 2 récompenses)"
-          - "Pologne (total de 2 récompenses)"
-          - "Danemark (total de 3 récompenses)"
-          - "Japon (total de 5 récompenses)"
-          - "Suède (total de 5 récompenses)"
-          - "Royaume-Uni (total de 10 récompenses)"
-          - "Italie (total de 12 récompenses)"
-          - "France (total de 17 récompenses)"
-          - "États-Unis (total de 22 récompenses)"
+        total_films:
+        - '2062'
+        most_represented_countries:
+        - 376 (États-Unis)
+        - 348 (France)
+        - 183 (Italie)
+        - 161 (Royaume-Uni)
+        - 80 (Allemagne)
+        awarded_countries:
+        - Corée du Sud (total de 1 récompense)
+        - Algérie (total de 1 récompense)
+        - Brésil (total de 1 récompense)
+        - Chine (total de 1 récompense)
+        - Espagne (total de 1 récompense)
+        - Grèce (total de 1 récompense)
+        - Iran (total de 1 récompense)
+        - Nouvelle-Zélande (total de 1 récompense)
+        - Roumanie (total de 1 récompense)
+        - Thaïlande (total de 1 récompense)
+        - Tunisie (total de 1 récompense)
+        - Inde (total de 1 récompense)
+        - Mexique (total de 1 récompense)
+        - Sénégal (total de 1 récompense)
+        - Union soviétique (total de 2 récompenses)
+        - Yougoslavie (total de 2 récompenses)
+        - Allemagne de l'Ouest (total de 2 récompenses)
+        - Autriche (total de 2 récompenses)
+        - Belgique (total de 2 récompenses)
+        - Pologne (total de 2 récompenses)
+        - Danemark (total de 3 récompenses)
+        - Japon (total de 5 récompenses)
+        - Suède (total de 5 récompenses)
+        - Royaume-Uni (total de 10 récompenses)
+        - Italie (total de 12 récompenses)
+        - France (total de 17 récompenses)
+        - États-Unis (total de 22 récompenses)
         directors_with_two_palms:
-          - "Francis Ford Coppola (Conversation secrète, Apocalypse Now)"
-          - "Bille August (Pelle le Conquérant, Les Meilleures Intentions)"
-          - "Shōhei Imamura (La Ballade de Narayama, L'Anguille)"
-          - "Emir Kusturica (Papa est en voyage d'affaires, Underground)"
-          - "Luc et Jean-Pierre Dardenne (Rosetta, L'Enfant)"
-          - "Michael Haneke (Le Ruban blanc, Amour)"
-          - "Ken Loach (Le vent se lève, Moi, Daniel Blake)"
-          - "Ruben Östlund (The Square, Sans filtre)"
+        - Francis Ford Coppola (Conversation secrète, Apocalypse Now)
+        - Bille August (Pelle le Conquérant, Les Meilleures Intentions)
+        - Shōhei Imamura (La Ballade de Narayama, L'Anguille)
+        - Emir Kusturica (Papa est en voyage d'affaires, Underground)
+        - Luc et Jean-Pierre Dardenne (Rosetta, L'Enfant)
+        - Michael Haneke (Le Ruban blanc, Amour)
+        - Ken Loach (Le vent se lève, Moi, Daniel Blake)
+        - Ruben Östlund (The Square, Sans filtre)
         multiple_awardises:
-          - "Emir Kusturica: prix de la mise en scène (Le Temps des Gitans), prix de l'Éducation nationale (La vie est un miracle)"
-          - "Jean-Pierre et Luc Dardenne: grand prix (Le Gamin au vélo), prix du scénario (Le Silence de Lorna)"
-          - "Michael Haneke: grand prix (La Pianiste), prix de la mise en scène (Caché)"
-          - "Ken Loach: prix du jury (Secret défense, Raining Stones, La Part des Anges), prix d'interprétation masculine (Peter Mullan pour My Name Is Joe), prix du scénario (Paul Laverty pour Sweet Sixteen)"
-          - "Marcello Mastroianni: Drame de la jalousie, Les Yeux noirs"
-          - "Dean Stockwell: Le Génie du mal, Long voyage vers la nuit"
-          - "Jack Lemmon: Missing, Le Syndrome chinois"
-          - "Isabelle Huppert: Violette Nozière, La Pianiste"
-          - "Helen Mirren: Cal, La Folie du roi George"
-          - "Barbara Hershey: Le Bayou, Un monde à part"
-          - "Vanessa Redgrave: Morgan, Isadora"
-          - "Isabelle Adjani: Possession, Quartet"
-          - "Isabelle Huppert (record de 20 films en sélection officielle)"
-          - "Ken Loach (17 sélections)"
-          - "Claude Lelouch (7 films sélectionnés)"
-          - "Federico Fellini, Carlos Saura (11 films sélectionnés)"
-          - "Ingmar Bergman, André Téchiné (10 films sélectionnés)"
-          - "Wim Wenders (9 films sélectionnés)"
-          - "Luis Buñuel (9 films sélectionnés)"
-          - "Michel Cacoyannis (9 films sélectionnés)"
-          - "Andrzej Wajda (9 films sélectionnés)"
-          - "Ettore Scola (9 films sélectionnés)"
+        - 'Emir Kusturica: prix de la mise en scène (Le Temps des Gitans), prix de
+          l''Éducation nationale (La vie est un miracle)'
+        - 'Jean-Pierre et Luc Dardenne: grand prix (Le Gamin au vélo), prix du scénario
+          (Le Silence de Lorna)'
+        - 'Michael Haneke: grand prix (La Pianiste), prix de la mise en scène (Caché)'
+        - 'Ken Loach: prix du jury (Secret défense, Raining Stones, La Part des Anges),
+          prix d''interprétation masculine (Peter Mullan pour My Name Is Joe), prix
+          du scénario (Paul Laverty pour Sweet Sixteen)'
+        - 'Marcello Mastroianni: Drame de la jalousie, Les Yeux noirs'
+        - 'Dean Stockwell: Le Génie du mal, Long voyage vers la nuit'
+        - 'Jack Lemmon: Missing, Le Syndrome chinois'
+        - 'Isabelle Huppert: Violette Nozière, La Pianiste'
+        - 'Helen Mirren: Cal, La Folie du roi George'
+        - 'Barbara Hershey: Le Bayou, Un monde à part'
+        - 'Vanessa Redgrave: Morgan, Isadora'
+        - 'Isabelle Adjani: Possession, Quartet'
+        - Isabelle Huppert (record de 20 films en sélection officielle)
+        - Ken Loach (17 sélections)
+        - Claude Lelouch (7 films sélectionnés)
+        - Federico Fellini, Carlos Saura (11 films sélectionnés)
+        - Ingmar Bergman, André Téchiné (10 films sélectionnés)
+        - Wim Wenders (9 films sélectionnés)
+        - Luis Buñuel (9 films sélectionnés)
+        - Michel Cacoyannis (9 films sélectionnés)
+        - Andrzej Wajda (9 films sélectionnés)
+        - Ettore Scola (9 films sélectionnés)
         winners:
-          - "Pacific Express (Union Pacific) par Cecil B. DeMille en provenance des États-Unis [1939]"
-          - "Tourments (Hets) par Alf Sjöberg en provenance de la Suède [1946]"
-          - "Le Poison (The Lost Weekend) par Billy Wilder en provenance des États-Unis [1946]"
-          - "La terre sera rouge (De Røde enge) par Bodil Ipsen et Lau Lauritzen Jr. en provenance du Danemark [1946]"
-          - "La Ville basse (नीचा नगर, Neecha Nagar) par Chetan Anand en provenance de l'Inde [1946]"
-          - "Brève Rencontre (Brief Encounter) par David Lean en provenance du Royaume-Uni [1946]"
-          - "María Candelaria par Emilio Fernández en provenance du Mexique [1946]"
-          - "Le Tournant décisif (Великий перелом, Velikiy perelom) par Fridrikh Ermler en provenance de l'URSS [1946]"
-          - "La Symphonie pastorale par Jean Delannoy en provenance de la France [1946]"
-          - "La Dernière Chance (Die letzte Chance) par Leopold Lindtberg en provenance de la Suisse [1946]"
-          - "Les Hommes sans ailes (Muži bez křídel) par František Čáp en provenance de la Tchécoslovaquie [1946]"
-          - "Rome, ville ouverte (Roma città aperta) par Roberto Rossellini en provenance de l'Italie [1946]"
-          - "Ziegfeld Follies par Vincente Minnelli en provenance des États-Unis [1947]"
-          - "Dumbo par Ben Sharpsteen en provenance des États-Unis [1947]"
-          - "Les Maudits par René Clément en provenance de la France [1947]"
-          - "Antoine et Antoinette par Jacques Becker en provenance de la France [1947]"
-          - "Feux croisés (Crossfire) par Edward Dmytryk en provenance des États-Unis [1947]"
-          - "Deuxième Guerre Mondiale par les Alliés et l'Axe en lieu et place de France [1948]"
-          - "Le Troisième Homme (The Third Man) par Carol Reed en provenance du Royaume-Uni [1949]"
-          - "Deuxième Guerre Mondiale par les Alliés et l'Axe en lieu et place de France [1950]"
-          - "Mademoiselle Julie (Fröken Julie) par Alf Sjöberg en provenance de la Suède [1951]"
-          - "Miracle à Milan (Miracolo a Milano) par Vittorio De Sica en provenance de l'Italie [1951]"
-          - "Othello (The Tragedy of Othello: The Moor of Venice) par Orson Welles en provenance des États-Unis [1952]"
-          - "Deux Sous d'espoir (Due soldi di speranza) par Renato Castellani en provenance de l'Italie [1952]"
-          - "Le Salaire de la peur par Henri-Georges Clouzot en provenance de la France [1953]"
-          - "La Porte de l'enfer (地獄門, Jigokumon) par Teinosuke Kinugasa en provenance du Japon [1954]"
-          - "Martyn par Delbert Mann en provenance des États-Unis [1955]"
-          - "Le Monde du silence par Jacques-Yves Cousteau et Louis Malle en provenance de la France [1956]"
-          - "La Loi du Seigneur (Friendly Persuasion) par William Wyler en provenance des États-Unis [1957]"
-          - "Quand passent les cigognes (Летят журавли, Letjât žuravli) par Mikhaïl Kalatozov en provenance de l'URSS [1958]"
-          - "Orfeu Negro par Marcel Camus en provenance de la France [1959]"
-          - "La dolce vita par Federico Fellini en provenance de l'Italie [1960]"
-          - "Une aussi longue absence par Henri Colpi en provenance de la France [1961]"
-          - "Viridiana par Luis Buñuel en provenance de l'Espagne [1961]"
-          - "La Parole donnée (O Pagador de Promessas) par Anselmo Duarte en provenance du Brésil [1962]"
-          - "Le Guépard (Il gattopardo) par Luchino Visconti en provenance de l'Italie [1963]"
-          - "Les Parapluies de Cherbourg par Jacques Demy en provenance de la France [1964]"
-          - "Le Knack... et comment l'avoir (The Knack... and How to Get It) par Richard Lester en provenance du Royaume-Uni [1965]"
-          - "Un homme et une femme par Claude Lelouch en provenance de la France [1966]"
-          - "Ces messieurs dames (Signore & signori) par Pietro Germi en provenance de l'Italie [1966]"
-          - "Blow-Up par Michelangelo Antonioni en provenance de l'Italie [1967]"
-          - "Rébellion! par Les Entitled Boomers en provenance de La Haute [1968]"
-          - "If.... par Lindsay Anderson en provenance du Royaume-Uni [1969]"
-          - "MASH par Robert Altman en provenance des États-Unis [1970]"
-          - "Le Messager (The Go-Between) par Joseph Losey en provenance du Royaume-Uni [1971]"
-          - "La classe ouvrière va au paradis (La classe operaia va in paradiso) par Elio Petri en provenance de l'Italie [1972]"
-          - "L'Affaire Mattei (Il caso Mattei) par Francesco Rosi en provenance de l'Italie [1972]"
-          - "La Méprise (The Hireling) par Alan Bridges en provenance du Royaume-Uni [1973]"
-          - "L'Épouvantail (Scarecrow) par Jerry Schatzberg en provenance des États-Unis [1973]"
-          - "Conversation secrète (The Conversation) par Francis Ford Coppola en provenance des États-Unis [1974]"
-          - "Chronique des années de braise (وقائع سنين الجمر, Waqa'i' sanawat ed-djamr) par Mohammed Lakhdar-Hamina en provenance de l'Algérie [1975]"
-          - "Taxi Driver par Martin Scorsese en provenance des États-Unis [1976]"
-          - "Padre padrone par Paolo et Vittorio Taviani en provenance de l'Italie [1977]"
-          - "L'Arbre aux sabots (L'albero degli zoccoli) par Ermanno Olmi en provenance de l'Italie [1978]"
-          - "Apocalypse Now par Francis Ford Coppola en provenance des États-Unis [1979]"
-          - "Le Tambour (Die Blechtrommel) par Volker Schlöndorff en provenance de l'Allemagne de l'Ouest [1979]"
-          - "Que le spectacle commence (All That Jazz) par Bob Fosse en provenance des États-Unis [1980]"
-          - "Kagemusha, l'Ombre du guerrier (影武者, Kagemusha) par Akira Kurosawa en provenance du Japon [1980]"
-          - "L'Homme de fer (Człowiek z żelaza) par Andrzej Wajda en provenance de la Pologne [1981]"
-          - "Missing par Costa-Gavras en provenance des États-Unis [1982]"
-          - "Yol, la permission (Yol) par Yılmaz Güney et Şerif Gören en provenance de la Turquie [1982]"
-          - "La Ballade de Narayama (楢山節考, Narayama bushiko) par Shōhei Imamura en provenance du Japon [1983]"
-          - "Paris, Texas par Wim Wenders en provenance de l'Allemagne de l'Ouest [1984]"
-          - "Papa est en voyage d'affaires (Отац на службеном путу, Otac na službenom putu) par Emir Kusturica en provenance de la Yougoslavie [1985]"
-          - "Mission (The Mission) par Roland Joffé en provenance du Royaume-Uni [1986]"
-          - "Sous le soleil de Satan par Maurice Pialat en provenance de la France [1987]"
-          - "Pelle le Conquérant (Pelle erobreren) par Bille August en provenance du Danemark [1988]"
-          - "Sexe, Mensonges et Vidéo (Sex, Lies, and Videotape) par Steven Soderbergh en provenance des États-Unis [1989]"
-          - "Sailor et Lula (Wild at Heart) par David Lynch en provenance des États-Unis [1990]"
-          - "Barton Fink par Joel Coen en provenance des États-Unis [1991]"
-          - "Les Meilleures Intentions (Den Goda viljan) par Bille August en provenance de la Suède [1992]"
-          - "Adieu ma concubine (霸王別姬, Bàwáng biéjī) par Chen Kaige en provenance de la Chine [1993]"
-          - "La Leçon de piano (The Piano) par Jane Campion en provenance de la Nouvelle-Zélande [1993]"
-          - "Pulp Fiction par Quentin Tarantino en provenance des États-Unis [1994]"
-          - "Underground (Подземље, Podzemlje) par Emir Kusturica en provenance de la République Fédérale de Yougoslavie [1995]"
-          - "Secrets et Mensonges (Secrets and Lies) par Mike Leigh en provenance du Royaume-Uni [1996]"
-          - "Le Goût de la cerise (طعم گیلاس, Ta'm-e gilās) par Abbas Kiarostami en provenance de l'Iran [1997]"
-          - "L'Anguille (うなぎ, Unagi) par Shōhei Imamura en provenance du Japon [1997]"
-          - "L'Éternité et Un Jour (Μια αιωνιότητα και μια μέρα, Mia eôniótêta kai mia méra) par Theo Angelopoulos en provenance de la Grèce [1998]"
-          - "Rosetta par Luc et Jean-Pierre Dardenne en provenance de la Belgique [1999]"
-          - "Dancer in the Dark par Lars von Trier en provenance du Danemark [2000]"
-          - "La Chambre du fils (La stanza del figlio) par Nanni Moretti en provenance de l'Italie [2001]"
-          - "Le Pianiste (The Pianist) par Roman Polanski en provenance de la Pologne [2002]"
-          - "Elephant par Gus Van Sant en provenance des États-Unis [2003]"
-          - "Fahrenheit 9/11 par Michael Moore en provenance des États-Unis [2004]"
-          - "L'Enfant par Luc et Jean-Pierre Dardenne en provenance de la Belgique [2005]"
-          - "Le vent se lève (The Wind That Shakes the Barley) par Ken Loach en provenance du Royaume-Uni [2006]"
-          - "4 mois, 3 semaines, 2 jours (4 luni, 3 săptămâni și 2 zile) par Cristian Mungiu en provenance de la Roumanie [2007]"
-          - "Entre les murs par Laurent Cantet en provenance de la France [2008]"
-          - "Le Ruban blanc (Das weiße Band) par Michael Haneke en provenance de l'Autriche [2009]"
-          - "Oncle Boonmee, celui qui se souvient de ses vies antérieures (ลุงบุญมีระลึกชาติ, Lung Boonmee raluek chat) par Apichatpong Weerasethakul en provenance de la Thaïlande [2010]"
-          - "The Tree of Life par Terrence Malick en provenance des États-Unis [2011]"
-          - "Amour par Michael Haneke en provenance de l'Autriche [2012]"
-          - "La Vie d'Adèle par Abdellatif Kechiche en provenance de la France [2013]"
-          - "Winter Sleep (Kış Uykusu) par Nuri Bilge Ceylan en provenance de la Turquie [2014]"
-          - "Dheepan par Jacques Audiard en provenance de la France [2015]"
-          - "Moi, Daniel Blake (I, Daniel Blake) par Ken Loach en provenance du Royaume-Uni [2016]"
-          - "The Square par Ruben Östlund en provenance de la Suède [2017]"
-          - "Le Livre d'image par Jean-Luc Godard en provenance de Suisse & France [2018]"
-          - "Une affaire de famille (万引き家族, Manbiki kazoku) par Hirokazu Kore-eda en provenance du Japon [2018]"
-          - "Parasite (기생충, Gisaengchung) par Bong Joon-ho en provenance de la Corée du Sud [2019]"
-          - "Covid-19 par WEF 🔑 en provenance de Bill & Melinda Gates' private island, Zanzibar en Tanzanie [2020]"
-          - "Titane par Julia Ducournau en provenance de la France [2021]"
-          - "Sans filtre (Triangle of Sadness) par Ruben Östlund en provenance de la Suède [2022]"
-          - "Anatomie d'une chute par Justine Triet en provenance de la France [2023]"
+        - Pacific Express (Union Pacific) par Cecil B. DeMille en provenance des États-Unis
+          [1939]
+        - Tourments (Hets) par Alf Sjöberg en provenance de la Suède [1946]
+        - Le Poison (The Lost Weekend) par Billy Wilder en provenance des États-Unis
+          [1946]
+        - La terre sera rouge (De Røde enge) par Bodil Ipsen et Lau Lauritzen Jr.
+          en provenance du Danemark [1946]
+        - La Ville basse (नीचा नगर, Neecha Nagar) par Chetan Anand en provenance de
+          l'Inde [1946]
+        - Brève Rencontre (Brief Encounter) par David Lean en provenance du Royaume-Uni
+          [1946]
+        - María Candelaria par Emilio Fernández en provenance du Mexique [1946]
+        - Le Tournant décisif (Великий перелом, Velikiy perelom) par Fridrikh Ermler
+          en provenance de l'URSS [1946]
+        - La Symphonie pastorale par Jean Delannoy en provenance de la France [1946]
+        - La Dernière Chance (Die letzte Chance) par Leopold Lindtberg en provenance
+          de la Suisse [1946]
+        - Les Hommes sans ailes (Muži bez křídel) par František Čáp en provenance
+          de la Tchécoslovaquie [1946]
+        - Rome, ville ouverte (Roma città aperta) par Roberto Rossellini en provenance
+          de l'Italie [1946]
+        - Ziegfeld Follies par Vincente Minnelli en provenance des États-Unis [1947]
+        - Dumbo par Ben Sharpsteen en provenance des États-Unis [1947]
+        - Les Maudits par René Clément en provenance de la France [1947]
+        - Antoine et Antoinette par Jacques Becker en provenance de la France [1947]
+        - Feux croisés (Crossfire) par Edward Dmytryk en provenance des États-Unis
+          [1947]
+        - Deuxième Guerre Mondiale par les Alliés et l'Axe en lieu et place de France
+          [1948]
+        - Le Troisième Homme (The Third Man) par Carol Reed en provenance du Royaume-Uni
+          [1949]
+        - Deuxième Guerre Mondiale par les Alliés et l'Axe en lieu et place de France
+          [1950]
+        - Mademoiselle Julie (Fröken Julie) par Alf Sjöberg en provenance de la Suède
+          [1951]
+        - Miracle à Milan (Miracolo a Milano) par Vittorio De Sica en provenance de
+          l'Italie [1951]
+        - 'Othello (The Tragedy of Othello: The Moor of Venice) par Orson Welles en
+          provenance des États-Unis [1952]'
+        - Deux Sous d'espoir (Due soldi di speranza) par Renato Castellani en provenance
+          de l'Italie [1952]
+        - Le Salaire de la peur par Henri-Georges Clouzot en provenance de la France
+          [1953]
+        - La Porte de l'enfer (地獄門, Jigokumon) par Teinosuke Kinugasa en provenance
+          du Japon [1954]
+        - Martyn par Delbert Mann en provenance des États-Unis [1955]
+        - Le Monde du silence par Jacques-Yves Cousteau et Louis Malle en provenance
+          de la France [1956]
+        - La Loi du Seigneur (Friendly Persuasion) par William Wyler en provenance
+          des États-Unis [1957]
+        - Quand passent les cigognes (Летят журавли, Letjât žuravli) par Mikhaïl Kalatozov
+          en provenance de l'URSS [1958]
+        - Orfeu Negro par Marcel Camus en provenance de la France [1959]
+        - La dolce vita par Federico Fellini en provenance de l'Italie [1960]
+        - Une aussi longue absence par Henri Colpi en provenance de la France [1961]
+        - Viridiana par Luis Buñuel en provenance de l'Espagne [1961]
+        - La Parole donnée (O Pagador de Promessas) par Anselmo Duarte en provenance
+          du Brésil [1962]
+        - Le Guépard (Il gattopardo) par Luchino Visconti en provenance de l'Italie
+          [1963]
+        - Les Parapluies de Cherbourg par Jacques Demy en provenance de la France
+          [1964]
+        - Le Knack... et comment l'avoir (The Knack... and How to Get It) par Richard
+          Lester en provenance du Royaume-Uni [1965]
+        - Un homme et une femme par Claude Lelouch en provenance de la France [1966]
+        - Ces messieurs dames (Signore & signori) par Pietro Germi en provenance de
+          l'Italie [1966]
+        - Blow-Up par Michelangelo Antonioni en provenance de l'Italie [1967]
+        - Rébellion! par Les Entitled Boomers en provenance de La Haute [1968]
+        - If.... par Lindsay Anderson en provenance du Royaume-Uni [1969]
+        - MASH par Robert Altman en provenance des États-Unis [1970]
+        - Le Messager (The Go-Between) par Joseph Losey en provenance du Royaume-Uni
+          [1971]
+        - La classe ouvrière va au paradis (La classe operaia va in paradiso) par
+          Elio Petri en provenance de l'Italie [1972]
+        - L'Affaire Mattei (Il caso Mattei) par Francesco Rosi en provenance de l'Italie
+          [1972]
+        - La Méprise (The Hireling) par Alan Bridges en provenance du Royaume-Uni
+          [1973]
+        - L'Épouvantail (Scarecrow) par Jerry Schatzberg en provenance des États-Unis
+          [1973]
+        - Conversation secrète (The Conversation) par Francis Ford Coppola en provenance
+          des États-Unis [1974]
+        - Chronique des années de braise (وقائع سنين الجمر, Waqa'i' sanawat ed-djamr)
+          par Mohammed Lakhdar-Hamina en provenance de l'Algérie [1975]
+        - Taxi Driver par Martin Scorsese en provenance des États-Unis [1976]
+        - Padre padrone par Paolo et Vittorio Taviani en provenance de l'Italie [1977]
+        - L'Arbre aux sabots (L'albero degli zoccoli) par Ermanno Olmi en provenance
+          de l'Italie [1978]
+        - Apocalypse Now par Francis Ford Coppola en provenance des États-Unis [1979]
+        - Le Tambour (Die Blechtrommel) par Volker Schlöndorff en provenance de l'Allemagne
+          de l'Ouest [1979]
+        - Que le spectacle commence (All That Jazz) par Bob Fosse en provenance des
+          États-Unis [1980]
+        - Kagemusha, l'Ombre du guerrier (影武者, Kagemusha) par Akira Kurosawa en provenance
+          du Japon [1980]
+        - L'Homme de fer (Człowiek z żelaza) par Andrzej Wajda en provenance de la
+          Pologne [1981]
+        - Missing par Costa-Gavras en provenance des États-Unis [1982]
+        - Yol, la permission (Yol) par Yılmaz Güney et Şerif Gören en provenance de
+          la Turquie [1982]
+        - La Ballade de Narayama (楢山節考, Narayama bushiko) par Shōhei Imamura en provenance
+          du Japon [1983]
+        - Paris, Texas par Wim Wenders en provenance de l'Allemagne de l'Ouest [1984]
+        - Papa est en voyage d'affaires (Отац на службеном путу, Otac na službenom
+          putu) par Emir Kusturica en provenance de la Yougoslavie [1985]
+        - Mission (The Mission) par Roland Joffé en provenance du Royaume-Uni [1986]
+        - Sous le soleil de Satan par Maurice Pialat en provenance de la France [1987]
+        - Pelle le Conquérant (Pelle erobreren) par Bille August en provenance du
+          Danemark [1988]
+        - Sexe, Mensonges et Vidéo (Sex, Lies, and Videotape) par Steven Soderbergh
+          en provenance des États-Unis [1989]
+        - Sailor et Lula (Wild at Heart) par David Lynch en provenance des États-Unis
+          [1990]
+        - Barton Fink par Joel Coen en provenance des États-Unis [1991]
+        - Les Meilleures Intentions (Den Goda viljan) par Bille August en provenance
+          de la Suède [1992]
+        - Adieu ma concubine (霸王別姬, Bàwáng biéjī) par Chen Kaige en provenance de
+          la Chine [1993]
+        - La Leçon de piano (The Piano) par Jane Campion en provenance de la Nouvelle-Zélande
+          [1993]
+        - Pulp Fiction par Quentin Tarantino en provenance des États-Unis [1994]
+        - Underground (Подземље, Podzemlje) par Emir Kusturica en provenance de la
+          République Fédérale de Yougoslavie [1995]
+        - Secrets et Mensonges (Secrets and Lies) par Mike Leigh en provenance du
+          Royaume-Uni [1996]
+        - Le Goût de la cerise (طعم گیلاس, Ta'm-e gilās) par Abbas Kiarostami en provenance
+          de l'Iran [1997]
+        - L'Anguille (うなぎ, Unagi) par Shōhei Imamura en provenance du Japon [1997]
+        - L'Éternité et Un Jour (Μια αιωνιότητα και μια μέρα, Mia eôniótêta kai mia
+          méra) par Theo Angelopoulos en provenance de la Grèce [1998]
+        - Rosetta par Luc et Jean-Pierre Dardenne en provenance de la Belgique [1999]
+        - Dancer in the Dark par Lars von Trier en provenance du Danemark [2000]
+        - La Chambre du fils (La stanza del figlio) par Nanni Moretti en provenance
+          de l'Italie [2001]
+        - Le Pianiste (The Pianist) par Roman Polanski en provenance de la Pologne
+          [2002]
+        - Elephant par Gus Van Sant en provenance des États-Unis [2003]
+        - Fahrenheit 9/11 par Michael Moore en provenance des États-Unis [2004]
+        - L'Enfant par Luc et Jean-Pierre Dardenne en provenance de la Belgique [2005]
+        - Le vent se lève (The Wind That Shakes the Barley) par Ken Loach en provenance
+          du Royaume-Uni [2006]
+        - 4 mois, 3 semaines, 2 jours (4 luni, 3 săptămâni și 2 zile) par Cristian
+          Mungiu en provenance de la Roumanie [2007]
+        - Entre les murs par Laurent Cantet en provenance de la France [2008]
+        - Le Ruban blanc (Das weiße Band) par Michael Haneke en provenance de l'Autriche
+          [2009]
+        - Oncle Boonmee, celui qui se souvient de ses vies antérieures (ลุงบุญมีระลึกชาติ,
+          Lung Boonmee raluek chat) par Apichatpong Weerasethakul en provenance de
+          la Thaïlande [2010]
+        - The Tree of Life par Terrence Malick en provenance des États-Unis [2011]
+        - Amour par Michael Haneke en provenance de l'Autriche [2012]
+        - La Vie d'Adèle par Abdellatif Kechiche en provenance de la France [2013]
+        - Winter Sleep (Kış Uykusu) par Nuri Bilge Ceylan en provenance de la Turquie
+          [2014]
+        - Dheepan par Jacques Audiard en provenance de la France [2015]
+        - Moi, Daniel Blake (I, Daniel Blake) par Ken Loach en provenance du Royaume-Uni
+          [2016]
+        - The Square par Ruben Östlund en provenance de la Suède [2017]
+        - Le Livre d'image par Jean-Luc Godard en provenance de Suisse & France [2018]
+        - Une affaire de famille (万引き家族, Manbiki kazoku) par Hirokazu Kore-eda en
+          provenance du Japon [2018]
+        - Parasite (기생충, Gisaengchung) par Bong Joon-ho en provenance de la Corée
+          du Sud [2019]
+        - "Covid-19 par WEF \U0001F511 en provenance de Bill & Melinda Gates' private
+          island, Zanzibar en Tanzanie [2020]"
+        - Titane par Julia Ducournau en provenance de la France [2021]
+        - Sans filtre (Triangle of Sadness) par Ruben Östlund en provenance de la
+          Suède [2022]
+        - Anatomie d'une chute par Justine Triet en provenance de la France [2023]
         box_office:
-          - "Le Troisième Homme (1949) : 5 701 000 entrées"
-          - "Miracle à Milan (1951) : 537 000 entrées"
-          - "Mademoiselle Julie (1951) : 554 000 entrées"
-          - "Othello (1952) : 1 041 000 entrées"
-          - "Le Salaire de la peur (1953) : 6 944 000 entrées"
-          - "La Porte de l'enfer (1954) : 1 213 000 entrées"
-          - "Marty (1955) : 907 000 entrées"
-          - "Le Monde du silence (1956) : 4 640 000 entrées"
-          - "La Loi du Seigneur (1957) : 3 051 000 entrées"
-          - "Quand passent les cigognes (1958) : 5 407 000 entrées"
-          - "Orfeu Negro (1959) : 3 690 000 entrées"
-          - "La dolce vita (1960) : 2 956 000 entrées"
-          - "Viridiana (1961) : 600 000 entrées"
-          - "La Parole donnée (1962) : 204 000 entrées"
-          - "Le Guépard (1963) : 3 649 000 entrées"
-          - "Les Parapluies de Cherbourg (1964) : 1 322 000 entrées"
-          - "Un homme et une femme (1966) : 4 269 000 entrées"
-          - "Ces messieurs dames (1966) : 178 000 entrées"
-          - "Blow-Up (1967) : 1 570 000 entrées"
-          - "If.... (1969) : 1 645 000 entrées"
-          - "M.A.S.H (1970) : 3 647 000 entrées"
-          - "Le Messager (1971) : 1 360 000 entrées"
-          - "La classe ouvrière va au paradis (1972) : 183 000 entrées"
-          - "L'Affaire Mattei (1972) : 616 000 entrées"
-          - "La Méprise (1973) : 198 000 entrées"
-          - "L'Épouvantail (1973) : 675 000 entrées"
-          - "Conversation secrète (1974) : 235 000 entrées"
-          - "Chronique des années de braise (1975) : 500 000 entrées"
-          - "Taxi Driver (1976) : 2 754 000 entrées"
-          - "Padre padrone (1977) : 999 000 entrées"
-          - "L'Arbre aux sabots (1978) : 1 352 000 entrées"
-          - "Apocalypse Now (1979) : 4 537 000 entrées"
-          - "Le Tambour (1979) : 1 959 000 entrées"
-          - "Que le spectacle commence (1980) : 694 000 entrées"
-          - "L'Homme de fer (1981) : 378 000 entrées"
-          - "Yol, la permission (1982) : 1 251 000 entrées"
-          - "Missing (1982) : 1 823 000 entrées"
-          - "La Ballade de Narayama (1983) : 844 077 entrées"
-          - "Paris, Texas (1984) : 2 019 000 entrées"
-          - "Papa est en voyage d'affaires (1985) : 571 247 entrées"
-          - "Mission (1986) : 2 511 000 entrées"
-          - "Sous le soleil de satan (1987) : 815 748 entrées"
-          - "Pelle le Conquérant (1988) : 622 000 entrées"
-          - "Sexe, Mensonges et Vidéo (1989) : 1 414 000 entrées"
-          - "Sailor et Lula (1990) : 935 000 entrées"
-          - "Barton Fink (1991) : 476 000 entrées"
-          - "Les Meilleures Intentions (1992) : 92 000 entrées"
-          - "Adieu ma concubine (1993) : 679 335 entrées"
-          - "La Leçon de piano (1993) : 2 633 996 entrées"
-          - "Pulp Fiction (1994) : 2 864 640 entrées"
-          - "Underground (1995) : 443 868 entrées"
-          - "Secrets et Mensonges (1996) : 1 490 009 entrées"
-          - "L'Anguille (1997) : 238 710 entrées"
-          - "Le Goût de la cerise (1997) : 161 507 entrées"
-          - "L'Éternité et Un Jour (1998) : 181 736 entrées"
-          - "Rosetta (1999) : 705 171 entrées"
-          - "Dancer in the Dark (2000) : 1 247 307 entrées"
-          - "La Chambre du fils (2001) : 799 280 entrées"
-          - "Le Pianiste (2002) : 1 594 548 entrées"
-          - "Elephant (2003) : 746 983 entrées"
-          - "Fahrenheit 9/11 (2004) : 2 378 455 entrées"
-          - "L'Enfant (2005) : 376 245 entrées"
-          - "Le Vent se lève (2006) : 907 836 entrées"
-          - "4 mois, 3 semaines, 2 jours (2007) : 328 846 entrées"
-          - "Entre les murs (2008) : 1 612 356 entrées"
-          - "Le Ruban blanc (2009) : 649 212 entrées"
-          - "Oncle Boonmee (2010) : 127 511 entrées"
-          - "The Tree of Life (2011) : 872 895 entrées"
-          - "Amour (2012) : 767 418 entrées"
-          - "La Vie d'Adèle (2013) : 1 036 811 entrées"
-          - "Winter Sleep (2014) : 360 028 entrées"
-          - "Dheepan (2015) : 662 146 entrées"
-          - "Moi, Daniel Blake (2016) : 953 349 entrées"
-          - "The Square (2017) : 351 302 entrées"
-          - "Une affaire de famille (2018) : 778 673 entrées"
-          - "Parasite (2019) : 1 884 582 entrées"
-          - "Titane (2021) : 303 610 entrées"
-          - "Sans filtre (2022) : 555 716 entrées"
-          - "Anatomie d'une chute (2023) : 1 289 214 entrées"
+        - 'Le Troisième Homme (1949) : 5 701 000 entrées'
+        - 'Miracle à Milan (1951) : 537 000 entrées'
+        - 'Mademoiselle Julie (1951) : 554 000 entrées'
+        - 'Othello (1952) : 1 041 000 entrées'
+        - 'Le Salaire de la peur (1953) : 6 944 000 entrées'
+        - 'La Porte de l''enfer (1954) : 1 213 000 entrées'
+        - 'Marty (1955) : 907 000 entrées'
+        - 'Le Monde du silence (1956) : 4 640 000 entrées'
+        - 'La Loi du Seigneur (1957) : 3 051 000 entrées'
+        - 'Quand passent les cigognes (1958) : 5 407 000 entrées'
+        - 'Orfeu Negro (1959) : 3 690 000 entrées'
+        - 'La dolce vita (1960) : 2 956 000 entrées'
+        - 'Viridiana (1961) : 600 000 entrées'
+        - 'La Parole donnée (1962) : 204 000 entrées'
+        - 'Le Guépard (1963) : 3 649 000 entrées'
+        - 'Les Parapluies de Cherbourg (1964) : 1 322 000 entrées'
+        - 'Un homme et une femme (1966) : 4 269 000 entrées'
+        - 'Ces messieurs dames (1966) : 178 000 entrées'
+        - 'Blow-Up (1967) : 1 570 000 entrées'
+        - 'If.... (1969) : 1 645 000 entrées'
+        - 'M.A.S.H (1970) : 3 647 000 entrées'
+        - 'Le Messager (1971) : 1 360 000 entrées'
+        - 'La classe ouvrière va au paradis (1972) : 183 000 entrées'
+        - 'L''Affaire Mattei (1972) : 616 000 entrées'
+        - 'La Méprise (1973) : 198 000 entrées'
+        - 'L''Épouvantail (1973) : 675 000 entrées'
+        - 'Conversation secrète (1974) : 235 000 entrées'
+        - 'Chronique des années de braise (1975) : 500 000 entrées'
+        - 'Taxi Driver (1976) : 2 754 000 entrées'
+        - 'Padre padrone (1977) : 999 000 entrées'
+        - 'L''Arbre aux sabots (1978) : 1 352 000 entrées'
+        - 'Apocalypse Now (1979) : 4 537 000 entrées'
+        - 'Le Tambour (1979) : 1 959 000 entrées'
+        - 'Que le spectacle commence (1980) : 694 000 entrées'
+        - 'L''Homme de fer (1981) : 378 000 entrées'
+        - 'Yol, la permission (1982) : 1 251 000 entrées'
+        - 'Missing (1982) : 1 823 000 entrées'
+        - 'La Ballade de Narayama (1983) : 844 077 entrées'
+        - 'Paris, Texas (1984) : 2 019 000 entrées'
+        - 'Papa est en voyage d''affaires (1985) : 571 247 entrées'
+        - 'Mission (1986) : 2 511 000 entrées'
+        - 'Sous le soleil de satan (1987) : 815 748 entrées'
+        - 'Pelle le Conquérant (1988) : 622 000 entrées'
+        - 'Sexe, Mensonges et Vidéo (1989) : 1 414 000 entrées'
+        - 'Sailor et Lula (1990) : 935 000 entrées'
+        - 'Barton Fink (1991) : 476 000 entrées'
+        - 'Les Meilleures Intentions (1992) : 92 000 entrées'
+        - 'Adieu ma concubine (1993) : 679 335 entrées'
+        - 'La Leçon de piano (1993) : 2 633 996 entrées'
+        - 'Pulp Fiction (1994) : 2 864 640 entrées'
+        - 'Underground (1995) : 443 868 entrées'
+        - 'Secrets et Mensonges (1996) : 1 490 009 entrées'
+        - 'L''Anguille (1997) : 238 710 entrées'
+        - 'Le Goût de la cerise (1997) : 161 507 entrées'
+        - 'L''Éternité et Un Jour (1998) : 181 736 entrées'
+        - 'Rosetta (1999) : 705 171 entrées'
+        - 'Dancer in the Dark (2000) : 1 247 307 entrées'
+        - 'La Chambre du fils (2001) : 799 280 entrées'
+        - 'Le Pianiste (2002) : 1 594 548 entrées'
+        - 'Elephant (2003) : 746 983 entrées'
+        - 'Fahrenheit 9/11 (2004) : 2 378 455 entrées'
+        - 'L''Enfant (2005) : 376 245 entrées'
+        - 'Le Vent se lève (2006) : 907 836 entrées'
+        - '4 mois, 3 semaines, 2 jours (2007) : 328 846 entrées'
+        - 'Entre les murs (2008) : 1 612 356 entrées'
+        - 'Le Ruban blanc (2009) : 649 212 entrées'
+        - 'Oncle Boonmee (2010) : 127 511 entrées'
+        - 'The Tree of Life (2011) : 872 895 entrées'
+        - 'Amour (2012) : 767 418 entrées'
+        - 'La Vie d''Adèle (2013) : 1 036 811 entrées'
+        - 'Winter Sleep (2014) : 360 028 entrées'
+        - 'Dheepan (2015) : 662 146 entrées'
+        - 'Moi, Daniel Blake (2016) : 953 349 entrées'
+        - 'The Square (2017) : 351 302 entrées'
+        - 'Une affaire de famille (2018) : 778 673 entrées'
+        - 'Parasite (2019) : 1 884 582 entrées'
+        - 'Titane (2021) : 303 610 entrées'
+        - 'Sans filtre (2022) : 555 716 entrées'
+        - 'Anatomie d''une chute (2023) : 1 289 214 entrées'
     wine:
       licocorico:
-          - "AOC Armagnac (Eau de vie de vin) [Armagnac]"
-          - "AOC Floc de Gascogne (Vin de liqueur) [Gascogne]"
-          - "AOC Bois Ordinaire (Eau de vie de vin) [Cognac]"
-          - "AOC Bons Bois (Eau de vie de vin) [Cognac]"
-          - "AOC Borderies (Eau de vie de vin) [Cognac]"
-          - "AOC Cognac (Eau de vie de vin) [Cognac]"
-          - "AOC Esprit de Cognac (Eau de vie de vin) [Cognac]"
-          - "AOC Fine Champagne (Eau de vie de vin) [Cognac]"
-          - "AOC Fine de Bourgogne (Eau de vie de vin) [Bourgogne]"
-          - "AOC Fins Bois (Eau de vie de vin) [Cognac]"
-          - "AOC Grande Champagne (Eau de vie de vin) [Cognac]"
-          - "AOC Martinique (Rhum agricole) [Martinique]"
-          - "AOC Macvin du Jura (Vin de liqueur) [Jura]"
-          - "AOC Petite Champagne (Eau de vie de vin) [Cognac]"
-          - "AOC Pineau des Charentes (Vin de liqueur) [Charente]"
-          - "AOC Pommeau de Bretagne (Apéritif à base de cidre) [Bretagne]"
-          - "AOC Pommeau de Normandie (Apéritif à base de cidre) [Normandie]"
-          - "AOC Pommeau du Maine (Apéritif à base de cidre) [Maine]"
-          - "AOC Calvados (Eau de vie de pomme) [Normandie]"
-          - "AOC Calvados Pays d'Auge (Eau de vie de pomme) [Normandie]"
-          - "AOC Calvados Domfrontais (Eau de vie de pomme) [Normandie]"
-          - "AOC Kirsch de Fougerolles (Eau de vie de cerise) [Franche-Comté]"
-          - "AOC Marc d'Alsace Gewurztraminer (Eau de vie de marc) [Alsace]"
-          - "AOC Marc de Bourgogne (Eau de vie de marc) [Bourgogne]"
-          - "AOC Eau-de-vie de cidre du Maine (Eau de vie de cidre) [Maine]"
-          - "AOC Marc du Jura (Eau de vie de marc) [Jura]"
-          - "AOC Mirabelle de Lorraine (Eau de vie de mirabelle) [Lorraine]"
+      - AOC Armagnac (Eau de vie de vin) [Armagnac]
+      - AOC Floc de Gascogne (Vin de liqueur) [Gascogne]
+      - AOC Bois Ordinaire (Eau de vie de vin) [Cognac]
+      - AOC Bons Bois (Eau de vie de vin) [Cognac]
+      - AOC Borderies (Eau de vie de vin) [Cognac]
+      - AOC Cognac (Eau de vie de vin) [Cognac]
+      - AOC Esprit de Cognac (Eau de vie de vin) [Cognac]
+      - AOC Fine Champagne (Eau de vie de vin) [Cognac]
+      - AOC Fine de Bourgogne (Eau de vie de vin) [Bourgogne]
+      - AOC Fins Bois (Eau de vie de vin) [Cognac]
+      - AOC Grande Champagne (Eau de vie de vin) [Cognac]
+      - AOC Martinique (Rhum agricole) [Martinique]
+      - AOC Macvin du Jura (Vin de liqueur) [Jura]
+      - AOC Petite Champagne (Eau de vie de vin) [Cognac]
+      - AOC Pineau des Charentes (Vin de liqueur) [Charente]
+      - AOC Pommeau de Bretagne (Apéritif à base de cidre) [Bretagne]
+      - AOC Pommeau de Normandie (Apéritif à base de cidre) [Normandie]
+      - AOC Pommeau du Maine (Apéritif à base de cidre) [Maine]
+      - AOC Calvados (Eau de vie de pomme) [Normandie]
+      - AOC Calvados Pays d'Auge (Eau de vie de pomme) [Normandie]
+      - AOC Calvados Domfrontais (Eau de vie de pomme) [Normandie]
+      - AOC Kirsch de Fougerolles (Eau de vie de cerise) [Franche-Comté]
+      - AOC Marc d'Alsace Gewurztraminer (Eau de vie de marc) [Alsace]
+      - AOC Marc de Bourgogne (Eau de vie de marc) [Bourgogne]
+      - AOC Eau-de-vie de cidre du Maine (Eau de vie de cidre) [Maine]
+      - AOC Marc du Jura (Eau de vie de marc) [Jura]
+      - AOC Mirabelle de Lorraine (Eau de vie de mirabelle) [Lorraine]
       region:
-          - "Vignoble d'Alsace (610M€ en ventes, 4.07€/bt en prix moyen, 3.91€/m² en rentabilité)"
-          - "Vignoble de Beaujolais (Informations de ventes non fournies)"
-          - "Vignoble de Bordelais (3740M€ en ventes, 5.19€/bt en prix moyen, 3.34€/m² en rentabilité)"
-          - "Vignoble de Bourgogne (1400M€ en ventes, 7.57€/bt en prix moyen, 4.94€/m² en rentabilité)"
-          - "Vignoble de Champagne (4500M€ en ventes, 14.66€/bt en prix moyen, 13.35€/m² en rentabilité)"
-          - "Vignoble de Corse (120M€ en ventes, 2.45€/bt en prix moyen, 1.71€/m² en rentabilité)"
-          - "Vignoble du Jura (Informations de ventes non fournies)"
-          - "Vignoble de Languedoc-Roussillon (2200M€ en ventes, 1.31€/bt en prix moyen, 0.97€/m² en rentabilité)"
-          - "Vignoble de Lorraine (Informations de ventes non fournies)"
-          - "Vignoble de Provence (610M€ en ventes, 3.3€/bt en prix moyen, 2.35€/m² en rentabilité)"
-          - "Vignoble de Savoie-Bugey (50M€ en ventes, 3.13€/bt en prix moyen, 2.2€/m² en rentabilité)"
-          - "Vignoble du Sud-Ouest (Informations de ventes non fournies)"
-          - "Vignoble du Val de Loire (1500M€ en ventes, 3.95€/bt en prix moyen, 2.31€/m² en rentabilité)"
-          - "Vignoble de la Vallée du Rhône (1470M€ en ventes, 3.91€/bt en prix moyen, 2.1€/m² en rentabilité)"
+      - Vignoble d'Alsace (610M€ en ventes, 4.07€/bt en prix moyen, 3.91€/m² en rentabilité)
+      - Vignoble de Beaujolais (Informations de ventes non fournies)
+      - Vignoble de Bordelais (3740M€ en ventes, 5.19€/bt en prix moyen, 3.34€/m²
+        en rentabilité)
+      - Vignoble de Bourgogne (1400M€ en ventes, 7.57€/bt en prix moyen, 4.94€/m²
+        en rentabilité)
+      - Vignoble de Champagne (4500M€ en ventes, 14.66€/bt en prix moyen, 13.35€/m²
+        en rentabilité)
+      - Vignoble de Corse (120M€ en ventes, 2.45€/bt en prix moyen, 1.71€/m² en rentabilité)
+      - Vignoble du Jura (Informations de ventes non fournies)
+      - Vignoble de Languedoc-Roussillon (2200M€ en ventes, 1.31€/bt en prix moyen,
+        0.97€/m² en rentabilité)
+      - Vignoble de Lorraine (Informations de ventes non fournies)
+      - Vignoble de Provence (610M€ en ventes, 3.3€/bt en prix moyen, 2.35€/m² en
+        rentabilité)
+      - Vignoble de Savoie-Bugey (50M€ en ventes, 3.13€/bt en prix moyen, 2.2€/m²
+        en rentabilité)
+      - Vignoble du Sud-Ouest (Informations de ventes non fournies)
+      - Vignoble du Val de Loire (1500M€ en ventes, 3.95€/bt en prix moyen, 2.31€/m²
+        en rentabilité)
+      - Vignoble de la Vallée du Rhône (1470M€ en ventes, 3.91€/bt en prix moyen,
+        2.1€/m² en rentabilité)
       type:
-          - Vin tranquille blanc (pression inférieure à 0,5 bar à 20°C)
-          - Vin tranquille rosé (pression inférieure à 0,5 bar à 20°C)
-          - Vin tranquille gris (pression inférieure à 0,5 bar à 20°C)
-          - Vin tranquille rouge (pression inférieure à 0,5 bar à 20°C)
-          - Vin effervescent blanc (l’effervescence résulte d’une fermentation alcoolique dans un récipient clos)
-          - Vin effervescent gris (l’effervescence résulte d’une fermentation alcoolique dans un récipient clos)
-          - Vin effervescent rosé (l’effervescence résulte d’une fermentation alcoolique dans un récipient clos)
-          - Vin effervescent rouge (l’effervescence résulte d’une fermentation alcoolique dans un récipient clos)
-          - Vin mousseux (effervescence résultant de fermentation alcoolique dans un récipient clos)
-          - Vin mousseux gazéifié (dégagement d’anhydride carbonique provenant totalement ou partiellement d’une addition de ce gaz)
-          - Vin pétillant (surpression due à l’anhydride carbonique endogène en solution)
-          - Vin sec (taux de sucre inférieur à 4 grammes par litre)
-          - Vin demi-sec (taux de sucre compris entre 4 et 12 grammes par litre)
-          - Vin moelleux (taux de sucre compris entre 12 et 45 grammes par litre)
-          - Vin doux (taux de sucre supérieur à 45 grammes par litre)
-          - Vin rouge (différent des vins blancs par la nature des cépages et la méthode d’élaboration)
-          - Vin rosé (provient de la macération de raisins à peau noire et à jus blanc)
-          - Vin orange (vin blanc vinifié de la même façon qu’un vin rouge, macération et oxydation donnent sa couleur orange)
+      - Vin tranquille blanc (pression inférieure à 0,5 bar à 20°C)
+      - Vin tranquille rosé (pression inférieure à 0,5 bar à 20°C)
+      - Vin tranquille gris (pression inférieure à 0,5 bar à 20°C)
+      - Vin tranquille rouge (pression inférieure à 0,5 bar à 20°C)
+      - Vin effervescent blanc (l’effervescence résulte d’une fermentation alcoolique
+        dans un récipient clos)
+      - Vin effervescent gris (l’effervescence résulte d’une fermentation alcoolique
+        dans un récipient clos)
+      - Vin effervescent rosé (l’effervescence résulte d’une fermentation alcoolique
+        dans un récipient clos)
+      - Vin effervescent rouge (l’effervescence résulte d’une fermentation alcoolique
+        dans un récipient clos)
+      - Vin mousseux (effervescence résultant de fermentation alcoolique dans un récipient
+        clos)
+      - Vin mousseux gazéifié (dégagement d’anhydride carbonique provenant totalement
+        ou partiellement d’une addition de ce gaz)
+      - Vin pétillant (surpression due à l’anhydride carbonique endogène en solution)
+      - Vin sec (taux de sucre inférieur à 4 grammes par litre)
+      - Vin demi-sec (taux de sucre compris entre 4 et 12 grammes par litre)
+      - Vin moelleux (taux de sucre compris entre 12 et 45 grammes par litre)
+      - Vin doux (taux de sucre supérieur à 45 grammes par litre)
+      - Vin rouge (différent des vins blancs par la nature des cépages et la méthode
+        d’élaboration)
+      - Vin rosé (provient de la macération de raisins à peau noire et à jus blanc)
+      - Vin orange (vin blanc vinifié de la même façon qu’un vin rouge, macération
+        et oxydation donnent sa couleur orange)
       name:
-        - "IGP Agenais"
-        - "IGP Alpes-de-Haute-Provence"
-        - "IGP Alpes-Maritimes"
-        - "IGP Alpilles"
-        - "IGP Ardèche"
-        - "IGP Ariège"
-        - "IGP Atlantique"
-        - "IGP Aude"
-        - "IGP Aveyron"
-        - "IGP Calvados"
-        - "IGP Cévennes"
-        - "IGP Charentais"
-        - "IGP Cité-de-Carcassonne"
-        - "IGP Collines-Rhodaniennes"
-        - "IGP Comtés-Rhodaniens"
-        - "IGP Comté-Tolosan"
-        - "IGP Coteaux-de-Béziers"
-        - "IGP Coteaux-de-Coiffy"
-        - "IGP Coteaux-de-Glanes"
-        - "IGP Coteaux-de-l'Ain"
-        - "IGP Coteaux-de-l'Auxois"
-        - "IGP Coteaux-de-Narbonne"
-        - "IGP Coteaux-d'Ensérune"
-        - "IGP Coteaux-de-Peyriac"
-        - "IGP Coteaux-des-Baronnies"
-        - "IGP Coteaux-de-Tannay"
-        - "IGP Coteaux-du-Cher-et-de-l'Arnon"
-        - "IGP Coteaux-du-Pont-du-Gard"
-        - "IGP Côtes-Catalanes"
-        - "IGP Côtes-de-Gascogne"
-        - "IGP Côtes-de-la-Charité"
-        - "IGP Côtes-de-Meuse"
-        - "IGP Côtes-de-Thau"
-        - "IGP Côtes-de-Thongue"
-        - "IGP Côtes-du-Lot"
-        - "IGP Côtes-du-Tarn"
-        - "IGP Côte-Vermeille"
-        - "IGP Drôme"
-        - "IGP Franche-Comté"
-        - "IGP Gard"
-        - "IGP Gers"
-        - "IGP Haute-Marne"
-        - "IGP Hautes-Alpes"
-        - "IGP Haute-Vallée-de-l'Aude"
-        - "IGP Haute-Vallée-de-l'Orb"
-        - "IGP Haute-Vienne"
-        - "IGP Île-de-Beauté"
-        - "IGP Isère"
-        - "IGP Landes"
-        - "IGP Lavalette"
-        - "IGP Languedoc"
-        - "IGP Lavilledieu"
-        - "IGP Le-Pays-Cathare"
-        - "IGP Maures"
-        - "IGP Méditerranée"
-        - "IGP Mont-Caume"
-        - "IGP Pays-de-Brive"
-        - "IGP Pays-des-Bouches-du-Rhône"
-        - "IGP Pays-d'Hérault"
-        - "IGP Pays-d'Oc"
-        - "IGP Périgord"
-        - "IGP Puy-de-Dôme"
-        - "IGP Sable-de-Camargue"
-        - "IGP Sainte-Marie-la-Blanche"
-        - "IGP Saint-Guilhem-le-Désert"
-        - "IGP Saône-et-Loire"
-        - "IGP Terres-du-Midi"
-        - "IGP Thézac-Perricard"
-        - "IGP Urfé"
-        - "IGP Val-de-Loire"
-        - "IGP Vallée-du-Paradis"
-        - "IGP Vallée-du-Torgan"
-        - "IGP Var"
-        - "IGP Vaucluse"
-        - "IGP Vicomté-d'Aumelas"
-        - "IGP Vin-des-Allobroges"
-        - "IGP Yonne"
-        - "AOC Alsace Grand Cru"
-        - "AOC Alsace"
-        - "AOC Crémant d'Alsace"
-        - "AOC Floc de Gascogne"
-        - "AOC Beaujolais"
-        - "AOC Beaujolais Villages"
-        - "AOC Brouilly"
-        - "AOC Chénas"
-        - "AOC Chiroubles"
-        - "AOC Côte de Brouilly"
-        - "AOC Fleurie"
-        - "AOC Juliénas"
-        - "AOC Morgon"
-        - "AOC Moulin-à-Vent"
-        - "AOC Régnié"
-        - "AOC Saint-Amour"
-        - "AOC Côtes de Bordeaux"
-        - "AOC Barsac"
-        - "AOC Blaye"
-        - "AOC Bordeaux"
-        - "AOC Bordeaux Supérieur"
-        - "AOC Cadillac"
-        - "AOC Canon Fronsac"
-        - "AOC Cérons"
-        - "AOC Côtes de Blaye"
-        - "AOC Côtes de Bordeaux-Saint-Macaire"
-        - "AOC Côtes de Bourg"
-        - "AOC Bourg et Bourgeais"
-        - "AOC Crémant de Bordeaux"
-        - "AOC Entre-deux-Mers"
-        - "AOC Fronsac"
-        - "AOC Graves"
-        - "AOC Graves de Vayres"
-        - "AOC Graves Supérieures"
-        - "AOC Haut-Médoc"
-        - "AOC Lalande-de-Pomerol"
-        - "AOC Listrac-Médoc"
-        - "AOC Loupiac Lussac-Saint-Emilion"
-        - "AOC Margaux"
-        - "AOC Médoc"
-        - "AOC Montagne-Saint-Emilion"
-        - "AOC Moulis"
-        - "AOC Neac"
-        - "AOC Pauillac"
-        - "AOC Pessac-Léognan"
-        - "AOC Pomerol"
-        - "AOC Premières Côtes de Bordeaux"
-        - "AOC Puisseguin-Saint-Emilion"
-        - "AOC Saint-Emilion"
-        - "AOC Saint-Emilion Grand Cru"
-        - "AOC Saint-Estèphe"
-        - "AOC Saint-Georges-Saint-Emilion"
-        - "AOC Saint-Julien"
-        - "AOC Sainte-Croix-du-Mont"
-        - "AOC Sainte-Foy-Bordeaux"
-        - "AOC Sauternes"
-        - "AOC Champagne"
-        - "AOC Coteaux Champenois"
-        - "AOC Rosé des Riceys"
-        - "AOC Pineau des Charentes"
-        - "AOC Arbois"
-        - "AOC Château-Chalon"
-        - "AOC Côtes du Jura"
-        - "AOC Crémant du Jura"
-        - "AOC L'Etoile"
-        - "AOC Macvin du Jura"
-        - "AOC Corbières-Boutenac"
-        - "AOC Banyuls"
-        - "AOC Banyuls Grand Cru"
-        - "AOC Cabardès"
-        - "AOC Clairette de Bellegarde"
-        - "AOC Clairette du Languedoc"
-        - "AOC Collioure"
-        - "AOC Corbières"
-        - "AOC Costières de Nîmes"
-        - "AOC Côtes du Roussillon"
-        - "AOC Côtes du Roussillon Villages"
-        - "AOC Crémant de Limoux"
-        - "AOC Faugères"
-        - "AOC Fitou"
-        - "AOC Grand Roussillon"
-        - "AOC Languedoc"
-        - "AOC Limoux Malepère"
-        - "AOC Maury Minervois"
-        - "AOC Minervois-La Livinière"
-        - "AOC Muscat de Frontignan"
-        - "AOC Muscat de Lunel"
-        - "AOC Muscat de Mireval"
-        - "AOC Muscat de Rivesaltes"
-        - "AOC Muscat de Saint-Jean-de-Minervois"
-        - "AOC Rivesaltes"
-        - "AOC Saint-Chinian"
-        - "AOC Anjou"
-        - "AOC Anjou Villages"
-        - "AOC Anjou Villages Brissac"
-        - "AOC Anjou-Coteaux de la Loire"
-        - "AOC Bonnezeaux"
-        - "AOC Bourgueil"
-        - "AOC Cabernet d'Anjou"
-        - "AOC Cabernet de Saumur"
-        - "AOC Châteaumeillant"
-        - "AOC Cheverny"
-        - "AOC Chinon"
-        - "AOC Côte Roannaise"
-        - "AOC Coteaux d'Ancenis"
-        - "AOC Coteaux de l'Aubance"
-        - "AOC Coteaux de Saumur"
-        - "AOC Coteaux du Giennois"
-        - "AOC Coteaux du Layon"
-        - "AOC Coteaux du Loir"
-        - "AOC Coteaux du Vendômois"
-        - "AOC Côtes d'Auvergne"
-        - "AOC Côtes du Forez"
-        - "AOC Cour-Cheverny"
-        - "AOC Crémant de Loire"
-        - "AOC Fiefs Vendéens"
-        - "AOC Gros Plant du Pays Nantais"
-        - "AOC Haut-Poitou"
-        - "AOC Jasnières"
-        - "AOC Menetou-Salon"
-        - "AOC Montlouis-sur-Loire"
-        - "AOC Muscadet"
-        - "AOC Muscadet Coteaux de la Loire"
-        - "AOC Muscadet Côtes de Grandlieu"
-        - "AOC Muscadet Sèvre et Maine"
-        - "AOC Orléans"
-        - "AOC Orléans-Cléry"
-        - "AOC Pouilly-Fumé"
-        - "AOC Pouilly-sur-Loire"
-        - "AOC Quarts de Chaume"
-        - "AOC Quincy"
-        - "AOC Reuilly"
-        - "AOC Rosé d'Anjou"
-        - "AOC Rosé de Loire"
-        - "AOC Saint-Nicolas-de-Bourgueil"
-        - "AOC Saint-Pourçain"
-        - "AOC Sancerre"
-        - "AOC Saumur"
-        - "AOC Saumur-Champigny"
-        - "AOC Savennières"
-        - "AOC Touraine"
-        - "AOC Touraine Noble Joué"
-        - "AOC Valençay"
-        - "AOC Vouvray"
-        - "AOC Côtes de Toul"
-        - "AOC Moselle"
-        - "AOC Ajaccio"
-        - "AOC Bandol"
-        - "AOC Bellet"
-        - "AOC Cassis"
-        - "AOC Coteaux d'Aix-en-Provence"
-        - "AOC Coteaux Varois en Provence"
-        - "AOC Côtes de Provence"
-        - "AOC Les Baux de Provence"
-        - "AOC Muscat du Cap Corse"
-        - "AOC Palette"
-        - "AOC Patrimonio"
-        - "AOC Pierrevert"
-        - "AOC Vin de Corse"
-        - "AOC Beaumes de Venise"
-        - "AOC Grignan-les-Adhémar"
-        - "AOC Vinsobres"
-        - "AOC Château-Grillet"
-        - "AOC Châteauneuf-du-Pape"
-        - "AOC Châtillon-en-Diois"
-        - "AOC Clairette de Die"
-        - "AOC Condrieu"
-        - "AOC Cornas"
-        - "AOC Côte Rôtie"
-        - "AOC Coteaux de Die"
-        - "AOC Coteaux du Lyonnais"
-        - "AOC Côtes du Rhône"
-        - "AOC Côtes du Rhône Villages"
-        - "AOC Côtes du Vivarais"
-        - "AOC Crémant de Die"
-        - "AOC Crozes-Hermitage"
-        - "AOC Gigondas"
-        - "AOC Hermitage"
-        - "AOC Lirac"
-        - "AOC Luberon"
-        - "AOC Muscat de Beaumes-de-Venise"
-        - "AOC Rasteau"
-        - "AOC Saint-Joseph"
-        - "AOC Saint-Péray"
-        - "AOC Tavel"
-        - "AOC Vacqueyras"
-        - "AOC Ventoux"
-        - "AOC Bugey"
-        - "AOC Roussette de Savoie"
-        - "AOC Roussette du Bugey"
-        - "AOC Seyssel"
-        - "AOC Vin de Savoie"
-        - "AOC Coteaux du Quercy"
-        - "AOC Béarn"
-        - "AOC Bergerac"
-        - "AOC Brulhois"
-        - "AOC Buzet"
-        - "AOC Cahors"
-        - "AOC Côtes de Bergerac"
-        - "AOC Côtes de Duras"
-        - "AOC Côtes de Millau"
-        - "AOC Côtes de Montravel"
-        - "AOC Côtes du Marmandais"
-        - "AOC Entraygues - Le Fel"
-        - "AOC Estaing"
-        - "AOC Fronton"
-        - "AOC Gaillac"
-        - "AOC Gaillac Premières Côtes"
-        - "AOC Haut-Montravel"
-        - "AOC Irouléguy"
-        - "AOC Jurançon"
-        - "AOC Madiran"
-        - "AOC Marcillac"
-        - "AOC Monbazillac"
-        - "AOC Montravel"
-        - "AOC Pacherenc du Vic-Bilh"
-        - "AOC Pécharmant"
-        - "AOC Rosette"
-        - "AOC Saint-Mont"
-        - "AOC Saint-Sardos"
-        - "AOC Saussignac"
-        - "AOC Tursan"
+      - IGP Agenais
+      - IGP Alpes-de-Haute-Provence
+      - IGP Alpes-Maritimes
+      - IGP Alpilles
+      - IGP Ardèche
+      - IGP Ariège
+      - IGP Atlantique
+      - IGP Aude
+      - IGP Aveyron
+      - IGP Calvados
+      - IGP Cévennes
+      - IGP Charentais
+      - IGP Cité-de-Carcassonne
+      - IGP Collines-Rhodaniennes
+      - IGP Comtés-Rhodaniens
+      - IGP Comté-Tolosan
+      - IGP Coteaux-de-Béziers
+      - IGP Coteaux-de-Coiffy
+      - IGP Coteaux-de-Glanes
+      - IGP Coteaux-de-l'Ain
+      - IGP Coteaux-de-l'Auxois
+      - IGP Coteaux-de-Narbonne
+      - IGP Coteaux-d'Ensérune
+      - IGP Coteaux-de-Peyriac
+      - IGP Coteaux-des-Baronnies
+      - IGP Coteaux-de-Tannay
+      - IGP Coteaux-du-Cher-et-de-l'Arnon
+      - IGP Coteaux-du-Pont-du-Gard
+      - IGP Côtes-Catalanes
+      - IGP Côtes-de-Gascogne
+      - IGP Côtes-de-la-Charité
+      - IGP Côtes-de-Meuse
+      - IGP Côtes-de-Thau
+      - IGP Côtes-de-Thongue
+      - IGP Côtes-du-Lot
+      - IGP Côtes-du-Tarn
+      - IGP Côte-Vermeille
+      - IGP Drôme
+      - IGP Franche-Comté
+      - IGP Gard
+      - IGP Gers
+      - IGP Haute-Marne
+      - IGP Hautes-Alpes
+      - IGP Haute-Vallée-de-l'Aude
+      - IGP Haute-Vallée-de-l'Orb
+      - IGP Haute-Vienne
+      - IGP Île-de-Beauté
+      - IGP Isère
+      - IGP Landes
+      - IGP Lavalette
+      - IGP Languedoc
+      - IGP Lavilledieu
+      - IGP Le-Pays-Cathare
+      - IGP Maures
+      - IGP Méditerranée
+      - IGP Mont-Caume
+      - IGP Pays-de-Brive
+      - IGP Pays-des-Bouches-du-Rhône
+      - IGP Pays-d'Hérault
+      - IGP Pays-d'Oc
+      - IGP Périgord
+      - IGP Puy-de-Dôme
+      - IGP Sable-de-Camargue
+      - IGP Sainte-Marie-la-Blanche
+      - IGP Saint-Guilhem-le-Désert
+      - IGP Saône-et-Loire
+      - IGP Terres-du-Midi
+      - IGP Thézac-Perricard
+      - IGP Urfé
+      - IGP Val-de-Loire
+      - IGP Vallée-du-Paradis
+      - IGP Vallée-du-Torgan
+      - IGP Var
+      - IGP Vaucluse
+      - IGP Vicomté-d'Aumelas
+      - IGP Vin-des-Allobroges
+      - IGP Yonne
+      - AOC Alsace Grand Cru
+      - AOC Alsace
+      - AOC Crémant d'Alsace
+      - AOC Floc de Gascogne
+      - AOC Beaujolais
+      - AOC Beaujolais Villages
+      - AOC Brouilly
+      - AOC Chénas
+      - AOC Chiroubles
+      - AOC Côte de Brouilly
+      - AOC Fleurie
+      - AOC Juliénas
+      - AOC Morgon
+      - AOC Moulin-à-Vent
+      - AOC Régnié
+      - AOC Saint-Amour
+      - AOC Côtes de Bordeaux
+      - AOC Barsac
+      - AOC Blaye
+      - AOC Bordeaux
+      - AOC Bordeaux Supérieur
+      - AOC Cadillac
+      - AOC Canon Fronsac
+      - AOC Cérons
+      - AOC Côtes de Blaye
+      - AOC Côtes de Bordeaux-Saint-Macaire
+      - AOC Côtes de Bourg
+      - AOC Bourg et Bourgeais
+      - AOC Crémant de Bordeaux
+      - AOC Entre-deux-Mers
+      - AOC Fronsac
+      - AOC Graves
+      - AOC Graves de Vayres
+      - AOC Graves Supérieures
+      - AOC Haut-Médoc
+      - AOC Lalande-de-Pomerol
+      - AOC Listrac-Médoc
+      - AOC Loupiac Lussac-Saint-Emilion
+      - AOC Margaux
+      - AOC Médoc
+      - AOC Montagne-Saint-Emilion
+      - AOC Moulis
+      - AOC Neac
+      - AOC Pauillac
+      - AOC Pessac-Léognan
+      - AOC Pomerol
+      - AOC Premières Côtes de Bordeaux
+      - AOC Puisseguin-Saint-Emilion
+      - AOC Saint-Emilion
+      - AOC Saint-Emilion Grand Cru
+      - AOC Saint-Estèphe
+      - AOC Saint-Georges-Saint-Emilion
+      - AOC Saint-Julien
+      - AOC Sainte-Croix-du-Mont
+      - AOC Sainte-Foy-Bordeaux
+      - AOC Sauternes
+      - AOC Champagne
+      - AOC Coteaux Champenois
+      - AOC Rosé des Riceys
+      - AOC Pineau des Charentes
+      - AOC Arbois
+      - AOC Château-Chalon
+      - AOC Côtes du Jura
+      - AOC Crémant du Jura
+      - AOC L'Etoile
+      - AOC Macvin du Jura
+      - AOC Corbières-Boutenac
+      - AOC Banyuls
+      - AOC Banyuls Grand Cru
+      - AOC Cabardès
+      - AOC Clairette de Bellegarde
+      - AOC Clairette du Languedoc
+      - AOC Collioure
+      - AOC Corbières
+      - AOC Costières de Nîmes
+      - AOC Côtes du Roussillon
+      - AOC Côtes du Roussillon Villages
+      - AOC Crémant de Limoux
+      - AOC Faugères
+      - AOC Fitou
+      - AOC Grand Roussillon
+      - AOC Languedoc
+      - AOC Limoux Malepère
+      - AOC Maury Minervois
+      - AOC Minervois-La Livinière
+      - AOC Muscat de Frontignan
+      - AOC Muscat de Lunel
+      - AOC Muscat de Mireval
+      - AOC Muscat de Rivesaltes
+      - AOC Muscat de Saint-Jean-de-Minervois
+      - AOC Rivesaltes
+      - AOC Saint-Chinian
+      - AOC Anjou
+      - AOC Anjou Villages
+      - AOC Anjou Villages Brissac
+      - AOC Anjou-Coteaux de la Loire
+      - AOC Bonnezeaux
+      - AOC Bourgueil
+      - AOC Cabernet d'Anjou
+      - AOC Cabernet de Saumur
+      - AOC Châteaumeillant
+      - AOC Cheverny
+      - AOC Chinon
+      - AOC Côte Roannaise
+      - AOC Coteaux d'Ancenis
+      - AOC Coteaux de l'Aubance
+      - AOC Coteaux de Saumur
+      - AOC Coteaux du Giennois
+      - AOC Coteaux du Layon
+      - AOC Coteaux du Loir
+      - AOC Coteaux du Vendômois
+      - AOC Côtes d'Auvergne
+      - AOC Côtes du Forez
+      - AOC Cour-Cheverny
+      - AOC Crémant de Loire
+      - AOC Fiefs Vendéens
+      - AOC Gros Plant du Pays Nantais
+      - AOC Haut-Poitou
+      - AOC Jasnières
+      - AOC Menetou-Salon
+      - AOC Montlouis-sur-Loire
+      - AOC Muscadet
+      - AOC Muscadet Coteaux de la Loire
+      - AOC Muscadet Côtes de Grandlieu
+      - AOC Muscadet Sèvre et Maine
+      - AOC Orléans
+      - AOC Orléans-Cléry
+      - AOC Pouilly-Fumé
+      - AOC Pouilly-sur-Loire
+      - AOC Quarts de Chaume
+      - AOC Quincy
+      - AOC Reuilly
+      - AOC Rosé d'Anjou
+      - AOC Rosé de Loire
+      - AOC Saint-Nicolas-de-Bourgueil
+      - AOC Saint-Pourçain
+      - AOC Sancerre
+      - AOC Saumur
+      - AOC Saumur-Champigny
+      - AOC Savennières
+      - AOC Touraine
+      - AOC Touraine Noble Joué
+      - AOC Valençay
+      - AOC Vouvray
+      - AOC Côtes de Toul
+      - AOC Moselle
+      - AOC Ajaccio
+      - AOC Bandol
+      - AOC Bellet
+      - AOC Cassis
+      - AOC Coteaux d'Aix-en-Provence
+      - AOC Coteaux Varois en Provence
+      - AOC Côtes de Provence
+      - AOC Les Baux de Provence
+      - AOC Muscat du Cap Corse
+      - AOC Palette
+      - AOC Patrimonio
+      - AOC Pierrevert
+      - AOC Vin de Corse
+      - AOC Beaumes de Venise
+      - AOC Grignan-les-Adhémar
+      - AOC Vinsobres
+      - AOC Château-Grillet
+      - AOC Châteauneuf-du-Pape
+      - AOC Châtillon-en-Diois
+      - AOC Clairette de Die
+      - AOC Condrieu
+      - AOC Cornas
+      - AOC Côte Rôtie
+      - AOC Coteaux de Die
+      - AOC Coteaux du Lyonnais
+      - AOC Côtes du Rhône
+      - AOC Côtes du Rhône Villages
+      - AOC Côtes du Vivarais
+      - AOC Crémant de Die
+      - AOC Crozes-Hermitage
+      - AOC Gigondas
+      - AOC Hermitage
+      - AOC Lirac
+      - AOC Luberon
+      - AOC Muscat de Beaumes-de-Venise
+      - AOC Rasteau
+      - AOC Saint-Joseph
+      - AOC Saint-Péray
+      - AOC Tavel
+      - AOC Vacqueyras
+      - AOC Ventoux
+      - AOC Bugey
+      - AOC Roussette de Savoie
+      - AOC Roussette du Bugey
+      - AOC Seyssel
+      - AOC Vin de Savoie
+      - AOC Coteaux du Quercy
+      - AOC Béarn
+      - AOC Bergerac
+      - AOC Brulhois
+      - AOC Buzet
+      - AOC Cahors
+      - AOC Côtes de Bergerac
+      - AOC Côtes de Duras
+      - AOC Côtes de Millau
+      - AOC Côtes de Montravel
+      - AOC Côtes du Marmandais
+      - AOC Entraygues - Le Fel
+      - AOC Estaing
+      - AOC Fronton
+      - AOC Gaillac
+      - AOC Gaillac Premières Côtes
+      - AOC Haut-Montravel
+      - AOC Irouléguy
+      - AOC Jurançon
+      - AOC Madiran
+      - AOC Marcillac
+      - AOC Monbazillac
+      - AOC Montravel
+      - AOC Pacherenc du Vic-Bilh
+      - AOC Pécharmant
+      - AOC Rosette
+      - AOC Saint-Mont
+      - AOC Saint-Sardos
+      - AOC Saussignac
+      - AOC Tursan
       bottle_types:
-        - Flûte d’Alsace (bouteille en verre cylindrique, col à profil allongé)
-        - Bouteille Clavelien (bouteille en verre à col court, contenance de 0,62 L, corps cylindrique surmonté de larges épaules)
-        - Bouteille Tokaj (bouteille en verre non coloré, cylindrique avec col allongé)
-        - Bouteille Cantil ou Bocksbeutel (bouteille en verre à col court, forme pansue et bombée, base ellipsoïde)
-        - Bouteille dîte "vins mousseux" (bouteille de 20cL en verre fermée avec bouchon champignon maintenu par une attache, couvert d’une plaquette et revêtu d’une feuille recouvrant la totalité du bouchon et, en tout ou partie, le col de la bouteille
-        - Bouteille classique (dispositif de contenance ≤ 0,20 litre utilisant une fermeture approprié commune)
+      - Flûte d’Alsace (bouteille en verre cylindrique, col à profil allongé)
+      - Bouteille Clavelien (bouteille en verre à col court, contenance de 0,62 L,
+        corps cylindrique surmonté de larges épaules)
+      - Bouteille Tokaj (bouteille en verre non coloré, cylindrique avec col allongé)
+      - Bouteille Cantil ou Bocksbeutel (bouteille en verre à col court, forme pansue
+        et bombée, base ellipsoïde)
+      - Bouteille dîte "vins mousseux" (bouteille de 20cL en verre fermée avec bouchon
+        champignon maintenu par une attache, couvert d’une plaquette et revêtu d’une
+        feuille recouvrant la totalité du bouchon et, en tout ou partie, le col de
+        la bouteille
+      - Bouteille classique (dispositif de contenance ≤ 0,20 litre utilisant une fermeture
+        approprié commune)
     creamerie:
       milk_type:
-        - "Lait de vache"
-        - "Lait de chèvre"
-        - "Lait de brebis"
-        - "Lais de chèvre et brebis"
+      - Lait de vache
+      - Lait de chèvre
+      - Lait de brebis
+      - Lais de chèvre et brebis
       butter:
         name:
-          - "Beurre Charentes-Poitou"
-          - "Beurre d'Isigny"
-          - "Beurre de Bresse"
-          - "Beurre des Charentes"
-          - "Beurre des Deux-Sèvres"
-          - "Beurre de Gournay"
-          - "Beurre de Vanves"
-          - "Beurre de Chartres"
-        type: 
-          - "Beurre clarifié (sans la caséine et le petit-lait, environ 2 % de la composition du beurre)"
-          - "Beurre aux noix"
-          - "Beurre d’anchois"
-          - "Beurre d'escargot"
-          - "Beurre d’estragon"
-          - "Beurre de crevettes"
-          - "Beurre de crustacés"
-          - "Beurre de lavande"
-          - "Beurre de moutarde"
-          - "Beurre de paprika"
-          - "Beurre de poivrons"
-          - "Beurre de roquefort"
-          - "Beurre de saumon fumé"
-          - "Beurre maître d'hôtel"
-          - "Beurre meunière"
-          - "Beurre ravigote"
-          - "Beurre d’orange"
-          - "Beurre blanc"
-          - "Beurre rouge"
-          - "Beurre noisette"
-          - "Beurre noir"
-          - "Beurre clarifié (sans la caséine et le petit-lait, environ 2 % de la composition du beurre)"
-          - "Beurre aux noix"
-          - "Beurre d’anchois"
-          - "Beurre d'escargot"
-          - "Beurre d’estragon"
-          - "Beurre de crevettes"
-          - "Beurre de crustacés"
-          - "Beurre de lavande"
-          - "Beurre de moutarde"
-          - "Beurre de paprika"
-          - "Beurre de poivrons"
-          - "Beurre de roquefort"
-          - "Beurre de saumon fumé"
-          - "Beurre maître d'hôtel"
-          - "Beurre meunière"
-          - "Beurre ravigote"
-          - "Beurre d’orange"
-          - "Beurre blanc"
-          - "Beurre rouge"
-          - "Beurre noisette"
-          - "Beurre noir"
+        - Beurre Charentes-Poitou
+        - Beurre d'Isigny
+        - Beurre de Bresse
+        - Beurre des Charentes
+        - Beurre des Deux-Sèvres
+        - Beurre de Gournay
+        - Beurre de Vanves
+        - Beurre de Chartres
+        type:
+        - Beurre clarifié (sans la caséine et le petit-lait, environ 2 % de la composition
+          du beurre)
+        - Beurre aux noix
+        - Beurre d’anchois
+        - Beurre d'escargot
+        - Beurre d’estragon
+        - Beurre de crevettes
+        - Beurre de crustacés
+        - Beurre de lavande
+        - Beurre de moutarde
+        - Beurre de paprika
+        - Beurre de poivrons
+        - Beurre de roquefort
+        - Beurre de saumon fumé
+        - Beurre maître d'hôtel
+        - Beurre meunière
+        - Beurre ravigote
+        - Beurre d’orange
+        - Beurre blanc
+        - Beurre rouge
+        - Beurre noisette
+        - Beurre noir
         top_producers:
-          - "N°1: États-Unis (892,801 t)"
-          - "N°2: Nouvelle-Zélande (502,000 t)"
-          - "N°3: Allemagne (484,047 t)"
-          - "N°4: France (352,400 t)"
-          - "N°5: Russie (257,883 t)"
-          - "N°6: Irlande (237,800 t)"
-          - "N°7: Turquie (215,431 t)"
-          - "N°8: Iran (183,125 t)"
-          - "N°9: Pologne (177,260 t)"
-          - "N°10: Mexique (153,674 t)"
-          - "N°11: Royaume-Uni (152,000 t)"
-          - "N°12: Canada (116,144 t)"
-          - "N°13: Biélorussie (115,199 t)"
-          - "N°14: Brésil (109,100 t)"
-          - "N°15: Ukraine (100,000 t)"
+        - 'N°1: États-Unis (892,801 t)'
+        - 'N°2: Nouvelle-Zélande (502,000 t)'
+        - 'N°3: Allemagne (484,047 t)'
+        - 'N°4: France (352,400 t)'
+        - 'N°5: Russie (257,883 t)'
+        - 'N°6: Irlande (237,800 t)'
+        - 'N°7: Turquie (215,431 t)'
+        - 'N°8: Iran (183,125 t)'
+        - 'N°9: Pologne (177,260 t)'
+        - 'N°10: Mexique (153,674 t)'
+        - 'N°11: Royaume-Uni (152,000 t)'
+        - 'N°12: Canada (116,144 t)'
+        - 'N°13: Biélorussie (115,199 t)'
+        - 'N°14: Brésil (109,100 t)'
+        - 'N°15: Ukraine (100,000 t)'
       cream:
-        - "Crème d'Isigny"
-        - "Crème de Bresse"
+      - Crème d'Isigny
+      - Crème de Bresse
       cheese:
-        type: 
-          - "P.M.C.N.: pâte molle croûte naturelle"
-          - "P.M.C.L.: pâte molle croûte lavée"
-          - "P.M.C.F.: pâte molle croûte fleurie"
-          - "P.P.: pâte persillée"
-          - "P.P.N.C.: pâte pressée non cuite"
-          - "P.P.C.: pâte pressée cuite"
-          - "F.F.: fromage frais"
-          - "F.f.: fromage fondu"
+        type:
+        - 'P.M.C.N.: pâte molle croûte naturelle'
+        - 'P.M.C.L.: pâte molle croûte lavée'
+        - 'P.M.C.F.: pâte molle croûte fleurie'
+        - 'P.P.: pâte persillée'
+        - 'P.P.N.C.: pâte pressée non cuite'
+        - 'P.P.C.: pâte pressée cuite'
+        - 'F.F.: fromage frais'
+        - 'F.f.: fromage fondu'
         name:
-          - "AOC Abondance"
-          - "AOC Banon"
-          - "AOC Beaufort"
-          - "AOC Bleu d'Auvergne"
-          - "AOC Bleu de Gex"
-          - "AOC Bleu des Causses"
-          - "AOC Bleu du Vercors-Sassenage"
-          - "AOC Brie de Meaux"
-          - "AOC Brie de Melun"
-          - "AOC Brocciu"
-          - "AOC Brousse du Rove"
-          - "AOC Camembert de Normandie"
-          - "AOC Cantal"
-          - "AOC Chabichou du Poitou"
-          - "AOC Chaource"
-          - "AOC Charolais"
-          - "AOC Chevrotin"
-          - "AOC Comté"
-          - "AOC Crottin de Chavignol"
-          - "AOC Époisses"
-          - "AOC Fourme d'Ambert"
-          - "AOC Fourme de Montbrison"
-          - "AOC Laguiole"
-          - "AOC Langres"
-          - "AOC Livarot"
-          - "AOC Mâconnais"
-          - "AOC Maroilles"
-          - "AOC Mont d'Or"
-          - "AOC Morbier"
-          - "AOC Munster"
-          - "AOC Neufchâtel"
-          - "AOC Ossau-Iraty"
-          - "AOC Pélardon"
-          - "AOC Picodon"
-          - "AOC Pont-l'Évêque"
-          - "AOC Pouligny-Saint-Pierre"
-          - "AOC Reblochon"
-          - "AOC Rigotte de Condrieu"
-          - "AOC Rocamadour"
-          - "AOC Roquefort"
-          - "AOC Saint-Nectaire"
-          - "AOC Sainte-Maure-de-Touraine"
-          - "AOC Salers"
-          - "AOC Selles-sur-Cher"
-          - "AOC Tome des Bauges"
-          - "AOC Valençay"
+        - AOC Abondance
+        - AOC Banon
+        - AOC Beaufort
+        - AOC Bleu d'Auvergne
+        - AOC Bleu de Gex
+        - AOC Bleu des Causses
+        - AOC Bleu du Vercors-Sassenage
+        - AOC Brie de Meaux
+        - AOC Brie de Melun
+        - AOC Brocciu
+        - AOC Brousse du Rove
+        - AOC Camembert de Normandie
+        - AOC Cantal
+        - AOC Chabichou du Poitou
+        - AOC Chaource
+        - AOC Charolais
+        - AOC Chevrotin
+        - AOC Comté
+        - AOC Crottin de Chavignol
+        - AOC Époisses
+        - AOC Fourme d'Ambert
+        - AOC Fourme de Montbrison
+        - AOC Laguiole
+        - AOC Langres
+        - AOC Livarot
+        - AOC Mâconnais
+        - AOC Maroilles
+        - AOC Mont d'Or
+        - AOC Morbier
+        - AOC Munster
+        - AOC Neufchâtel
+        - AOC Ossau-Iraty
+        - AOC Pélardon
+        - AOC Picodon
+        - AOC Pont-l'Évêque
+        - AOC Pouligny-Saint-Pierre
+        - AOC Reblochon
+        - AOC Rigotte de Condrieu
+        - AOC Rocamadour
+        - AOC Roquefort
+        - AOC Saint-Nectaire
+        - AOC Sainte-Maure-de-Touraine
+        - AOC Salers
+        - AOC Selles-sur-Cher
+        - AOC Tome des Bauges
+        - AOC Valençay
         region:
-          - "Val d'Abondance (Haute-Savoie)"
-          - "Haute-Provence (Alpes-de-Haute-Provence, Hautes-Alpes, Var et Vaucluse)"
-          - "Beaufortain, la Maurienne et la Tarentaise, une partie du Val d'Arly (Savoie et Haute-Savoie)"
-          - "Puy-de-Dôme, Cantal, Haute-Loire, Aveyron, Corrèze, Lot et Lozère"
-          - "Haut-Jura (Ain et Jura)"
-          - "Sud du Massif central (Aveyron, Lot et Lozère)"
-          - "Plateau du Vercors (Drôme et Isère)"
-          - "Aube, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, et Yonne"
-          - "Seine-et-Marne, Aube et Yonne"
-          - "Haute-Corse et Corse-du-Sud"
-          - "Bouches-du-Rhône"
-          - "Normandie (Calvados, Eure, Manche, Orne et Seine-Maritime)"
-          - "Aveyron, Cantal, Corrèze, et Puy-de-Dôme"
-          - "Vienne, Deux-Sèvres et Charente"
-          - "Aube et Yonne"
-          - "Rhône, Saône-et-Loire, Loire et Allier"
-          - "Massifs du Mont-Blanc, du Chablais, des Aravis et des Bauges (Haute-Savoie et Savoie)"
-          - "Massif jurassien (Jura, Doubs, Ain) ainsi que Saône-et-Loire et Haute-Savoie"
-          - "Cher, Loiret et Nièvre"
-          - "Côte-d'Or, Haute-Marne et Yonne"
-          - "Puy-de-Dôme, Cantal et Loire"
-          - "Loire et Puy-de-Dôme"
-          - "Massif de l’Aubrac (Aveyron, Cantal et Lozère)"
-          - "Haute-Marne, Vosges et Côte-d'Or"
-          - "Calvados et Orne"
-          - "Saône-et-Loire"
-          - "Aisne et Nord"
-          - "Doubs"
-          - "Massif jurassien (Ain, Doubs, Jura et Saône-et-Loire)"
-          - "Bas-Rhin, Haut-Rhin, Meurthe-et-Moselle, Moselle, Haute-Saône, Territoire de Belfort et Vosges"
-          - "Pays de Bray (Seine-Maritime et Oise)"
-          - "Pyrénées-Atlantiques et Hautes-Pyrénées"
-          - "Aude, Gard, Hérault, Lozère, Tarn"
-          - "Ardèche, Drôme et canton de Valréas (Vaucluse)"
-          - "Normandie (Calvados, Eure, Manche, Orne et Seine-Maritime) et Mayenne"
-          - "Indre"
-          - "Savoie et Haute-Savoie"
-          - "Loire et Rhône"
-          - "Aveyron, Corrèze, Dordogne, Lot et Tarn-et-Garonne"
-          - "Aude, Aveyron, Gard, Hérault, Lozère et Tarn"
-          - "Cantal et Puy-de-Dôme"
-          - "Indre, Indre-et-Loire, Loir-et-Cher et Vienne"
-          - "Aveyron, Cantal, Corrèze, Haute-Loire et Puy-de-Dôme"
-          - "Cher, Indre et Loir-et-Cher"
-          - "Savoie et Haute-Savoie"
-          - "Cher, Indre, Indre-et-Loire et Loir-et-Cher"
+        - Val d'Abondance (Haute-Savoie)
+        - Haute-Provence (Alpes-de-Haute-Provence, Hautes-Alpes, Var et Vaucluse)
+        - Beaufortain, la Maurienne et la Tarentaise, une partie du Val d'Arly (Savoie
+          et Haute-Savoie)
+        - Puy-de-Dôme, Cantal, Haute-Loire, Aveyron, Corrèze, Lot et Lozère
+        - Haut-Jura (Ain et Jura)
+        - Sud du Massif central (Aveyron, Lot et Lozère)
+        - Plateau du Vercors (Drôme et Isère)
+        - Aube, Loiret, Marne, Haute-Marne, Meuse, Seine-et-Marne, et Yonne
+        - Seine-et-Marne, Aube et Yonne
+        - Haute-Corse et Corse-du-Sud
+        - Bouches-du-Rhône
+        - Normandie (Calvados, Eure, Manche, Orne et Seine-Maritime)
+        - Aveyron, Cantal, Corrèze, et Puy-de-Dôme
+        - Vienne, Deux-Sèvres et Charente
+        - Aube et Yonne
+        - Rhône, Saône-et-Loire, Loire et Allier
+        - Massifs du Mont-Blanc, du Chablais, des Aravis et des Bauges (Haute-Savoie
+          et Savoie)
+        - Massif jurassien (Jura, Doubs, Ain) ainsi que Saône-et-Loire et Haute-Savoie
+        - Cher, Loiret et Nièvre
+        - Côte-d'Or, Haute-Marne et Yonne
+        - Puy-de-Dôme, Cantal et Loire
+        - Loire et Puy-de-Dôme
+        - Massif de l’Aubrac (Aveyron, Cantal et Lozère)
+        - Haute-Marne, Vosges et Côte-d'Or
+        - Calvados et Orne
+        - Saône-et-Loire
+        - Aisne et Nord
+        - Doubs
+        - Massif jurassien (Ain, Doubs, Jura et Saône-et-Loire)
+        - Bas-Rhin, Haut-Rhin, Meurthe-et-Moselle, Moselle, Haute-Saône, Territoire
+          de Belfort et Vosges
+        - Pays de Bray (Seine-Maritime et Oise)
+        - Pyrénées-Atlantiques et Hautes-Pyrénées
+        - Aude, Gard, Hérault, Lozère, Tarn
+        - Ardèche, Drôme et canton de Valréas (Vaucluse)
+        - Normandie (Calvados, Eure, Manche, Orne et Seine-Maritime) et Mayenne
+        - Indre
+        - Savoie et Haute-Savoie
+        - Loire et Rhône
+        - Aveyron, Corrèze, Dordogne, Lot et Tarn-et-Garonne
+        - Aude, Aveyron, Gard, Hérault, Lozère et Tarn
+        - Cantal et Puy-de-Dôme
+        - Indre, Indre-et-Loire, Loir-et-Cher et Vienne
+        - Aveyron, Cantal, Corrèze, Haute-Loire et Puy-de-Dôme
+        - Cher, Indre et Loir-et-Cher
+        - Savoie et Haute-Savoie
+        - Cher, Indre, Indre-et-Loire et Loir-et-Cher

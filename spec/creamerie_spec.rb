@@ -1,7 +1,7 @@
 require 'spec_helper'
-require 'faussaire/cheese'
+require 'faussaire/creamerie'
 
-RSpec.describe Faussaire::Cheese do
+RSpec.describe Faussaire::Creamerie do
     it 'exists' do 
         puts "Hello world!"
     end

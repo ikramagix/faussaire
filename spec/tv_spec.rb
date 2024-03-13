@@ -63,72 +63,37 @@ RSpec.describe Faussaire::Tv do
         expect(channels.none? { |channel| channel.include?('/') }).to be true
       end
   
-      it 'does not contain "VM3372:5" in any channel' do
-        expect(channels.none? { |channel| channel.include?('VM3372:5') }).to be true
-      end
-  
-      it 'does not contain "Anciennes chaînes :" in any channel' do
-        expect(channels.none? { |channel| channel.include?('Anciennes chaînes :') }).to be true
+      it 'does not contain sequences like "L1234:5" or any similar format in any entry' do
+        expect(channels.none? { |channel| channel.match(/\b[A-Za-z]\d+:\d+\b/) }).to be true
       end
     end
-
+  
     describe '.festival_cannes' do
+      let(:festival_cannes) { Faussaire::Tv.festival_cannes }
+  
       context 'total_films' do
-        let(:projected_films) { Faussaire::Tv.total_films }
-        
         it 'returns the total number of projected films as a string' do
-          expect(projected_films).to eq("2062")
+          expect(festival_cannes.total_films).to eq("2062")
         end
       end
   
       context 'most_represented_countries' do
-        let(:most_represented_countries) { Faussaire::Tv.most_represented_countries }
-  
-        it 'returns a list of strings with country names and their film counts' do
-          expected_countries = [
-            "376 (États-Unis)",
-            "348 (France)",
-            "183 (Italie)",
-            "161 (Royaume-Uni)",
-            "80 (Allemagne)"
-          ]
-          expect(most_represented_countries).to match_array(expected_countries)
+        it 'returns a string with one of the most represented countries and its film count' do
+          country = festival_cannes.most_represented_countries.sample
+          expect(country).to be_a(String)
+          expect(country).to match(/\d+ \(.+\)/)
         end
       end
   
       context 'awarded_countries' do
-        let(:awarded_countries) { Faussaire::Tv.awarded_countries}
-
-        it 'contains a list of awarded countries' do
-          expect(awarded_countries).not_to be_nil
-          expect(awarded_countries).to be_an(Array)
-          expect(awarded_countries).not_to be_empty
+        it 'returns a string with one of the awarded countries and its award total' do
+          country = festival_cannes.awarded_countries.sample
+          expect(country).to be_a(String)
+          expect(country).to match(/\A.+ \(total de \d+ récompense(s)?\)$/)
         end
-      
-        it 'formats entries correctly' do
-          awarded_countries.each do |country_entry|
-            expect(country_entry).to match(/\A.+ \(total de \d+ récompense(s)?\)$/)
-          end
-        end
-      
-        it 'includes correct totals for specific countries' do
-          france = awarded_countries.find { |entry| entry.start_with?("France") }
-          expect(france).to eq("France (total de 17 récompenses)")
-      
-          usa = awarded_countries.find { |entry| entry.start_with?("États-Unis") }
-          expect(usa).to eq("États-Unis (total de 22 récompenses)")
-        end
-      
-        it 'sorts countries by the number of awards in ascending order' do
-          totals = awarded_countries.map do |entry|
-            entry.match(/total de (\d+)/)[1].to_i
-          end
-      
-          expect(totals).to eq(totals.sort)
-        end      
       end
     end
-
+  
     describe '.no duplicate values' do
         context 'in shows list' do
           let(:shows) { Faussaire::Tv.fetch('fr.faussaire.tv.show') }

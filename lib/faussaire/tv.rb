@@ -4,9 +4,44 @@ module Faussaire
   class Tv
     DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
 
+    module FestivalCannes
+      class << self
+        def total_films
+          festival_cannes_data['total_films'].first
+        end
+
+        def most_represented_countries
+          festival_cannes_data['most_represented_countries'].sample
+        end
+
+        def awarded_countries
+          festival_cannes_data['awarded_countries'].sample
+        end
+
+        def directors_with_two_palms
+          festival_cannes_data['directors_with_two_palms'].sample
+        end
+        
+        private
+
+        def festival_cannes_data
+          fetch('fr.faussaire.tv.festival_cannes')
+        end
+
+        def fetch(key)
+          data = YAML.load_file(Faussaire::Tv::DATA_PATH)
+          data.dig(*key.split('.'))
+        end
+      end
+    end
+
     def self.fetch(key)
-    data = YAML.load_file(DATA_PATH)
-    data.dig(*key.split('.'))
+      data = YAML.load_file(DATA_PATH)
+      data.dig(*key.split('.'))
+    end
+
+    def self.festival_cannes
+      FestivalCannes
     end
 
     def self.show
@@ -23,18 +58,6 @@ module Faussaire
 
     def self.channel
       fetch('fr.faussaire.tv.channel').sample
-    end
-
-    def self.total_films
-      fetch('fr.faussaire.tv.festival_cannes.total_films').first
-    end
-
-    def self.most_represented_countries
-      fetch('fr.faussaire.tv.festival_cannes.most_represented_countries')
-    end
-
-    def self.awarded_countries
-      fetch('fr.faussaire.tv.festival_cannes.awarded_countries')
     end
   end
 end

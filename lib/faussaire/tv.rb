@@ -30,6 +30,10 @@ module Faussaire
           festival_cannes_data['winners'].sample
         end
 
+        def box_office
+          festival_cannes_data['box_office'].sample
+        end
+
         private
 
         def festival_cannes_data

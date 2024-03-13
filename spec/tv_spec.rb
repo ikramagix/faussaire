@@ -68,31 +68,39 @@ RSpec.describe Faussaire::Tv do
       end
     end
   
-    describe '.festival_cannes' do
-      let(:festival_cannes) { Faussaire::Tv.festival_cannes }
-  
-      context 'total_films' do
-        it 'returns the total number of projected films as a string' do
-          expect(festival_cannes.total_films).to eq("2062")
-        end
+  describe '.festival_cannes' do
+    let(:festival_cannes) { Faussaire::Tv.festival_cannes }
+
+    context 'total_films' do
+      it 'returns the total number of projected films as a string' do
+        expect(festival_cannes.total_films).to eq("2062")
       end
-  
-      context 'most_represented_countries' do
-        it 'returns a string with one of the most represented countries and its film count' do
-          country = festival_cannes.most_represented_countries.sample
-          expect(country).to be_a(String)
-          expect(country).to match(/\d+ \(.+\)/)
-        end
+    end
+
+    context 'most_represented_countries' do
+      it 'returns a string with one of the most represented countries and its film count' do
+        country = festival_cannes.most_represented_countries
+        expect(country).to match(/\d+ \(.+\)/)
       end
-  
-      context 'awarded_countries' do
-        it 'returns a string with one of the awarded countries and its award total' do
-          country = festival_cannes.awarded_countries.sample
-          expect(country).to be_a(String)
-          expect(country).to match(/\A.+ \(total de \d+ récompense(s)?\)$/)
+    end
+
+    context 'awarded_countries' do
+      it 'returns a string with one of the awarded countries and its award total' do
+        country = festival_cannes.awarded_countries
+        expect(country).to match(/\A.+ \(total de \d+ récompense(s)?\)$/)
+      end
+    end
+
+    context 'winners' do
+      it 'ends with a year in brackets within the range 1939 to 2023 (10 samples)' do
+        10.times do
+          winner = festival_cannes.winners 
+          expect(winner).to match(/\[(19[3-9]\d|20[0-1]\d|202[0-3])\]$/)
         end
       end
     end
+  end
+
   
     describe '.no duplicate values' do
         context 'in shows list' do

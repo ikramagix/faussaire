@@ -21,7 +21,15 @@ module Faussaire
         def directors_with_two_palms
           festival_cannes_data['directors_with_two_palms'].sample
         end
-        
+
+        def multiple_awardises
+          festival_cannes_data['multiple_awardises'].sample
+        end
+
+        def winners
+          festival_cannes_data['winners'].sample
+        end
+
         private
 
         def festival_cannes_data

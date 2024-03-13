@@ -73,8 +73,8 @@ RSpec.describe Faussaire::Tv do
     end
 
     describe '.festival_cannes' do
-      context 'projected_films' do
-        let(:projected_films) { Faussaire::Tv.projected_films }
+      context 'total_films' do
+        let(:projected_films) { Faussaire::Tv.total_films }
         
         it 'returns the total number of projected films as a string' do
           expect(projected_films).to eq("2062")
@@ -96,20 +96,36 @@ RSpec.describe Faussaire::Tv do
         end
       end
   
-      context 'palms_by_country' do
-        let(:palms_by_country) { Faussaire::Tv.palms_by_country }
-  
-        it 'returns a list of strings with country names and their Palme d’Or counts' do
-          expected_palms = [
-            "16 (États-Unis)",
-            "9 (Italie)",
-            "8 (France)",
-            "7 (Royaume-Uni)",
-            "3 (Japon)",
-            "3 (Danemark)"
-          ]
-          expect(palms_by_country).to match_array(expected_palms)
+      context 'awarded_countries' do
+        let(:awarded_countries) { Faussaire::Tv.awarded_countries}
+
+        it 'contains a list of awarded countries' do
+          expect(awarded_countries).not_to be_nil
+          expect(awarded_countries).to be_an(Array)
+          expect(awarded_countries).not_to be_empty
         end
+      
+        it 'formats entries correctly' do
+          awarded_countries.each do |country_entry|
+            expect(country_entry).to match(/\A.+ \(total de \d+ récompense(s)?\)$/)
+          end
+        end
+      
+        it 'includes correct totals for specific countries' do
+          france = awarded_countries.find { |entry| entry.start_with?("France") }
+          expect(france).to eq("France (total de 17 récompenses)")
+      
+          usa = awarded_countries.find { |entry| entry.start_with?("États-Unis") }
+          expect(usa).to eq("États-Unis (total de 22 récompenses)")
+        end
+      
+        it 'sorts countries by the number of awards in ascending order' do
+          totals = awarded_countries.map do |entry|
+            entry.match(/total de (\d+)/)[1].to_i
+          end
+      
+          expect(totals).to eq(totals.sort)
+        end      
       end
     end
 

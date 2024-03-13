@@ -81,6 +81,10 @@ module Faussaire
         "#{euros}.99€"
       end
 
+      def licocorico
+        fetch('fr.faussaire.wine.licocorico').sample
+      end
+
       private
 
       def fetch(key)

@@ -49,12 +49,10 @@ RSpec.describe Faussaire::Wine do
     
     describe '.name' do
         it 'demonstrates randomness by returning a diverse set of names' do
-          # Generate a large number of names
           names = Array.new(98) { Faussaire::Wine.name }
           
-          # Check for a reasonable number of unique names to assert randomness
           unique_names = names.uniq
-          expect(unique_names.size).to be > 20 # Arbitrary threshold, adjust based on expected diversity
+          expect(unique_names.size).to be > 20
         end
       end
       

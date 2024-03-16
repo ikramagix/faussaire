@@ -7,6 +7,10 @@ require_relative 'faussaire/address'
 require_relative 'faussaire/ancien'
 require_relative 'faussaire/bizness'
 require_relative 'faussaire/tv'
+require_relative 'faussaire/wine'
+require_relative 'faussaire/creamerie'
+require_relative 'faussaire/gardinerie'
+require_relative 'faussaire/'
 
 
 module Faussaire

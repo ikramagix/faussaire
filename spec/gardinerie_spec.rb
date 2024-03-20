@@ -27,6 +27,12 @@ RSpec.describe Faussaire::Gardinerie do
         expect(Faussaire::Gardinerie.rival_plant).to be_a(String)
       end
     end
+
+    describe '.bang_bang_plant' do
+      it 'returns a string' do
+        expect(Faussaire::Gardinerie.bang_bang_plant).to be_a(String)
+      end
+    end
   
     describe '.very_naughty_plant' do
       it 'returns a string' do

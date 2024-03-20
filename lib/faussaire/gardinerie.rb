@@ -30,15 +30,27 @@ module Faussaire
       end
 
       ##
-      # Produces a random name of a harmful weed (for agriculture) or a carnivorous plant.
+      # Produces a random name of a harmful weed (harmful for agriculture).
       #
       # @return [String]
       #
       # @example
-      #   Faussaire::Gardinerie.rival_plant #=> "Drosera : pièges à mucilage avec feuilles et poils qui s'enroulent autour des proies"
+      #   Faussaire::Gardinerie.rival_plant #=> "Cuscuta campestris de la famille des Convolvulaceae, parasite sur diverses plantes cultivées, notamment les Fabaceae, répartition cosmopolite"
       #
       def rival_plant
         fetch('fr.faussaire.gardinerie.rival_plant').sample
+      end
+
+      ##
+      # Produces a random name of a carnivorous plant.
+      #
+      # @return [String]
+      #
+      # @example
+      #   Faussaire::Gardinerie.bang_bang_plant #=> "Drosera : pièges à mucilage avec feuilles et poils qui s'enroulent autour des proies"
+      #
+      def bang_bang_plant
+        fetch('fr.faussaire.gardinerie.bang_bang_plant').sample
       end
 
       ##

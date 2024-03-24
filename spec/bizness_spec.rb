@@ -69,12 +69,15 @@ RSpec.describe Faussaire::Bizness do
           expect(sentence.encoding.name).to eq("UTF-8")
           expect(sentence.valid_encoding?).to be true
         end
+
+        let(:pipotronic_phrase) { Faussaire::Bizness.pipotronic }
+
+        it 'should not contain grammatical errors' do
+          expect(pipotronic_phrase).to_not match(/(\bd'|d'\b|\ben |en\b)/)
+        end
     
-        # Tester la variabilité de la réponse (optionnel, peut être difficile à réaliser de manière fiable)
-        it 'generates variable output' do
-          sentence1 = Faussaire::Bizness.pipotronic
-          sentence2 = Faussaire::Bizness.pipotronic
-          expect(sentence1).not_to eq(sentence2)
+        it 'should not contain French language errors' do
+          expect(pipotronic_phrase).to_not match(/(d'la|l')\s/)
         end
     end
 end

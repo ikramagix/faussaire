@@ -86,5 +86,5 @@ RSpec.describe Faussaire::Gardinerie do
       end
     end
   end
-  end
+end
   

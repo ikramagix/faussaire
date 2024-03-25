@@ -39,5 +39,15 @@ RSpec.describe Faussaire::Gardinerie do
         expect(Faussaire::Gardinerie.very_naughty_plant).to be_a(String)
       end
     end
+    describe '.no duplicate values' do
+      context 'in vegetable list' do
+        let(:vegetables) { Faussaire::Gardinerie.send(:fetch, 'fr.faussaire.gardinerie.potager') }
+
+        it 'does not contain duplicates' do
+          duplicates = vegetables.select { |item| vegetables.count(item) > 1 }.uniq
+          expect(duplicates).to be_empty, "Found duplicates in vegetables : #{duplicates.join(', ')}"
+          end
+      end
+    end
   end
   

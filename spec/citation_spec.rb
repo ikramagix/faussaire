@@ -17,6 +17,11 @@ RSpec.describe Faussaire::Citation do
           expect(quote).not_to match(/\s{2,}/), "Found multiple consecutive spaces in quote: #{quote}"
         end
       end
+
+      it 'does not contain empty strings' do
+        empty_quotes = philoquotes.select { |quote| quote.empty? }
+        expect(empty_quotes).to be_empty, "Found empty strings in philosophy quotes"
+      end
     end
 
     context 'in proverbs list' do
@@ -31,6 +36,11 @@ RSpec.describe Faussaire::Citation do
         proverbs.each do |proverb|
           expect(proverb).not_to match(/\s{2,}/), "Found multiple consecutive spaces in proverb: #{proverb}"
         end
+      end
+      
+      it 'does not contain empty strings' do
+        empty_proverbs = proverbs.select { |proverb| proverb.empty? }
+        expect(empty_proverbs).to be_empty, "Found empty strings in proverbs"
       end
     end
   end

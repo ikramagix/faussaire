@@ -69,7 +69,7 @@ RSpec.describe Faussaire::Name do
     end
 
     it 'returns unique names when called multiple times' do
-      names = 3.times.map { Faussaire::Name.name }
+      names = 15.times.map { Faussaire::Name.name }
 
       expect(names).to all(be_a(String)).and all(be_truthy)
       expect(names).to eq(names.uniq)

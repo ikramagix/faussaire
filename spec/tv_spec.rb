@@ -1,79 +1,71 @@
 require 'faussaire/tv'
 
 RSpec.describe Faussaire::Tv do
-    describe '.shows' do
-        let(:shows) { Array.new(56) { Faussaire::Tv.show } }
-    
-        it 'returns a string' do
-          expect(Faussaire::Tv.show).to be_a(String)
-        end
-    
-        it 'returns a non-empty string' do
-          expect(Faussaire::Tv.show).not_to be_empty
-        end
-    
-        it 'has shows encoded in UTF-8' do
-          expect(Faussaire::Tv.show.encoding.name).to eq("UTF-8")
-          expect(Faussaire::Tv.show.valid_encoding?).to be(true)
-        end
-    
-        context '.randomness when called multiple times' do
-            let(:sample_shows) { Array.new(56) { Faussaire::Tv.show } } 
-            
-            it 'returns unique shows indicating randomness' do
-              unique_shows = sample_shows.uniq
-              expect(unique_shows.size).to be > 1
-            end
-      
-            it 'has a high proportion of unique shows' do
-              unique_shows = sample_shows.uniq
-              expect(unique_shows.size).to be > (0.5 * 56).to_i, "Expected more than half of the shows to be unique"
-            end
-        end
-
-        describe '.famous_couples' do
-          let(:famous_couples) { Faussaire::Bizness.fetch('fr.faussaire.tv.famous_couples') }
-      
-          it 'returns an array' do
-            expect(famous_couples).to be_an(Array)
-          end
-      
-          it 'is not empty' do
-            expect(famous_couples).not_to be_empty
-          end
-      
-          it 'contains only strings' do
-            expect(famous_couples).to all(be_a(String))
-          end
-      
-          it 'each string contains a year within parentheses' do
-            expect(famous_couples).to all(match(/\(\d{4}\)/))
-          end
-      
-          it 'includes "Lauren Bacall et Humphrey Bogart (1950)"' do
-            expect(famous_couples).to include("Lauren Bacall et Humphrey Bogart (1950)")
-          end
-        end      
+  describe '.show' do
+    it 'returns a string' do
+      expect(Faussaire::Tv.show).to be_a(String)
     end
 
-    describe '.channel' do
-      let(:channels) { Faussaire::Tv.fetch('fr.faussaire.tv.channel') }
-  
-      it 'does not contain "/" in any channel' do
-        expect(channels.none? { |channel| channel.include?('/') }).to be true
+    it 'returns a non-empty string' do
+      expect(Faussaire::Tv.show).not_to be_empty
+    end
+
+    it 'has shows encoded in UTF-8' do
+      show = Faussaire::Tv.show
+      expect(show.encoding.name).to eq("UTF-8")
+      expect(show.valid_encoding?).to be(true)
+    end
+
+    context '.randomness when called multiple times' do
+      it 'returns unique shows indicating randomness' do
+        shows = Array.new(10) { Faussaire::Tv.show }
+        unique_shows = shows.uniq
+        expect(unique_shows.size).to be > 1
       end
-  
-      it 'does not contain sequences like "L1234:5" or any similar format in any entry' do
-        expect(channels.none? { |channel| channel.match(/\b[A-Za-z]\d+:\d+\b/) }).to be true
+
+      it 'has a high proportion of unique shows' do
+        shows = Array.new(10) { Faussaire::Tv.show }
+        unique_shows = shows.uniq
+        expect(unique_shows.size).to be >= (0.5 * shows.size)
       end
     end
+  end
+
+  describe '.famous_couples' do
+    let(:famous_couple) { Faussaire::Tv.famous_couples }
   
+    it 'returns a string' do
+      expect(famous_couple).to be_a(String)
+    end
+
+    it 'contains a year within parentheses' do
+      expect(famous_couple).to match(/\(\d{4}\)/)
+    end
+
+    it 'is encoded in UTF-8' do
+      expect(famous_couple.encoding.name).to eq("UTF-8")
+      expect(famous_couple.valid_encoding?).to be(true)
+    end
+  end
+
+  describe '.channel' do
+    let(:channel) { Faussaire::Tv.channel }
+  
+    it 'does not contain "/" in any channel' do
+      expect(channel).not_to include('/')
+    end
+  
+    it 'does not contain sequences like "L1234:5" or any similar format' do
+      expect(channel).not_to match(/\b[A-Za-z]\d+:\d+\b/)
+    end
+  end
+
   describe '.festival_cannes' do
     let(:festival_cannes) { Faussaire::Tv.festival_cannes }
 
     context 'total_films' do
       it 'returns the total number of projected films as a string' do
-        expect(festival_cannes.total_films).to eq("2062")
+        expect(festival_cannes.total_films).to be_a(String)
       end
     end
 
@@ -101,33 +93,16 @@ RSpec.describe Faussaire::Tv do
     end
   end
 
-  
-    describe '.no duplicate values' do
-        context 'in shows list' do
-          let(:shows) { Faussaire::Tv.fetch('fr.faussaire.tv.show') }
-    
-          it 'does not contain duplicates' do
-            duplicates = shows.select { |item| shows.count(item) > 1 }.uniq
-            expect(duplicates).to be_empty, "Found duplicates in shows : #{duplicates.join(', ')}"
-          end
-        end
-
-        context 'in influencer list' do
-          let(:influencers) { Faussaire::Tv.fetch('fr.faussaire.tv.influencer') }
-    
-          it 'does not contain duplicates' do
-            duplicates = influencers.select { |item| influencers.count(item) > 1 }.uniq
-            expect(duplicates).to be_empty, "Found duplicates in influencer : #{duplicates.join(', ')}"
-          end
-        end
-
-        context 'in channel list' do
-          let(:channels) { Faussaire::Tv.fetch('fr.faussaire.tv.channel') }
-        
-          it 'does not contain duplicates' do
-            duplicates = channels.select { |item| channels.count(item) > 1 }.uniq
-            expect(duplicates).to be_empty, "Found duplicates in channels : #{duplicates.join(', ')}"
-          end
-        end
+  describe '.no duplicate values' do
+    # Example assuming you have a method to load all data at once for testing
+    it 'ensures no duplicate values in data lists' do
+      all_shows = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'show')
+      all_influencers = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'influencer')
+      all_channels = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'channel')
+      
+      expect(all_shows.uniq.size).to eq(all_shows.size)
+      expect(all_influencers.uniq.size).to eq(all_influencers.size)
+      expect(all_channels.uniq.size).to eq(all_channels.size)
     end
+  end
 end

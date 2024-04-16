@@ -4,13 +4,30 @@ module Faussaire
   class Bizness
     DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
 
+    ##
+    # Fetches and optionally samples data based on the provided key.
+    # If the fetched data is an array, it samples a single item,
+    # otherwise returns the data directly.
+    #
+    # @param key [String] The dot-separated key used to access the data.
+    # @return [Object, nil] The data fetched and optionally sampled.
+    #
     def self.fetch(key)
-    data = YAML.load_file(DATA_PATH)
-    data.dig(*key.split('.'))
+      data = YAML.load_file(DATA_PATH)
+      result = data.dig(*key.split('.'))
+      result.is_a?(Array) ? result.sample : result
     end
 
+    ##
+    # Produces a random brand name.
+    #
+    # @return [String]
+    #
+    # @example
+    #   Faussaire::Bizness.brands #=> "Apple"
+    #
     def self.brands
-      fetch('fr.faussaire.bizness.brands').sample
+      fetch('fr.faussaire.bizness.brands')
     end
 
     def self.load_dico

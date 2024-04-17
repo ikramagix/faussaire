@@ -150,7 +150,7 @@ module Faussaire
       # @return [String] The full address in a standard format.
       #
       # @example
-      #   Faussaire::Address.full_address #=> "42 Rue du Bac, 75007 Paris, Île-de-France"
+      #   Faussaire::Address.full_address #=> "3 Rue du Bac, 75007 Paris, Tarn (44), Région Nouvelle-Aquitaine"
       #
       def full_address
         number = random_street_number

@@ -45,36 +45,68 @@ Here are a complete overview of Faussaire's diversity when it comes to generatin
 ```ruby
 ```
 
+### Ancien (ancien.rb)
+
+The `Faussaire::Ancien` module provides functionality for generating names and terms associated with historical figures, mythical creatures, and ancient words. It's perfect for content creation in areas such as gaming, storytelling, and educational applications that require historical figures, mythical creatures, or ancient words.
+
+```ruby
+# Generate a mythical creature name
+
+puts Faussaire::Ancien.creature  
+## "Phoenix"
+```
+
+```ruby
+# Generate a historical figure name
+
+puts Faussaire::Ancien.historic_figure  
+## "Napoléon Bonaparte"
+```
+
+```ruby
+# Retrieve an ancient French word
+
+puts Faussaire::Ancien.words  
+## "liberté"
+```
+
 ### Address (address.rb)
+
+The Faussaire::Address module allows for the generation of realistic and detailed French addresses. This can be particularly useful for testing, simulations, and any application needing valid location data.
 
 ```ruby
 # Generate a random city name in France
-puts Faussaire::Address.city  # e.g., "Marseille"
+
+puts Faussaire::Address.city  
+## "Marseille"
 
 # Generate a random street name
-puts Faussaire::Address.street_name  # e.g., "Rue de Rivoli"
+
+puts Faussaire::Address.street_name  
+## "Rue de Rivoli"
 
 # Generate a complete random address
+
 puts Faussaire::Address.full_address
-
-# e.g., "49 Boulevard Pierre Cabanne, 86000 Bavincourt, Deux-Sèvres (76), Région Hauts-de-France"
-
+## "49 Boulevard Pierre Cabanne, 86000 Bavincourt, Deux-Sèvres (76), Région Hauts-de-France"
 ```
 
 ### Name (name.rb)
 
+The Faussaire::Name module generates authentic French names. It can be used for character creation in games, population of databases with realistic names, or any other application requiring random name generation.
+
 ```ruby
 # Generate a random French female first name
-puts Faussaire::Name.female_first_name  # e.g., "Élise"
+puts Faussaire::Name.female_first_name  # "Élise"
 
 # Generate a random French male first name
-puts Faussaire::Name.male_first_name  # e.g., "Régis"
+puts Faussaire::Name.male_first_name  # "Régis"
 
 # Generate a random French family name
-puts Faussaire::Name.family_name  # e.g., "Dupont"
+puts Faussaire::Name.family_name  # "Dupont"
 
 # Generate a random French full name
-puts Faussaire::Name.name  # Outputs: "Pauline Rey"
+puts Faussaire::Name.name  # "Pauline Rey"
 ```
 
 ## Development

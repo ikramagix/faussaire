@@ -1,45 +1,124 @@
 # Faussaire
 
-Une alternative made in France à la gem "Faker" remise au goût du jour avec des propositions plus crédibles.
+**Faussaire** is a modern alternative to the popular Faker gem in Ruby, tailored for more local-specific data generation. It supports French, Greek, and a minimalistic version in English named Globish, offering more realistic and culturally relevant data generation for developers.
 
-Elle prend en charge le français, le grec et une version plus minimaliste en anglais.
+## Why using Faussaire if Faker already exists ?
 
-## Pourquoi j'ai commencé Faussaire :
+**Faussaire** was developed with specific goals in mind:
 
-- 🇫🇷 : Proposer des données plus complètes pour un rendu plus réaliste. Le rendu parfois générique de Faker ne rendait pas justice à la splendeur de la langue française. C'est aussi une occasion de faire découvrir notre patrimoine culturel au monde entier.
-- 🇬🇷 : Trop souvent délaissée à cause de son alphabet, elle est pourtant parlée par 15 millions de personnes.
-- 🌍: Il est devenu indispensable d'avoir une alternative "globish", qui puisse s'adapter aux locales quand c'est pertinent (addresses par exemple) mais reste en anglais pour le reste.
-
-TODO: Delete this and the text below, and describe your gem
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/faussaire`. To experiment with that code, run `bin/console` for an interactive prompt.
+- 🇫🇷 **French:** To provide comprehensive and realistic French data, improving upon the sometimes generic output of Faker. This effort also aims to showcase French cultural heritage to a global audience.
+- 🇬🇷 **Greek:** Despite being spoken by 15 million people, Greek is often overlooked due to its unique alphabet. **Faussaire** includes support for Greek to address this gap.
+- 🌍 **Globish:** In an increasingly globalized world, a "globish" approach is essential. **Faussaire** offers localized data where relevant while maintaining English to ensure broad usability.
 
 ## Installation
 
-TODO: Replace `UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG` with your gem name right after releasing it to RubyGems.org. Please do not do it earlier due to security reasons. Alternatively, replace this section with instructions to install your gem from git if you don't plan to release to RubyGems.org.
+Before installing, ensure you have Ruby and RubyGems installed on your system. Then, you can install **Faussaire** directly from RubyGems:
 
-Install the gem and add to the application's Gemfile by executing:
+```bash
+gem install faussaire
+```
 
-    $ bundle add UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG
+Or add it to your application's Gemfile:
 
-If bundler is not being used to manage dependencies, install the gem by executing:
+```ruby
+gem 'faussaire'
+```
 
-    $ gem install UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG
+and bundle install:
+
+```bash
+bundle install
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+To use **Faussaire** in your Ruby applications, require the gem:
+
+```ruby
+require 'faussaire'
+```
+
+Here are a complete overview of Faussaire's diversity when it comes to generating fake data:
+
+### Example (example.rb)
+
+```ruby
+```
+
+### Address (address.rb)
+
+```ruby
+# Generate a random city name in France
+puts Faussaire::Address.city  # e.g., "Marseille"
+
+# Generate a random street name
+puts Faussaire::Address.street_name  # e.g., "Rue de Rivoli"
+
+# Generate a complete random address
+puts Faussaire::Address.full_address
+
+# e.g., "49 Boulevard Pierre Cabanne, 86000 Bavincourt, Deux-Sèvres (76), Région Hauts-de-France"
+
+```
+
+### Name (name.rb)
+
+```ruby
+# Generate a random French female first name
+puts Faussaire::Name.female_first_name  # e.g., "Élise"
+
+# Generate a random French male first name
+puts Faussaire::Name.male_first_name  # e.g., "Régis"
+
+# Generate a random French family name
+puts Faussaire::Name.family_name  # e.g., "Dupont"
+
+# Generate a random French full name
+puts Faussaire::Name.name  # Outputs: "Pauline Rey"
+```
 
 ## Development
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+To set up the development environment for **Faussaire**:
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and the created tag, and push the `.gem` file to [rubygems.org](https://rubygems.org).
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/ikramagic/faussaire
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ikramagic/faussaire.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd faussaire
+   ```
+3. Install dependencies:
+   ```bash
+   bin/setup
+   ```
+4. To run tests:
+   ```bash
+   rake spec
+   ```
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The **Faussaire** gem is released under the [MIT License](https://opensource.org/licenses/MIT) with restrictions applying to the dataset used in this project. The [MIT License](https://opensource.org/licenses/MIT), which provides broad permission to use, modify, and distribute the software contained within this gem but this applies to the software itself, if it were to be used with a different dataset.
+
+## Important Information Regarding Data Ownership & Usage
+
+**Faussaire** is released under the [MIT License](https://opensource.org/licenses/MIT), which provides broad permission to use, modify, and distribute the software contained within this gem. See the [LICENSE](https://github.com/ikramagic/faussaire/LICENSE) file for more details.
+
+The dataset used by the **Faussaire** gem is the property of the original creator and protected under intellectual property laws. While **Faussaire** itself can be freely used under the terms of its MIT License, specific conditions apply to the dataset:
+
+- **Dataset cloning and usage:** If you wish to use the dataset or any part of **Faussaire** dataset to develop similar tools or other tools, you must obtain explicit authorization. Please 📫 get in touch: [em@il me](mailto:ikrame.saadi@gmail.com) and let's discuss your fantastic idea together!
+
+- **Commercial Use:** Any commercial use of the **Faussaire** dataset or the tool itself requires compliance with the licensing terms and might necessitate additional permissions or agreements. Please contact the above email for inquiries.
+
+## Contributing
+
+Contributions to **Faussaire** very appreciated! 
+
+Whereas it's for enriching the dataset with a brilliant new addition or anihilating this bug you spotted with your neurons, feel free to contribute by opening issues or creating pull requests:
+
+- **Issues:** Provide details about the issue and how to reproduce it.
+- **Pull Requests:** Include a clear explanation of changes and reference any relevant issues.
+
+Please see [CONTRIBUTING.md](https://github.com/ikramagic/faussaire/CONTRIBUTING.md) for more details.

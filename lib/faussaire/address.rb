@@ -143,7 +143,42 @@ module Faussaire
         fetch('fr.faussaire.address.region')
       end
 
+      ##
+      # Generates a complete address using various components such as street number,
+      # street type, street name, postal code, city, and region.
+      #
+      # @return [String] The full address in a standard format.
+      #
+      # @example
+      #   Faussaire::Address.full_address #=> "42 Rue du Bac, 75007 Paris, Île-de-France"
+      #
+      def full_address
+        number = random_street_number
+        type = street_type
+        name = street_name
+        postal = postal_code
+        city_name = city
+        department_name = dpt_name
+        department_number = department_number_select
+        reg = region
+
+
+        "#{number} #{type} #{name}, #{postal} #{city_name}, #{department_name} (#{department_number}), Région #{reg}"
+      end
+
       private
+
+      def random_street_number
+        [
+          method(:street_number_99),
+          method(:street_number_999),
+          method(:street_number_9999)
+        ].sample.call
+      end
+
+      def department_number_select
+        [dpt_number, dpt_number_other].sample
+      end
 
       def fetch(key)
         return nil if data.nil? || data.dig(*key.split('.')).nil?

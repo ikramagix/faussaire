@@ -14718,16 +14718,14 @@ fr:
       - C'est dans le besoin qu'on reconnaît ses vrais amis.
       - La patience est amère, mais son fruit est doux.
       - Donne ton amour à ta femme et donne ton secret à ta mère.
-      - Les rumeurs sont crées par des jaloux, crues par des curieux et répétées par
-        des imbéciles.
+      - Les rumeurs sont crées par des jaloux, crues par des curieux et répétées par des imbéciles.
       - Qui se nourrit d'attente risque de mourir de faim.
       - Donner, c'est donner ; reprendre, c'est voler.
       - L'argent ne fait pas le bonheur, mais il y contribue.
       - Celui qui épouse une belle femme a besoin de plus de deux yeux.
       - Un bon père de famille doit être partout, dernier couché premier debout.
       - Là où il y a de la gêne il n'y a pas de plaisir.
-      - Il n'est pire aveugle que celui qui ne veut pas voir. Il n'est pire sourd
-        que celui qui ne veut pas entendre.
+      - Il n'est pire aveugle que celui qui ne veut pas voir. Il n'est pire sourd que celui qui ne veut pas entendre.
       - Qui dit un mensonge en dit cent.
       - Les apparences sont trompeuses.
       - Tout passe, tout casse, tout lasse.
@@ -14770,12 +14768,10 @@ fr:
       - Beauté de femme et bon vin réveillent de bon matin.
       - Bien boire et bien manger font bien travailler.
       - Il ne faut pas mélanger les torchons et les serviettes.
-      - 'La cuisine anglaise : si c''est froid, c''est de la soupe. Si c''est chaud,
-        c''est de la bière !'
+      - La cuisine anglaise, so easy! Si cela est froid, cela est de la soupe. Si cela est chaud, cela est de la bière !
       - Les conseillers ne sont pas les payeurs.
       - Toute peine mérite salaire.
-      - Celui qui ne sait pas est un imbécile, mais celui qui sait et ne dit rien
-        est un criminel.
+      - Celui qui ne sait pas est un imbécile, mais celui qui sait et ne dit rien est un criminel.
       - L'erreur est humaine.
       - La bave du crapaud n'atteint pas la blanche colombe.
       - L'avarice est comme le feu, plus on y met de bois, plus il brûle.
@@ -14840,8 +14836,7 @@ fr:
       - L'oisiveté est la mère de tous les vices.
       - Les chiens ne font pas des chats.
       - L'ignorant aime à nier, le savant aime à croire.
-      - Mieux vaut une portion de légumes avec de l'amour, qu'un boeuf gras avec de
-        la haine.
+      - Mieux vaut une portion de légumes avec de l'amour, qu'un boeuf gras avec de la haine.
       - On ne jette des pierres qu'à l'arbre chargé de fruits.
       - Pour aller loin il faut aller droit.
       - Prudence est mère de sûreté.
@@ -14852,7 +14847,7 @@ fr:
       - C'est par les fleurs qu'on devine les fruits.
       - Cent ans ne sont pas si longs qu'ils en ont la mine.
       - Demain il fera jour.
-      - 'Dieu n''oublie jamais les siens : il ôte la gale et donne un pou.'
+      - Dieu oublie jamais les siens, il ôte la gale et donne un pou.
       - Enfants petits, petits soucis ; enfants grandis, grands soucis.
       - Femme qui rit, femme au lit.
       - Il faut hurler avec les loups, si l'on veut courir avec eux.
@@ -14879,8 +14874,7 @@ fr:
       - Une hirondelle ne fait pas le printemps.
       - Vieille amitié ne craint pas la rouille.
       - Pour un beau jour d'hiver l'oiseau ne se réjouit pas.
-      - Les faux amis sont des oiseaux de passage qui viennent à la belle saison,
-        et s’en vont à la mauvaise.
+      - Les faux amis sont des oiseaux de passage qui viennent à la belle saison, et s’en vont à la mauvaise.
       - Mains froides, coeur chaud
       - À cheval donné on ne regarde pas les dents
       - Argent fait rage, amour, mariage.
@@ -14920,13 +14914,11 @@ fr:
       - Qui change de femme change de démon.
       - Qui ne fait rien, mange le foin, qui travaille, mange la paille.
       - Si l'hiver est froid et rigoureux, ton ventre à la table, ton dos au feu.
-      - Si tous les gens qui vivent ensemble s'aimaient, la terre brillerait comme
-        un soleil.
+      - Si tous les gens qui vivent ensemble s'aimaient, la terre brillerait comme un soleil.
       - Tout ce qui brille n'est pas or.
       - Un ami veille pour l'autre.
       - Un ivrogne de plus, un homme de moins.
-      - Un père peut nourrir cent enfants mais cent enfants ne nourrissent pas un
-        père.
+      - Un père peut nourrir cent enfants mais cent enfants ne nourrissent pas un père.
       - À demain, c'est du fainéant le refrain.
       - Après la fête et le jeu, les pois au feu.
       - Bon sang ne saurait mentir.
@@ -15038,8 +15030,7 @@ fr:
       - Il ne faut pas essayer de pénétrer dans le sanctuaire.
       - Il ne faut pas laisser croître l'herbe sur le chemin de l'amitié.
       - Il ne faut pas prendre les enfants du bon Dieu pour des canards sauvages.
-      - Il ne faut pas se moquer de la peine du voisin Car la vôtre arrive le lendemain
-        matin.
+      - Il ne faut pas se moquer de la peine du voisin Car la vôtre arrive le lendemain matin.
       - Il n'est point de bonheur sans nuage.
       - Il n'y a pas de poisson sans arête.
       - Il vaut mieux être seul qu'en mauvaise compagnie.
@@ -15117,3 +15108,311 @@ fr:
       - Si tu veux un ami, sois son ami.
       - Souhait de roi, fils et fille.
       - Tant vaut l'homme, tant vaut la terre.
+    cosmos:
+      planet:
+        - "Mercure"
+        - "Vénus"
+        - "Terre"
+        - "Mars"
+        - "Jupiter"
+        - "Saturne"
+        - "Uranus"
+        - "Neptune"
+        - "Cérès"
+        - "Pluton"
+        - "Éris"
+        - "Hauméa"
+        - "Makémaké"
+        - "Lune"
+        - "Io"
+        - "Europe"
+        - "Ganymède"
+        - "Callisto"
+        - "Titan"
+        - "Charon"
+      event:
+        - "Éclipse solaire"
+        - "Éclipse lunaire"
+        - "Pluie de météorites"
+        - "Conjonction planétaire"
+      neighborhood:
+        - "Voie lactée"
+        - "Nébuleuse d'Orion"
+        - "Galaxie d'Andromède"
+        - "Amas de la Vierge"
+        - "Lune"
+        - "Phobos"
+        - "Déimos"
+        - "Io"
+        - "Europe"
+        - "Ganymède"
+        - "Callisto"
+        - "Amalthée"
+        - "Himalia"
+        - "Élara"
+        - "Pasiphaé"
+        - "Sinopé"
+        - "Lysithée"
+        - "Carmé"
+        - "Ananké"
+        - "Léda"
+        - "Thébé"
+        - "Adrastée"
+        - "Métis"
+        - "Callirrhoé"
+        - "Thémisto"
+        - "Megaclite"
+        - "Taygète"
+        - "Chaldéné"
+        - "Harpalycé"
+        - "Calycé"
+        - "Jocaste"
+        - "Érinomé"
+        - "Isonoe"
+        - "Praxidiké"
+        - "Autonoé"
+        - "Thyone"
+        - "Hermippé"
+        - "Aitné"
+        - "Eurydome"
+        - "Euanthé"
+        - "Euporie"
+        - "Orthosie"
+        - "Spondé"
+        - "Calé"
+        - "Pasithée"
+        - "Hégémone"
+        - "Mnémé"
+        - "Aédé"
+        - "Thelxinoé"
+        - "Arche"
+        - "Callichore"
+        - "Hélicé"
+        - "Carpo"
+        - "Eukéladé"
+        - "Cyllène"
+        - "Coré"
+        - "Hersé"
+        - "S/2010 J 1"
+        - "S/2010 J 2"
+        - "Dia"
+        - "S/2016 J 1"
+        - "S/2003 J 18"
+        - "S/2011 J 2"
+        - "S/2003 J 5"
+        - "S/2003 J 15"
+        - "S/2017 J 1"
+        - "S/2003 J 3"
+        - "S/2003 J 2"
+        - "S/2003 J 4"
+        - "S/2003 J 9"
+        - "S/2003 J 10"
+        - "S/2003 J 12"
+        - "S/2003 J 16"
+        - "S/2003 J 19"
+        - "S/2003 J 23"
+        - "S/2011 J 1"
+        - "Mimas"
+        - "Encelade"
+        - "Tethys"
+        - "Dioné"
+        - "Rhéa"
+        - "Titan"
+        - "Hypérion"
+        - "Japet"
+        - "Phœbé"
+        - "Janus"
+        - "Épiméthée"
+        - "Hélène"
+        - "Télesto"
+        - "Calypso"
+        - "Atlas"
+        - "Prométhée"
+        - "Pandore"
+        - "Pan"
+        - "Ymir"
+        - "Paaliaq"
+        - "Tarvos"
+        - "Ijiraq"
+        - "Suttungr"
+        - "Kiviuq"
+        - "Mundilfari"
+        - "Albiorix"
+        - "Skathi"
+        - "Erriapus"
+        - "Siarnaq"
+        - "Thrymr"
+        - "Narvi"
+        - "Méthone"
+        - "Pallène"
+        - "Polydeuces"
+        - "Daphnis"
+        - "Aegir"
+        - "Bebhionn"
+        - "Bergelmir"
+        - "Bestla"
+        - "Farbauti"
+        - "Fenrir"
+        - "Fornjot"
+        - "Hati"
+        - "Hyrrokkin"
+        - "Kari"
+        - "Loge"
+        - "Skoll"
+        - "Surtur"
+        - "Anthée"
+        - "Jarnsaxa"
+        - "Greip"
+        - "Tarqeq"
+        - "Égéon"
+        - "S/2004 S 7"
+        - "S/2004 S 12"
+        - "S/2004 S 13"
+        - "S/2004 S 17"
+        - "S/2006 S 1"
+        - "S/2006 S 3"
+        - "S/2007 S 2"
+        - "S/2007 S 3"
+        - "S/2009 S 1"
+        - "Ariel"
+        - "Umbriel"
+        - "Titania"
+        - "Oberon"
+        - "Miranda"
+        - "Cordelia"
+        - "Ophelia"
+        - "Bianca"
+        - "Cressida"
+        - "Desdemona"
+        - "Juliette"
+        - "Portia"
+        - "Rosalinde"
+        - "Belinda"
+        - "Puck"
+        - "Caliban"
+        - "Sycorax"
+        - "Prospero"
+        - "Setebos"
+        - "Stephano"
+        - "Trinculo"
+        - "Francisco"
+        - "Margaret"
+        - "Ferdinand"
+        - "Perdita"
+        - "Mab"
+        - "Cupid"
+        - "Triton"
+        - "Néréide"
+        - "Naïade"
+        - "Thalassa"
+        - "Despina"
+        - "Galatée"
+        - "Larissa"
+        - "Protée"
+        - "Halimède"
+        - "Psamathée"
+        - "Sao"
+        - "Laomédie"
+        - "Néso"
+        - "Hippocampe"
+        - "Charon"
+        - "Nix"
+        - "Hydre"
+        - "Kerbéros"
+        - "Styx"
+        - "Hiʻiaka"
+        - "Namaka"
+        - "S/2015 (136472) 1"
+        - "Dysnomie"
+        - "Alpha Centauri"
+        - "Vega"
+        - "Arcturus"
+        - "Fomalhaut"
+        - "Cosmos infini"
+        - "Multivers"
+        - "Espace quantique"
+        - "Continuum espace-temps"
+        - "Fond cosmique micro-ondes"
+        - "Horizon cosmologique"
+        - "Sphère d'Hubble"
+        - "Mur de Planck"
+        - "Étoiles les plus lointaines"
+        - "Galaxies primordiales"
+        - "Groupe Local"
+        - "Nuage de Magellan"
+        - "Amas de la Vierge"
+        - "Filament de Perseus-Pisces"
+        - "Mur de Sculpteur"
+        - "Superamas des Poissons"
+        - "Superamas de la Baleine"
+        - "Amas de galaxies Pavo-Indus"
+        - "Filament de galaxies"
+        - "Vide cosmique"
+        - "Grande Attraction"
+        - "Filon de galaxies"
+        - "Zone de Vide de Laniakea"
+        - "Cluster de Norma"
+        - "Mur de Keenan"
+        - "Cluster de Centaurus"
+        - "Amas de galaxies Hydre"
+        - "Filament de Vierge"
+        - "Amas d'Antlia"
+        - "Grande Muraille"
+        - "Amas de la Vierge"
+        - "Galaxie M87"
+        - "Galaxie M49"
+        - "Galaxie M89"
+        - "Nébuleuse du Sombrero"
+        - "Bulles de vide local"
+        - "Filament galactique local"
+        - "Groupe galactique local"
+        - "Secteur galactique local"
+        - "Rayon d'action local"
+        - "Plan de galaxies locales"
+        - "Feuillet de Seyfert"
+        - "Filament local"
+        - "Mur de galaxies local"
+        - "Nappe de galaxies proches"
+        - "Galaxie d'Andromède"
+        - "Galaxie du Triangle"
+        - "Galaxie de Barnard"
+        - "Galaxie naine de la Baleine"
+        - "Galaxie naine du Fourneau"
+        - "Sous-cluster de la Voie lactée"
+        - "Sous-cluster d'Andromède"
+        - "Nébuleuses satellites"
+        - "Galaxies orbitales"
+        - "Noyau galactique local"
+        - "Bulbe galactique"
+        - "Disque galactique"
+        - "Trou noir Sagittarius A*"
+        - "Anneau de Gould"
+        - "Nuage de gaz de Smith"
+        - "Nébuleuse d'Orion"
+        - "Région de formation d'étoiles"
+        - "Ceinture d'Orion"
+        - "Étoile Bételgeuse"
+        - "Étoile Rigel"
+        - "Bulle du Four solaire"
+        - "Bulle de Fermi"
+        - "Superbulle d'Orion"
+        - "Bulle de gaz chaud local"
+        - "Vent solaire local"
+        - "Nuage de Gémeaux"
+        - "Nuage moléculaire local"
+        - "Nuage de proton local"
+        - "Nuage d'hydrogène alpha local"
+        - "Nuage de plasma local"
+        - "Planète Jupiter"
+        - "Planète Mars"
+        - "Ceinture d'astéroïdes"
+        - "Comète Halley"
+        - "Anneaux de Saturne"
+      exploration:
+        - "Programme Pioneer"
+        - "Venera"
+        - "Mission Apollo"
+        - "Programme Galileo"
+        - "Programme Mars"
+        - "Programme Voyager"
+        - "Cassini"

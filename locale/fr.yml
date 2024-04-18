@@ -12212,7 +12212,8 @@ fr:
       - Virgil Tayoum, originaire de Lille, Le Reste du Monde (Serveur)
       - Nikola Lozina, originaire de Belgique (Personnalité de télé-réalité)
       - Hillary Vanderosieren, originaire d'Armentières (Serveuse)
-      - Valentin Léonard, participant à Moundir et les Apprentis Aventuriers (Personnalité de télé-réalité)
+      - Valentin Léonard, participant à Moundir et les Apprentis Aventuriers (Personnalité
+        de télé-réalité)
       - Alexandre Detamaequer, originaire de Bergues (DJ)
       - Anastasia, originaire de Marquette-lez-Lille (Serveuse)
       - Céline Dasting, originaire de Annœullin (Mannequin)
@@ -13647,1049 +13648,1472 @@ fr:
         - Savoie et Haute-Savoie
         - Cher, Indre, Indre-et-Loire et Loir-et-Cher
     gardinerie:
-        potager:
-          - "Betterave (Janvier)"
-          - "Brocoli (Janvier)"
-          - "Carotte (Janvier)"
-          - "Céléri (Janvier)"
-          - "Chou (Janvier)"
-          - "Chou de Bruxelles (Janvier)"
-          - "Chou-fleur (Janvier)"
-          - "Endive (Janvier)"
-          - "Mâche (Janvier)"
-          - "Navet (Janvier)"
-          - "Oignon (Janvier)"
-          - "Panais (Janvier)"
-          - "Poireau (Janvier)"
-          - "Pomme de terre (Janvier)"
-          - "Potiron (Janvier)"
-          - "Rutabaga (Janvier)"
-          - "Salsifi (Janvier)"
-          - "Scarole (Janvier)"
-          - "Topinambour (Janvier)"
-          - "Betterave (Février)"
-          - "Brocoli (Février)"
-          - "Carotte (Février)"
-          - "Céléri (Février)"
-          - "Chou (Février)"
-          - "Chou de Bruxelles (Février)"
-          - "Chou-fleur (Février)"
-          - "Endive (Février)"
-          - "Fenouil (Février)"
-          - "Frisée (Février)"
-          - "Mâche (Février)"
-          - "Navet (Février)"
-          - "Oignon (Février)"
-          - "Poireau (Février)"
-          - "Pomme de terre (Février)"
-          - "Rutabaga (Février)"
-          - "Salsifi (Février)"
-          - "Scarole (Février)"
-          - "Topinambour (Février)"
-          - "Asperge (Mars)"
-          - "Betterave (Mars)"
-          - "Brocoli (Mars)"
-          - "Carotte (Mars)"
-          - "Chou (Mars)"
-          - "Chou-fleur (Mars)"
-          - "Crosne (Mars)"
-          - "Endive (Mars)"
-          - "Frisée (Mars)"
-          - "Laitue pommée (Mars)"
-          - "Mâche (Mars)"
-          - "Navet (Mars)"
-          - "Oignon (Mars)"
-          - "Poireau (Mars)"
-          - "Pomme de terre (Mars)"
-          - "Asperge (Avril)"
-          - "Betterave (Avril)"
-          - "Blette (Avril)"
-          - "Brocoli (Avril)"
-          - "Carotte (Avril)"
-          - "Chou-fleur (Avril)"
-          - "Endive (Avril)"
-          - "Épinard (Avril)"
-          - "Frisée (Avril)"
-          - "Laitue pommée (Avril)"
-          - "Mâche (Avril)"
-          - "Navet (Avril)"
-          - "Oignon (Avril)"
-          - "Petit pois (Avril)"
-          - "Pomme de terre (Avril)"
-          - "Radis (Avril)"
-          - "Asperge (Mai)"
-          - "Aubergine (Mai)"
-          - "Betterave (Mai)"
-          - "Blette (Mai)"
-          - "Brocoli (Mai)"
-          - "Carotte (Mai)"
-          - "Céléri (Mai)"
-          - "Chou-fleur (Mai)"
-          - "Concombre (Mai)"
-          - "Courgette (Mai)"
-          - "Épinard (Mai)"
-          - "Fève (Mai)"
-          - "Frisée (Mai)"
-          - "Laitue pommée (Mai)"
-          - "Mâche (Mai)"
-          - "Navet (Mai)"
-          - "Oignon (Mai)"
-          - "Petit pois (Mai)"
-          - "Pomme de terre (Mai)"
-          - "Radis (Mai)"
-          - "Tomate (Mai)"
-          - "Artichaut (Juin)"
-          - "Asperge (Juin)"
-          - "Aubergine (Juin)"
-          - "Betterave (Juin)"
-          - "Blette (Juin)"
-          - "Brocoli (Juin)"
-          - "Carotte (Juin)"
-          - "Céleri (Juin)"
-          - "Chou-fleur (Juin)"
-          - "Concombre (Juin)"
-          - "Courgette (Juin)"
-          - "Épinard (Juin)"
-          - "Fenouil (Juin)"
-          - "Fève (Juin)"
-          - "Haricot vert (Juin)"
-          - "Laitue feuille de chêne (Juin)"
-          - "Laitue pommée (Juin)"
-          - "Oignon (Juin)"
-          - "Petit pois (Juin)"
-          - "Poireau (Juin)"
-          - "Poivron (Juin)"
-          - "Pomme de terre (Juin)"
-          - "Radis (Juin)"
-          - "Tomate (Juin)"
-          - "Artichaut (Juillet)"
-          - "Asperge (Juillet)"
-          - "Aubergine (Juillet)"
-          - "Betterave (Juillet)"
-          - "Blette (Juillet)"
-          - "Carotte (Juillet)"
-          - "Céleri (Juillet)"
-          - "Chou-fleur (Juillet)"
-          - "Concombre (Juillet)"
-          - "Courgette (Juillet)"
-          - "Épinard (Juillet)"
-          - "Fenouil (Juillet)"
-          - "Fève (Juillet)"
-          - "Haricot vert (Juillet)"
-          - "Laitue feuille de chêne (Juillet)"
-          - "Maïs (Juillet)"
-          - "Navet (Juillet)"
-          - "Oignon (Juillet)"
-          - "Poireau (Juillet)"
-          - "Petit pois (Juillet)"
-          - "Poivron (Juillet)"
-          - "Pomme de terre (Juillet)"
-          - "Radis (Juillet)"
-          - "Tomate (Juillet)"
-          - "Artichaut (Août)"
-          - "Aubergine (Août)"
-          - "Betterave (Août)"
-          - "Blette (Août)"
-          - "Brocoli (Août)"
-          - "Carotte (Août)"
-          - "Céleri (Août)"
-          - "Chou-fleur (Août)"
-          - "Concombre (Août)"
-          - "Courgette (Août)"
-          - "Épinard (Août)"
-          - "Fenouil (Août)"
-          - "Fève (Août)"
-          - "Haricot vert (Août)"
-          - "Laitue feuille de chêne (Août)"
-          - "Laitue pommée (Août)"
-          - "Maïs (Août)"
-          - "Navet (Août)"
-          - "Oignon (Août)"
-          - "Poireau (Août)"
-          - "Poivron (Août)"
-          - "Pomme de terre (Août)"
-          - "Potiron (Août)"
-          - "Radis (Août)"
-          - "Salade (Août)"
-          - "Tomate (Août)"
-          - "Artichaut (Septembre)"
-          - "Aubergine (Septembre)"
-          - "Betterave (Septembre)"
-          - "Blette (Septembre)"
-          - "Brocoli (Septembre)"
-          - "Carotte (Septembre)"
-          - "Céleri (Septembre)"
-          - "Chou (Septembre)"
-          - "Chou de Bruxelles (Septembre)"
-          - "Chou-fleur (Septembre)"
-          - "Courgette (Septembre)"
-          - "Épinard (Septembre)"
-          - "Fenouil (Septembre)"
-          - "Frisée (Septembre)"
-          - "Haricot vert (Septembre)"
-          - "Laitue feuille de chêne (Septembre)"
-          - "Laitue pommée (Septembre)"
-          - "Maïs (Septembre)"
-          - "Oignon (Septembre)"
-          - "Panais (Septembre)"
-          - "Poireau (Septembre)"
-          - "Poivron (Septembre)"
-          - "Pomme de terre (Septembre)"
-          - "Potiron (Septembre)"
-          - "Radis (Septembre)"
-          - "Scarole (Septembre)"
-          - "Tomate (Septembre)"
-          - "Betterave (Novembre)"
-          - "Brocoli (Novembre)"
-          - "Carotte (Novembre)"
-          - "Céléri (Novembre)"
-          - "Chou (Novembre)"
-          - "Chou de Bruxelles (Novembre)"
-          - "Chou-fleur (Novembre)"
-          - "Courge (Novembre)"
-          - "Crosne (Novembre)"
-          - "Endive (Novembre)"
-          - "Épinard (Novembre)"
-          - "Fenouil (Novembre)"
-          - "Frisée (Novembre)"
-          - "Laitue pommée (Novembre)"
-          - "Navet (Novembre)"
-          - "Oignon (Novembre)"
-          - "Panais (Novembre)"
-          - "Poireau (Novembre)"
-          - "Pomme de terre (Novembre)"
-          - "Potiron (Novembre)"
-          - "Rutabaga (Novembre)"
-          - "Scarole (Novembre)"
-          - "Topinambour (Novembre)"
-          - "Betterave (Décembre)"
-          - "Cardon (Décembre)"
-          - "Carotte (Décembre)"
-          - "Céléri (Décembre)"
-          - "Chou (Décembre)"
-          - "Chou de Bruxelles (Décembre)"
-          - "Chou-fleur (Décembre)"
-          - "Courge (Décembre)"
-          - "Endive (Décembre)"
-          - "Épinard (Décembre)"
-          - "Frisée (Décembre)"
-          - "Mâche (Décembre)"
-          - "Navet (Décembre)"
-          - "Oignon (Décembre)"
-          - "Panais (Décembre)"
-          - "Poireau (Décembre)"
-          - "Pomme de terre (Décembre)"
-          - "Potiron (Décembre)"
-          - "Rutabaga (Décembre)"
-          - "Salsifi (Décembre)"
-          - "Scarole (Décembre)"
-          - "Topinambour (Décembre)"
-        verger:
-          - "Citron niçois (Janvier)"
-          - "Clémentine (Janvier)"
-          - "Kiwi (Janvier)"
-          - "Mandarine (Janvier)"
-          - "Noix (Janvier)"
-          - "Orange (Janvier)"
-          - "Poire (Janvier)"
-          - "Pomme (Janvier)"
-          - "Citron niçois (Février)"
-          - "Kiwi (Février)"
-          - "Mandarine (Février)"
-          - "Orange (Février)"
-          - "Poire (Février)"
-          - "Pomme (Février)"
-          - "Citron niçois (Mars)"
-          - "Kiwi (Mars)"
-          - "Orange (Mars)"
-          - "Poire (Mars)"
-          - "Pomme (Mars)"
-          - "Kiwi (Avril)"
-          - "Poire (Avril)"
-          - "Pomme (Avril)"
-          - "Rhubarbe (Avril)"
-          - "Fraise (Mai)"
-          - "Rhubarbe (Mai)"
-          - "Abricot (Juin)"
-          - "Cassis (Juin)"
-          - "Cerise (Juin)"
-          - "Fraise (Juin)"
-          - "Framboise (Juin)"
-          - "Melon (Juin)"
-          - "Mûre (Juin)"
-          - "Prune (Juin)"
-          - "Rhubarbe (Juin)"
-          - "Abricot (Juillet)"
-          - "Brugnon (Juillet)"
-          - "Cassis (Juillet)"
-          - "Cerise (Juillet)"
-          - "Figue (Juillet)"
-          - "Fraise (Juillet)"
-          - "Framboise (Juillet)"
-          - "Groseille (Juillet)"
-          - "Melon (Juillet)"
-          - "Mûre (Juillet)"
-          - "Myrtille (Juillet)"
-          - "Nectarine (Juillet)"
-          - "Pastèque (Juillet)"
-          - "Pêche (Juillet)"
-          - "Prune (Juillet)"
-          - "Abricot (Août)"
-          - "Cassis (Août)"
-          - "Cerise (Août)"
-          - "Figue (Août)"
-          - "Fraise (Août)"
-          - "Framboise (Août)"
-          - "Groseille (Août)"
-          - "Melon (Août)"
-          - "Mirabelle (Août)"
-          - "Mûre (Août)"
-          - "Myrtille (Août)"
-          - "Nectarine (Août)"
-          - "Noisette (Août)"
-          - "Pêche (Août)"
-          - "Poire (Août)"
-          - "Prune (Août)"
-          - "Figue (Septembre)"
-          - "Framboise (Septembre)"
-          - "Melon (Septembre)"
-          - "Mirabelle (Septembre)"
-          - "Mûre (Septembre)"
-          - "Myrtille (Septembre)"
-          - "Noisette (Septembre)"
-          - "Pêche (Septembre)"
-          - "Poire (Septembre)"
-          - "Pomme (Septembre)"
-          - "Raisin (Septembre)"
-          - "Châtaigne (Octobre)"
-          - "Coing (Octobre)"
-          - "Figue (Octobre)"
-          - "Framboise (Octobre)"
-          - "Mûre (Octobre)"
-          - "Myrtille (Octobre)"
-          - "Noisette (Octobre)"
-          - "Noix (Octobre)"
-          - "Pêche (Octobre)"
-          - "Poire (Octobre)"
-          - "Pomme (Octobre)"
-          - "Prune (Octobre)"
-          - "Raisin (Octobre)"
-          - "Châtaigne (Novembre)"
-          - "Coing (Novembre)"
-          - "Mandarine (Novembre)"
-          - "Noix (Novembre)"
-          - "Poire (Novembre)"
-          - "Pomme (Novembre)"
-          - "Raisin (Novembre)"
-          - "Châtaigne (Décembre)"
-          - "Clémentine (Décembre)"
-          - "Kiwi (Décembre)"
-          - "Mandarine (Décembre)"
-          - "Noix (Décembre)"
-          - "Orange (Décembre)"
-          - "Poire (Décembre)"
-          - "Pomme (Décembre)"
-        rival_plant:
-          - "Thonningia sanguinea de la famille des Balanophoraceae que l'on peut trouver en Hevea, Nigeria"
-          - "Balanophora indica de la famille des Balanophoraceae que l'on peut trouver sur le caféier en Inde"
-          - "Cuscuta europaea de la famille des Convolvulaceae"
-          - "Cuscuta campestris de la famille des Convolvulaceae, parasite sur diverses plantes cultivées, notamment les Fabaceae, répartition cosmopolite"
-          - "Cuscuta gronovii de la famille des Convolvulaceae"
-          - "Cuscuta epithymum de la famille des Convolvulaceae"
-          - "Cuscuta epilinum de la famille des Convolvulaceae"
-          - "Cuscuta umbrosa de la famille des Convolvulaceae"
-          - "Prosopanche bonacinae de la famille des Hydnoraceae que l'on peut trouver sur le cotonnier en Argentine"
-          - "Cassytha filiformis de la famille des Lauraceae, parasite sur plantes ligneuses et ornementales, répartition pantropicale"
-          - "Aeginetia indica de la famille des Orobanchaceae, holoparasite épirhize sur canne à sucre et autres graminées en Inde, Chine, Japon, Indonésie, Philippines"
-          - "Aeginetia pedunculata de la famille des Orobanchaceae, parasite sur canne à sucre aux Philippines"
-          - "Alectra vogelii de la famille des Orobanchaceae, signalée sur des cultures de tournesol, tabac, niébé en Afrique"
-          - "Christisonia wightii de la famille des Orobanchaceae, parasite sur canne à sucre aux Philippines"
-          - "Orobanche cernua de la famille des Orobanchaceae"
-          - "Orobanche crenata de la famille des Orobanchaceae, surtout sur légumineuses, carottes, climat méditerranéen"
-          - "Orobanche minor de la famille des Orobanchaceae, parasite sur légumineuses, tabac, carottes, cultures diverses, très répandus dans les régions tempérées"
-          - "Phelipanche aegyptiaca de la famille des Orobanchaceae"
-          - "Phelipanche mutelii de la famille des Orobanchaceae"
-          - "Phelipanche ramosa de la famille des Orobanchaceae, parasite sur diverses cultures, notamment chez les Solanaceae, répartition très vaste, mais plus nuisible sous climat méditerranéen"
-          - "Rhamphicarpa fistulosa de la famille des Orobanchaceae, parasite sur arachide et riz en Afrique"
-          - "Seymeria cassioides de la famille des Orobanchaceae, parasite sur pins au sud des États-Unis"
-          - "Striga aspera de la famille des Orobanchaceae"
-          - "Striga hermonthica de la famille des Orobanchaceae, parasite sur céréales en Afrique (climats semi-arides)"
-          - "Striga asiatica de la famille des Orobanchaceae, parasite sur céréales en Afrique, introduite aux États-Unis (Caroline du Nord et Caroline du Sud)"
-          - "Striga gesnerioides de la famille des Orobanchaceae, parasite sur légumineuses en Afrique, introduite aux États-Unis (Floride)"
-          - "Bartsia odontites de la famille des Orobanchaceae, parasite sur luzerne aux États-Unis (Wisconsin)"
-          - "Rhinanthus serotinus de la famille des Orobanchaceae, parasite sur cultures fourragères en Europe"
-          - "Agelanthus de la famille des Loranthaceae, parasite sur karité en Afrique"
-          - "Amyema de la famille des Loranthaceae, parasite sur Eucalyptus en Australie"
-          - "Tapinanthus bangwensis de la famille des Loranthaceae, parasite sur cacaoyer, etc., en Afrique"
-          - "Dendrophthoe de la famille des Loranthaceae, parasite sur kapokier, etc., en Asie"
-          - "Phthirusa de la famille des Loranthaceae, parasite sur Hévéa, teck en Amérique centrale et Amérique du Sud"
-          - "Psittacanthus de la famille des Loranthaceae, parasite sur agrumes au Mexique"
-          - "Struthanthus de la famille des Loranthaceae, parasite sur caféier, agrumes, etc., en Amérique centrale et Amérique du Sud"
-          - "Acanthosyris pauloalvimii de la famille des Santalaceae, parasite sur cacaoyer au Brésil"
-          - "Exocarpos de la famille des Santalaceae, parasite sur Eucalyptus en Australie"
-          - "Osyris alba de la famille des Santalaceae, parasite sur vigne en ex-Yougoslavie"
-          - "Pyrularia pubera de la famille des Santalaceae, parasite sur sapin de Fraser aux États-Unis (Virginie-Occidentale)"
-          - "Scurrula cordifolia de la famille des Santalaceae, parasite sur arbres divers dans l'Himalaya occidental"
-          - "Thesium de la famille des Santalaceae, parasite sur canne à sucre, orge, etc., en Australie, Espagne, Afrique, États-Unis"
-          - "Cytinus hypocistis de la famille des Rafflesiaceae, seule espèce présente en France"
-          - "Rafflesia arnoldii de la famille des Rafflesiaceae, parasite en Malaisie"
-          - "Arceuthobium oxycedri de la famille des Viscaceae, épiphyte sur Cupressaceae et Pinaceae, Afrique, Amérique du Nord, Asie, Europe"
-          - "Dendrophthora poeppigii de la famille des Viscaceae, parasite sur Hevea au Brésil"
-          - "Phoradendron de la famille des Viscaceae, parasite sur divers arbres en Amérique du Nord, du Sud et centrale"
-          - "Viscum album de la famille des Viscaceae, le gui, épiphyte sur divers arbres dans les régions tempérées de l'ancien monde"
-        bang_bang_plant:
-          - "Aldrovanda : pièges à mâchoires actifs pour la capture des proies"
-          - "Dionaea : pièges à mâchoires actifs pour la capture des proies"
-          - "Drosera : pièges à mucilage (gouttelettes collantes) avec mouvement de la feuille et des poils qui s'enroulent autour des proies"
-          - "Drosophyllum : pièges à mucilage (gouttelettes collantes) sans mouvement apparent de la feuille"
-          - "Drosera burmannii : pièges à mucilage avec un mouvement perceptible à l'œil nu"
-          - "Drosera sessilifolia : pièges à mucilage avec un mouvement perceptible à l'œil nu"
-          - "Drosera glanduligera : pièges à mucilage avec un mouvement rapide et perceptible"
-          - "Utricularia : pièges sous forme d'outres qui aspirent la proie par un mouvement rapide de succion"
-          - "Brocchinia : piège passif au centre des feuilles où les proies se noient"
-          - "Catopsis : piège passif au centre des feuilles où les proies se noient"
-          - "Byblis : pièges à glu passifs sans mouvement"
-          - "Ibicella : pièges à glu passifs sans mouvement"
-          - "Pinguicula : pièges à glu semi-passifs avec légère capacité de mouvement du bord des feuilles"
-          - "Roridula : pièges à glu passifs sans mouvement"
-          - "Triphyophyllum : pièges à glu passifs sans mouvement"
-          - "Cephalotus follicularis : pièges à urnes"
-          - "Darlingtonia : pièges à urnes"
-          - "Heliamphora : pièges à urnes"
-          - "Nepenthes : pièges à urnes"
-          - "Sarracenia : pièges à urnes"
-          - "Genlisea : pièges à nasses pour capturer des proies"
-        very_naughty_plant:
-          - "Acore odorant (Acorus calamus) : psychotrope naturel de la famille des Araceae"
-          - "Yopo (Anadenanthera peregrina) : plante à effets hallucinogènes de la famille des Fabaceae"
-          - "Belladone (Atropa belladonna) : plante toxique et psychoactive de la famille des Solanaceae"
-          - "Ayahuasca (Banisteriopsis caapi) : utilisée dans la préparation de l'Ayahuasca, de la famille des Malpighiaceae"
-          - "Chanvre (Cannabis sativa ssp. indica): source de substances psychotropes de la famille des Cannabaceae"
-          - "Khat (Catha edulis) : plante stimulante de la famille des Celastraceae"
-          - "Dama de noite (Cestrum laevigatum) : plante à effets toxiques de la famille des Solanaceae"
-          - "Coleus scutellarioides : Plectranthe fausse-scutellaire, connu pour ses effets psychoactifs dans certaines cultures, de la famille des Lamiaceae"
-          - "Coryphanta compacta : Bakena, Hikuli, Wichuri, cactus psychoactif de la famille des Cactaceae"
-          - "Datura sp. : Poison de sorcière, genre de plantes toxiques et hallucinogènes de la famille des Solanaceae"
-          - "Dendrobium nobile : orchidée dont certaines cultures attribuent des propriétés psychotropes, de la famille des Orchidaceae"
-          - "Echinopsis lageniformis : cactus dont certaines espèces sont psychoactives"
-          - "Erythrina americana : Clorin, chilicote, arbuste dont les graines peuvent avoir des propriétés psychoactives, de la famille des Fabaceae"
-          - "Erythroxylum coca : Coca, plante connue pour contenir des alcaloïdes stimulants, de la famille des Erythroxylaceae"
-          - "Galbulimima belgraveana : Agara, arbre aux propriétés hallucinogènes de la famille des Himantandraceae"
-          - "Homalomena : Ereriba, plante aux supposées propriétés psychotropes de la famille des Araceae"
-          - "Hyoscyamus niger : Jusquiame, plante toxique et hallucinogène de la famille des Solanaceae"
-          - "Ipomoea purpurea : Volubilis, connue sous divers noms régionaux, de la famille des Convolvulaceae"
-          - "Lactuca virosa : Laitue vireuse, contient des substances sédatives et analgésiques, de la famille des Asteraceae"
-          - "Leonotis leonurus : connue sous le nom de queue de lion, plante à propriétés psychoactives de la famille des Lamiaceae"
-          - "Lophophora williamsii : Peyotl, cactus célèbre pour ses alcaloïdes psychédéliques"
-          - "Nymphaea caerulea : Lotus bleu d’Égypte, plante aux effets enivrants et psychoactifs"
-          - "Mandragora officinarum : Mandragore, plante légendaire pour ses propriétés psychoactives et hallucinogènes"
-          - "Myristica fragrans : Muscade, épice connue pour ses effets psychotropes à haute dose"
-          - "Mucuna pruriens : Pois mascate, source de L-DOPA, un précurseur de neurotransmetteurs"
-          - "Papaver somniferum : Pavot, source d'opiacés naturels"
-          - "Pachycereus pecten-aboriginum : Cawe, Wichowaka, cactus aux utilisations traditionnelles psychotropes"
-          - "Phalaris arundinacea : Baldingère ou alpiste faux-roseau, contient des alcaloïdes psychoactifs"
-          - "Pilosella officinarum : plante aux supposées propriétés psychoactives"
-          - "Psychotria viridis : utilisée avec la Banisteriopsis caapi pour préparer l'Ayahuasca"
-          - "Salvia divinorum : Sauge des devins, connue pour ses effets dissociatifs et hallucinogènes"
-          - "Sceletium tortuosum : plante sud-africaine utilisée pour ses effets relaxants et euphorisants"
-          - "Scirpus sp. : Bakana, genre de plantes dont certaines espèces contiennent des substances psychoactives"
-          - "Tabernanthe iboga : Iboga, arbuste africain aux effets psychoactifs et entérogènes"
-          - "Tetrapterys mucronata : Caepi-Pinima, liane utilisée dans des boissons traditionnelles psychotropes"
-          - "Trichocereus macrogonus et Trichocereus peruvianus : cactus psychoactifs"
-          - "Turbina corymbosa : Olioliuqui, utilisé pour ses graines hallucinogènes"
-          - "Virola sp. : Epena, nyakwana, genre d'arbres dont la résine est utilisée pour ses propriétés psychoactives"
+      potager:
+      - Betterave (Janvier)
+      - Brocoli (Janvier)
+      - Carotte (Janvier)
+      - Céléri (Janvier)
+      - Chou (Janvier)
+      - Chou de Bruxelles (Janvier)
+      - Chou-fleur (Janvier)
+      - Endive (Janvier)
+      - Mâche (Janvier)
+      - Navet (Janvier)
+      - Oignon (Janvier)
+      - Panais (Janvier)
+      - Poireau (Janvier)
+      - Pomme de terre (Janvier)
+      - Potiron (Janvier)
+      - Rutabaga (Janvier)
+      - Salsifi (Janvier)
+      - Scarole (Janvier)
+      - Topinambour (Janvier)
+      - Betterave (Février)
+      - Brocoli (Février)
+      - Carotte (Février)
+      - Céléri (Février)
+      - Chou (Février)
+      - Chou de Bruxelles (Février)
+      - Chou-fleur (Février)
+      - Endive (Février)
+      - Fenouil (Février)
+      - Frisée (Février)
+      - Mâche (Février)
+      - Navet (Février)
+      - Oignon (Février)
+      - Poireau (Février)
+      - Pomme de terre (Février)
+      - Rutabaga (Février)
+      - Salsifi (Février)
+      - Scarole (Février)
+      - Topinambour (Février)
+      - Asperge (Mars)
+      - Betterave (Mars)
+      - Brocoli (Mars)
+      - Carotte (Mars)
+      - Chou (Mars)
+      - Chou-fleur (Mars)
+      - Crosne (Mars)
+      - Endive (Mars)
+      - Frisée (Mars)
+      - Laitue pommée (Mars)
+      - Mâche (Mars)
+      - Navet (Mars)
+      - Oignon (Mars)
+      - Poireau (Mars)
+      - Pomme de terre (Mars)
+      - Asperge (Avril)
+      - Betterave (Avril)
+      - Blette (Avril)
+      - Brocoli (Avril)
+      - Carotte (Avril)
+      - Chou-fleur (Avril)
+      - Endive (Avril)
+      - Épinard (Avril)
+      - Frisée (Avril)
+      - Laitue pommée (Avril)
+      - Mâche (Avril)
+      - Navet (Avril)
+      - Oignon (Avril)
+      - Petit pois (Avril)
+      - Pomme de terre (Avril)
+      - Radis (Avril)
+      - Asperge (Mai)
+      - Aubergine (Mai)
+      - Betterave (Mai)
+      - Blette (Mai)
+      - Brocoli (Mai)
+      - Carotte (Mai)
+      - Céléri (Mai)
+      - Chou-fleur (Mai)
+      - Concombre (Mai)
+      - Courgette (Mai)
+      - Épinard (Mai)
+      - Fève (Mai)
+      - Frisée (Mai)
+      - Laitue pommée (Mai)
+      - Mâche (Mai)
+      - Navet (Mai)
+      - Oignon (Mai)
+      - Petit pois (Mai)
+      - Pomme de terre (Mai)
+      - Radis (Mai)
+      - Tomate (Mai)
+      - Artichaut (Juin)
+      - Asperge (Juin)
+      - Aubergine (Juin)
+      - Betterave (Juin)
+      - Blette (Juin)
+      - Brocoli (Juin)
+      - Carotte (Juin)
+      - Céleri (Juin)
+      - Chou-fleur (Juin)
+      - Concombre (Juin)
+      - Courgette (Juin)
+      - Épinard (Juin)
+      - Fenouil (Juin)
+      - Fève (Juin)
+      - Haricot vert (Juin)
+      - Laitue feuille de chêne (Juin)
+      - Laitue pommée (Juin)
+      - Oignon (Juin)
+      - Petit pois (Juin)
+      - Poireau (Juin)
+      - Poivron (Juin)
+      - Pomme de terre (Juin)
+      - Radis (Juin)
+      - Tomate (Juin)
+      - Artichaut (Juillet)
+      - Asperge (Juillet)
+      - Aubergine (Juillet)
+      - Betterave (Juillet)
+      - Blette (Juillet)
+      - Carotte (Juillet)
+      - Céleri (Juillet)
+      - Chou-fleur (Juillet)
+      - Concombre (Juillet)
+      - Courgette (Juillet)
+      - Épinard (Juillet)
+      - Fenouil (Juillet)
+      - Fève (Juillet)
+      - Haricot vert (Juillet)
+      - Laitue feuille de chêne (Juillet)
+      - Maïs (Juillet)
+      - Navet (Juillet)
+      - Oignon (Juillet)
+      - Poireau (Juillet)
+      - Petit pois (Juillet)
+      - Poivron (Juillet)
+      - Pomme de terre (Juillet)
+      - Radis (Juillet)
+      - Tomate (Juillet)
+      - Artichaut (Août)
+      - Aubergine (Août)
+      - Betterave (Août)
+      - Blette (Août)
+      - Brocoli (Août)
+      - Carotte (Août)
+      - Céleri (Août)
+      - Chou-fleur (Août)
+      - Concombre (Août)
+      - Courgette (Août)
+      - Épinard (Août)
+      - Fenouil (Août)
+      - Fève (Août)
+      - Haricot vert (Août)
+      - Laitue feuille de chêne (Août)
+      - Laitue pommée (Août)
+      - Maïs (Août)
+      - Navet (Août)
+      - Oignon (Août)
+      - Poireau (Août)
+      - Poivron (Août)
+      - Pomme de terre (Août)
+      - Potiron (Août)
+      - Radis (Août)
+      - Salade (Août)
+      - Tomate (Août)
+      - Artichaut (Septembre)
+      - Aubergine (Septembre)
+      - Betterave (Septembre)
+      - Blette (Septembre)
+      - Brocoli (Septembre)
+      - Carotte (Septembre)
+      - Céleri (Septembre)
+      - Chou (Septembre)
+      - Chou de Bruxelles (Septembre)
+      - Chou-fleur (Septembre)
+      - Courgette (Septembre)
+      - Épinard (Septembre)
+      - Fenouil (Septembre)
+      - Frisée (Septembre)
+      - Haricot vert (Septembre)
+      - Laitue feuille de chêne (Septembre)
+      - Laitue pommée (Septembre)
+      - Maïs (Septembre)
+      - Oignon (Septembre)
+      - Panais (Septembre)
+      - Poireau (Septembre)
+      - Poivron (Septembre)
+      - Pomme de terre (Septembre)
+      - Potiron (Septembre)
+      - Radis (Septembre)
+      - Scarole (Septembre)
+      - Tomate (Septembre)
+      - Betterave (Novembre)
+      - Brocoli (Novembre)
+      - Carotte (Novembre)
+      - Céléri (Novembre)
+      - Chou (Novembre)
+      - Chou de Bruxelles (Novembre)
+      - Chou-fleur (Novembre)
+      - Courge (Novembre)
+      - Crosne (Novembre)
+      - Endive (Novembre)
+      - Épinard (Novembre)
+      - Fenouil (Novembre)
+      - Frisée (Novembre)
+      - Laitue pommée (Novembre)
+      - Navet (Novembre)
+      - Oignon (Novembre)
+      - Panais (Novembre)
+      - Poireau (Novembre)
+      - Pomme de terre (Novembre)
+      - Potiron (Novembre)
+      - Rutabaga (Novembre)
+      - Scarole (Novembre)
+      - Topinambour (Novembre)
+      - Betterave (Décembre)
+      - Cardon (Décembre)
+      - Carotte (Décembre)
+      - Céléri (Décembre)
+      - Chou (Décembre)
+      - Chou de Bruxelles (Décembre)
+      - Chou-fleur (Décembre)
+      - Courge (Décembre)
+      - Endive (Décembre)
+      - Épinard (Décembre)
+      - Frisée (Décembre)
+      - Mâche (Décembre)
+      - Navet (Décembre)
+      - Oignon (Décembre)
+      - Panais (Décembre)
+      - Poireau (Décembre)
+      - Pomme de terre (Décembre)
+      - Potiron (Décembre)
+      - Rutabaga (Décembre)
+      - Salsifi (Décembre)
+      - Scarole (Décembre)
+      - Topinambour (Décembre)
+      verger:
+      - Citron niçois (Janvier)
+      - Clémentine (Janvier)
+      - Kiwi (Janvier)
+      - Mandarine (Janvier)
+      - Noix (Janvier)
+      - Orange (Janvier)
+      - Poire (Janvier)
+      - Pomme (Janvier)
+      - Citron niçois (Février)
+      - Kiwi (Février)
+      - Mandarine (Février)
+      - Orange (Février)
+      - Poire (Février)
+      - Pomme (Février)
+      - Citron niçois (Mars)
+      - Kiwi (Mars)
+      - Orange (Mars)
+      - Poire (Mars)
+      - Pomme (Mars)
+      - Kiwi (Avril)
+      - Poire (Avril)
+      - Pomme (Avril)
+      - Rhubarbe (Avril)
+      - Fraise (Mai)
+      - Rhubarbe (Mai)
+      - Abricot (Juin)
+      - Cassis (Juin)
+      - Cerise (Juin)
+      - Fraise (Juin)
+      - Framboise (Juin)
+      - Melon (Juin)
+      - Mûre (Juin)
+      - Prune (Juin)
+      - Rhubarbe (Juin)
+      - Abricot (Juillet)
+      - Brugnon (Juillet)
+      - Cassis (Juillet)
+      - Cerise (Juillet)
+      - Figue (Juillet)
+      - Fraise (Juillet)
+      - Framboise (Juillet)
+      - Groseille (Juillet)
+      - Melon (Juillet)
+      - Mûre (Juillet)
+      - Myrtille (Juillet)
+      - Nectarine (Juillet)
+      - Pastèque (Juillet)
+      - Pêche (Juillet)
+      - Prune (Juillet)
+      - Abricot (Août)
+      - Cassis (Août)
+      - Cerise (Août)
+      - Figue (Août)
+      - Fraise (Août)
+      - Framboise (Août)
+      - Groseille (Août)
+      - Melon (Août)
+      - Mirabelle (Août)
+      - Mûre (Août)
+      - Myrtille (Août)
+      - Nectarine (Août)
+      - Noisette (Août)
+      - Pêche (Août)
+      - Poire (Août)
+      - Prune (Août)
+      - Figue (Septembre)
+      - Framboise (Septembre)
+      - Melon (Septembre)
+      - Mirabelle (Septembre)
+      - Mûre (Septembre)
+      - Myrtille (Septembre)
+      - Noisette (Septembre)
+      - Pêche (Septembre)
+      - Poire (Septembre)
+      - Pomme (Septembre)
+      - Raisin (Septembre)
+      - Châtaigne (Octobre)
+      - Coing (Octobre)
+      - Figue (Octobre)
+      - Framboise (Octobre)
+      - Mûre (Octobre)
+      - Myrtille (Octobre)
+      - Noisette (Octobre)
+      - Noix (Octobre)
+      - Pêche (Octobre)
+      - Poire (Octobre)
+      - Pomme (Octobre)
+      - Prune (Octobre)
+      - Raisin (Octobre)
+      - Châtaigne (Novembre)
+      - Coing (Novembre)
+      - Mandarine (Novembre)
+      - Noix (Novembre)
+      - Poire (Novembre)
+      - Pomme (Novembre)
+      - Raisin (Novembre)
+      - Châtaigne (Décembre)
+      - Clémentine (Décembre)
+      - Kiwi (Décembre)
+      - Mandarine (Décembre)
+      - Noix (Décembre)
+      - Orange (Décembre)
+      - Poire (Décembre)
+      - Pomme (Décembre)
+      rival_plant:
+      - Thonningia sanguinea de la famille des Balanophoraceae que l'on peut trouver
+        en Hevea, Nigeria
+      - Balanophora indica de la famille des Balanophoraceae que l'on peut trouver
+        sur le caféier en Inde
+      - Cuscuta europaea de la famille des Convolvulaceae
+      - Cuscuta campestris de la famille des Convolvulaceae, parasite sur diverses
+        plantes cultivées, notamment les Fabaceae, répartition cosmopolite
+      - Cuscuta gronovii de la famille des Convolvulaceae
+      - Cuscuta epithymum de la famille des Convolvulaceae
+      - Cuscuta epilinum de la famille des Convolvulaceae
+      - Cuscuta umbrosa de la famille des Convolvulaceae
+      - Prosopanche bonacinae de la famille des Hydnoraceae que l'on peut trouver
+        sur le cotonnier en Argentine
+      - Cassytha filiformis de la famille des Lauraceae, parasite sur plantes ligneuses
+        et ornementales, répartition pantropicale
+      - Aeginetia indica de la famille des Orobanchaceae, holoparasite épirhize sur
+        canne à sucre et autres graminées en Inde, Chine, Japon, Indonésie, Philippines
+      - Aeginetia pedunculata de la famille des Orobanchaceae, parasite sur canne
+        à sucre aux Philippines
+      - Alectra vogelii de la famille des Orobanchaceae, signalée sur des cultures
+        de tournesol, tabac, niébé en Afrique
+      - Christisonia wightii de la famille des Orobanchaceae, parasite sur canne à
+        sucre aux Philippines
+      - Orobanche cernua de la famille des Orobanchaceae
+      - Orobanche crenata de la famille des Orobanchaceae, surtout sur légumineuses,
+        carottes, climat méditerranéen
+      - Orobanche minor de la famille des Orobanchaceae, parasite sur légumineuses,
+        tabac, carottes, cultures diverses, très répandus dans les régions tempérées
+      - Phelipanche aegyptiaca de la famille des Orobanchaceae
+      - Phelipanche mutelii de la famille des Orobanchaceae
+      - Phelipanche ramosa de la famille des Orobanchaceae, parasite sur diverses
+        cultures, notamment chez les Solanaceae, répartition très vaste, mais plus
+        nuisible sous climat méditerranéen
+      - Rhamphicarpa fistulosa de la famille des Orobanchaceae, parasite sur arachide
+        et riz en Afrique
+      - Seymeria cassioides de la famille des Orobanchaceae, parasite sur pins au
+        sud des États-Unis
+      - Striga aspera de la famille des Orobanchaceae
+      - Striga hermonthica de la famille des Orobanchaceae, parasite sur céréales
+        en Afrique (climats semi-arides)
+      - Striga asiatica de la famille des Orobanchaceae, parasite sur céréales en
+        Afrique, introduite aux États-Unis (Caroline du Nord et Caroline du Sud)
+      - Striga gesnerioides de la famille des Orobanchaceae, parasite sur légumineuses
+        en Afrique, introduite aux États-Unis (Floride)
+      - Bartsia odontites de la famille des Orobanchaceae, parasite sur luzerne aux
+        États-Unis (Wisconsin)
+      - Rhinanthus serotinus de la famille des Orobanchaceae, parasite sur cultures
+        fourragères en Europe
+      - Agelanthus de la famille des Loranthaceae, parasite sur karité en Afrique
+      - Amyema de la famille des Loranthaceae, parasite sur Eucalyptus en Australie
+      - Tapinanthus bangwensis de la famille des Loranthaceae, parasite sur cacaoyer,
+        etc., en Afrique
+      - Dendrophthoe de la famille des Loranthaceae, parasite sur kapokier, etc.,
+        en Asie
+      - Phthirusa de la famille des Loranthaceae, parasite sur Hévéa, teck en Amérique
+        centrale et Amérique du Sud
+      - Psittacanthus de la famille des Loranthaceae, parasite sur agrumes au Mexique
+      - Struthanthus de la famille des Loranthaceae, parasite sur caféier, agrumes,
+        etc., en Amérique centrale et Amérique du Sud
+      - Acanthosyris pauloalvimii de la famille des Santalaceae, parasite sur cacaoyer
+        au Brésil
+      - Exocarpos de la famille des Santalaceae, parasite sur Eucalyptus en Australie
+      - Osyris alba de la famille des Santalaceae, parasite sur vigne en ex-Yougoslavie
+      - Pyrularia pubera de la famille des Santalaceae, parasite sur sapin de Fraser
+        aux États-Unis (Virginie-Occidentale)
+      - Scurrula cordifolia de la famille des Santalaceae, parasite sur arbres divers
+        dans l'Himalaya occidental
+      - Thesium de la famille des Santalaceae, parasite sur canne à sucre, orge, etc.,
+        en Australie, Espagne, Afrique, États-Unis
+      - Cytinus hypocistis de la famille des Rafflesiaceae, seule espèce présente
+        en France
+      - Rafflesia arnoldii de la famille des Rafflesiaceae, parasite en Malaisie
+      - Arceuthobium oxycedri de la famille des Viscaceae, épiphyte sur Cupressaceae
+        et Pinaceae, Afrique, Amérique du Nord, Asie, Europe
+      - Dendrophthora poeppigii de la famille des Viscaceae, parasite sur Hevea au
+        Brésil
+      - Phoradendron de la famille des Viscaceae, parasite sur divers arbres en Amérique
+        du Nord, du Sud et centrale
+      - Viscum album de la famille des Viscaceae, le gui, épiphyte sur divers arbres
+        dans les régions tempérées de l'ancien monde
+      bang_bang_plant:
+      - 'Aldrovanda : pièges à mâchoires actifs pour la capture des proies'
+      - 'Dionaea : pièges à mâchoires actifs pour la capture des proies'
+      - 'Drosera : pièges à mucilage (gouttelettes collantes) avec mouvement de la
+        feuille et des poils qui s''enroulent autour des proies'
+      - 'Drosophyllum : pièges à mucilage (gouttelettes collantes) sans mouvement
+        apparent de la feuille'
+      - 'Drosera burmannii : pièges à mucilage avec un mouvement perceptible à l''œil
+        nu'
+      - 'Drosera sessilifolia : pièges à mucilage avec un mouvement perceptible à
+        l''œil nu'
+      - 'Drosera glanduligera : pièges à mucilage avec un mouvement rapide et perceptible'
+      - 'Utricularia : pièges sous forme d''outres qui aspirent la proie par un mouvement
+        rapide de succion'
+      - 'Brocchinia : piège passif au centre des feuilles où les proies se noient'
+      - 'Catopsis : piège passif au centre des feuilles où les proies se noient'
+      - 'Byblis : pièges à glu passifs sans mouvement'
+      - 'Ibicella : pièges à glu passifs sans mouvement'
+      - 'Pinguicula : pièges à glu semi-passifs avec légère capacité de mouvement
+        du bord des feuilles'
+      - 'Roridula : pièges à glu passifs sans mouvement'
+      - 'Triphyophyllum : pièges à glu passifs sans mouvement'
+      - 'Cephalotus follicularis : pièges à urnes'
+      - 'Darlingtonia : pièges à urnes'
+      - 'Heliamphora : pièges à urnes'
+      - 'Nepenthes : pièges à urnes'
+      - 'Sarracenia : pièges à urnes'
+      - 'Genlisea : pièges à nasses pour capturer des proies'
+      very_naughty_plant:
+      - 'Acore odorant (Acorus calamus) : psychotrope naturel de la famille des Araceae'
+      - 'Yopo (Anadenanthera peregrina) : plante à effets hallucinogènes de la famille
+        des Fabaceae'
+      - 'Belladone (Atropa belladonna) : plante toxique et psychoactive de la famille
+        des Solanaceae'
+      - 'Ayahuasca (Banisteriopsis caapi) : utilisée dans la préparation de l''Ayahuasca,
+        de la famille des Malpighiaceae'
+      - 'Chanvre (Cannabis sativa ssp. indica): source de substances psychotropes
+        de la famille des Cannabaceae'
+      - 'Khat (Catha edulis) : plante stimulante de la famille des Celastraceae'
+      - 'Dama de noite (Cestrum laevigatum) : plante à effets toxiques de la famille
+        des Solanaceae'
+      - 'Coleus scutellarioides : Plectranthe fausse-scutellaire, connu pour ses effets
+        psychoactifs dans certaines cultures, de la famille des Lamiaceae'
+      - 'Coryphanta compacta : Bakena, Hikuli, Wichuri, cactus psychoactif de la famille
+        des Cactaceae'
+      - 'Datura sp. : Poison de sorcière, genre de plantes toxiques et hallucinogènes
+        de la famille des Solanaceae'
+      - 'Dendrobium nobile : orchidée dont certaines cultures attribuent des propriétés
+        psychotropes, de la famille des Orchidaceae'
+      - 'Echinopsis lageniformis : cactus dont certaines espèces sont psychoactives'
+      - 'Erythrina americana : Clorin, chilicote, arbuste dont les graines peuvent
+        avoir des propriétés psychoactives, de la famille des Fabaceae'
+      - 'Erythroxylum coca : Coca, plante connue pour contenir des alcaloïdes stimulants,
+        de la famille des Erythroxylaceae'
+      - 'Galbulimima belgraveana : Agara, arbre aux propriétés hallucinogènes de la
+        famille des Himantandraceae'
+      - 'Homalomena : Ereriba, plante aux supposées propriétés psychotropes de la
+        famille des Araceae'
+      - 'Hyoscyamus niger : Jusquiame, plante toxique et hallucinogène de la famille
+        des Solanaceae'
+      - 'Ipomoea purpurea : Volubilis, connue sous divers noms régionaux, de la famille
+        des Convolvulaceae'
+      - 'Lactuca virosa : Laitue vireuse, contient des substances sédatives et analgésiques,
+        de la famille des Asteraceae'
+      - 'Leonotis leonurus : connue sous le nom de queue de lion, plante à propriétés
+        psychoactives de la famille des Lamiaceae'
+      - 'Lophophora williamsii : Peyotl, cactus célèbre pour ses alcaloïdes psychédéliques'
+      - 'Nymphaea caerulea : Lotus bleu d’Égypte, plante aux effets enivrants et psychoactifs'
+      - 'Mandragora officinarum : Mandragore, plante légendaire pour ses propriétés
+        psychoactives et hallucinogènes'
+      - 'Myristica fragrans : Muscade, épice connue pour ses effets psychotropes à
+        haute dose'
+      - 'Mucuna pruriens : Pois mascate, source de L-DOPA, un précurseur de neurotransmetteurs'
+      - 'Papaver somniferum : Pavot, source d''opiacés naturels'
+      - 'Pachycereus pecten-aboriginum : Cawe, Wichowaka, cactus aux utilisations
+        traditionnelles psychotropes'
+      - 'Phalaris arundinacea : Baldingère ou alpiste faux-roseau, contient des alcaloïdes
+        psychoactifs'
+      - 'Pilosella officinarum : plante aux supposées propriétés psychoactives'
+      - 'Psychotria viridis : utilisée avec la Banisteriopsis caapi pour préparer
+        l''Ayahuasca'
+      - 'Salvia divinorum : Sauge des devins, connue pour ses effets dissociatifs
+        et hallucinogènes'
+      - 'Sceletium tortuosum : plante sud-africaine utilisée pour ses effets relaxants
+        et euphorisants'
+      - 'Scirpus sp. : Bakana, genre de plantes dont certaines espèces contiennent
+        des substances psychoactives'
+      - 'Tabernanthe iboga : Iboga, arbuste africain aux effets psychoactifs et entérogènes'
+      - 'Tetrapterys mucronata : Caepi-Pinima, liane utilisée dans des boissons traditionnelles
+        psychotropes'
+      - 'Trichocereus macrogonus et Trichocereus peruvianus : cactus psychoactifs'
+      - 'Turbina corymbosa : Olioliuqui, utilisé pour ses graines hallucinogènes'
+      - 'Virola sp. : Epena, nyakwana, genre d''arbres dont la résine est utilisée
+        pour ses propriétés psychoactives'
     citation:
       philosophy:
-          - "La connaissance tue l'action, pour agir il faut être obnubilé par l'illusion. - La Naissance de la tragédie, Friedrich Nietzsche (1872)"
-          - "Au détour de quelque coin de l'univers inondé des feux d'innombrables systèmes solaires, il y eut un jour une planète sur laquelle des animaux intelligents inventèrent la connaissance. Ce fut la minute la plus orgueilleuse et la plus mensongère de l'« histoire universelle », mais ce ne fut cependant qu'une minute. Après quelques soupirs de la nature, la planète se congela et les animaux intelligents n'eurent plus qu'à mourir. Telle est la fable qu'on pourrait inventer, sans parvenir à mettre suffisamment en lumière l'aspect lamentable, flou et fugitif, l'aspect vain et arbitraire de cette exception que constitue l'intellect humain au sein de la nature. Des éternités ont passé d'où il était absent ; et s'il disparaît à nouveau, il ne se sera rien passé. - « Vérité et mensonge au sens extra-moral » dans Œuvres, Friedrich Nietzsche (1873)"
-          - "Et le bien ne serait-il pas le mal ? [...] Ne se peut-il pas qu'en dernière instance tout soit faux ? Et si nous sommes trompés, ne sommes-nous pas aussi par là même trompeurs ? - « Humain trop humain » dans Essai d'autocritique et autres préfaces, Friedrich Nietzsche (1886)"
-          - "On ne reste philosophe qu'en… se taisant. - Boèce dans la préface de « Humain trop humain », extrait d'Essai d'autocritique et autres préfaces, Friedrich Nietzsche (1886)"
-          - "Il faut enlever les échafaudages lorsque la maison est construite. - « Humain trop humain », Friedrich Nietzsche (1902)"
-          - "Si l'on pouvait comprendre à l'aide de la raison comment peut être clément et juste ce Dieu qui fait preuve de tant de colère et de méchanceté, à quoi servirait alors la foi ? - Luther dans la préface d'« Aurore », extrait d'Essai d'autocritique et autres préfaces, Friedrich Nietzsche (1886)"
-          - "L'évolution ne veut pas le bonheur, elle veut l'évolution et rien de plus. - Aurore, Friedrich Nietzsche (1881)"
-          - "Nous sommes dans notre toile comme des araignées, et quoi que nous puissions y prendre, ce ne sera toujours que ce qui se laissera prendre à notre toile. - Aurore, Friedrich Nietzsche (1881)"
-          - "Le mensonge est, sinon la mère, du moins la nourrice de la bonté. - Aurore, Friedrich Nietzsche (1881)"
-          - "Si tu te sens grand et fécond dans la solitude, la société des hommes t'amoindrira et te rendra stérile : et inversement. - Aurore, Friedrich Nietzsche (1881)"
-          - "Être profond et sembler profond. — Celui qui se sait profond s'efforce d'être clair ; celui qui voudrait sembler profond à la foule s'efforce d'être obscur. - Le Gai Savoir, Friedrich Nietzsche (1882)"
-          - "Nul vainqueur ne croit au hasard. - Le Gai Savoir, Friedrich Nietzsche (1882)"
-          - "La moralité, c'est l'instinct du troupeau chez l'individu. - Le Gai Savoir, Friedrich Nietzsche (1882)"
-          - "Car vous le savez bien : tous les grands artistes modernes souffrent de mauvaise conscience. - Le Gai Savoir, Friedrich Nietzsche (1882)"
-          - "J'aime ceux qui sont pleins d'un grand mépris, parce que ce sont eux qui vénèrent et qu'ils sont des flèches du désir d'aller vers l'autre rive [...]. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "J'aime celui qui ne veut pas avoir trop de vertu. Une vertu est davantage vertu que deux, parce qu'elle est davantage nœud auquel se pend la fatalité. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Je vous le dis : vous portez encore un chaos en vous. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Un peu de poison par-ci par-là : cela donne des rêves agréables. Et beaucoup de poison, pour finir : cela donne une mort agréable. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Chacun veut la même chose : chacun sera pareil, celui qui sentira les choses autrement, ira volontairement à l'asile d'aliénés. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Voyez les bons et les justes ! Qui haïssent-ils le plus ? Celui qui brise les tables de leurs valeurs, le destructeur, le criminel — mais celui-là c'est le créateur. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "« Je suis corps et âme » — ainsi parle l'enfant. Et pourquoi ne parlerait-on pas comme les enfants ? Mais l'homme éveillé à la conscience et à la connaissance dit : « Je suis tout entier corps, et rien d'autre ; l'âme est un mot qui désigne une partie du corps.» - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "De tout ce qui est écrit, je ne lis que ce que quelqu'un écrit avec son sang. Ecris avec ton sang : et tu verras que le sang est esprit. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Que tout un chacun ait le droit d'apprendre à lire, voilà qui à la longue va gâter non seulement l'écriture mais aussi la pensée. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Celui qui gravit les plus hautes montagnes, celui-là se rit de toutes les tragédies qu'elles soient réelles ou jouées. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Courageux, insouciants, moqueurs, brutaux — c'est ainsi que nous veut la sagesse : elle est femme et elle n'aime jamais qu'un guerrier. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "On ne tue pas par la colère, mais on tue par le rire. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "L'État, c'est le plus froid des monstres froids. Il est froid même quand il ment ; et voici le mensonge qui s'échappe de sa bouche : « Moi, l'État, je suis le peuple. » - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Il naît beaucoup trop d'humains : pour ceux qui sont en trop, on a inventé l'État ! Regardez donc comme il les attire, ces trop-nombreux ! Comme il les ingurgite, et mâche et remâche ! - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "J'appelle État le lieu où sont tous ceux qui boivent du poison, qu'ils soient bons ou mauvais ; État, l'endroit où ils se perdent tous, les bons et les méchants ; État, le lieu où le lent suicide de tous s'appelle — « la vie ». - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "C'est à l'écart du marché et de la gloire que se passe tout ce qui est grand : c'est à l'écart de la place du marché et de la gloire qu'ont, de tout temps, habité les inventeurs de valeurs nouvelles. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Tout ce à quoi on pense beaucoup finit par devenir suspect [...]. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "J'aime la forêt. On vit mal dans les villes : il y a trop d'humains en rut. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Ne vaut-il pas mieux tomber aux mains d'un meurtrier que dans les rêves d'une femme en chaleur ? - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "L'homme doit être élevé pour la guerre et la femme pour le délassement du guerrier : tout le reste est folie ! - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Créer, c'est la grande délivrance de la douleur, et l'allègement de la vie. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "« Vouloir » délivre. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Il fait nuit : voici que s'élève plus haut la voix des fontaines jaillissantes : et mon âme, elle aussi, est une fontaine jaillissante. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Il fait nuit : c'est maintenant que s'éveillent tous les chants des amoureux. Et mon âme, elle aussi, est un chant d'amoureux. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Ils ne sont pas non plus assez propres pour moi : ils troublent tous leurs eaux pour les faire paraître profondes. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Tout chez eux discourt, rien ne réussit plus, ni s'achève. Tout caquète, qui donc veut encore rester tranquille sur le nid et couver des œufs ? - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Ce qui a son prix a peu de valeur. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Deviens qui tu es ! - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Voyez quelle abondance autours de nous ! Et qu’y a-t-il de plus beau que de regarder au loin vers les mers lointaines, lorsqu’on est dans le superflu ? - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Celui dont la pensée a franchi, ne fût-ce qu’une fois, le pont qui conduit au mysticisme n’en revient pas sans que toutes ses pensées en portent le stigmate. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "En ceci que je considère le monde comme un jeu divin par-delà le bien et le mal, j’ai pour précurseurs la philosophie de Vedanta et Héraclite. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "Que l’on ne confonde pas : les acteurs meurent de n’être pas loués, les vrais hommes de n’être pas aimés. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
-          - "La vie n'est désormais plus conçue par la morale : elle veut l'illusion, elle vit d'illusion… - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "« Bien » n'est plus bien dès que le voisin l'a dans la bouche. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "« Mon jugement, c'est mon jugement à moi : un autre ne me semble pas y avoir facilement le droit » — ainsi s'exprimera peut-être un de ces philosophes de l'avenir. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "On a mal regardé la vie, quand on n'a pas aussi vu la main qui tue en gant de velours. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "On commence à se méfier des personnes très avisées dès qu'elles sont embarrassées. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "La maturité de l’homme : cela veut dire retrouver le sérieux que l'on avait au jeu, étant enfant. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Celui qui lutte contre les monstres doit veiller à ne pas le devenir lui-même. Or, quand ton regard pénètre longtemps au fond d'un abîme, l'abîme, lui aussi, pénètre en toi. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Quand on veut dresser sa conscience, elle vous embrasse, en vous mordant. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "L'intellectualité supérieure et indépendante, la volonté de solitude, la grande raison apparaissent déjà comme des dangers ; tout ce qui élève l'individu au-dessus du troupeau, tout ce qui fait peur au prochain s'appelle dès lors mal. L'esprit tolérant, modeste, soumis, égalitaire, qui possède des désirs mesurés et médiocres, se fait un renom et parvient aux honneurs moraux. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Une noblesse hautaine et sévère, le sentiment de la responsabilité de soi, viennent presque à blesser et provoquent la méfiance. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Au contraire, rien n'est aussi répugnant, chez les êtres soi-disant cultivés, chez les sectateurs des « idées modernes », que leur manque de pudeur, leur insolence familière de l'œil et de la main qui les porte à toucher à tout, à goûter de tout et à tâter de tout ; et il se peut qu'aujourd'hui, dans le peuple, surtout chez les paysans, il y ait plus de noblesse relative du goût, plus de sentiment de respect, que dans ce demi-monde des esprits qui lisent les journaux, chez les gens cultivés. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Le hommes les plus semblables et les plus ordinaires eurent toujours et ont encore l'avantage ; l'élite, les hommes raffinés et rares, plus difficiles à comprendre, courent le risque de rester seuls et, à cause de leur isolement, ils succombent aux dangers et se reproduisent rarement. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "On pourrait imaginer un sentiment de puissance de la société tel qu'elle pourrait s'offrir le luxe le plus exquis qui soit pour elle, - laisser impuni celui qui la lèse. - Généalogie de la morale, Friedrich Nietzsche (1887)"
-          - "Sans la musique, la vie serait une erreur, une besogne éreintante, un exil. - Crépuscule des idoles, Friedrich Nietzsche (1888)"
-          - "Parvenir à la puissance se paie cher : la puissance abêtit. - Crépuscule des idoles, Friedrich Nietzsche (1888)"
-          - "Pour vivre seul, il faut être une bête, ou un dieu, dit Aristote. Reste un troisième cas : il faut être les deux à la fois… philosophe. - Crépuscule des idoles, Friedrich Nietzsche (1888)"
-          - "La nature, évaluée au point de vue artistique, n'est pas un modèle. Elle exagère, elle déforme, elle laisse des trous. La nature, c'est le hasard. - Crépuscule des idoles, Friedrich Nietzsche (1888)"
-          - "Seules les pensées que l'on a en marchant valent quelque chose. - Crépuscule des idoles, Friedrich Nietzsche (1888)"
-          - "Qu'est-ce qui est bon ? Tout ce qui exalte en l'homme le sentiment de puissance, la volonté de puissance, la puissance même. Qu'est-ce qui est mauvais ? Tout ce qui vient de la faiblesse. - L'Antéchrist, Friedrich Nietzsche (1888)"
-          - "Qu'est-ce qui est plus nuisible qu'aucun vice ? La compassion active pour tous les ratés et les faibles [...] - L'Antéchrist, Friedrich Nietzsche (1888)"
-          - "J'appelle dépravé tout animal, toute espèce, tout individu qui perd ses instincts, qui choisit, qui préfère ce qui lui fait mal. - L'Antéchrist, Friedrich Nietzsche (1888)"
-          - "La compassion est la praxis du nihilisme. - L'Antéchrist, Friedrich Nietzsche (1888)"
-          - "Qu'est-ce qui détruit plus rapidement que de travailler, de penser, de sentir sans nécessité intérieure, sans un choix profondément personnel, sans plaisir, comme un automate mû par le « devoir » ? C'est, tout bonnement, la recette de la décadence, et même de l'idiotie… Kant en est devenu idiot… - L'Antéchrist, Friedrich Nietzsche (1888)"
-          - "Je vis sur le crédit que je m'accorde moi-même, peut-être mon existence se réduit-elle à un préjugé ? - Ecce homo, Friedrich Nietzsche (1888)"
-          - "Qui sait voir les couleurs l'appellera adamantine… Le dégoût de l'homme, de la « canaille », fut toujours mon plus grand péril… - Ecce homo, Friedrich Nietzsche (1888)"
-          - "Refuser de voir, d'entendre, de laisser approcher toutes sortes de choses — première intelligence, première preuve qu'on n'est pas un hasard, mais une nécessité. - Ecce homo, Friedrich Nietzsche (1888)"
-          - "Cette énergie qui me permit de m'isoler complètement, de me détacher totalement des conditions habituelles, la contrainte que je m'imposai pour ne plus me laisser domestiquer, dorloter et droguer par de douteux docteurs — voilà qui trahit une absolue sûreté d'instinct quant à ce qui, alors, faisait avant tout besoin. - Ecce homo, Friedrich Nietzsche (1888)"
-          - "C'est en fait ainsi que m'apparaît maintenant cette longue période de maladie : je découvris pour ainsi dire la vie, y compris moi-même, avec des yeux neufs, je savourai toutes les bonnes — et même les petites — choses, comme d'autres auraient du mal à les savourer — je fis de ma volonté de santé et de vie ma philosophie… - Ecce homo, Friedrich Nietzsche (1888)"
-          - "Ce qui me rend heureux, c’est de voir que les hommes refusent absolument de penser la pensée de la mort. - Le Gai Savoir, Friedrich Nietzsche (1882)"
-          - "Non, ce mauvais goût, cette volonté de vérité, de la ‘vérité à tout prix’, ce délire juvénile dans l’amour de la vérité – nous l’avons désormais en exécration : nous sommes trop aguerris, trop graves, trop joyeux, trop éprouvés par le jeu, trop profonds pour cela… Nous ne croyons plus que la vérité soit encore la vérité dès qu’on lui retire son voile : nous avons trop vécu pour croire cela. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Souffrir de la solitude, c’est là aussi une objection. Pour ma part, je n’ai jamais souffert que de la multitude. - Ecce homo, Friedrich Nietzsche (1888)"
-          - "Le caractère interprétatif de tous les phénomènes. Il n’y a pas de fait en soi. Ce qui arrive est un groupe de phénomènes, choisis et groupés par un être qui les interprète. - La Volonté de puissance, Friedrich Nietzsche (1888)"
-          - "Je ne suis pas un homme, je suis de la dynamite. - Ecce homo, Friedrich Nietzsche (1888)"
-          - "[...] j'ai besoin de solitude, je veux dire de guérison, de retour à moi, du souffle d'un air pur qui circule librement… - Ecce homo, Friedrich Nietzsche (1888)"
-          - "Celui qui, comme moi, s’est longuement appliqué à penser le pessimisme en profondeur […] aura peut être ouvert les yeux, sans même le vouloir, sur l’idéal opposé : celui de l’homme le plus généreux, le plus vivant et le plus affirmateur, qui ne se contente pas d’admettre et d’apprendre à supporter la réalité telle qu’elle fut et telle qu’elle est, mais qui veut la revoir TELLE QU'ELLE FUT ET TELLE QU'ELLE EST, pour toute l’éternité. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
-          - "Au lieu de dire naïvement : ‘JE n’ai plus aucune valeur’, le mensonge moral dit par la bouche du décadent : ‘rien n’a aucune valeur, la VIE n’a aucune valeur’… - Crépuscule des idoles ou comment on philosophe avec un marteau, dans Divagations d'un 'inactuel', Friedrich Nietzsche (1888)"
-          - "C’est NOUS qui avons inventé la notion de ‘fin’ : dans la réalité, la fin fait DÉFAUT. - Crépuscule des idoles ou comment on philosophe avec un marteau, dans Les quatre grandes erreurs, Friedrich Nietzsche (1888)"
-          - "Dans la solitude, le solitaire se ronge le cœur ; dans la multitude, c’est la foule qui le lui ronge. Choisis donc ! - Humain trop humain, Un livre pour les esprits libres (1878)"
-          - "Lorsque les pères s'habituent à laisser faire les enfants, lorsque les fils ne tiennent plus compte de leur parole, lorsque les maîtres tremblent devant leurs élèves et préfèrent les flatter, lorsque finalement les jeunes méprisent les lois parce qu'ils ne reconnaissent plus au-dessus d'eux l'autorité de rien ni de personne, alors c'est là en toute beauté et toute jeunesse le début de la tyrannie. - La République, Platon (vers -375)"
-          - "Mieux vaudrait me trouver en désaccord ou en opposition avec tout le monde, que de l’être avec moi-même étant un et me contredire. - Gorgias, Platon (vers -380)"
-          - "[...] tandis qu'elle interdisait de façon terrible toutes les autres formes de suicide, il n'en laissa subsister que deux qu'il revêtit de la suprême dignité : le martyre et la lente mise à mort de soi-même par l'ascète. - Citation nietzschéenne de Christian Godin dans La philosophie pour les nuls (2006)"
-          - "On veut la liberté aussi longtemps qu'on n'a pas la puissance. Mais si on a la puissance, on veut la suprématie. Si l'on ne réussit pas parce qu'on est trop faible, on veut la « justice », c'est-à-dire une puissance égale. - Citation nietzschéenne de François Aélion dans Manager en toutes lettres, guide d'action et de culture (1995)"
-          - "Rien ne vaut rien. Il ne se passe rien et cependant tout arrive, mais cela est indifférent. - Citation nietzschéenne de Charles de Gaulle dans Mémoires de guerre (1954)"
-          - "Nous, chercheurs de la connaissance, nous sommes pour nous-mêmes des inconnus, pour la bonne raison que nous ne nous sommes jamais cherchés. Quelle chance avions-nous de nous trouver quelque jour ? Notre trésor est là où sont les ruches de notre savoir. Abeilles-nées, toujours en quête, collecteurs du miel de l'esprit, une seule chose nous tient vraiment à cœur - ramener quelque chose à la maison. - Citation nietzschéenne attribuée à Mathieu Amalric, Catherine Deneuve, Jean-Paul Roussillon dans Un conte de Noël (2007) écrit par Arnaud Desplechin et Emmanuel Bourdieu"
-          - "Pour le reste quant à la vie, aux prétendues expériences vécues, lequel d'entre nous les prend seulement au sérieux, lequel en a le temps ? - Citation nietzschéenne attribuée à Mathieu Amalric, Catherine Deneuve, Jean-Paul Roussillon dans Un conte de Noël (2007) écrit par Arnaud Desplechin et Emmanuel Bourdieu"
-          - "De tout ce qu'il est possible de concevoir dans le monde, et même en général hors du monde, il n’est rien qui puisse sans restriction être tenu pour bon, si ce n'est seulement une BONNE VOLONTÉ. - Fondements de la métaphysique des mœurs, Immanuel Kant (1785)"
-          - "…il n'est besoin ni de science ni de philosophie pour savoir ce qu’on a à faire, pour être honnête et bon, même sage et vertueux. - Fondements de la métaphysique des mœurs, Immanuel Kant (1785)"
-          - "Agis de façon telle que tu traites l'humanité, aussi bien dans ta personne que dans tout autre, toujours en même temps comme fin, et jamais simplement comme moyen. - Fondements de la métaphysique des mœurs, Immanuel Kant (1785)"
-          - "Agis selon la maxime qui peut en même temps se transformer en loi universelle. - Fondements de la métaphysique des mœurs, Emmanuel Kant (1785)"
-          - "Agis selon des maximes qui puissent en même temps se prendre elles-mêmes pour objet comme lois universelles de la nature. - Fondements de la métaphysique des mœurs, Immanuel Kant (1785)"
-          - "Penser par soi-même. - Critique de la faculté de juger, Immanuel Kant (1790)"
-          - "Une beauté naturelle est une belle chose ; la beauté artistique est une belle représentation d’une chose. - Critique de la faculté de juger, Immanuel Kant (1790)"
-          - "L'homme acquiert la femme, le couple acquiert des enfants et la famille des domestiques. - Métaphysique des mœurs, Immanuel Kant (1797)"
-          - "Un gouvernement qui serait fondé sur le principe de la bienveillance envers le peuple, tel celui du père envers ses enfants, c’est-à-dire un gouvernement paternel, où par conséquent les sujets tels des enfants mineurs, incapables de décider de ce qui leur est vraiment utile ou nuisible, sont obligés de se comporter d’une manière purement passive, afin d’attendre uniquement du jugement du chef de l’État la façon dont ils doivent être heureux, et uniquement de sa bonté qu’il le veuille également -un tel gouvernement, dis-je, est le plus grand despotisme que l’on puisse concevoir. - Théorie et pratique, D'un prétendu droit de mentir par humanité, Immanuel Kant (1797)"
-          - "Si la Justice disparaît, c’est chose sans valeur que le fait que des hommes vivent sur la terre. - Métaphysique des mœurs, Immanuel Kant (1797)"
-          - "Le GÉNIE est la disposition innée de l’esprit (ingenium) par laquelle la nature donne les règles à l’art. - Critique de la faculté de juger, Immanuel Kant (1790)"
-          - "Dans une montre, un rouage ne peut en produire un autre, et une montre encore moins d’autres montres. - Critique de la faculté de juger, Immanuel Kant (1790)"
-          - "Le bonheur est un idéal, non de la raison, mais de l’imagination - Fondements de la métaphysique des mœurs, Immanuel Kant (1785)"
-          - "Les critères formels universels de la vérité ne sont rien d’autre que les caractères logiques universels de l’accord de la connaissance avec elle-même. - Logique, Immanuel Kant (1800)"
-          - "Posséder le Je dans sa représentation : ce pouvoir élève l’homme infiniment au-dessus de tous les autres êtres vivants sur la Terre. - Anthropologie d'un point de vue pragmatique, Tome VII, Immanuel Kant (1798)"
-          - "On peut considérer l’histoire de l’espèce humaine, dans l’ensemble, comme l’exécution d’un plan caché de la nature. - Idée d'une histoire universelle au point de vue cosmopolitique, Immanuel Kant (1784)"
-          - "SAPERE AUDE ! [Ose penser par toi-même !]. - Qu'est-ce que les Lumières ?, Immanuel Kant (1784)"
-          - "Je devais donc supprimer le savoir, pour trouver une place pour la croyance. - Critique de la raison pure, Immanuel Kant (1787)"
-          - "Si toute connaissance débute avec l’expérience, cela ne prouve pas qu’elle dérive toute de l’expérience. - Critique de la raison pure, Immanuel Kant (1787)"
-          - "Nous ne connaissons a priori des choses que ce que nous y mettons nous-mêmes. - Critique de la raison pure, Immanuel Kant (1787)"
-          - "Ce tribunal intérieur que l’homme sent en lui est la conscience. - Métaphysique des mœurs, Immanuel Kant (1797)"
-          - "Le beau est ce qui est représenté sans concept comme objet d'une satisfaction universelle. - Critique de la faculté de juger, Immanuel Kant (1790)"
-          - "Et que, pour bien diriger, il n’y a que deux choses, l’opinion vraie et la science ; et l’homme qui les possède est un bon guide. Ménon, Platon (vers -386 à -382)"
-          - "C’est donc la sagesse, qui en toute occasion, fait réussir les hommes. On sait, en effet, que la sagesse ne commet jamais de faute et qu’elle agit forcément bien et atteint son but ; autrement, ce ne serait plus la sagesse. - Euthydème, Platon (vers -384)"
-          - "Il faut en effet que l’homme arrive à saisir ce qu’on appelle ‘forme intelligible’, en allant d’une pluralité de sensations vers l’unité. - Phèdre, Platon (vers -370)"
-          - "[Penser est] une conversation que l’âme poursuit avec elle-même sur ce qui est éventuellement l’objet de son examen. - Théétète, Platon (vers -369)"
-          - "Le plus grand des maux est de commettre l’injustice ! - Gorgias, Platon (vers -380)"
-          - "Tant que les philosophes ne seront pas rois, ou que ceux qu’on appelle aujourd’hui rois et souverains, ne seront pas vraiment et sérieusement philosophes […] il n’est point […] de remède aux maux qui désolent les États […]. - La République, Platon (vers -375)"
-          - "Une société corrompue est une société dans laquelle les hommes ne savent plus exercer leur liberté. - Le Prince, Niccolò di Bernardo dei Machiavelli (1532)"
-          - "Il est [...] nécessaire à un prince qui veut se maintenir d’apprendre à pouvoir n’être pas bon et à en user et ne pas en user selon la nécessité. - Le Prince, Niccolò di Bernardo dei Machiavelli (1532)"
-          - "Trouvant un peuple encore indompté, désireux de le réduire à l’obéissance par la paix, Numa se tourna vers la religion comme absolument nécessaire au maintien d’une société civile. - Discours sur la première décade de Tite-Live, Niccolò di Bernardo dei Machiavelli (1531)"
-          - "Le prince, devant agir en bête, tâchera d’être tout à la fois renard et lion : car, s’il n’est que lion, il n’apercevra point les pièges ; s’il n’est que renard, il ne se défendra point contre les loups. - Le Prince, Niccolò di Bernardo dei Machiavelli (1532)"
-          - "On mourait de besoin ; nous mourons de pléthore. - De rerum natura, Titus Lucretius Carus (vers 1040)"
-          - "Si la peur accable ainsi les mortels, c’est qu’ils observent sur la terre et dans le ciel mille phénomènes dont les causes leur sont cachées et qu’ils attribuent à la volonté divine. - De rerum natura, Titus Lucretius Carus (vers 1040)"
-          - "Oui, s’il doit y avoir des maux ou des douleurs futures, il faut pour en souffrir que l’homme existe encore. Puisque la mort exclut ce fait, abolissant l’être en qui les tracas pourraient se concentrer, assurément la mort n’a rien pour nous de redoutable. - De rerum natura, Titus Lucretius Carus (vers 1040)"
-          - "Qui a une idée vraie sait en même temps qu’il a une idée vraie et ne peut douter de la vérité de sa connaissance. - Éthique, Baruch Spinoza (1677)"
-          - "L’Amour n’est rien d’autre qu’une Joie qu’accompagne l’idée d’une cause extérieure ; et la Haine n’est rien d’autre qu’une Tristesse qu’accompagne l’idée d’une cause extérieure. - Éthique, Baruch Spinoza (1677)"
-          - "Tout ce qui est, est en Dieu. - Éthique, Baruch Spinoza (1677)"
-          - "L’Âme humaine ne peut être entièrement détruite avec le Corps, mais il reste quelque chose d’elle qui est éternel. - Éthique, Baruch Spinoza (1677)"
-          - "Nul ne sait ce que peut le corps. - Éthique, Baruch Spinoza (1677)"
-          - "Le Désir est l’essence même de l’homme. - Éthique, Baruch Spinoza (1677)"
-          - "Nous ne nous efforçons à rien, ne voulons, n’appétons ni ne désirons aucune chose, parce que nous la jugeons bonne ; mais, au contraire, nous jugeons qu’une chose est bonne parce que nous nous efforçons vers elle, la voulons, appétons et désirons. - Éthique, Baruch Spinoza (1677)"
-          - "Les hommes se croient libres pour cette seule cause qu’ils sont conscients de leurs actions et ignorants des causes par où ils sont déterminés. - Éthique, Baruch Spinoza (1677)"
-          - "Je dis qu’une chose est libre quand c’est par la seule nécessité de sa nature qu’elle existe et agit […]. - Éthique, Baruch Spinoza (1677)"
-          - "Tout le malheur des hommes vient d’une seule chose, qui est de ne pas savoir demeurer en repos dans une chambre. - Pensées, Blaise Pascal (1670)"
-          - "On cherche le repos en combattant quelques obstacles, et si on les a surmontés, le repos devient insupportable par l’ennui qu’il engendre. - Pensées, Blaise Pascal (1670)"
-          - "Nous disposant toujours à être heureux, il est inévitable que nous ne le soyons jamais. - Pensées, Blaise Pascal (1670)"
-          - "Qu’une chose aussi visible qu’est la vanité du monde soit si peu connue, que ce soit une chose étrange et surprenante de dire que c’est une sottise de chercher les grandeurs, cela est admirable. - Pensées, Blaise Pascal (1670)"
-          - "[Imagination], cette maitresse d’erreur et de fausseté, et d’autant plus fourbe qu’elle ne l’est pas toujours. - Pensées, Blaise Pascal (1670)"
-          - "Le passé et le présent sont nos moyens ; le seul avenir est notre fin. Ainsi nous ne vivons jamais mais nous espérons de vivre, et nous disposant toujours à être heureux, il est inévitable que nous ne le soyons jamais. - Pensées, Blaise Pascal (1670)"
-          - " Si notre condition était véritablement heureuse, il ne faudrait pas nous divertir d’y penser. - Pensées, Blaise Pascal (1670)"
-          - "Ainsi l’homme est si malheureux qu’il s’ennuierait même sans aucune cause d’ennui par l’état propre de sa complexion. Et il est si vain qu’étant plein de mille causes essentielles d’ennui, la moindre chose comme un billard et une balle qu’il pousse suffisent pour le divertir. - Pensées, Blaise Pascal (1670)"
-          - "Tous les hommes recherchent d’être heureux. […] C’est le motif de toutes les actions de tous les hommes, jusqu’à ceux qui vont se pendre. Et cependant depuis un si grand nombre d’années jamais personne, sans la foi, n’est arrivé à ce point où tous visent continuellement. - Pensées, Blaise Pascal (1670)"
-          - "Car enfin, qu’est ce qu’un homme dans la nature ? Un néant à l’égard de l’infini, un tout à l’égard du néant, un milieu entre rien et tout, infiniment éloigné de comprendre les extrêmes. - Pensées, Blaise Pascal (1670)"
-          - "Au lieu de recevoir les idées de ces choses pures, nous les teignons de nos qualités et empreignons notre être composé [de] toutes choses simples que nous contemplons. - Pensées, Blaise Pascal (1670)"
-          - "L’homme n’est qu’un roseau, le plus faible de la nature, mais c’est un roseau pensant. […] Mais quand l’univers l’écraserait, l’homme serait encore plus noble que ce qui le tue puisqu’il sait qu’il meurt et l’avantage que l’univers a sur lui, l’univers n’en sait rien. - Pensées, Blaise Pascal (1670)"
-          - "La seule religion contre la nature, contre le sens commun, contre nos plaisirs, est la seule qui ait toujours été. - Pensées, Blaise Pascal (1670)"
-          - "Nier, croire et douter sont à l’homme ce que le courir est au cheval. - Pensées, Blaise Pascal (1670)"
-          - "Il est nécessaire qu’il y ait de l’inégalité parmi les hommes, cela est vrai ; mais cela étant accordé, voila la porte ouverte non seulement à la plus haute domination, mais à la plus haute tyrannie. - Pensées, Blaise Pascal (1670)"
-          - "S’il se vante, je l’abaisse; s’il s’abaisse, je le vante ; et le contredis toujours, jusqu’à ce qu’il comprenne qu’il est un monstre incompréhensible. - Pensées, Blaise Pascal (1670)"
-          - "Quiconque se soumet de bonne grâce à la nécessité est sage. - Manuel, Épictète (entre l'an 50 et l'an 125)"
-          - "Ne demande point que les choses arrivent comme tu les désires, mais désire qu'elles arrivent comme elles arrivent, et tu prospéreras toujours. - Pensées, Épictète (entre l'an 50 et l'an 125)"
-          - "Le but qu'il faut poursuivre, qui est réalisable, c'est d'assurer à tous des possibilités éducatives égales. Confondre cet objectif et la scolarité obligatoire, c'est confondre le salut et l'Église. L'école est devenue la religion mondiale d'un prolétariat modernisé et elle offre ses vaines promesses de salut aux pauvres de l'ère technologique. - Une société sans école, Ivan Illich (1971)"
-          - "L'école est l'agence de publicité qui nous fait croire que nous avons besoin de la société telle qu'elle est. - Une société sans école, Ivan Illich (1971)"
-          - "Grâce à l'initiation de l'école, nous participons au mythe de la consommation illimitée. Ce mythe moderne se fonde sur la croyance selon laquelle le système de production fabrique un bon produit, et que, par conséquent, puisque valeur il y a, une demande va naître. L'école nous enseigne à croire que l'éducation est le produit de l'enseignement. - Une société sans école, Ivan Illich (1971)"
-          - "L'état d'esprit d'un certain nombre d'éducateurs ressemble fort à celui des évêques après le dernier concile. Les programmes des écoles « nouvelles » ou « libérées » évoquent les liturgies des messes « folk » ou « rock ». - Une société sans école, Ivan Illich (1971)"
-          - "La crise écologique, par exemple, est traitée superficiellement lorsqu'on ne souligne pas que la mise en place de dispositifs antipolluants n'aura d'effets que si elle s’accompagne d'une diminution de la production globale. Autrement ces mesures transfèrent les ordures chez nos voisins, les réservent à nos enfants, ou les déversent sur le tiers monde. - La convivialité, Ivan Illich (1973)"
-          - "Désormais, le déclencheur le plus sensible du dégagement d'un crédit de recherche sur n'importe quel sujet, de la génétique à la climatologie, est la promesse que ses résultats contribueront à la santé. - La Perte des sens, Ivan Illich (2004)"
-          - "On déclame contre les passions sans songer que c’est à leur flambeau que la philosophie allume le sien. - Histoire de Juliette, ou les Prospérités du vice, Donatien Alphonse François de Sade (1797)"
-          - "S’ils veulent qu’absolument vous leur parliez d’un créateur, répondez que les choses ayant toujours été ce qu’elles sont, n’ayant jamais eu de commencement et ne devant jamais avoir de fin, il devient aussi inutile qu’impossible à l’homme de pouvoir remonter à une origine imaginaire qui n’expliquerait rien et n’avancerait à rien. - La Philosophie dans le boudoir, dans le Religion par Donatien Alphone François de Sade (1795)"
-          - "Le lâche, le téméraire et le courageux ont rapport aux mêmes objets ; la différence qui les sépare porte uniquement sur la façon dont ils se comportent envers lesdits objets. Les deux premiers, en effet, pèchent par excès ou par défaut, et le troisième se tient dans un juste milieu et comme il doit être. Les téméraires, en outre, sont emportés et appellent de leurs vœux les dangers, mais au moment critique s'en détournent, tandis que les hommes courageux sont vifs dans l'action et calmes au temps qui la précède. - Éthique à Nicomaque, Aristote (1837)"
-          - "On façonne les plantes par la culture, et les hommes par l’éducation. - Émile ou De l'éducation, Jean-Jacques Rousseau (1762)"
-          - "Considérer l’homme dans l’homme, et l’enfant dans l’enfant. - Émile ou De l'éducation, Jean-Jacques Rousseau (1762)"
-          - "L’homme est né libre, et partout il est dans les fers. - Du Contrat social ou Principes du droit politique, Jean-Jacques Rousseau (1762)"
-          - "S’il y avait un peuple de dieux, il se gouvernerait démocratiquement. Un gouvernement si parfait ne convient pas à des hommes. - Du Contrat social ou Principes du droit politique, Jean-Jacques Rousseau (1762)"
-          - "L'émeute qui finit par étrangler ou détrôner un sultan est un acte aussi juridique que ceux par lesquels il disposait la veille des vies et des biens de ses sujets. La seule force le maintenait, la seule force le renverse. - Discours sur l'origine et les fondements de l'inégalité parmi les hommes, Jean-Jacques Rousseau (1755)"
-          - "Malheur à qui n’a plus rien à désirer ! Il perd pour ainsi dire tout ce qu’il possède. On jouit moins de ce qu’on obtient que de ce qu’on espère et l’on n’est heureux qu’avant d’être heureux. - Julie ou la Nouvelle Héloïse, Jean-Jacques Rousseau (1761)"
-          - "La passion amoureuse n’a en vue que la procréation d’un individu de nature déterminée. - Julie ou la Nouvelle Héloïse, Jean-Jacques Rousseau (1761)"
+      - La connaissance tue l'action, pour agir il faut être obnubilé par l'illusion.
+        - La Naissance de la tragédie, Friedrich Nietzsche (1872)
+      - Au détour de quelque coin de l'univers inondé des feux d'innombrables systèmes
+        solaires, il y eut un jour une planète sur laquelle des animaux intelligents
+        inventèrent la connaissance. Ce fut la minute la plus orgueilleuse et la plus
+        mensongère de l'« histoire universelle », mais ce ne fut cependant qu'une
+        minute. Après quelques soupirs de la nature, la planète se congela et les
+        animaux intelligents n'eurent plus qu'à mourir. Telle est la fable qu'on pourrait
+        inventer, sans parvenir à mettre suffisamment en lumière l'aspect lamentable,
+        flou et fugitif, l'aspect vain et arbitraire de cette exception que constitue
+        l'intellect humain au sein de la nature. Des éternités ont passé d'où il était
+        absent ; et s'il disparaît à nouveau, il ne se sera rien passé. - « Vérité
+        et mensonge au sens extra-moral » dans Œuvres, Friedrich Nietzsche (1873)
+      - Et le bien ne serait-il pas le mal ? [...] Ne se peut-il pas qu'en dernière
+        instance tout soit faux ? Et si nous sommes trompés, ne sommes-nous pas aussi
+        par là même trompeurs ? - « Humain trop humain » dans Essai d'autocritique
+        et autres préfaces, Friedrich Nietzsche (1886)
+      - On ne reste philosophe qu'en… se taisant. - Boèce dans la préface de « Humain
+        trop humain », extrait d'Essai d'autocritique et autres préfaces, Friedrich
+        Nietzsche (1886)
+      - Il faut enlever les échafaudages lorsque la maison est construite. - « Humain
+        trop humain », Friedrich Nietzsche (1902)
+      - Si l'on pouvait comprendre à l'aide de la raison comment peut être clément
+        et juste ce Dieu qui fait preuve de tant de colère et de méchanceté, à quoi
+        servirait alors la foi ? - Luther dans la préface d'« Aurore », extrait d'Essai
+        d'autocritique et autres préfaces, Friedrich Nietzsche (1886)
+      - L'évolution ne veut pas le bonheur, elle veut l'évolution et rien de plus.
+        - Aurore, Friedrich Nietzsche (1881)
+      - Nous sommes dans notre toile comme des araignées, et quoi que nous puissions
+        y prendre, ce ne sera toujours que ce qui se laissera prendre à notre toile.
+        - Aurore, Friedrich Nietzsche (1881)
+      - Le mensonge est, sinon la mère, du moins la nourrice de la bonté. - Aurore,
+        Friedrich Nietzsche (1881)
+      - 'Si tu te sens grand et fécond dans la solitude, la société des hommes t''amoindrira
+        et te rendra stérile : et inversement. - Aurore, Friedrich Nietzsche (1881)'
+      - Être profond et sembler profond. — Celui qui se sait profond s'efforce d'être
+        clair ; celui qui voudrait sembler profond à la foule s'efforce d'être obscur.
+        - Le Gai Savoir, Friedrich Nietzsche (1882)
+      - Nul vainqueur ne croit au hasard. - Le Gai Savoir, Friedrich Nietzsche (1882)
+      - La moralité, c'est l'instinct du troupeau chez l'individu. - Le Gai Savoir,
+        Friedrich Nietzsche (1882)
+      - 'Car vous le savez bien : tous les grands artistes modernes souffrent de mauvaise
+        conscience. - Le Gai Savoir, Friedrich Nietzsche (1882)'
+      - J'aime ceux qui sont pleins d'un grand mépris, parce que ce sont eux qui vénèrent
+        et qu'ils sont des flèches du désir d'aller vers l'autre rive [...]. - Ainsi
+        parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - J'aime celui qui ne veut pas avoir trop de vertu. Une vertu est davantage
+        vertu que deux, parce qu'elle est davantage nœud auquel se pend la fatalité.
+        - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - 'Je vous le dis : vous portez encore un chaos en vous. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)'
+      - 'Un peu de poison par-ci par-là : cela donne des rêves agréables. Et beaucoup
+        de poison, pour finir : cela donne une mort agréable. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)'
+      - 'Chacun veut la même chose : chacun sera pareil, celui qui sentira les choses
+        autrement, ira volontairement à l''asile d''aliénés. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)'
+      - Voyez les bons et les justes ! Qui haïssent-ils le plus ? Celui qui brise
+        les tables de leurs valeurs, le destructeur, le criminel — mais celui-là c'est
+        le créateur. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - "« Je suis corps et âme » — ainsi parle l'enfant. Et pourquoi ne parlerait-on
+        pas comme les enfants ? Mais l'homme éveillé à la conscience et à la connaissance
+        dit : « Je suis tout entier corps, et rien d'autre ; l'âme est un mot qui
+        désigne une partie du corps.» - Ainsi parlait Zarathoustra, Friedrich Nietzsche
+        (1885)"
+      - 'De tout ce qui est écrit, je ne lis que ce que quelqu''un écrit avec son
+        sang. Ecris avec ton sang : et tu verras que le sang est esprit. - Ainsi parlait
+        Zarathoustra, Friedrich Nietzsche (1885)'
+      - Que tout un chacun ait le droit d'apprendre à lire, voilà qui à la longue
+        va gâter non seulement l'écriture mais aussi la pensée. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)
+      - Celui qui gravit les plus hautes montagnes, celui-là se rit de toutes les
+        tragédies qu'elles soient réelles ou jouées. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)
+      - 'Courageux, insouciants, moqueurs, brutaux — c''est ainsi que nous veut la
+        sagesse : elle est femme et elle n''aime jamais qu''un guerrier. - Ainsi parlait
+        Zarathoustra, Friedrich Nietzsche (1885)'
+      - On ne tue pas par la colère, mais on tue par le rire. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)
+      - 'L''État, c''est le plus froid des monstres froids. Il est froid même quand
+        il ment ; et voici le mensonge qui s''échappe de sa bouche : « Moi, l''État,
+        je suis le peuple. » - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)'
+      - 'Il naît beaucoup trop d''humains : pour ceux qui sont en trop, on a inventé
+        l''État ! Regardez donc comme il les attire, ces trop-nombreux ! Comme il
+        les ingurgite, et mâche et remâche ! - Ainsi parlait Zarathoustra, Friedrich
+        Nietzsche (1885)'
+      - J'appelle État le lieu où sont tous ceux qui boivent du poison, qu'ils soient
+        bons ou mauvais ; État, l'endroit où ils se perdent tous, les bons et les
+        méchants ; État, le lieu où le lent suicide de tous s'appelle — « la vie ».
+        - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - 'C''est à l''écart du marché et de la gloire que se passe tout ce qui est
+        grand : c''est à l''écart de la place du marché et de la gloire qu''ont, de
+        tout temps, habité les inventeurs de valeurs nouvelles. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)'
+      - Tout ce à quoi on pense beaucoup finit par devenir suspect [...]. - Ainsi
+        parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - 'J''aime la forêt. On vit mal dans les villes : il y a trop d''humains en
+        rut. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)'
+      - Ne vaut-il pas mieux tomber aux mains d'un meurtrier que dans les rêves d'une
+        femme en chaleur ? - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - 'L''homme doit être élevé pour la guerre et la femme pour le délassement du
+        guerrier : tout le reste est folie ! - Ainsi parlait Zarathoustra, Friedrich
+        Nietzsche (1885)'
+      - Créer, c'est la grande délivrance de la douleur, et l'allègement de la vie.
+        - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - "« Vouloir » délivre. - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)"
+      - 'Il fait nuit : voici que s''élève plus haut la voix des fontaines jaillissantes
+        : et mon âme, elle aussi, est une fontaine jaillissante. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)'
+      - 'Il fait nuit : c''est maintenant que s''éveillent tous les chants des amoureux.
+        Et mon âme, elle aussi, est un chant d''amoureux. - Ainsi parlait Zarathoustra,
+        Friedrich Nietzsche (1885)'
+      - 'Ils ne sont pas non plus assez propres pour moi : ils troublent tous leurs
+        eaux pour les faire paraître profondes. - Ainsi parlait Zarathoustra, Friedrich
+        Nietzsche (1885)'
+      - Tout chez eux discourt, rien ne réussit plus, ni s'achève. Tout caquète, qui
+        donc veut encore rester tranquille sur le nid et couver des œufs ? - Ainsi
+        parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - Ce qui a son prix a peu de valeur. - Ainsi parlait Zarathoustra, Friedrich
+        Nietzsche (1885)
+      - Deviens qui tu es ! - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - Voyez quelle abondance autours de nous ! Et qu’y a-t-il de plus beau que de
+        regarder au loin vers les mers lointaines, lorsqu’on est dans le superflu
+        ? - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - Celui dont la pensée a franchi, ne fût-ce qu’une fois, le pont qui conduit
+        au mysticisme n’en revient pas sans que toutes ses pensées en portent le stigmate.
+        - Ainsi parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - En ceci que je considère le monde comme un jeu divin par-delà le bien et le
+        mal, j’ai pour précurseurs la philosophie de Vedanta et Héraclite. - Ainsi
+        parlait Zarathoustra, Friedrich Nietzsche (1885)
+      - 'Que l’on ne confonde pas : les acteurs meurent de n’être pas loués, les vrais
+        hommes de n’être pas aimés. - Ainsi parlait Zarathoustra, Friedrich Nietzsche
+        (1885)'
+      - 'La vie n''est désormais plus conçue par la morale : elle veut l''illusion,
+        elle vit d''illusion… - Par-delà le bien et le mal, Friedrich Nietzsche (1886)'
+      - "« Bien » n'est plus bien dès que le voisin l'a dans la bouche. - Par-delà
+        le bien et le mal, Friedrich Nietzsche (1886)"
+      - "« Mon jugement, c'est mon jugement à moi : un autre ne me semble pas y avoir
+        facilement le droit » — ainsi s'exprimera peut-être un de ces philosophes
+        de l'avenir. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)"
+      - On a mal regardé la vie, quand on n'a pas aussi vu la main qui tue en gant
+        de velours. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)
+      - On commence à se méfier des personnes très avisées dès qu'elles sont embarrassées.
+        - Par-delà le bien et le mal, Friedrich Nietzsche (1886)
+      - 'La maturité de l’homme : cela veut dire retrouver le sérieux que l''on avait
+        au jeu, étant enfant. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)'
+      - Celui qui lutte contre les monstres doit veiller à ne pas le devenir lui-même.
+        Or, quand ton regard pénètre longtemps au fond d'un abîme, l'abîme, lui aussi,
+        pénètre en toi. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)
+      - Quand on veut dresser sa conscience, elle vous embrasse, en vous mordant.
+        - Par-delà le bien et le mal, Friedrich Nietzsche (1886)
+      - L'intellectualité supérieure et indépendante, la volonté de solitude, la grande
+        raison apparaissent déjà comme des dangers ; tout ce qui élève l'individu
+        au-dessus du troupeau, tout ce qui fait peur au prochain s'appelle dès lors
+        mal. L'esprit tolérant, modeste, soumis, égalitaire, qui possède des désirs
+        mesurés et médiocres, se fait un renom et parvient aux honneurs moraux. -
+        Par-delà le bien et le mal, Friedrich Nietzsche (1886)
+      - Une noblesse hautaine et sévère, le sentiment de la responsabilité de soi,
+        viennent presque à blesser et provoquent la méfiance. - Par-delà le bien et
+        le mal, Friedrich Nietzsche (1886)
+      - Au contraire, rien n'est aussi répugnant, chez les êtres soi-disant cultivés,
+        chez les sectateurs des « idées modernes », que leur manque de pudeur, leur
+        insolence familière de l'œil et de la main qui les porte à toucher à tout,
+        à goûter de tout et à tâter de tout ; et il se peut qu'aujourd'hui, dans le
+        peuple, surtout chez les paysans, il y ait plus de noblesse relative du goût,
+        plus de sentiment de respect, que dans ce demi-monde des esprits qui lisent
+        les journaux, chez les gens cultivés. - Par-delà le bien et le mal, Friedrich
+        Nietzsche (1886)
+      - Le hommes les plus semblables et les plus ordinaires eurent toujours et ont
+        encore l'avantage ; l'élite, les hommes raffinés et rares, plus difficiles
+        à comprendre, courent le risque de rester seuls et, à cause de leur isolement,
+        ils succombent aux dangers et se reproduisent rarement. - Par-delà le bien
+        et le mal, Friedrich Nietzsche (1886)
+      - On pourrait imaginer un sentiment de puissance de la société tel qu'elle pourrait
+        s'offrir le luxe le plus exquis qui soit pour elle, - laisser impuni celui
+        qui la lèse. - Généalogie de la morale, Friedrich Nietzsche (1887)
+      - Sans la musique, la vie serait une erreur, une besogne éreintante, un exil.
+        - Crépuscule des idoles, Friedrich Nietzsche (1888)
+      - 'Parvenir à la puissance se paie cher : la puissance abêtit. - Crépuscule
+        des idoles, Friedrich Nietzsche (1888)'
+      - 'Pour vivre seul, il faut être une bête, ou un dieu, dit Aristote. Reste un
+        troisième cas : il faut être les deux à la fois… philosophe. - Crépuscule
+        des idoles, Friedrich Nietzsche (1888)'
+      - La nature, évaluée au point de vue artistique, n'est pas un modèle. Elle exagère,
+        elle déforme, elle laisse des trous. La nature, c'est le hasard. - Crépuscule
+        des idoles, Friedrich Nietzsche (1888)
+      - Seules les pensées que l'on a en marchant valent quelque chose. - Crépuscule
+        des idoles, Friedrich Nietzsche (1888)
+      - Qu'est-ce qui est bon ? Tout ce qui exalte en l'homme le sentiment de puissance,
+        la volonté de puissance, la puissance même. Qu'est-ce qui est mauvais ? Tout
+        ce qui vient de la faiblesse. - L'Antéchrist, Friedrich Nietzsche (1888)
+      - Qu'est-ce qui est plus nuisible qu'aucun vice ? La compassion active pour
+        tous les ratés et les faibles [...] - L'Antéchrist, Friedrich Nietzsche (1888)
+      - J'appelle dépravé tout animal, toute espèce, tout individu qui perd ses instincts,
+        qui choisit, qui préfère ce qui lui fait mal. - L'Antéchrist, Friedrich Nietzsche
+        (1888)
+      - La compassion est la praxis du nihilisme. - L'Antéchrist, Friedrich Nietzsche
+        (1888)
+      - Qu'est-ce qui détruit plus rapidement que de travailler, de penser, de sentir
+        sans nécessité intérieure, sans un choix profondément personnel, sans plaisir,
+        comme un automate mû par le « devoir » ? C'est, tout bonnement, la recette
+        de la décadence, et même de l'idiotie… Kant en est devenu idiot… - L'Antéchrist,
+        Friedrich Nietzsche (1888)
+      - Je vis sur le crédit que je m'accorde moi-même, peut-être mon existence se
+        réduit-elle à un préjugé ? - Ecce homo, Friedrich Nietzsche (1888)
+      - Qui sait voir les couleurs l'appellera adamantine… Le dégoût de l'homme, de
+        la « canaille », fut toujours mon plus grand péril… - Ecce homo, Friedrich
+        Nietzsche (1888)
+      - Refuser de voir, d'entendre, de laisser approcher toutes sortes de choses
+        — première intelligence, première preuve qu'on n'est pas un hasard, mais une
+        nécessité. - Ecce homo, Friedrich Nietzsche (1888)
+      - Cette énergie qui me permit de m'isoler complètement, de me détacher totalement
+        des conditions habituelles, la contrainte que je m'imposai pour ne plus me
+        laisser domestiquer, dorloter et droguer par de douteux docteurs — voilà qui
+        trahit une absolue sûreté d'instinct quant à ce qui, alors, faisait avant
+        tout besoin. - Ecce homo, Friedrich Nietzsche (1888)
+      - 'C''est en fait ainsi que m''apparaît maintenant cette longue période de maladie
+        : je découvris pour ainsi dire la vie, y compris moi-même, avec des yeux neufs,
+        je savourai toutes les bonnes — et même les petites — choses, comme d''autres
+        auraient du mal à les savourer — je fis de ma volonté de santé et de vie ma
+        philosophie… - Ecce homo, Friedrich Nietzsche (1888)'
+      - Ce qui me rend heureux, c’est de voir que les hommes refusent absolument de
+        penser la pensée de la mort. - Le Gai Savoir, Friedrich Nietzsche (1882)
+      - 'Non, ce mauvais goût, cette volonté de vérité, de la ‘vérité à tout prix’,
+        ce délire juvénile dans l’amour de la vérité – nous l’avons désormais en exécration
+        : nous sommes trop aguerris, trop graves, trop joyeux, trop éprouvés par le
+        jeu, trop profonds pour cela… Nous ne croyons plus que la vérité soit encore
+        la vérité dès qu’on lui retire son voile : nous avons trop vécu pour croire
+        cela. - Par-delà le bien et le mal, Friedrich Nietzsche (1886)'
+      - Souffrir de la solitude, c’est là aussi une objection. Pour ma part, je n’ai
+        jamais souffert que de la multitude. - Ecce homo, Friedrich Nietzsche (1888)
+      - Le caractère interprétatif de tous les phénomènes. Il n’y a pas de fait en
+        soi. Ce qui arrive est un groupe de phénomènes, choisis et groupés par un
+        être qui les interprète. - La Volonté de puissance, Friedrich Nietzsche (1888)
+      - Je ne suis pas un homme, je suis de la dynamite. - Ecce homo, Friedrich Nietzsche
+        (1888)
+      - "[...] j'ai besoin de solitude, je veux dire de guérison, de retour à moi,
+        du souffle d'un air pur qui circule librement… - Ecce homo, Friedrich Nietzsche
+        (1888)"
+      - 'Celui qui, comme moi, s’est longuement appliqué à penser le pessimisme en
+        profondeur […] aura peut être ouvert les yeux, sans même le vouloir, sur l’idéal
+        opposé : celui de l’homme le plus généreux, le plus vivant et le plus affirmateur,
+        qui ne se contente pas d’admettre et d’apprendre à supporter la réalité telle
+        qu’elle fut et telle qu’elle est, mais qui veut la revoir TELLE QU''ELLE FUT
+        ET TELLE QU''ELLE EST, pour toute l’éternité. - Par-delà le bien et le mal,
+        Friedrich Nietzsche (1886)'
+      - 'Au lieu de dire naïvement : ‘JE n’ai plus aucune valeur’, le mensonge moral
+        dit par la bouche du décadent : ‘rien n’a aucune valeur, la VIE n’a aucune
+        valeur’… - Crépuscule des idoles ou comment on philosophe avec un marteau,
+        dans Divagations d''un ''inactuel'', Friedrich Nietzsche (1888)'
+      - 'C’est NOUS qui avons inventé la notion de ‘fin’ : dans la réalité, la fin
+        fait DÉFAUT. - Crépuscule des idoles ou comment on philosophe avec un marteau,
+        dans Les quatre grandes erreurs, Friedrich Nietzsche (1888)'
+      - Dans la solitude, le solitaire se ronge le cœur ; dans la multitude, c’est
+        la foule qui le lui ronge. Choisis donc ! - Humain trop humain, Un livre pour
+        les esprits libres (1878)
+      - Lorsque les pères s'habituent à laisser faire les enfants, lorsque les fils
+        ne tiennent plus compte de leur parole, lorsque les maîtres tremblent devant
+        leurs élèves et préfèrent les flatter, lorsque finalement les jeunes méprisent
+        les lois parce qu'ils ne reconnaissent plus au-dessus d'eux l'autorité de
+        rien ni de personne, alors c'est là en toute beauté et toute jeunesse le début
+        de la tyrannie. - La République, Platon (vers -375)
+      - Mieux vaudrait me trouver en désaccord ou en opposition avec tout le monde,
+        que de l’être avec moi-même étant un et me contredire. - Gorgias, Platon (vers
+        -380)
+      - "[...] tandis qu'elle interdisait de façon terrible toutes les autres formes
+        de suicide, il n'en laissa subsister que deux qu'il revêtit de la suprême
+        dignité : le martyre et la lente mise à mort de soi-même par l'ascète. - Citation
+        nietzschéenne de Christian Godin dans La philosophie pour les nuls (2006)"
+      - On veut la liberté aussi longtemps qu'on n'a pas la puissance. Mais si on
+        a la puissance, on veut la suprématie. Si l'on ne réussit pas parce qu'on
+        est trop faible, on veut la « justice », c'est-à-dire une puissance égale.
+        - Citation nietzschéenne de François Aélion dans Manager en toutes lettres,
+        guide d'action et de culture (1995)
+      - Rien ne vaut rien. Il ne se passe rien et cependant tout arrive, mais cela
+        est indifférent. - Citation nietzschéenne de Charles de Gaulle dans Mémoires
+        de guerre (1954)
+      - Nous, chercheurs de la connaissance, nous sommes pour nous-mêmes des inconnus,
+        pour la bonne raison que nous ne nous sommes jamais cherchés. Quelle chance
+        avions-nous de nous trouver quelque jour ? Notre trésor est là où sont les
+        ruches de notre savoir. Abeilles-nées, toujours en quête, collecteurs du miel
+        de l'esprit, une seule chose nous tient vraiment à cœur - ramener quelque
+        chose à la maison. - Citation nietzschéenne attribuée à Mathieu Amalric, Catherine
+        Deneuve, Jean-Paul Roussillon dans Un conte de Noël (2007) écrit par Arnaud
+        Desplechin et Emmanuel Bourdieu
+      - Pour le reste quant à la vie, aux prétendues expériences vécues, lequel d'entre
+        nous les prend seulement au sérieux, lequel en a le temps ? - Citation nietzschéenne
+        attribuée à Mathieu Amalric, Catherine Deneuve, Jean-Paul Roussillon dans
+        Un conte de Noël (2007) écrit par Arnaud Desplechin et Emmanuel Bourdieu
+      - De tout ce qu'il est possible de concevoir dans le monde, et même en général
+        hors du monde, il n’est rien qui puisse sans restriction être tenu pour bon,
+        si ce n'est seulement une BONNE VOLONTÉ. - Fondements de la métaphysique des
+        mœurs, Immanuel Kant (1785)
+      - "…il n'est besoin ni de science ni de philosophie pour savoir ce qu’on a à
+        faire, pour être honnête et bon, même sage et vertueux. - Fondements de la
+        métaphysique des mœurs, Immanuel Kant (1785)"
+      - Agis de façon telle que tu traites l'humanité, aussi bien dans ta personne
+        que dans tout autre, toujours en même temps comme fin, et jamais simplement
+        comme moyen. - Fondements de la métaphysique des mœurs, Immanuel Kant (1785)
+      - Agis selon la maxime qui peut en même temps se transformer en loi universelle.
+        - Fondements de la métaphysique des mœurs, Emmanuel Kant (1785)
+      - Agis selon des maximes qui puissent en même temps se prendre elles-mêmes pour
+        objet comme lois universelles de la nature. - Fondements de la métaphysique
+        des mœurs, Immanuel Kant (1785)
+      - Penser par soi-même. - Critique de la faculté de juger, Immanuel Kant (1790)
+      - Une beauté naturelle est une belle chose ; la beauté artistique est une belle
+        représentation d’une chose. - Critique de la faculté de juger, Immanuel Kant
+        (1790)
+      - L'homme acquiert la femme, le couple acquiert des enfants et la famille des
+        domestiques. - Métaphysique des mœurs, Immanuel Kant (1797)
+      - Un gouvernement qui serait fondé sur le principe de la bienveillance envers
+        le peuple, tel celui du père envers ses enfants, c’est-à-dire un gouvernement
+        paternel, où par conséquent les sujets tels des enfants mineurs, incapables
+        de décider de ce qui leur est vraiment utile ou nuisible, sont obligés de
+        se comporter d’une manière purement passive, afin d’attendre uniquement du
+        jugement du chef de l’État la façon dont ils doivent être heureux, et uniquement
+        de sa bonté qu’il le veuille également -un tel gouvernement, dis-je, est le
+        plus grand despotisme que l’on puisse concevoir. - Théorie et pratique, D'un
+        prétendu droit de mentir par humanité, Immanuel Kant (1797)
+      - Si la Justice disparaît, c’est chose sans valeur que le fait que des hommes
+        vivent sur la terre. - Métaphysique des mœurs, Immanuel Kant (1797)
+      - Le GÉNIE est la disposition innée de l’esprit (ingenium) par laquelle la nature
+        donne les règles à l’art. - Critique de la faculté de juger, Immanuel Kant
+        (1790)
+      - Dans une montre, un rouage ne peut en produire un autre, et une montre encore
+        moins d’autres montres. - Critique de la faculté de juger, Immanuel Kant (1790)
+      - Le bonheur est un idéal, non de la raison, mais de l’imagination - Fondements
+        de la métaphysique des mœurs, Immanuel Kant (1785)
+      - Les critères formels universels de la vérité ne sont rien d’autre que les
+        caractères logiques universels de l’accord de la connaissance avec elle-même.
+        - Logique, Immanuel Kant (1800)
+      - 'Posséder le Je dans sa représentation : ce pouvoir élève l’homme infiniment
+        au-dessus de tous les autres êtres vivants sur la Terre. - Anthropologie d''un
+        point de vue pragmatique, Tome VII, Immanuel Kant (1798)'
+      - On peut considérer l’histoire de l’espèce humaine, dans l’ensemble, comme
+        l’exécution d’un plan caché de la nature. - Idée d'une histoire universelle
+        au point de vue cosmopolitique, Immanuel Kant (1784)
+      - SAPERE AUDE ! [Ose penser par toi-même !]. - Qu'est-ce que les Lumières ?,
+        Immanuel Kant (1784)
+      - Je devais donc supprimer le savoir, pour trouver une place pour la croyance.
+        - Critique de la raison pure, Immanuel Kant (1787)
+      - Si toute connaissance débute avec l’expérience, cela ne prouve pas qu’elle
+        dérive toute de l’expérience. - Critique de la raison pure, Immanuel Kant
+        (1787)
+      - Nous ne connaissons a priori des choses que ce que nous y mettons nous-mêmes.
+        - Critique de la raison pure, Immanuel Kant (1787)
+      - Ce tribunal intérieur que l’homme sent en lui est la conscience. - Métaphysique
+        des mœurs, Immanuel Kant (1797)
+      - Le beau est ce qui est représenté sans concept comme objet d'une satisfaction
+        universelle. - Critique de la faculté de juger, Immanuel Kant (1790)
+      - Et que, pour bien diriger, il n’y a que deux choses, l’opinion vraie et la
+        science ; et l’homme qui les possède est un bon guide. Ménon, Platon (vers
+        -386 à -382)
+      - C’est donc la sagesse, qui en toute occasion, fait réussir les hommes. On
+        sait, en effet, que la sagesse ne commet jamais de faute et qu’elle agit forcément
+        bien et atteint son but ; autrement, ce ne serait plus la sagesse. - Euthydème,
+        Platon (vers -384)
+      - Il faut en effet que l’homme arrive à saisir ce qu’on appelle ‘forme intelligible’,
+        en allant d’une pluralité de sensations vers l’unité. - Phèdre, Platon (vers
+        -370)
+      - "[Penser est] une conversation que l’âme poursuit avec elle-même sur ce qui
+        est éventuellement l’objet de son examen. - Théétète, Platon (vers -369)"
+      - Le plus grand des maux est de commettre l’injustice ! - Gorgias, Platon (vers
+        -380)
+      - Tant que les philosophes ne seront pas rois, ou que ceux qu’on appelle aujourd’hui
+        rois et souverains, ne seront pas vraiment et sérieusement philosophes […]
+        il n’est point […] de remède aux maux qui désolent les États […]. - La République,
+        Platon (vers -375)
+      - Une société corrompue est une société dans laquelle les hommes ne savent plus
+        exercer leur liberté. - Le Prince, Niccolò di Bernardo dei Machiavelli (1532)
+      - Il est [...] nécessaire à un prince qui veut se maintenir d’apprendre à pouvoir
+        n’être pas bon et à en user et ne pas en user selon la nécessité. - Le Prince,
+        Niccolò di Bernardo dei Machiavelli (1532)
+      - Trouvant un peuple encore indompté, désireux de le réduire à l’obéissance
+        par la paix, Numa se tourna vers la religion comme absolument nécessaire au
+        maintien d’une société civile. - Discours sur la première décade de Tite-Live,
+        Niccolò di Bernardo dei Machiavelli (1531)
+      - 'Le prince, devant agir en bête, tâchera d’être tout à la fois renard et lion
+        : car, s’il n’est que lion, il n’apercevra point les pièges ; s’il n’est que
+        renard, il ne se défendra point contre les loups. - Le Prince, Niccolò di
+        Bernardo dei Machiavelli (1532)'
+      - On mourait de besoin ; nous mourons de pléthore. - De rerum natura, Titus
+        Lucretius Carus (vers 1040)
+      - Si la peur accable ainsi les mortels, c’est qu’ils observent sur la terre
+        et dans le ciel mille phénomènes dont les causes leur sont cachées et qu’ils
+        attribuent à la volonté divine. - De rerum natura, Titus Lucretius Carus (vers
+        1040)
+      - Oui, s’il doit y avoir des maux ou des douleurs futures, il faut pour en souffrir
+        que l’homme existe encore. Puisque la mort exclut ce fait, abolissant l’être
+        en qui les tracas pourraient se concentrer, assurément la mort n’a rien pour
+        nous de redoutable. - De rerum natura, Titus Lucretius Carus (vers 1040)
+      - Qui a une idée vraie sait en même temps qu’il a une idée vraie et ne peut
+        douter de la vérité de sa connaissance. - Éthique, Baruch Spinoza (1677)
+      - L’Amour n’est rien d’autre qu’une Joie qu’accompagne l’idée d’une cause extérieure
+        ; et la Haine n’est rien d’autre qu’une Tristesse qu’accompagne l’idée d’une
+        cause extérieure. - Éthique, Baruch Spinoza (1677)
+      - Tout ce qui est, est en Dieu. - Éthique, Baruch Spinoza (1677)
+      - L’Âme humaine ne peut être entièrement détruite avec le Corps, mais il
+        reste quelque chose d’elle qui est éternel. - Éthique, Baruch Spinoza (1677)
+      - Nul ne sait ce que peut le corps. - Éthique, Baruch Spinoza (1677)
+      - Le Désir est l’essence même de l’homme. - Éthique, Baruch Spinoza (1677)
+      - Nous ne nous efforçons à rien, ne voulons, n’appétons ni ne désirons aucune
+        chose, parce que nous la jugeons bonne ; mais, au contraire, nous jugeons
+        qu’une chose est bonne parce que nous nous efforçons vers elle, la voulons,
+        appétons et désirons. - Éthique, Baruch Spinoza (1677)
+      - Les hommes se croient libres pour cette seule cause qu’ils sont conscients
+        de leurs actions et ignorants des causes par où ils sont déterminés. -
+        Éthique, Baruch Spinoza (1677)
+      - Je dis qu’une chose est libre quand c’est par la seule nécessité de sa nature
+        qu’elle existe et agit […]. - Éthique, Baruch Spinoza (1677)
+      - Tout le malheur des hommes vient d’une seule chose, qui est de ne pas savoir
+        demeurer en repos dans une chambre. - Pensées, Blaise Pascal (1670)
+      - On cherche le repos en combattant quelques obstacles, et si on les a surmontés,
+        le repos devient insupportable par l’ennui qu’il engendre. - Pensées, Blaise
+        Pascal (1670)
+      - Nous disposant toujours à être heureux, il est inévitable que nous ne le soyons
+        jamais. - Pensées, Blaise Pascal (1670)
+      - Qu’une chose aussi visible qu’est la vanité du monde soit si peu connue, que
+        ce soit une chose étrange et surprenante de dire que c’est une sottise de
+        chercher les grandeurs, cela est admirable. - Pensées, Blaise Pascal (1670)
+      - "[Imagination], cette maitresse d’erreur et de fausseté, et d’autant plus
+        fourbe qu’elle ne l’est pas toujours. - Pensées, Blaise Pascal (1670)"
+      - Le passé et le présent sont nos moyens ; le seul avenir est notre fin. Ainsi
+        nous ne vivons jamais mais nous espérons de vivre, et nous disposant toujours
+        à être heureux, il est inévitable que nous ne le soyons jamais. - Pensées,
+        Blaise Pascal (1670)
+      - " Si notre condition était véritablement heureuse, il ne faudrait pas nous
+        divertir d’y penser. - Pensées, Blaise Pascal (1670)"
+      - Ainsi l’homme est si malheureux qu’il s’ennuierait même sans aucune cause
+        d’ennui par l’état propre de sa complexion. Et il est si vain qu’étant plein
+        de mille causes essentielles d’ennui, la moindre chose comme un billard et
+        une balle qu’il pousse suffisent pour le divertir. - Pensées, Blaise Pascal
+        (1670)
+      - Tous les hommes recherchent d’être heureux. […] C’est le motif de toutes les
+        actions de tous les hommes, jusqu’à ceux qui vont se pendre. Et cependant
+        depuis un si grand nombre d’années jamais personne, sans la foi, n’est arrivé
+        à ce point où tous visent continuellement. - Pensées, Blaise Pascal (1670)
+      - Car enfin, qu’est ce qu’un homme dans la nature ? Un néant à l’égard de l’infini,
+        un tout à l’égard du néant, un milieu entre rien et tout, infiniment éloigné
+        de comprendre les extrêmes. - Pensées, Blaise Pascal (1670)
+      - Au lieu de recevoir les idées de ces choses pures, nous les teignons de nos
+        qualités et empreignons notre être composé [de] toutes choses simples que
+        nous contemplons. - Pensées, Blaise Pascal (1670)
+      - L’homme n’est qu’un roseau, le plus faible de la nature, mais c’est un roseau
+        pensant. […] Mais quand l’univers l’écraserait, l’homme serait encore plus
+        noble que ce qui le tue puisqu’il sait qu’il meurt et l’avantage que l’univers
+        a sur lui, l’univers n’en sait rien. - Pensées, Blaise Pascal (1670)
+      - La seule religion contre la nature, contre le sens commun, contre nos plaisirs,
+        est la seule qui ait toujours été. - Pensées, Blaise Pascal (1670)
+      - Nier, croire et douter sont à l’homme ce que le courir est au cheval. - Pensées,
+        Blaise Pascal (1670)
+      - Il est nécessaire qu’il y ait de l’inégalité parmi les hommes, cela est vrai
+        ; mais cela étant accordé, voila la porte ouverte non seulement à la plus
+        haute domination, mais à la plus haute tyrannie. - Pensées, Blaise Pascal
+        (1670)
+      - S’il se vante, je l’abaisse; s’il s’abaisse, je le vante ; et le contredis
+        toujours, jusqu’à ce qu’il comprenne qu’il est un monstre incompréhensible.
+        - Pensées, Blaise Pascal (1670)
+      - Quiconque se soumet de bonne grâce à la nécessité est sage. - Manuel, Épictète
+        (entre l'an 50 et l'an 125)
+      - Ne demande point que les choses arrivent comme tu les désires, mais désire
+        qu'elles arrivent comme elles arrivent, et tu prospéreras toujours. - Pensées,
+        Épictète (entre l'an 50 et l'an 125)
+      - Le but qu'il faut poursuivre, qui est réalisable, c'est d'assurer à tous des
+        possibilités éducatives égales. Confondre cet objectif et la scolarité obligatoire,
+        c'est confondre le salut et l'Église. L'école est devenue la religion mondiale
+        d'un prolétariat modernisé et elle offre ses vaines promesses de salut aux
+        pauvres de l'ère technologique. - Une société sans école, Ivan Illich (1971)
+      - L'école est l'agence de publicité qui nous fait croire que nous avons besoin
+        de la société telle qu'elle est. - Une société sans école, Ivan Illich (1971)
+      - Grâce à l'initiation de l'école, nous participons au mythe de la consommation
+        illimitée. Ce mythe moderne se fonde sur la croyance selon laquelle le système
+        de production fabrique un bon produit, et que, par conséquent, puisque valeur
+        il y a, une demande va naître. L'école nous enseigne à croire que l'éducation
+        est le produit de l'enseignement. - Une société sans école, Ivan Illich (1971)
+      - L'état d'esprit d'un certain nombre d'éducateurs ressemble fort à celui des
+        évêques après le dernier concile. Les programmes des écoles « nouvelles »
+        ou « libérées » évoquent les liturgies des messes « folk » ou « rock ». -
+        Une société sans école, Ivan Illich (1971)
+      - La crise écologique, par exemple, est traitée superficiellement lorsqu'on
+        ne souligne pas que la mise en place de dispositifs antipolluants n'aura d'effets
+        que si elle s’accompagne d'une diminution de la production globale. Autrement
+        ces mesures transfèrent les ordures chez nos voisins, les réservent à nos
+        enfants, ou les déversent sur le tiers monde. - La convivialité, Ivan Illich
+        (1973)
+      - Désormais, le déclencheur le plus sensible du dégagement d'un crédit de recherche
+        sur n'importe quel sujet, de la génétique à la climatologie, est la promesse
+        que ses résultats contribueront à la santé. - La Perte des sens, Ivan Illich
+        (2004)
+      - On déclame contre les passions sans songer que c’est à leur flambeau que la
+        philosophie allume le sien. - Histoire de Juliette, ou les Prospérités du
+        vice, Donatien Alphonse François de Sade (1797)
+      - S’ils veulent qu’absolument vous leur parliez d’un créateur, répondez que
+        les choses ayant toujours été ce qu’elles sont, n’ayant jamais eu de commencement
+        et ne devant jamais avoir de fin, il devient aussi inutile qu’impossible à
+        l’homme de pouvoir remonter à une origine imaginaire qui n’expliquerait rien
+        et n’avancerait à rien. - La Philosophie dans le boudoir, dans le Religion
+        par Donatien Alphone François de Sade (1795)
+      - Le lâche, le téméraire et le courageux ont rapport aux mêmes objets ; la différence
+        qui les sépare porte uniquement sur la façon dont ils se comportent envers
+        lesdits objets. Les deux premiers, en effet, pèchent par excès ou par défaut,
+        et le troisième se tient dans un juste milieu et comme il doit être. Les téméraires,
+        en outre, sont emportés et appellent de leurs vœux les dangers, mais au moment
+        critique s'en détournent, tandis que les hommes courageux sont vifs dans l'action
+        et calmes au temps qui la précède. - Éthique à Nicomaque, Aristote (1837)
+      - On façonne les plantes par la culture, et les hommes par l’éducation. - Émile
+        ou De l'éducation, Jean-Jacques Rousseau (1762)
+      - Considérer l’homme dans l’homme, et l’enfant dans l’enfant. - Émile ou De
+        l'éducation, Jean-Jacques Rousseau (1762)
+      - L’homme est né libre, et partout il est dans les fers. - Du Contrat social
+        ou Principes du droit politique, Jean-Jacques Rousseau (1762)
+      - S’il y avait un peuple de dieux, il se gouvernerait démocratiquement. Un gouvernement
+        si parfait ne convient pas à des hommes. - Du Contrat social ou Principes
+        du droit politique, Jean-Jacques Rousseau (1762)
+      - L'émeute qui finit par étrangler ou détrôner un sultan est un acte aussi juridique
+        que ceux par lesquels il disposait la veille des vies et des biens de ses
+        sujets. La seule force le maintenait, la seule force le renverse. - Discours
+        sur l'origine et les fondements de l'inégalité parmi les hommes, Jean-Jacques
+        Rousseau (1755)
+      - Malheur à qui n’a plus rien à désirer ! Il perd pour ainsi dire tout ce qu’il
+        possède. On jouit moins de ce qu’on obtient que de ce qu’on espère et l’on
+        n’est heureux qu’avant d’être heureux. - Julie ou la Nouvelle Héloïse, Jean-Jacques
+        Rousseau (1761)
+      - La passion amoureuse n’a en vue que la procréation d’un individu de nature
+        déterminée. - Julie ou la Nouvelle Héloïse, Jean-Jacques Rousseau (1761)
       proverbe:
-          - "Pense deux fois avant de parler, tu en parleras deux fois mieux."
-          - "Il n'est pire eau que celle qui dort."
-          - "Si les chats gardent les chèvres, qui attrapera les souris ?"
-          - "Pluie du matin n’arrête pas le pèlerin."
-          - "On n’apprend pas aux vieux singes à faire des grimaces."
-          - "On ne peut être à la fois au four et au moulin."
-          - "Quand on parle du loup, on en voit la queue."
-          - "Qui ne fait pas quand il peut ne fait pas quand il veut."
-          - "Mieux vaut prévenir que guérir."
-          - "Il faut prendre le taureau par les cornes."
-          - "Il n’y a pas de grenouille qui ne trouve son crapaud."
-          - "Quand les brebis enragent, elles sont pires que les loups."
-          - "La banalité n'est durablement supportable que jouée."
-          - "Quand les brebis enragent, elles sont pires que les loups."
-          - "Quand le rossignol a vu ses petits, il ne chante plus."
-          - "Il faut qu’une porte soit ouverte ou fermée."
-          - "Faute avouée est à moitié pardonnée."
-          - "Comme on fait son lit on se couche."
-          - "Il n’y a que les imbéciles qui ne changent pas d’avis."
-          - "Donner, c’est donner ; reprendre, c’est voler."
-          - "C’est à qui saura la chevaucher que la jument appartiendra."
-          - "On ne fait pas d’omelettes sans casser d’oeufs."
-          - "Qui couche avec des chiens se lève avec des puces."
-          - "La banalité n'est durablement supportable que jouée."
-          - "C'est dans le besoin qu'on reconnaît ses vrais amis."
-          - "La patience est amère, mais son fruit est doux."
-          - "Donne ton amour à ta femme et donne ton secret à ta mère."
-          - "Les rumeurs sont crées par des jaloux, crues par des curieux et répétées par des imbéciles."
-          - "Qui se nourrit d'attente risque de mourir de faim."
-          - "Donner, c'est donner ; reprendre, c'est voler."
-          - "L'argent ne fait pas le bonheur, mais il y contribue."
-          - "Celui qui épouse une belle femme a besoin de plus de deux yeux."
-          - "Un bon père de famille doit être partout, dernier couché premier debout."
-          - "Là où il y a de la gêne il n'y a pas de plaisir."
-          - "Il n'est pire aveugle que celui qui ne veut pas voir. Il n'est pire sourd que celui qui ne veut pas entendre."
-          - "Qui dit un mensonge en dit cent."
-          - "Les apparences sont trompeuses."
-          - "Tout passe, tout casse, tout lasse."
-          - "A vouloir trop avoir, l'on perd tout."
-          - "Mieux vaut rire que pleurer."
-          - "Sagesse, beauté et gentillesse ne font bouillir aucun chaudron."
-          - "Plaisir non partagé n'est plaisir qu'à moitié."
-          - "Quand la pauvreté entre par la porte, l'amour s'en va par la fenêtre."
-          - "Mieux vaut bon sommeil que bon lit."
-          - "L'espoir fait vivre."
-          - "Vouloir, c'est pouvoir."
-          - "On sait bien quand on part, mais jamais quand on revient."
-          - "L'indifférence est le commencement de l'échec."
-          - "C'est dans les vieilles marmites qu'on fait les meilleures soupes."
-          - "Aime-toi et tu auras des amis."
-          - "Changement de bouc met la chèvre en chaleur."
-          - "Qui n'a santé n'a rien."
-          - "Qui fait le malin tombe dans le ravin."
-          - "Les yeux ont toujours faim de voir."
-          - "Le plus bel âge de l'amitié est la vieillesse."
-          - "Argent fait beaucoup mais amour fait tout."
-          - "Les paroles n'engagent que ceux qui les écoutent."
-          - "La fatigue du corps est la santé de l'âme."
-          - "Les apparences sont souvent trompeuses."
-          - "L'arbre tombe toujours du côté où il penche."
-          - "La nature fait bien les choses."
-          - "Celui qui n'avance pas recule."
-          - "Ne remets pas au lendemain ce que tu peux faire le jour même."
-          - "Beauté sans bonté, c'est une lumière sans clarté."
-          - "Guérir parfois, soulager souvent, consoler toujours."
-          - "Celui qui prend la vieille femme aime l'argent plus que la dame."
-          - "Les bons outils font les bons ouvriers"
-          - "On voit la paille dans l'oeil de son voisin, mais pas la poutre dans le sien."
-          - "Toute vérité n'est pas bonne à dire."
-          - "Après la pluie le beau temps."
-          - "Ne faites pas à autrui ce que vous ne voudriez pas qu'on vous fasse."
-          - "Dis-moi qui tu fréquentes et je te dirai qui tu es."
-          - "À table comme en amour, changement donne saveur."
-          - "Les ennemis de nos ennemis sont nos amis."
-          - "Beauté de femme et bon vin réveillent de bon matin."
-          - "Bien boire et bien manger font bien travailler."
-          - "Il ne faut pas mélanger les torchons et les serviettes."
-          - "La cuisine anglaise : si c'est froid, c'est de la soupe. Si c'est chaud, c'est de la bière !"
-          - "Les conseillers ne sont pas les payeurs."
-          - "Toute peine mérite salaire."
-          - "Celui qui ne sait pas est un imbécile, mais celui qui sait et ne dit rien est un criminel."
-          - "L'erreur est humaine."
-          - "La bave du crapaud n'atteint pas la blanche colombe."
-          - "L'avarice est comme le feu, plus on y met de bois, plus il brûle."
-          - "Amours nouvelles oublient les vieilles."
-          - "Fais l'amour tant que tu peux, tu ne pourras plus quand tu seras vieux."
-          - "Heureux au jeu, malheureux en amour."
-          - "La fin justifie les moyens."
-          - "Un petit chez soi vaut mieux qu'un grand chez les autres."
-          - "Chacun sait ce qui cuit dans sa marmite."
-          - "Il n'y a que les imbéciles qui ne changent pas d'avis."
-          - "Qui prête de l'argent sans garantie Perd l'ami et l'argent."
-          - "A cheval hargneux, il faut une écurie à part."
-          - "À malin, malin et demi."
-          - "Aimer le bien, c'est à moitié le faire."
-          - "Après dommage, chacun est sage."
-          - "La persévérance vient à bout de tout."
-          - "Les voyages forment la jeunesse."
-          - "Mieux vaut prévenir que guérir."
-          - "Qui a honte de manger a honte de vivre."
-          - "Qui paie ses dettes s'enrichit."
-          - "Qui recherche la lune, ne voit pas les étoiles."
-          - "Grasse cuisine fait maigre testament."
-          - "C'est l'arroseur arrosé."
-          - "Chacun est roi en sa maison."
-          - "Familiarité engendre le mépris."
-          - "Femme qui prend, se vend ;Femme qui donne, s'abandonne."
-          - "L'amour des parents descend et ne remonte pas."
-          - "L'école de la vie n'a point de vacances."
-          - "La chance sourit aux audacieux."
-          - "Quand on ne trouve pas ce qu'on cherche, il arrive qu'on trouve beaucoup mieux."
-          - "Le travail a des racines amères, mais des fruits sucrés."
-          - "À toute chose sa saison et son temps."
-          - "Ce que femme veut, Dieu le veut."
-          - "Il vaut mieux perdre un bon mot qu'un ami."
-          - "Le mal vient à cheval et le bonheur à pied."
-          - "L'herbe est toujours plus verte ailleurs."
-          - "On ne fait pas boire un âne qui n'a pas soif."
-          - "Qui reste assis sèche, qui va lèche."
-          - "Qui vivra verra."
-          - "Amour n'a pas de sagesse, ni colère de conseil."
-          - "Amour ne veut point de compagnon."
-          - "Apprendre coûte et savoir vaut."
-          - "Ciel rouge le soir laisse bon espoir ; ciel rouge le matin, pluie en chemin."
-          - "Hâtez-vous lentement."
-          - "Il n'est pas toujours saison de brebis tondre."
-          - "Il ne faut pas péter plus haut que son cul."
-          - "L'âge n'est fait que pour les chevaux."
-          - "La belle cage ne nourrit pas l'oiseau."
-          - "La reconnaissance est la seule dette qu'un débiteur aime à voir s'accroître."
-          - "La science est un puits dont l'homme est le seau."
-          - "Les pauvres ont la santé, les riches les remèdes."
-          - "Morceau avalé n'a plus de goût."
-          - "Nul ne sait ce que l'avenir nous réserve."
-          - "Patience passe science."
-          - "Quand on parle du loup, on en voit la queue."
-          - "Qui a bon voisin a bon matin."
-          - "Qui ne s'aventure n'a ni cheval ni mule."
-          - "À l'impossible nul n'est tenu."
-          - "Bienheureux qui est sage avant l'expérience."
-          - "Bon repas doit commencer par la faim."
-          - "Il faut connaître avant d'aimer."
-          - "Il faut tourner sept fois sa langue dans sa bouche avant de parler."
-          - "Il n'y a que les montagnes qui ne se rencontrent jamais."
-          - "L'oisiveté est la mère de tous les vices."
-          - "Les chiens ne font pas des chats."
-          - "L'ignorant aime à nier, le savant aime à croire."
-          - "Mieux vaut une portion de légumes avec de l'amour, qu'un boeuf gras avec de la haine."
-          - "On ne jette des pierres qu'à l'arbre chargé de fruits."
-          - "Pour aller loin il faut aller droit."
-          - "Prudence est mère de sûreté."
-          - "Toujours la saison amène la moisson."
-          - "Recevoir sans donner fait tourner l'amitié."
-          - "Qui écoute aux portes, entendra mal parler sur son compte."
-          - "À bon entendeur, salut !"
-          - "C'est par les fleurs qu'on devine les fruits."
-          - "Cent ans ne sont pas si longs qu'ils en ont la mine."
-          - "Demain il fera jour."
-          - "Dieu n'oublie jamais les siens : il ôte la gale et donne un pou."
-          - "Enfants petits, petits soucis ; enfants grandis, grands soucis."
-          - "Femme qui rit, femme au lit."
-          - "Il faut hurler avec les loups, si l'on veut courir avec eux."
-          - "Il n'est feu que de bois vert."
-          - "Il n'est pire sourd que celui qui ne veut pas entendre."
-          - "L'amour est aveugle, l'amour-propre l'est davantage."
-          - "L'argent fait fou les gens."
-          - "L'esprit est un tonneau plein de sagesse et de folie."
-          - "La douceur du miel ne console pas de la piqûre de l'abeille."
-          - "Le lune est à l'abri des loups."
-          - "Les nuits d'hiver sont grandes sans livres ou sans femmes."
-          - "Mère trop piteuse fait sa famille teigneuse."
-          - "Mieux vaut donner sans promettre que promettre sans tenir."
-          - "On parle mal des femmes, mais chacun les cherche et les suit."
-          - "Pâques longtemps désirées sont en un jour tôt passées."
-          - "Peu et paix est don de Dieu."
-          - "Pour la chandeleur, l'hiver meurt ou prend vigueur."
-          - "Quand on n'a pas de tête, il faut avoir des jambes."
-          - "Qui aime bien tard oublie."
-          - "Qui couche avec des chiens se lève avec des puces."
-          - "Qui demande apprend."
-          - "Qui se ressemble s'assemble."
-          - "Qui veut noyer son chien l'acccuse de rage."
-          - "Travail bien réparti ne tue pas."
-          - "Une hirondelle ne fait pas le printemps."
-          - "Vieille amitié ne craint pas la rouille."
-          - "Pour un beau jour d'hiver l'oiseau ne se réjouit pas."
-          - "Les faux amis sont des oiseaux de passage qui viennent à la belle saison, et s’en vont à la mauvaise."
-          - "Mains froides, coeur chaud"
-          - "À cheval donné on ne regarde pas les dents"
-          - "Argent fait rage, amour, mariage."
-          - "Aujourd'hui en chair, demain en bière."
-          - "Cent ans de chagrins ne paient pas un sou de dettes."
-          - "Coeur blessé ne se peut aider."
-          - "Coeur et courage font l'ouvrage."
-          - "Il n'y a pas de petit chez soi."
-          - "Il n'y a pas de petit profit."
-          - "Il ne faut jamais désespérer."
-          - "Il ne faut pas chercher midi à quatorze heures."
-          - "Il n'y a que les fous qui ne changent pas d'idée."
-          - "Jamais deux sans trois."
-          - "Jeu de main, jeu de vilain."
-          - "La pomme du matin tue le médecin."
-          - "La vérité est comme l'huile : elle monte toujours à la surface."
-          - "Le crime ne paie pas."
-          - "Le fumée sort de tous les toits."
-          - "Le hasard souvent fait plus que la science."
-          - "Le mauvais ouvrier a toujours de mauvais outils."
-          - "Le plus beau papillon n'est qu'une chenille habillée."
-          - "Le silence est l'âme des choses."
-          - "Le sommeil est la moitié de la santé."
-          - "Le temps et l'usage rendent l'homme sage."
-          - "Les arbres les plus vieux ont les fruits les plus doux."
-          - "Les chiens aboient, la caravane passe."
-          - "Les paroles des grands ne tombent jamais à terre."
-          - "Les petites causes produisent les grands effets."
-          - "Loin des yeux, loin du coeur."
-          - "On ne compte pas les oeufs dans le cul de la poule."
-          - "On ne peut empêcher le chien d'aboyer, ni le menteur de mentir."
-          - "On n'a rien sans mal."
-          - "On se travaille plus aux jeux qu'aux livres."
-          - "Pluie du matin n'arrête pas le pèlerin."
-          - "Plus le singe monte haut, plus il montre son cul."
-          - "Plus tire amour que corde."
-          - "Qui change de femme change de démon."
-          - "Qui ne fait rien, mange le foin, qui travaille, mange la paille."
-          - "Si l'hiver est froid et rigoureux, ton ventre à la table, ton dos au feu."
-          - "Si tous les gens qui vivent ensemble s'aimaient, la terre brillerait comme un soleil."
-          - "Tout ce qui brille n'est pas or."
-          - "Un ami veille pour l'autre."
-          - "Un ivrogne de plus, un homme de moins."
-          - "Un père peut nourrir cent enfants mais cent enfants ne nourrissent pas un père."
-          - "À demain, c'est du fainéant le refrain."
-          - "Après la fête et le jeu, les pois au feu."
-          - "Bon sang ne saurait mentir."
-          - "Bourse de joueur n'a jamais de loquet."
-          - "C'est à la fin de la foire qu'on compte les bouses."
-          - "C'est la poule qui chante qui a fait l'oeuf."
-          - "Ce qui est pris n'est plus à prendre."
-          - "Deux bras et la santé font le pauvre aisé."
-          - "En mariage, trompe qui peut."
-          - "En tout pays, il y a une lieue de mauvais chemins."
-          - "Erreur n'est pas compte."
-          - "Est bien fou qui s'oublie."
-          - "Fais ce que dois, advienne que pourra."
-          - "Fille qui donne s'abandonne."
-          - "Il faut que tout le monde vive."
-          - "Il ne faut pas confondre vitesse et précipitation."
-          - "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué."
-          - "Il n'y a que celui qui ne fait rien qui ne se trompe jamais."
-          - "Il vaut mieux être cheval que charrette."
-          - "Il y a plus d'un âne à la foire qui s'appelle Martin."
-          - "Jamais chien en cuisine son pareil ne désire."
-          - "L'amour et la pauvreté font ensemble mauvais ménage."
-          - "L'eau fait pleurer, le vin chanter."
-          - "L'homme heureux n'a pas de chemise."
-          - "L'ignorance de la loi n'excuse personne."
-          - "L'oeil ne voit rien si l'esprit est distrait."
-          - "La chair est faible."
-          - "La femme sur son dos est aussi forte qu'un chêne debout."
-          - "Là où entre le soleil le médecin n'entre pas."
-          - "La vengeance est un plat qui se mange froid."
-          - "Le plus court chemin est la ligne droite."
-          - "Le temps est une lime qui travaille sans bruit."
-          - "Le temps n'a pas de loisir."
-          - "Les fous sont plus utiles aux sages que les sages aux fous."
-          - "Les grands esprits se rencontrent."
-          - "Les mauvaises compagnies corrompent les bonnes moeurs."
-          - "Les paroles s'envolent, les écrits restent."
-          - "Les petits cadeaux entretiennent l'amitié."
-          - "L'envie et la colère abrègent la vie."
-          - "Mieux vaut nourrir son chat que de nourrir le rat."
-          - "Mieux vaut un petit chez soi qu'un gros chez les autres."
-          - "Noël en août, pâté en croûte"
-          - "On n'apprend pas à un vieux singe à faire des grimaces."
-          - "On ne fait pas d'omelettes sans casser d'oeufs."
-          - "On ne peut être à la ville et aux champs."
-          - "On ne prend pas l'oiseau à la crécelle."
-          - "On sait qui l'on quitte, on ne sait pas qui l'on prend."
-          - "Où il y a de la gêne, il n'y a pas de plaisir."
-          - "Paris (Rome) ne s'est pas fait (faite) en un jour."
-          - "Quand Dieu donne le mal, il donne aussi  le remède."
-          - "Qui aime l'arbre aime la branche."
-          - "Qui dort dîne."
-          - "Qui n'entend qu'une cloche n'entend qu'un son."
-          - "Qui n'est à soi-même sage n'est pas sage."
-          - "Qui ne fait pas quand il peut ne fait pas quand il veut."
-          - "Qui rit le matin le soir pleure."
-          - "Qui veut un cheval sans défaut doit aller à pied."
-          - "Qui vient est beau, qui apporte encore plus beau."
-          - "Tant crie-t-on Noël qu'il vient."
-          - "Tel maître, tel valet."
-          - "Tendresse maternelle, toujours se renouvelle."
-          - "Tonnerre de midi, amène la pluie."
-          - "Tous les chemins mènent à Rome."
-          - "Tout nouveau, tout beau."
-          - "Trop penser fait rêver."
-          - "Un mauvais arrangement vaut mieux qu'un bon procès."
-          - "Un menteur n'est point écouté, même en disant la vérité."
-          - "Un verre de vin vaut un habit de velours."
-          - "Vieilles amours et vieux tisons s'allument en toutes saisons."
-          - "Où force règne, raison n'a pas lieu."
-          - "À brebis tondue Dieu ménage le vent."
-          - "À chacun plaît le sort de sa nature."
-          - "À chaque oiseau son nid semble beau."
-          - "À force d'aller mal, tout va bien."
-          - "A la guerre comme à la guerre."
-          - "À la Sainte-Delphine, mets ton manteau à pèlerine."
-          - "À la Sainte-Luce, les jours croissent d'un saut de puce."
-          - "À méchant ouvrier, point de bon outil."
-          - "A père avare, enfant prodigue, à femme avare, galant escroc."
-          - "Assez gagne qui malheur perd."
-          - "Bon à tout, bon à rien."
-          - "C'est au pied du mur qu'on connaît le maçon."
-          - "C'est bonnet blanc et blanc bonnet."
-          - "C'est la faim qui se marie avec la soif."
-          - "C'est la goutte d'eau qui fait déborder le vase."
-          - "Ce n'est pas en ne voyant pas loin qu'on tombe."
-          - "Ce qu'art ne peut, hasard achève."
-          - "Chacun est le fils de ses oeuvres."
-          - "Changement de propos réjouit l'homme."
-          - "Charité bien ordonnée commence par soi-même."
-          - "Chien qui aboie ne mord pas."
-          - "C'est pendant qu'il pleut qu'il faut remplir les jarres."
-          - "D'expérience vient la science."
-          - "De bons cerveaux viennent bons auspices."
-          - "Dieu donne le froid selon le drap."
-          - "Est heureux qui croit l'être."
-          - "Faute de grives, on mange des merles."
-          - "Folle est la brebis qui au loup se confesse."
-          - "Force fait loi."
-          - "Fort est qui abat, plus fort est qui se relève."
-          - "Grande boîte à guérison sont temps, amour et raison."
-          - "Il est plus facile de dire que de faire."
-          - "Il faut de tout pour faire un monde."
-          - "Il faut laver son linge sale en famille."
-          - "Il n'y a que les fous qui ne changent pas d'avis."
-          - "Il n'y a si petite mouche qui n'ait sa petite croix."
-          - "Il ne faut attendre son bien que de soi-même."
-          - "Il ne faut jamais dire Fontaine, je ne boirai pas de ton eau."
-          - "Il ne faut jamais remettre au lendemain ce qu'on peut faire le jour même."
-          - "Il ne faut pas essayer de pénétrer dans le sanctuaire."
-          - "Il ne faut pas laisser croître l'herbe sur le chemin de l'amitié."
-          - "Il ne faut pas prendre les enfants du bon Dieu pour des canards sauvages."
-          - "Il ne faut pas se moquer de la peine du voisin Car la vôtre arrive le lendemain matin."
-          - "Il n'est point de bonheur sans nuage."
-          - "Il n'y a pas de poisson sans arête."
-          - "Il vaut mieux être seul qu'en mauvaise compagnie."
-          - "Il vaut mieux un bon reste que deux mauvais morceaux."
-          - "Il y a plus de fous acheteurs que de fous vendeurs."
-          - "Il y a plus de paille que de grain."
-          - "Jamais ne fut si beau soulier qui ne devient laide savate."
-          - "Jeune gouvernement suit le vent."
-          - "L'affection aveugle la raison."
-          - "L'avarice est la mère de tous les maux."
-          - "La belle plume fait le bel oiseau."
-          - "La colère est aveugle."
-          - "La curiosité est un vilain défaut."
-          - "La femme est un sujet sur lequel on s'est beaucoup étendu."
-          - "La femme tombe sept fois et toujours se relève."
-          - "La fête passée, adieu le saint."
-          - "La fin du monde est tous les jours."
-          - "La vache de l'étranger a le pis gros."
-          - "La vengeance est le plaisir des dieux."
-          - "La vérité est au fond du verre."
-          - "Le bleu et l'aurore éclaircissent le monde."
-          - "Le bon Dieu a pour chacun une poire."
-          - "Le bonheur fuit celui qui le cherche."
-          - "Le bonheur tôt se passe qui n'en a soin."
-          - "Le petit gain emplit la bourse."
-          - "Le soleil brille pour tout le monde."
-          - "Le vin pour boire, l'eau pour se raser."
-          - "Les grands diseurs ne sont pas les grands faiseurs."
-          - "Les méchants portent leur enfer en eux."
-          - "Les pots fêlés sont ceux qui durent le plus."
-          - "Loin des yeux, loin du cœur."
-          - "L'arbre cache la forêt."
-          - "Mal dessus mal n'est pas santé."
-          - "Mars venteux et avril pluvieux font mai gai et gracieux."
-          - "Même le lilas blanc a une ombre."
-          - "Mieux vaut charité plein la main que biens plein le four."
-          - "Mieux vaut s'adresser à Dieu qu'à ses saints."
-          - "Mieux vaut séduire que sévir."
-          - "Mors doré ne rend pas le cheval meilleur."
-          - "Ne rien dire et n'en penser pas moins."
-          - "Nul n'est trop bon et peu le sont assez."
-          - "Nul ne sait mieux que l'âne où le bât blesse."
-          - "Nulle terre sans guerre."
-          - "Oignez vilain, il vous poindra."
-          - "On adore plutôt le soleil levant que le soleil couchant."
-          - "On change plutôt une montagne qu'un naturel."
-          - "On commande au valet et le valet au chat et le chat commande à sa queue."
-          - "On croit user le temps, c'est le temps qui nous use."
-          - "On n'a jamais vu chèvre morte de faim."
-          - "On n'est jamais trahi que par les siens."
-          - "On ne coupe l'arbre pour avoir un fruit."
-          - "On ne sait qui meurt ni qui vit."
-          - "On ne triomphe que par la peine qu'on prend."
-          - "Pendant que le chien pisse, le lièvre fuit."
-          - "Personne n'est indispensable."
-          - "Petit à petit l'oiseau fait son nid."
-          - "Peu importe le flacon, pourvu qu'on ait l'ivresse."
-          - "Pied nu va loin, ventre plat ne va pas."
-          - "Plus on est de fous, plus on rit."
-          - "Poule qui chante et coq qui pond, c'est le diable à la maison."
-          - "Quand le rossignol a vu ses petits, il ne chante plus."
-          - "Qui a une femme de bien vit longtemps bien."
-          - "Qui casse les verres les paie."
-          - "Qui n'est de verre ne peut être cassé."
-          - "Qui ne nourrit pas le chat nourrit le rat."
-          - "Qui se lève de bon matin pisse où cela lui plaît."
-          - "Qui se ramasse dit merde."
-          - "Qui suit les poules apprend à gratter la terre."
-          - "Qui trop se hâte en cheminant, en beau chemin se fourvoie."
-          - "Qui vole un œuf vole un bœuf."
-          - "Rien ne vieillit plus vite qu'un bienfait."
-          - "Selon le vent, la voile."
-          - "Seule l'action sauve."
-          - "Si la mer bouillait, il y aurait bien des poissons cuits."
-          - "Si tu ne mets raison en toi, elle s'y mettra malgré toi."
-          - "Si tu veux un ami, sois son ami."
-          - "Souhait de roi, fils et fille."
-          - "Tant vaut l'homme, tant vaut la terre."
-          
+      - Pense deux fois avant de parler, tu en parleras deux fois mieux.
+      - Il n'est pire eau que celle qui dort.
+      - Si les chats gardent les chèvres, qui attrapera les souris ?
+      - Pluie du matin n’arrête pas le pèlerin.
+      - On n’apprend pas aux vieux singes à faire des grimaces.
+      - On ne peut être à la fois au four et au moulin.
+      - Quand on parle du loup, on en voit la queue.
+      - Qui ne fait pas quand il peut ne fait pas quand il veut.
+      - Mieux vaut prévenir que guérir.
+      - Il faut prendre le taureau par les cornes.
+      - Il n’y a pas de grenouille qui ne trouve son crapaud.
+      - Quand les brebis enragent, elles sont pires que les loups.
+      - La banalité n'est durablement supportable que jouée.
+      - Quand le rossignol a vu ses petits, il ne chante plus.
+      - Il faut qu’une porte soit ouverte ou fermée.
+      - Faute avouée est à moitié pardonnée.
+      - Comme on fait son lit on se couche.
+      - Il n’y a que les imbéciles qui ne changent pas d’avis.
+      - Donner, c’est donner ; reprendre, c’est voler.
+      - C’est à qui saura la chevaucher que la jument appartiendra.
+      - On ne fait pas d’omelettes sans casser d’oeufs.
+      - Qui couche avec des chiens se lève avec des puces.
+      - C'est dans le besoin qu'on reconnaît ses vrais amis.
+      - La patience est amère, mais son fruit est doux.
+      - Donne ton amour à ta femme et donne ton secret à ta mère.
+      - Les rumeurs sont crées par des jaloux, crues par des curieux et répétées par
+        des imbéciles.
+      - Qui se nourrit d'attente risque de mourir de faim.
+      - Donner, c'est donner ; reprendre, c'est voler.
+      - L'argent ne fait pas le bonheur, mais il y contribue.
+      - Celui qui épouse une belle femme a besoin de plus de deux yeux.
+      - Un bon père de famille doit être partout, dernier couché premier debout.
+      - Là où il y a de la gêne il n'y a pas de plaisir.
+      - Il n'est pire aveugle que celui qui ne veut pas voir. Il n'est pire sourd
+        que celui qui ne veut pas entendre.
+      - Qui dit un mensonge en dit cent.
+      - Les apparences sont trompeuses.
+      - Tout passe, tout casse, tout lasse.
+      - A vouloir trop avoir, l'on perd tout.
+      - Mieux vaut rire que pleurer.
+      - Sagesse, beauté et gentillesse ne font bouillir aucun chaudron.
+      - Plaisir non partagé n'est plaisir qu'à moitié.
+      - Quand la pauvreté entre par la porte, l'amour s'en va par la fenêtre.
+      - Mieux vaut bon sommeil que bon lit.
+      - L'espoir fait vivre.
+      - Vouloir, c'est pouvoir.
+      - On sait bien quand on part, mais jamais quand on revient.
+      - L'indifférence est le commencement de l'échec.
+      - C'est dans les vieilles marmites qu'on fait les meilleures soupes.
+      - Aime-toi et tu auras des amis.
+      - Changement de bouc met la chèvre en chaleur.
+      - Qui n'a santé n'a rien.
+      - Qui fait le malin tombe dans le ravin.
+      - Les yeux ont toujours faim de voir.
+      - Le plus bel âge de l'amitié est la vieillesse.
+      - Argent fait beaucoup mais amour fait tout.
+      - Les paroles n'engagent que ceux qui les écoutent.
+      - La fatigue du corps est la santé de l'âme.
+      - Les apparences sont souvent trompeuses.
+      - L'arbre tombe toujours du côté où il penche.
+      - La nature fait bien les choses.
+      - Celui qui n'avance pas recule.
+      - Ne remets pas au lendemain ce que tu peux faire le jour même.
+      - Beauté sans bonté, c'est une lumière sans clarté.
+      - Guérir parfois, soulager souvent, consoler toujours.
+      - Celui qui prend la vieille femme aime l'argent plus que la dame.
+      - Les bons outils font les bons ouvriers
+      - On voit la paille dans l'oeil de son voisin, mais pas la poutre dans le sien.
+      - Toute vérité n'est pas bonne à dire.
+      - Après la pluie le beau temps.
+      - Ne faites pas à autrui ce que vous ne voudriez pas qu'on vous fasse.
+      - Dis-moi qui tu fréquentes et je te dirai qui tu es.
+      - À table comme en amour, changement donne saveur.
+      - Les ennemis de nos ennemis sont nos amis.
+      - Beauté de femme et bon vin réveillent de bon matin.
+      - Bien boire et bien manger font bien travailler.
+      - Il ne faut pas mélanger les torchons et les serviettes.
+      - 'La cuisine anglaise : si c''est froid, c''est de la soupe. Si c''est chaud,
+        c''est de la bière !'
+      - Les conseillers ne sont pas les payeurs.
+      - Toute peine mérite salaire.
+      - Celui qui ne sait pas est un imbécile, mais celui qui sait et ne dit rien
+        est un criminel.
+      - L'erreur est humaine.
+      - La bave du crapaud n'atteint pas la blanche colombe.
+      - L'avarice est comme le feu, plus on y met de bois, plus il brûle.
+      - Amours nouvelles oublient les vieilles.
+      - Fais l'amour tant que tu peux, tu ne pourras plus quand tu seras vieux.
+      - Heureux au jeu, malheureux en amour.
+      - La fin justifie les moyens.
+      - Un petit chez soi vaut mieux qu'un grand chez les autres.
+      - Chacun sait ce qui cuit dans sa marmite.
+      - Il n'y a que les imbéciles qui ne changent pas d'avis.
+      - Qui prête de l'argent sans garantie Perd l'ami et l'argent.
+      - A cheval hargneux, il faut une écurie à part.
+      - À malin, malin et demi.
+      - Aimer le bien, c'est à moitié le faire.
+      - Après dommage, chacun est sage.
+      - La persévérance vient à bout de tout.
+      - Les voyages forment la jeunesse.
+      - Qui a honte de manger a honte de vivre.
+      - Qui paie ses dettes s'enrichit.
+      - Qui recherche la lune, ne voit pas les étoiles.
+      - Grasse cuisine fait maigre testament.
+      - C'est l'arroseur arrosé.
+      - Chacun est roi en sa maison.
+      - Familiarité engendre le mépris.
+      - Femme qui prend, se vend ;Femme qui donne, s'abandonne.
+      - L'amour des parents descend et ne remonte pas.
+      - L'école de la vie n'a point de vacances.
+      - La chance sourit aux audacieux.
+      - Quand on ne trouve pas ce qu'on cherche, il arrive qu'on trouve beaucoup mieux.
+      - Le travail a des racines amères, mais des fruits sucrés.
+      - À toute chose sa saison et son temps.
+      - Ce que femme veut, Dieu le veut.
+      - Il vaut mieux perdre un bon mot qu'un ami.
+      - Le mal vient à cheval et le bonheur à pied.
+      - L'herbe est toujours plus verte ailleurs.
+      - On ne fait pas boire un âne qui n'a pas soif.
+      - Qui reste assis sèche, qui va lèche.
+      - Qui vivra verra.
+      - Amour n'a pas de sagesse, ni colère de conseil.
+      - Amour ne veut point de compagnon.
+      - Apprendre coûte et savoir vaut.
+      - Ciel rouge le soir laisse bon espoir ; ciel rouge le matin, pluie en chemin.
+      - Hâtez-vous lentement.
+      - Il n'est pas toujours saison de brebis tondre.
+      - Il ne faut pas péter plus haut que son cul.
+      - L'âge n'est fait que pour les chevaux.
+      - La belle cage ne nourrit pas l'oiseau.
+      - La reconnaissance est la seule dette qu'un débiteur aime à voir s'accroître.
+      - La science est un puits dont l'homme est le seau.
+      - Les pauvres ont la santé, les riches les remèdes.
+      - Morceau avalé n'a plus de goût.
+      - Nul ne sait ce que l'avenir nous réserve.
+      - Patience passe science.
+      - Qui a bon voisin a bon matin.
+      - Qui ne s'aventure n'a ni cheval ni mule.
+      - À l'impossible nul n'est tenu.
+      - Bienheureux qui est sage avant l'expérience.
+      - Bon repas doit commencer par la faim.
+      - Il faut connaître avant d'aimer.
+      - Il faut tourner sept fois sa langue dans sa bouche avant de parler.
+      - Il n'y a que les montagnes qui ne se rencontrent jamais.
+      - L'oisiveté est la mère de tous les vices.
+      - Les chiens ne font pas des chats.
+      - L'ignorant aime à nier, le savant aime à croire.
+      - Mieux vaut une portion de légumes avec de l'amour, qu'un boeuf gras avec de
+        la haine.
+      - On ne jette des pierres qu'à l'arbre chargé de fruits.
+      - Pour aller loin il faut aller droit.
+      - Prudence est mère de sûreté.
+      - Toujours la saison amène la moisson.
+      - Recevoir sans donner fait tourner l'amitié.
+      - Qui écoute aux portes, entendra mal parler sur son compte.
+      - À bon entendeur, salut !
+      - C'est par les fleurs qu'on devine les fruits.
+      - Cent ans ne sont pas si longs qu'ils en ont la mine.
+      - Demain il fera jour.
+      - 'Dieu n''oublie jamais les siens : il ôte la gale et donne un pou.'
+      - Enfants petits, petits soucis ; enfants grandis, grands soucis.
+      - Femme qui rit, femme au lit.
+      - Il faut hurler avec les loups, si l'on veut courir avec eux.
+      - Il n'est feu que de bois vert.
+      - Il n'est pire sourd que celui qui ne veut pas entendre.
+      - L'amour est aveugle, l'amour-propre l'est davantage.
+      - L'argent fait fou les gens.
+      - L'esprit est un tonneau plein de sagesse et de folie.
+      - La douceur du miel ne console pas de la piqûre de l'abeille.
+      - Le lune est à l'abri des loups.
+      - Les nuits d'hiver sont grandes sans livres ou sans femmes.
+      - Mère trop piteuse fait sa famille teigneuse.
+      - Mieux vaut donner sans promettre que promettre sans tenir.
+      - On parle mal des femmes, mais chacun les cherche et les suit.
+      - Pâques longtemps désirées sont en un jour tôt passées.
+      - Peu et paix est don de Dieu.
+      - Pour la chandeleur, l'hiver meurt ou prend vigueur.
+      - Quand on n'a pas de tête, il faut avoir des jambes.
+      - Qui aime bien tard oublie.
+      - Qui demande apprend.
+      - Qui se ressemble s'assemble.
+      - Qui veut noyer son chien l'acccuse de rage.
+      - Travail bien réparti ne tue pas.
+      - Une hirondelle ne fait pas le printemps.
+      - Vieille amitié ne craint pas la rouille.
+      - Pour un beau jour d'hiver l'oiseau ne se réjouit pas.
+      - Les faux amis sont des oiseaux de passage qui viennent à la belle saison,
+        et s’en vont à la mauvaise.
+      - Mains froides, coeur chaud
+      - À cheval donné on ne regarde pas les dents
+      - Argent fait rage, amour, mariage.
+      - Aujourd'hui en chair, demain en bière.
+      - Cent ans de chagrins ne paient pas un sou de dettes.
+      - Coeur blessé ne se peut aider.
+      - Coeur et courage font l'ouvrage.
+      - Il n'y a pas de petit chez soi.
+      - Il n'y a pas de petit profit.
+      - Il ne faut jamais désespérer.
+      - Il ne faut pas chercher midi à quatorze heures.
+      - Il n'y a que les fous qui ne changent pas d'idée.
+      - Jamais deux sans trois.
+      - Jeu de main, jeu de vilain.
+      - La pomme du matin tue le médecin.
+      - 'La vérité est comme l''huile : elle monte toujours à la surface.'
+      - Le crime ne paie pas.
+      - Le fumée sort de tous les toits.
+      - Le hasard souvent fait plus que la science.
+      - Le mauvais ouvrier a toujours de mauvais outils.
+      - Le plus beau papillon n'est qu'une chenille habillée.
+      - Le silence est l'âme des choses.
+      - Le sommeil est la moitié de la santé.
+      - Le temps et l'usage rendent l'homme sage.
+      - Les arbres les plus vieux ont les fruits les plus doux.
+      - Les chiens aboient, la caravane passe.
+      - Les paroles des grands ne tombent jamais à terre.
+      - Les petites causes produisent les grands effets.
+      - Loin des yeux, loin du coeur.
+      - On ne compte pas les oeufs dans le cul de la poule.
+      - On ne peut empêcher le chien d'aboyer, ni le menteur de mentir.
+      - On n'a rien sans mal.
+      - On se travaille plus aux jeux qu'aux livres.
+      - Pluie du matin n'arrête pas le pèlerin.
+      - Plus le singe monte haut, plus il montre son cul.
+      - Plus tire amour que corde.
+      - Qui change de femme change de démon.
+      - Qui ne fait rien, mange le foin, qui travaille, mange la paille.
+      - Si l'hiver est froid et rigoureux, ton ventre à la table, ton dos au feu.
+      - Si tous les gens qui vivent ensemble s'aimaient, la terre brillerait comme
+        un soleil.
+      - Tout ce qui brille n'est pas or.
+      - Un ami veille pour l'autre.
+      - Un ivrogne de plus, un homme de moins.
+      - Un père peut nourrir cent enfants mais cent enfants ne nourrissent pas un
+        père.
+      - À demain, c'est du fainéant le refrain.
+      - Après la fête et le jeu, les pois au feu.
+      - Bon sang ne saurait mentir.
+      - Bourse de joueur n'a jamais de loquet.
+      - C'est à la fin de la foire qu'on compte les bouses.
+      - C'est la poule qui chante qui a fait l'oeuf.
+      - Ce qui est pris n'est plus à prendre.
+      - Deux bras et la santé font le pauvre aisé.
+      - En mariage, trompe qui peut.
+      - En tout pays, il y a une lieue de mauvais chemins.
+      - Erreur n'est pas compte.
+      - Est bien fou qui s'oublie.
+      - Fais ce que dois, advienne que pourra.
+      - Fille qui donne s'abandonne.
+      - Il faut que tout le monde vive.
+      - Il ne faut pas confondre vitesse et précipitation.
+      - Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.
+      - Il n'y a que celui qui ne fait rien qui ne se trompe jamais.
+      - Il vaut mieux être cheval que charrette.
+      - Il y a plus d'un âne à la foire qui s'appelle Martin.
+      - Jamais chien en cuisine son pareil ne désire.
+      - L'amour et la pauvreté font ensemble mauvais ménage.
+      - L'eau fait pleurer, le vin chanter.
+      - L'homme heureux n'a pas de chemise.
+      - L'ignorance de la loi n'excuse personne.
+      - L'oeil ne voit rien si l'esprit est distrait.
+      - La chair est faible.
+      - La femme sur son dos est aussi forte qu'un chêne debout.
+      - Là où entre le soleil le médecin n'entre pas.
+      - La vengeance est un plat qui se mange froid.
+      - Le plus court chemin est la ligne droite.
+      - Le temps est une lime qui travaille sans bruit.
+      - Le temps n'a pas de loisir.
+      - Les fous sont plus utiles aux sages que les sages aux fous.
+      - Les grands esprits se rencontrent.
+      - Les mauvaises compagnies corrompent les bonnes moeurs.
+      - Les paroles s'envolent, les écrits restent.
+      - Les petits cadeaux entretiennent l'amitié.
+      - L'envie et la colère abrègent la vie.
+      - Mieux vaut nourrir son chat que de nourrir le rat.
+      - Mieux vaut un petit chez soi qu'un gros chez les autres.
+      - Noël en août, pâté en croûte
+      - On n'apprend pas à un vieux singe à faire des grimaces.
+      - On ne fait pas d'omelettes sans casser d'oeufs.
+      - On ne peut être à la ville et aux champs.
+      - On ne prend pas l'oiseau à la crécelle.
+      - On sait qui l'on quitte, on ne sait pas qui l'on prend.
+      - Où il y a de la gêne, il n'y a pas de plaisir.
+      - Paris (Rome) ne s'est pas fait (faite) en un jour.
+      - Quand Dieu donne le mal, il donne aussi le remède.
+      - Qui aime l'arbre aime la branche.
+      - Qui dort dîne.
+      - Qui n'entend qu'une cloche n'entend qu'un son.
+      - Qui n'est à soi-même sage n'est pas sage.
+      - Qui rit le matin le soir pleure.
+      - Qui veut un cheval sans défaut doit aller à pied.
+      - Qui vient est beau, qui apporte encore plus beau.
+      - Tant crie-t-on Noël qu'il vient.
+      - Tel maître, tel valet.
+      - Tendresse maternelle, toujours se renouvelle.
+      - Tonnerre de midi, amène la pluie.
+      - Tous les chemins mènent à Rome.
+      - Tout nouveau, tout beau.
+      - Trop penser fait rêver.
+      - Un mauvais arrangement vaut mieux qu'un bon procès.
+      - Un menteur n'est point écouté, même en disant la vérité.
+      - Un verre de vin vaut un habit de velours.
+      - Vieilles amours et vieux tisons s'allument en toutes saisons.
+      - Où force règne, raison n'a pas lieu.
+      - À brebis tondue Dieu ménage le vent.
+      - À chacun plaît le sort de sa nature.
+      - À chaque oiseau son nid semble beau.
+      - À force d'aller mal, tout va bien.
+      - A la guerre comme à la guerre.
+      - À la Sainte-Delphine, mets ton manteau à pèlerine.
+      - À la Sainte-Luce, les jours croissent d'un saut de puce.
+      - À méchant ouvrier, point de bon outil.
+      - A père avare, enfant prodigue, à femme avare, galant escroc.
+      - Assez gagne qui malheur perd.
+      - Bon à tout, bon à rien.
+      - C'est au pied du mur qu'on connaît le maçon.
+      - C'est bonnet blanc et blanc bonnet.
+      - C'est la faim qui se marie avec la soif.
+      - C'est la goutte d'eau qui fait déborder le vase.
+      - Ce n'est pas en ne voyant pas loin qu'on tombe.
+      - Ce qu'art ne peut, hasard achève.
+      - Chacun est le fils de ses oeuvres.
+      - Changement de propos réjouit l'homme.
+      - Charité bien ordonnée commence par soi-même.
+      - Chien qui aboie ne mord pas.
+      - C'est pendant qu'il pleut qu'il faut remplir les jarres.
+      - D'expérience vient la science.
+      - De bons cerveaux viennent bons auspices.
+      - Dieu donne le froid selon le drap.
+      - Est heureux qui croit l'être.
+      - Faute de grives, on mange des merles.
+      - Folle est la brebis qui au loup se confesse.
+      - Force fait loi.
+      - Fort est qui abat, plus fort est qui se relève.
+      - Grande boîte à guérison sont temps, amour et raison.
+      - Il est plus facile de dire que de faire.
+      - Il faut de tout pour faire un monde.
+      - Il faut laver son linge sale en famille.
+      - Il n'y a que les fous qui ne changent pas d'avis.
+      - Il n'y a si petite mouche qui n'ait sa petite croix.
+      - Il ne faut attendre son bien que de soi-même.
+      - Il ne faut jamais dire Fontaine, je ne boirai pas de ton eau.
+      - Il ne faut jamais remettre au lendemain ce qu'on peut faire le jour même.
+      - Il ne faut pas essayer de pénétrer dans le sanctuaire.
+      - Il ne faut pas laisser croître l'herbe sur le chemin de l'amitié.
+      - Il ne faut pas prendre les enfants du bon Dieu pour des canards sauvages.
+      - Il ne faut pas se moquer de la peine du voisin Car la vôtre arrive le lendemain
+        matin.
+      - Il n'est point de bonheur sans nuage.
+      - Il n'y a pas de poisson sans arête.
+      - Il vaut mieux être seul qu'en mauvaise compagnie.
+      - Il vaut mieux un bon reste que deux mauvais morceaux.
+      - Il y a plus de fous acheteurs que de fous vendeurs.
+      - Il y a plus de paille que de grain.
+      - Jamais ne fut si beau soulier qui ne devient laide savate.
+      - Jeune gouvernement suit le vent.
+      - L'affection aveugle la raison.
+      - L'avarice est la mère de tous les maux.
+      - La belle plume fait le bel oiseau.
+      - La colère est aveugle.
+      - La curiosité est un vilain défaut.
+      - La femme est un sujet sur lequel on s'est beaucoup étendu.
+      - La femme tombe sept fois et toujours se relève.
+      - La fête passée, adieu le saint.
+      - La fin du monde est tous les jours.
+      - La vache de l'étranger a le pis gros.
+      - La vengeance est le plaisir des dieux.
+      - La vérité est au fond du verre.
+      - Le bleu et l'aurore éclaircissent le monde.
+      - Le bon Dieu a pour chacun une poire.
+      - Le bonheur fuit celui qui le cherche.
+      - Le bonheur tôt se passe qui n'en a soin.
+      - Le petit gain emplit la bourse.
+      - Le soleil brille pour tout le monde.
+      - Le vin pour boire, l'eau pour se raser.
+      - Les grands diseurs ne sont pas les grands faiseurs.
+      - Les méchants portent leur enfer en eux.
+      - Les pots fêlés sont ceux qui durent le plus.
+      - Loin des yeux, loin du cœur.
+      - L'arbre cache la forêt.
+      - Mal dessus mal n'est pas santé.
+      - Mars venteux et avril pluvieux font mai gai et gracieux.
+      - Même le lilas blanc a une ombre.
+      - Mieux vaut charité plein la main que biens plein le four.
+      - Mieux vaut s'adresser à Dieu qu'à ses saints.
+      - Mieux vaut séduire que sévir.
+      - Mors doré ne rend pas le cheval meilleur.
+      - Ne rien dire et n'en penser pas moins.
+      - Nul n'est trop bon et peu le sont assez.
+      - Nul ne sait mieux que l'âne où le bât blesse.
+      - Nulle terre sans guerre.
+      - Oignez vilain, il vous poindra.
+      - On adore plutôt le soleil levant que le soleil couchant.
+      - On change plutôt une montagne qu'un naturel.
+      - On commande au valet et le valet au chat et le chat commande à sa queue.
+      - On croit user le temps, c'est le temps qui nous use.
+      - On n'a jamais vu chèvre morte de faim.
+      - On n'est jamais trahi que par les siens.
+      - On ne coupe l'arbre pour avoir un fruit.
+      - On ne sait qui meurt ni qui vit.
+      - On ne triomphe que par la peine qu'on prend.
+      - Pendant que le chien pisse, le lièvre fuit.
+      - Personne n'est indispensable.
+      - Petit à petit l'oiseau fait son nid.
+      - Peu importe le flacon, pourvu qu'on ait l'ivresse.
+      - Pied nu va loin, ventre plat ne va pas.
+      - Plus on est de fous, plus on rit.
+      - Poule qui chante et coq qui pond, c'est le diable à la maison.
+      - Qui a une femme de bien vit longtemps bien.
+      - Qui casse les verres les paie.
+      - Qui n'est de verre ne peut être cassé.
+      - Qui ne nourrit pas le chat nourrit le rat.
+      - Qui se lève de bon matin pisse où cela lui plaît.
+      - Qui se ramasse dit merde.
+      - Qui suit les poules apprend à gratter la terre.
+      - Qui trop se hâte en cheminant, en beau chemin se fourvoie.
+      - Qui vole un œuf vole un bœuf.
+      - Rien ne vieillit plus vite qu'un bienfait.
+      - Selon le vent, la voile.
+      - Seule l'action sauve.
+      - Si la mer bouillait, il y aurait bien des poissons cuits.
+      - Si tu ne mets raison en toi, elle s'y mettra malgré toi.
+      - Si tu veux un ami, sois son ami.
+      - Souhait de roi, fils et fille.
+      - Tant vaut l'homme, tant vaut la terre.

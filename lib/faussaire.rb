@@ -11,6 +11,8 @@ require_relative 'faussaire/wine'
 require_relative 'faussaire/creamerie'
 require_relative 'faussaire/gardinerie'
 require_relative 'faussaire/citation'
+require_relative 'faussaire/cosmos'
+require_relative 'faussaire/music'
 
 
 module Faussaire

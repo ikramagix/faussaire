@@ -42,17 +42,6 @@ module Faussaire
       end
 
       ##
-      # Produces a random cream.
-      #
-      # @return [String]
-      #
-      # @example
-      #   Faussaire::Creamerie.cream #=> "Crème d'Isigny"
-      def cream
-        fetch('fr.faussaire.creamerie.cream')
-      end
-
-      ##
       # Produces a random cheese.
       #
       # @return [Hash]

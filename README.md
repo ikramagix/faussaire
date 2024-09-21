@@ -140,7 +140,7 @@ The **Faussaire** gem is released under the [MIT License](https://opensource.org
 
 The dataset used by the **Faussaire** gem is the property of the original creator and protected under intellectual property laws. While **Faussaire** itself can be freely used under the terms of its MIT License, specific conditions apply to the dataset:
 
-- **Dataset cloning and usage:** If you wish to use the dataset or any part of **Faussaire** dataset to develop similar tools or other tools, you must obtain explicit authorization. Please 📫 get in touch: [em@il me](mailto:ikrame.saadi@gmail.com) and let's discuss your fantastic idea together!
+- **Dataset cloning and usage:** If you wish to use the dataset or any part of **Faussaire** dataset to develop similar tools or other tools, you must obtain explicit authorization. Please 📫 get in touch: [hello@ikramagix.com](mailto:hello@ikramagix.com) and let's discuss your fantastic idea together!
 
 - **Commercial Use:** Any commercial use of the **Faussaire** dataset or the tool itself requires compliance with the licensing terms and might necessitate additional permissions or agreements. Please contact the above email for inquiries.
 

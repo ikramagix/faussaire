@@ -4,10 +4,6 @@
   <a href="#english-version">English
     <img src="image-1.png" alt="English" width="24" height="24">
   </a>
-  <br>
-  <a href="#version-française">Français
-    <img src="image.png" alt="French" width="24" height="24">
-  </a>
 </p>
 
 ---

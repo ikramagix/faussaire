@@ -1,6 +1,14 @@
 # Faussaire — Au revoir Lorem Ipsum: Authentic French Data for Realistic Apps & Fun Seeding
 
-[![English](image-1.png)](#english-version) | [![French](image.png)](#version-française)
+<p align="center">
+  <a href="#english-version">
+    <img src="image-1.png" alt="English" width="24" height="24">
+  </a>
+  |
+  <a href="#version-française">
+    <img src="image.png" alt="French" width="24" height="24">
+  </a>
+</p>
 
 ---
 

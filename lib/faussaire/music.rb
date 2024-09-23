@@ -28,5 +28,29 @@ module Faussaire
     def self.house
       fetch('fr.faussaire.music.house')
     end
+
+    ##
+    # Produces a random French rap song.
+    #
+    # @return [String]
+    #
+    # @example
+    #   Faussaire::Music.rap #=> "Onizuka - PNL"
+    #
+    def self.rap
+      fetch('fr.faussaire.music.rap')
+    end
+
+    ##
+    # Produces a random French variété song.
+    #
+    # @return [String]
+    #
+    # @example
+    #   Faussaire::Music.variete #=> "Laisse tomber les filles - France Gall"
+    #
+    def self.variete
+      fetch('fr.faussaire.music.variete')
+    end
   end
 end

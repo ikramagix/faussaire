@@ -47,7 +47,7 @@ module Faussaire
     # @return [String]
     #
     # @example
-    #   Faussaire::Ancien.words #=> "liberté"
+    #   Faussaire::Ancien.words #=> "torteleresse"
     #
     def self.words
       fetch('fr.faussaire.ancien.words')

@@ -1,4 +1,3 @@
-require 'faussaire/base'
 require 'yaml'
 
 module Faussaire

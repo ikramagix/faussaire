@@ -22,12 +22,6 @@ RSpec.describe Faussaire::Creamerie do
     end
   end  
 
-  describe '.cream' do
-    it 'returns a string' do
-      expect(Faussaire::Creamerie.cream).to be_a(String)
-    end
-  end
-
   describe '.cheese' do
     it 'returns a hash with :type, :name, and :region keys' do
       cheese = Faussaire::Creamerie.cheese

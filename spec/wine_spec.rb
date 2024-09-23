@@ -78,7 +78,7 @@ RSpec.describe Faussaire::Wine do
       end
     
       describe '.licocorico' do
-        it 'demonstrates randomness by returning a diverse set of licocorico' do
+        it 'demonstrates randomness by returning a diverse set of liquors' do
           licocoricos = Array.new(98) { Faussaire::Wine.licocorico }.uniq
           expect(licocoricos.size).to be > 1
         end

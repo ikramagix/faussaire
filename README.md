@@ -536,4 +536,4 @@ Whereas it's for enriching the dataset with a brilliant new addition or anihilat
 - **Issues:** Provide details about the issue and how to reproduce it.
 - **Pull Requests:** Include a clear explanation of changes and reference any relevant issues.
 
-Please see [CONTRIBUTING.md](https://github.com/ikramagic/faussaire/CONTRIBUTING.md) for more details.
+Please see [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/CONTRIBUTING.md) for more details.

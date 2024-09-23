@@ -5,18 +5,18 @@ require_relative "lib/faussaire/version"
 Gem::Specification.new do |spec|
   spec.name = "faussaire"
   spec.version = Faussaire::VERSION
-  spec.authors = ["ikramagic"]
+  spec.authors = ["ikramagix"]
   spec.email = ["ikrame.saadi@gmail.com"]
 
   spec.summary = "Generate a wide range of fake data in French, Greek and English."
   spec.description = "Faussaire is a Ruby gem that allows you to effortlessly generate a diverse set of fake data in multiple languages, including French, Greek, and English. Whether you're developing and testing applications or need placeholder content for design mockups, Faussaire provides a simple and flexible way to create realistic-looking data on demand."
-  spec.homepage = "https://github.com/ikramagic/faussaire"
+  spec.homepage = "https://github.com/ikramagix/faussaire"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/ikramagic/faussaire"
-  spec.metadata["changelog_uri"] = "https://github.com/ikramagic/faussaire/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/ikramagix/faussaire"
+  spec.metadata["changelog_uri"] = "https://github.com/ikramagix/faussaire/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.

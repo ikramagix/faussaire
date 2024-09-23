@@ -8,8 +8,6 @@
 
 ---
 
-## Version Française 
-
 **Faussaire** is a modern alternative to the popular [Faker](https://github.com/faker-ruby/faker) gem in Ruby, which itself is a port of [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
 
 Tailored for more local-specific data generation, it currently fully supports French offering more realistic and culturally relevant data generation for developers. 

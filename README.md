@@ -1,15 +1,19 @@
-# Faussaire
+# Faussaire — Au revoir Lorem Ipsum: Authentic French Data for Realistic Apps & Fun Seeding
 
-**Faussaire** is a modern alternative to the popular Faker gem in Ruby, tailored for more local-specific data generation. It supports French offering more realistic and culturally relevant data generation for developers. 
+[🇬🇧 English](#english-version) | [🇫🇷 Français](#version-française)
+
+**Faussaire** is a modern alternative to the popular [Faker](https://github.com/faker-ruby/faker) gem in Ruby, which itself is a port of [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
+
+Tailored for more local-specific data generation, it currently fully supports French offering more realistic and culturally relevant data generation for developers. 
 
 We aim to support the Greek language in the future, as well as a Globish alternative for universal accessibility.
 
-## Why using Faussaire ? Faker already exists !
+## Why using Faussaire ? Faker already exists ! 🤔
 
 **Faussaire** was developed with specific goals in mind:
 
 - _Cultural Relevance:_ To provide accurate and culturally nuanced French data, improving upon generic outputs from other libraries.
-- _Realism:_ To generate data that closely mirrors real-world French contexts, from addresses to names and beyond.
+- _Realism:_ To generate data that closely mirrors real-world French contexts, from addresses to names and beyond. Whenever possible, we prioritize using real data to enhance authenticity.
 - _Detail-Oriented:_ To offer a comprehensive set of data generators covering various aspects of French life, from business to historical references.
 
 ## Installation
@@ -536,4 +540,6 @@ Whereas it's for enriching the dataset with a brilliant new addition or anihilat
 - **Issues:** Provide details about the issue and how to reproduce it.
 - **Pull Requests:** Include a clear explanation of changes and reference any relevant issues.
 
-Please see [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/CONTRIBUTING.md) for more details.
+You can check [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md) for more details.
+
+Merci in advance! 🙂‍↕️

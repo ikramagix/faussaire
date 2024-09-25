@@ -1,24 +1,49 @@
 # Faussaire — Au revoir Lorem Ipsum: Authentic French Data for Realistic Apps & Fun Seeding
 
+
+
+## English Version
+
 <p align="center">
-  <a href="#english-version">English
+  <a href="#english-version">README in English!
     <img src="image-1.png" alt="English" width="24" height="24">
   </a>
 </p>
 
 ---
 
-**Faussaire** is a modern alternative to the popular [Faker](https://github.com/faker-ruby/faker) gem in Ruby, which itself is a port of [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
+**Faussaire** est une alternative made in France à la gem [Faker](https://github.com/faker-ruby/faker) en Ruby, qui est elle-même une adaptation de [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
 
-Tailored for more local-specific data generation, it currently fully supports French offering more realistic and culturally relevant data generation for developers. 
+Conçue pour fournir des données plus précises et moins génériques que [Faker](https://github.com/faker-ruby/faker), elle dispose actuellement d'un set français exhaustif, réaliste et culturellement pertinent pour vos projets Ruby francophones.
 
 We aim to support the Greek language in the future, as well as a Globish alternative for universal accessibility.
 
-## Why using Faussaire ? Faker already exists ! 🤔
+Nous avons pour projet d'offrir une version grecque dans les mois à venir, ainsi qu'une version "globish" pour couvrir les besoins d'entreprises européennes non anglophones qui souhaitent tester la compatibilité linguistique avant de s'étendre à l'internationale ou simplement animer la phase parfois laborieuse de test et seeds avec des propositions suprenantes.
 
-**Faussaire** was developed with specific goals in mind:
+## Pourquoi utiliser Faussaire si Faker existe déjà ? 🤔
 
-- _Cultural Relevance:_ To provide accurate and culturally nuanced French data, improving upon generic outputs from other libraries.
+Quand on aime ce qu'on fait, on aime rendre ça ludique. 
+
+Comme moi, ça a du vous arriver. 
+
+Des phases de débogages interminables avec une base de données peuplée de Lorem Ipsum, ça devient vite lassant. 
+
+Et puis, comment tester cette REGEX sur le format des addresses françaises si les données de tests n'ont pas de numéro de département à 3 chiffres ? 
+
+Mince, vous venez d'envoyer votre app en production mais vous vous rendez compte qu'en excluant les caractères spéciaux, vous avez aussi empêcher Stéphane de mettre un accent à son prénom.
+
+La liste est interminable.
+
+Si comme moi, vous en avez marre de la standardisation à outrance et que vous voulez utiliser une librairie francophone, amusante et enrichissante, vous allez adorer Faussaire.
+
+C'est quand même plus drôle d'avoir une liste d'AOC, un générateur de phrases "corporate", des mots d'ancien français où un florilège de candidats désuets de téléralité quand vous testez votre base de données. 
+
+> [!NOTE]
+> Mister You a dit un jour, en compagnie de DJ Abdel dans Funk You : "Ca me dérange pas, moi j'aime bien".
+
+**Faussaire** a été développée avec des objectifs précis en tête:
+
+- _Pertinence culturelle:_ To provide accurate and culturally nuanced French data, improving upon generic outputs from other libraries.
 - _Realism:_ To generate data that closely mirrors real-world French contexts, from addresses to names and beyond. Whenever possible, we prioritize using real data to enhance authenticity.
 - _Detail-Oriented:_ To offer a comprehensive set of data generators covering various aspects of French life, from business to historical references.
 
@@ -549,5 +574,3 @@ Whereas it's for enriching the dataset with a brilliant new addition or anihilat
 You can check [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md) for more details.
 
 Merci in advance! 🙂‍↕️
-
-## English Version

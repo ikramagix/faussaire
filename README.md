@@ -6,7 +6,6 @@
 
 Conçue pour fournir des données plus précises et moins génériques que [Faker](https://github.com/faker-ruby/faker), elle dispose actuellement d'un set français exhaustif, réaliste et culturellement pertinent pour vos projets Ruby francophones.
 
----
 <p align="center">
   <a href="#english">
   <img src="hello.png" alt="English" width="50" height="50">

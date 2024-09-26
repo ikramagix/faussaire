@@ -15,10 +15,6 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 >   <a href="#english">
 >     Hey! You can also README in English!
 >   </a>
->   <br>
->   <a href="#english">
->     <img src="hello.png" alt="English" width="50" height="50">
->   </a>
 > </p>
 
 

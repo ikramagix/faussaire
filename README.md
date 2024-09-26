@@ -8,11 +8,11 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 
 ---
 <p align="center">
-  <a href="#english" style="text-decoration:none;">
+  <a href="#english">
+  <img src="hello.png" alt="English" width="50" height="50">
     <button>
       Hey! You can also README in English!
     </button>
-    <img src="hello.png" alt="English" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
   </a>
 </p>
 

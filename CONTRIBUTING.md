@@ -12,7 +12,7 @@ Bonjour mighty programmer! 👋 Thinking about contributing to Faussaire? That�
     <button>
       Évidemment, vous pouvez aussi me lire en français. On est là pour ça, non ?
     </button>
-    <img src="bonjour.png" alt="Français" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
+    <img src="bonjour.png" alt="Français" width="50" height="50">
   </a>
 </p>
 

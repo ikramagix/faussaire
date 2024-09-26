@@ -13,6 +13,7 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
     <button>
       Hey! You can also README in English!
     </button>
+   <img src="hello.png" alt="English" width="50" height="50">
   </a>
 </p>
 

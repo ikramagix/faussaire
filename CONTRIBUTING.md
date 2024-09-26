@@ -8,6 +8,7 @@ Bonjour mighty programmer! 👋 Thinking about contributing to Faussaire? That�
 
 <p align="center">
   <a href="#Français" style="text-decoration:none;">
+    <img src="bonjour.png" alt="Français" width="50" height="50">
     <button>
       Évidemment, vous pouvez aussi me lire en français. On est là pour ça, non ?
     </button>
@@ -150,7 +151,7 @@ Salut ! 👋 Vous pensiez contribuer à Faussaire ? Génial ! Que vous soyez un(
 > [!TIP]
 > Ce que vous ajoutez doit s’inscrire dans l’esprit que l’on cultive ici: drôle et/ou culturellement enrichissant.
 
-3. **Mettez à jour le README :**
+3. **Mise à jour du README :**
    - Vous avez envoyé la sauce ? Super ! N’oubliez pas de mettre à jour le `README.md` pour que les autres sachent où la trouver (et qu'elle existe !). 👀
 
 > [!NOTE]
@@ -158,18 +159,13 @@ Salut ! 👋 Vous pensiez contribuer à Faussaire ? Génial ! Que vous soyez un(
 
 4. **Pertinence :**
    - On en a assez du lorem ipsum—Faussaire, c’est sérieux & fun, mais surtout pas ennuyeux, et on veut que ça reste comme ça !
-   - Si vous cherchez à pratiquer la programmation et/ou à contribuer, on vous conseille de vous concentrer sur des thèmes comme la poésie, les citations, les générateurs de phrases (un peu plus corsé), les marques, etc... 
+   - Si vous cherchez à pratiquer la programmation et/ou à contribuer, on vous conseille de vous concentrer sur des thèmes comme la poésie, les citations, les générateurs de phrases (un peu plus corsé), les marques, etc...
+   - Même si notre priorité reste le français, on est ouverts à d’autres sujets et langues. Et qui sait, peut-être qu’une version grecque est en préparation ! Clin d’œil, clin d’œil !
    - Chez Faussaire, on adore rire donc lâchez vous.
-
 
 ![Karine Lemarchand adore rire](jadore-rire.gif)
 
-> [!IMPORTANT]
-> Vous avez une idée sympa ? Parfait ! Mais pour l’instant, gardez-la en français !
-
-   - Même si notre priorité reste le français, on est ouverts à d’autres sujets et langues. Et qui sait, peut-être qu’une version grecque est en préparation ! Clin d’œil, clin d’œil !
-
-5. **Commentaires dans le Code :**
+5. **Commentaires :**
    - Votre code doit être bien commenté pour être clair et facile à maintenir.
 
 > [!TIP]

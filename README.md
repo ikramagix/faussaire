@@ -2,14 +2,14 @@
 
 ### Des données authentiques, des apps réalistes, des seeds ludiques
 
-**Faussaire** est une alternative made in France à la gem [Faker](https://github.com/faker-ruby/faker) en Ruby, qui est elle-même une adaptation de [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
+**Faussaire** est une alternative made in France à la gem [Faker](https://github.com/faker-ruby/faker) en Ruby.
 
 Conçue pour fournir des données plus précises et moins génériques que [Faker](https://github.com/faker-ruby/faker), elle dispose actuellement d'un set français exhaustif, réaliste et culturellement pertinent pour vos projets Ruby francophones.
 
 ---
 <p align="center">
-  <a href="#english-version" style="text-decoration:none;">
-    <button style="background-color:#4CAF50;border:none;color:white;padding:10px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:4px;cursor:pointer;">
+  <a href="#english" style="text-decoration:none;">
+    <button>
       Hey! You can also README in English!
     </button>
     <img src="image-1.png" alt="English" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
@@ -98,16 +98,14 @@ Pour utiliser **Faussaire** dans vos applications Ruby, il suffit de charger la 
 require 'faussaire'
 ```
 
-Modules Disponibles dans Faussaire
-
-	•	
+## Modules Disponibles dans Faussaire
 
 <details>
-<summary><strong>Faussaire::Ancien</strong> — Données historiques et mythologiques</summary>
+<summary><strong>Faussaire::Ancien</strong></summary>
 
+Le module `Faussaire::Ancien` permet de générer des noms de figures historiques, de créatures mythologiques et des mots en ancien français. Idéal pour les apps dans des domaines tels que le jeu vidéo, la narration et les applications éducatives.
 
-Le module Faussaire::Ancien permet de générer des noms de figures historiques, de créatures mythologiques et des mots en ancien français. Idéal pour les apps dans des domaines tels que le jeu vidéo, la narration et les applications éducatives.
-
+```ruby
 # Génère un nom de créature mythologique aléatoire.
 Faussaire::Ancien.creature 
 # => "Cocatrix"
@@ -119,19 +117,15 @@ Faussaire::Ancien.historic_figure
 # Récupère un mot ancien français aléatoire.
 Faussaire::Ancien.words 
 # => "niquenoque"
-
+```
 </details>
 
-
-
-	•	
-
 <details>
-<summary><strong>Faussaire::Address</strong> — Adresses françaises</summary>
+<summary><strong>Faussaire::Address</strong></summary>
 
+Le module `Faussaire::Address` génère des adresses françaises détaillées. Ce module est particulièrement utile pour les tests, les simulations ou toute application nécessitant des données de localisation réalistes.
 
-Le module Faussaire::Address génère des adresses françaises détaillées. Ce module est particulièrement utile pour les tests, les simulations ou toute application nécessitant des données de localisation réalistes.
-
+```ruby
 # Renvoie un nom de ville aléatoire.
 Faussaire::Address.city 
 # => "Achiet-le-Petit"
@@ -179,19 +173,15 @@ Faussaire::Address.region
 # Génère une adresse complète en utilisant divers composants.
 Faussaire::Address.full_address 
 # => "88 Bourg Daniel Bustaffa, 91360 Prouville, La Réunion (974), Région Haute-Normandie"
-
+```
 </details>
 
+<details> 
+<summary><strong>Faussaire::Bizness</strong> — <i>Brasseur de vent (phrases "corporate" dénuées de sens) et noms de marques françaises</i></summary>
 
+Le module `Faussaire::Bizness` génère des noms de marques françaises et des phrases clichés du monde de l'entreprise.
 
-	•	
-
-<details>
-<summary><strong>Faussaire::Bizness</strong> — Brasseur de vent (phrases "corporate" dénuées de sens) et noms de marques françaises</summary>
-
-
-Le module Faussaire::Bizness génère des noms de marques françaises et des phrases clichés du monde de l’entreprise.
-
+```ruby
 # Génère un nom de marque française aléatoire.
 Faussaire::Bizness.brands
 # => "Boulangerie Paul"
@@ -199,19 +189,15 @@ Faussaire::Bizness.brands
 # Génère un "charabia corporate" aléatoire.
 Faussaire::Bizness.pipotronic
 # => "En termes de redynamisation de une globalisation référentielle, un meilleur relationnel permet d'solutionner les nécessités back-office."
-
+```
 </details>
-
-
-
-	•	
-
+ 
 <details> 
-<summary><strong>Faussaire::Citation</strong> — Proverbes & citations philosophiques</summary>
+<summary><strong>Faussaire::Citation</strong></summary>
 
+Le module `Faussaire::Citation` génère des proverbes français et des citations philosophiques.
 
-Le module Faussaire::Citation génère des proverbes français et des citations philosophiques.
-
+```ruby
 # Génère une citation philosophique aléatoire.
 Faussaire::Citation.philo 
 # => "Homère a dit un jour : Le sommeil et la mort sont des frères jumeaux."
@@ -219,19 +205,15 @@ Faussaire::Citation.philo
 # Génère un proverbe français aléatoire.
 Faussaire::Citation.proverbe 
 # => "Pense deux fois avant de parler, tu en parleras deux fois mieux."
-
+```
 </details>
 
-
-
-	•	
-
 <details>
-<summary><strong>Faussaire::Cosmos</strong> — Données cosmologiques</summary>
+<summary><strong>Faussaire::Cosmos</strong></summary>
 
+Le module `Faussaire::Cosmos` génère des données liées aux corps célestes, aux planètes et aux événements cosmiques.
 
-Le module Faussaire::Cosmos génère des données liées aux corps célestes, aux planètes et aux événements cosmiques.
-
+```ruby
 # Génère un nom de planète aléatoire.
 Faussaire::Cosmos.planet 
 # => "Neptune"
@@ -247,20 +229,18 @@ Faussaire::Cosmos.neighborhood
 # Génère un nom d'exploration spatiale aléatoire.
 Faussaire::Cosmos.exploration 
 # => "Voyager 2"
-
+```
 </details>
 
-
-
-	•	
-
 <details>
-<summary><strong>Faussaire::Creamerie</strong> — Données sur les produits laitiers</summary>
+<summary><strong>Faussaire::Creamerie</strong></summary>
 
+Le module `Faussaire::Creamerie` génère des données liées aux produits laitiers français, parfait pour des applications ou des démonstrations liées à l'alimentation.
 
-Le module Faussaire::Creamerie génère des données liées aux produits laitiers français, parfait pour des applications ou des démonstrations liées à l’alimentation.
+```ruby
+# Génère un type de lait al
 
-# Génère un type de lait aléatoire.
+éatoire.
 Faussaire::Creamerie.milk_type 
 # => "Lait de bufflonne"
 
@@ -275,19 +255,15 @@ Faussaire::Creamerie.butter_producers
 # Génère un fromage aléatoire, en le liant à une région et une appellation.
 Faussaire::Creamerie.cheese 
 # => { type: "AOP", name: "Camembert de Normandie", region: "Normandie" }
-
+```
 </details>
 
-
-
-	•	
-
 <details>
-<summary><strong>Faussaire::Gardinerie</strong> — Fruits, légumes et plantes diverses</summary>
+<summary><strong>Faussaire::Gardinerie</strong></summary>
 
+Le module `Faussaire::Gardinerie` est certifié bio! Des légumes, des fruits et diverses plantes, avec un accent particulier sur leur pertinence en France.
 
-Le module Faussaire::Gardinerie est certifié bio! Des légumes, des fruits et diverses plantes, avec un accent particulier sur leur pertinence en France.
-
+```ruby
 # Génère un nom de légume aléatoire et son mois de consommation idéal en France.
 Faussaire::Gardinerie.vegetable 
 # => "Carotte (Mars)"
@@ -307,19 +283,15 @@ Faussaire::Gardinerie.bang_bang_plant
 # Génère un nom de plante psychotrope aléatoire.
 Faussaire::Gardinerie.very_naughty_plant 
 # => "Nymphaea caerulea : Lotus bleu d’Égypte, plante aux effets enivrants et psychoactifs"
-
+```
 </details>
 
-
-
-	•	
-
 <details>
-<summary><strong>Faussaire::Music</strong> — La Playlist!</summary>
+<summary><strong>Faussaire::Music</strong></summary>
 
+Le module `Faussaire::Music` génère des données liées à différents genres musicaux avec de la house, du rap français et des chansons de variété française.
 
-Le module Faussaire::Music génère des données liées à différents genres musicaux avec de la house, du rap français et des chansons de variété française.
-
+```ruby
 # Génère une chanson de house aléatoire.
 Faussaire::Music.house 
 # => "House is a feeling - LA Riots"
@@ -331,15 +303,11 @@ Faussaire::Music.rap
 # Génère une chanson de variété française aléatoire.
 Faussaire::Music.variete 
 # => "Mourir sur scène - Dalida"
-
+```
 </details>
 
-
-
-	•	
-
 <details>
-<summary><strong>Faussaire::Name</strong> — Noms et prénoms</summary>
+<summary><strong>Faussaire::Name</strong></summary>
 
 Le module `Faussaire::Name` génère des noms français réalistes, qui peuvent être utilisés pour la création de personnages, le remplissage de bases de données, ou toute application nécessitant la génération aléatoire de noms.
 
@@ -363,7 +331,7 @@ Faussaire::Name.name
 </details>
 
 <details>
-<summary><strong>Faussaire::Tv</strong> — De la télévision aux influenceurs en passant par le festival de Cannes</summary>
+<summary><strong>Faussaire::Tv</strong></summary>
 
 Le module `Faussaire::Tv` génère des données factices liées à la télévision, y compris des titres d'émissions, des influenceurs, des couples célèbres, des chaînes TV, ainsi que des détails spécifiques liés au Festival de Cannes.
 
@@ -415,7 +383,7 @@ Faussaire::Tv::FestivalCannes.box_office
 </details>
 
 <details>
-<summary><strong>Faussaire::Wine</strong> — Données sur les vins français</summary>
+<summary><strong>Faussaire::Wine</strong></summary>
 
 Le module `Faussaire::Wine` génère des données liées aux vins français (noms de vins avec leur dénomination actuelle, types, bouteilles, régions, prix, et liqueurs).
 
@@ -472,7 +440,7 @@ Pour configurer l'environnement de développement pour **Faussaire** :
 La gem **Faussaire** est disponible sous [Licence MIT](LICENSE.txt), qui vous permet d'utiliser, modifier et distribuer librement le logiciel contenu dans cette gem.
 
 > [!IMPORTANT]
-> **Veuillez noter :** La Licence MIT concerne uniquement le logiciel lui-même. Des restrictions s'appliquent au jeu de données utilisé dans ce projet (_fr.yml_). Assurez-vous de consulter les conditions spécifiques liées à l'utilisation des données.
+> La Licence MIT concerne uniquement le logiciel lui-même. Des restrictions s'appliquent au jeu de données utilisé dans ce projet (_fr.yml_). Assurez-vous de consulter les conditions spécifiques liées à l'utilisation des données.
 
 ## Il manquerait pas un petit quelque chose ?
 
@@ -485,39 +453,85 @@ N'hésitez pas à participer en soumettant vos pull requests :
 
 Merci à toi camarade faussaire ! 🙂‍↕️
 
-# English Version
+#### English
 
-# Faussaire — Au revoir Lorem Ipsum: Authentic French Data for Realistic Apps & Fun Seeding
+# FAUSSAIRE • Goodbye Lorem Ipsum 😉
 
-**Faussaire** is a modern alternative to the popular [Faker](https://github.com/faker-ruby/faker) gem in Ruby, which itself is a port of [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
+### Authentic French Data for Realistic Apps & Fun Seeding
 
-Tailored for more local-specific data generation, it currently fully supports French offering more realistic and culturally relevant data generation for developers.
+**Faussaire** is a French-made alternative to the [Faker](https://github.com/faker-ruby/faker) gem in Ruby.
 
-We aim to support the Greek language in the future, as well as a Globish alternative for universal accessibility.
+Designed to provide more accurate and less generic data than [Faker](https://github.com/faker-ruby/faker), it currently offers an exhaustive, realistic, and culturally relevant French dataset for your Ruby projects.  
 
-## Why use Faussaire? Faker already exists! 🤔
+## Table of Contents
+
+- [Why Use Faussaire?](#why-use-faussaire)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Available Modules](#available-modules-in-faussaire)
+- [Development](#want-to-contribute)
+- [License](#license)
+- [Contribution](#is-something-missing)
+
+We plan to offer a Greek version in the coming months, and perhaps a "globish" version.
+
+When you love what you do, you like to make it fun.
+
+Like me, it has probably happened to you.
+
+Endless debugging phases with a database filled with Lorem Ipsum can quickly become tedious.
+
+And how do you test that REGEX for French addresses if the test data doesn’t include department numbers with 3 digits?
+
+Oops, you’ve just deployed your app to production and realize that by excluding special characters, you’ve also prevented Stéphane from adding an accent to his name.
+
+The list goes on.
+
+If, like me, you're tired of excessive standardization and want to use a francophone, fun, and enriching library, you’re going to love Faussaire.
+
+It’s much more fun to have a list of AOC wines, a corporate buzzword generator, old French words, or a lineup of outdated reality TV candidates when testing your database.
 
 **Faussaire** was developed with specific goals in mind:
 
-- **_Cultural Relevance:_** To provide accurate and culturally nuanced French data, improving upon generic outputs from other libraries.
-- **_Realism:_** To generate data that closely mirrors real-world French contexts, from addresses to names and beyond. Whenever possible, we prioritize using real data to enhance authenticity.
-- **_Detail-Oriented:_** To offer a comprehensive set of data generators covering various aspects of French life, from business to historical references.
+- _Cultural Relevance:_ To provide accurate and culturally relevant French data, surpassing the generic results from other available options.
+
+- _Realism:_ To generate data that closely mirrors French contexts, from addresses to names and beyond. Whenever possible, we favor the use of real data for authenticity.
+
+- _Data Quality:_ To offer carefully crafted, precise, and comprehensive data generation options, whether for professional contexts or cultural references.
 
 ## Installation
 
-Before installing, ensure you have Ruby and RubyGems installed on your system. Then, you can install **Faussaire** directly from RubyGems:
+Before you begin, ensure that Ruby and RubyGems are installed on your machine. You can use the following commands:
+
+_For Ruby:_
+
+```bash
+ruby -v
+```
+
+This will display the installed Ruby version if Ruby is correctly installed.
+
+_For RubyGems:_
+
+```bash
+gem -v
+```
+
+This will display the installed RubyGems version if RubyGems is correctly installed.
+
+Then, you can install **Faussaire** directly via RubyGems:
 
 ```bash
 gem install faussaire
 ```
 
-Or add it to your application's Gemfile:
+You can also add it to your Gemfile:
 
 ```ruby
 gem 'faussaire'
 ```
 
-and bundle install:
+and run the following command to install it:
 
 ```bash
 bundle install
@@ -525,25 +539,25 @@ bundle install
 
 ## Usage
 
-To use **Faussaire** in your Ruby applications, require the gem:
+To use **Faussaire** in your Ruby applications, simply load the gem:
 
 ```ruby
 require 'faussaire'
 ```
 
-## Available Modules
+## Available Modules in Faussaire
 
 <details>
-<summary><strong>Faussaire::Ancien</strong> — Historical and Mythical Data</summary>
+<summary><strong>Faussaire::Ancien</strong></summary>
 
-The `Faussaire::Ancien` module provides functionality for generating names and terms associated with historical figures, mythical creatures, and ancient words. It's perfect for content creation in areas such as gaming, storytelling, and educational applications.
+The `Faussaire::Ancien` module generates names of historical figures, mythological creatures, and old French words. Ideal for apps in areas like video games, storytelling, and educational applications.
 
 ```ruby
-# Produces a random mythical creature name.
+# Generates a random mythological creature name.
 Faussaire::Ancien.creature 
 # => "Cocatrix"
 
-# Produces a random historic figure name.
+# Generates a random historical figure name.
 Faussaire::Ancien.historic_figure 
 # => "Napoléon Bonaparte"
 
@@ -554,9 +568,9 @@ Faussaire::Ancien.words
 </details>
 
 <details>
-<summary><strong>Faussaire::Address</strong> — French Address Data</summary>
+<summary><strong>Faussaire::Address</strong></summary>
 
-The `Faussaire::Address` module generates realistic and detailed French addresses. This module is particularly useful for testing, simulations, or any application that requires valid location data.
+The `Faussaire::Address` module generates detailed French addresses. This module is particularly useful for testing, simulations, or any application requiring realistic location data.
 
 ```ruby
 # Returns a random city name.
@@ -567,153 +581,287 @@ Faussaire::Address.city
 Faussaire::Address.street_number_99 
 # => "42"
 
+# Returns a random street number up to 999.
+Faussaire::Address.street_number_999 
+# => "110"
+
+# Returns a random street number up to 9999.
+Faussaire::Address.street_number_9999 
+# => "3695"
+
+# Returns a random street type.
+Faussaire::Address.street_type 
+# => "Avenue"
+
+# Returns a random street name.
+Faussaire::Address.street_name 
+# => "Charles Trenet"
+
+# Returns a random department name.
+Faussaire::Address.dpt_name 
+# => "Loire"
+
+# Returns a department number for metropolitan France.
+Faussaire::Address.dpt_number 
+# => "25"
+
+# Returns a department number for overseas departments.
+Faussaire::Address.dpt_number_other 
+# => "971"
+
+# Returns a random postal code formatted to five digits.
+Faussaire::Address.postal_code 
+# => "31200"
+
+# Returns a random region name.
+Faussaire::Address.region 
+# => "Île-de-France"
+
 # Generates a complete address using various components.
 Faussaire::Address.full_address 
 # => "88 Bourg Daniel Bustaffa, 91360 Prouville, La Réunion (974), Région Haute-Normandie"
 ```
 </details>
 
-<details>
-<summary><strong>Faussaire::Bizness</strong> — Corporate Cliché Data</summary>
+<details> 
+<summary><strong>Faussaire::Bizness</strong> — <i>Windbag (nonsensical corporate phrases) and French brand names</i></summary>
 
-The `Faussaire::Bizness` module provides fake data related to French business names and corporate cliché sentences.
+The `Faussaire::Bizness` module generates French brand names and cliché corporate phrases.
 
 ```ruby
 # Generates a random French brand name.
 Faussaire::Bizness.brands
 # => "Boulangerie Paul"
 
-# Generates a random 'corporate word salad'.
+# Generates random "corporate buzzwords."
 Faussaire::Bizness.pipotronic
 # => "En termes de redynamisation de une globalisation référentielle, un meilleur relationnel permet d'solutionner les nécessités back-office."
 ```
 </details>
+ 
+<details> 
+<summary><strong>Faussaire::Citation</strong></summary>
 
-<details>
-<summary><strong>Faussaire::Citation</strong> — Proverbs and Philosophical Quotes</summary>
-
-The `Faussaire::Citation` module generates French proverbs and philosophical quotes, maintaining cultural relevance in your application.
+The `Faussaire::Citation` module generates French proverbs and philosophical quotes.
 
 ```ruby
-# Produces a random philosopher quote.
+# Generates a random philosopher quote.
 Faussaire::Citation.philo 
 # => "Homère a dit un jour : Le sommeil et la mort sont des frères jumeaux."
 
-# Produces a random French proverb.
+# Generates a random French proverb.
 Faussaire::Citation.proverbe 
 # => "Pense deux fois avant de parler, tu en parleras deux fois mieux."
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Cosmos</strong> — Celestial Data</summary>
+<summary><strong>Faussaire::Cosmos</strong></summary>
 
-The `Faussaire::Cosmos` module generates fake data related to celestial bodies, planets, and cosmic events, useful for science fiction projects or educational tools.
+The `Faussaire::Cosmos` module generates data related to celestial bodies, planets, and cosmic events.
 
 ```ruby
-# Produces a random planet name.
+# Generates a random planet name.
 Faussaire::Cosmos.planet 
 # => "Neptune"
 
-# Produces a random cosmic event.
+# Generates a random cosmic event.
 Faussaire::Cosmos.event 
 # => "Pluie de météorites"
+
+# Generates a neighborhood name in the cosmos (like a galaxy or nebula).
+Faussaire::Cosmos.neighborhood 
+# => "Filament de Perseus-Pisces"
+
+# Generates a random space exploration name.
+Faussaire::Cosmos.exploration 
+# => "Voyager 2"
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Creamerie</strong> — Dairy Product Data</summary>
+<summary><strong>Faussaire::Creamerie</strong></summary>
 
-The `Faussaire::Creamerie` module generates fake data related to French dairy products, perfect for food-related applications or demos.
+The `Faussaire::Creamerie` module generates data related to French dairy products, perfect for food-related applications or demos.
 
 ```ruby
-# Produces a random cheese.
-Faussaire::Creamerie.cheese 
-# => { type: "AOP", name: "Camembert de Normandie", region: "Normandie" }
+# Generates a random type of milk.
+Faussaire::Creamerie.milk_type 
+# => "Lait de bufflonne"
 
-# Produces information about top butter producers.
+# Generates a random butter.
+Faussaire::Creamerie.butter 
+# => { name: "Beurre d'Isigny", type: "demi-sel" }
+
+# Generates information about top butter producers.
 Faussaire::Creamerie.butter_producers 
 # => "N°7: Turquie (215,431 t)"
+
+# Generates a random cheese, linking it to a region and an appellation.
+Faussaire::Creamerie.cheese 
+# => { type: "AOP", name: "Camembert de Normandie", region: "Normandie" }
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Gardinerie</strong> — Gardening Data</summary>
+<summary><strong>Faussaire::Gardinerie</strong></summary>
 
-The `Faussaire::Gardinerie` module generates fake data related to gardening, including vegetables, fruits, and various plants, with a focus on their relevance in France.
+The `Faussaire::Gardinerie` module is organic-certified! Vegetables, fruits, and various plants, with a particular focus on their relevance in France.
 
 ```ruby
-# Produces a random vegetable name and its ideal consumption month in France.
+# Generates a random vegetable name and its ideal consumption month in France.
 Faussaire::Gardinerie.vegetable 
 # => "Carotte (Mars)"
 
-# Produces a random psychotropic plant name.
+# Generates a random fruit name and its ideal consumption month in France.
+Faussaire::Gardinerie.fruit 
+# => "Pomme (Janvier)"
+
+# Generates a harmful weed name (harmful for agriculture).
+Faussaire::Gardinerie.rival_plant 
+# => "Orobanche minor de la famille des Orobanchaceae, parasite sur légumineuses, tabac, carottes, cultures diverses, très répandus dans les régions tempérées"
+
+
+
+# Generates a random carnivorous plant name.
+Faussaire::Gardinerie.bang_bang_plant 
+# => "Drosera : pièges à mucilage avec feuilles et poils qui s'enroulent autour des proies"
+
+# Generates a random psychotropic plant name.
 Faussaire::Gardinerie.very_naughty_plant 
 # => "Nymphaea caerulea : Lotus bleu d’Égypte, plante aux effets enivrants et psychoactifs"
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Music</strong> — French Music Data</summary>
+<summary><strong>Faussaire::Music</strong></summary>
 
-The `Faussaire::Music` module generates fake data related to music genres, particularly focusing on French music, including house, French rap, and French variété songs.
+The `Faussaire::Music` module generates data related to different music genres, focusing on house, French rap, and French variété songs.
 
 ```ruby
-# Produces a random French variété song.
+# Generates a random house song.
+Faussaire::Music.house 
+# => "House is a feeling - LA Riots"
+
+# Generates a random French rap song.
+Faussaire::Music.rap 
+# => "Chez nous - Sultan"
+
+# Generates a random French variété song.
 Faussaire::Music.variete 
 # => "Mourir sur scène - Dalida"
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Name</strong> — French Name Data</summary>
+<summary><strong>Faussaire::Name</strong></summary>
 
-The `Faussaire::Name` module generates authentic French names, which can be used for character creation, populating databases, or any application requiring random name generation.
+The `Faussaire::Name` module generates realistic French names, which can be used for character creation, database seeding, or any application requiring random name generation.
 
 ```ruby
-# Produces a random female first name.
+# Generates a random female first name.
 Faussaire::Name.female_first_name 
 # => "Harmonie"
 
-# Generates a full name by combining a random first name (either male or female) with a family name.
+# Generates a random male first name.
+Faussaire::Name.male_first_name 
+# => "Jean-Claude"
+
+# Generates a random family name.
+Faussaire::Name.family_name 
+# => "Boyer"
+
+# Generates a full name by combining a random first name (female or male) with a family name.
 Faussaire::Name.name 
 # => "Jeanne Gaillard"
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Tv</strong> — Television Data</summary>
+<summary><strong>Faussaire::Tv</strong></summary>
 
-The `Faussaire::Tv` module generates fake data related to television, including show titles, influencers, famous couples, TV channels, and specific details related to the Festival de Cannes.
+The `Faussaire::Tv` module generates fake data related to television, including show titles, influencers, famous couples, TV channels, and specific details related to the Cannes Film Festival.
 
 ```ruby
-# Produces a random television show title.
+# Generates a random television show title.
 Faussaire::Tv.show 
 # => "Marjolaine et les Millionnaires"
 
-# Returns a random top box office figure from the festival's films.
+# Generates a random famous influencer name.
+Faussaire::Tv.influencer 
+# => "Le Vrai Bouseuh (Romain Goisbeau)"
+
+# Generates a random famous television couple.
+Faussaire::Tv.famous_couples 
+# => "J.Lo et Diddy (2000)"
+
+# Generates a random TV channel name.
+Faussaire::Tv.channel 
+# => "Canal+"
+
+# Returns the total number of films presented at the festival.
+Faussaire::Tv::FestivalCannes.total_films 
+# => 1234
+
+# Generates a random country among the most represented at the festival.
+Faussaire::Tv::FestivalCannes.most_represented_countries 
+# => "161 (Royaume-Uni)"
+
+# Generates a random country among those that have won awards.
+Faussaire::Tv::FestivalCannes.awarded_countries 
+# => "Grèce (total de 1 récompense)"
+
+# Generates a director who has won the Palme d'Or twice.
+Faussaire::Tv::FestivalCannes.directors_with_two_palms 
+# => "Ken Loach (Le vent se lève, Moi, Daniel Blake)"
+
+# Generates a nominee who has received multiple awards.
+Faussaire::Tv::FestivalCannes.multiple_awardises 
+# => "Dean Stockwell: Le Génie du mal, Long voyage vers la nuit"
+
+# Generates a Palme d'Or winner.
+Faussaire::Tv::FestivalCannes.winners 
+# => "Les Meilleures Intentions (Den Goda viljan) par Bille August en provenance de la Suède [1992]"
+
+# Returns a top box office figure from the festival's films.
 Faussaire::Tv::FestivalCannes.box_office 
 # => "Apocalypse Now (1979) : 4 537 000 entrées"
 ```
 </details>
 
 <details>
-<summary><strong>Faussaire::Wine</strong> — French Wine Data</summary>
+<summary><strong>Faussaire::Wine</strong></summary>
 
-The `Faussaire::Wine` module generates fake data related to French wines, including wine names, types, bottle types, regions, prices, and liquors (Licocorico).
+The `Faussaire::Wine` module generates data related to French wines (wine names with their current appellation, types, bottles, regions, prices, and liquors).
 
 ```ruby
-# Produces a random wine name.
+# Generates a random wine name.
 Faussaire::Wine.name 
 # => "AOC Collioure"
 
-# Produces a random wine price with 99 cents and a Euro (€) symbol.
+# Generates a random wine type or style.
+Faussaire::Wine.type 
+# => "Vin tranquille blanc (pression inférieure à 0,5 bar à 20°C)"
+
+# Generates a random wine bottle type.
+Faussaire::Wine.bottle_type 
+# => "Bouteille Clavelien (bouteille en verre à col court, contenance de 0,62 L, corps cylindrique surmonté de larges épaules)"
+
+# Generates a random wine region.
+Faussaire::Wine.region 
+# => "Vignoble de Corse (120M€ en ventes, 2.45€/bt en prix moyen, 1.71€/m² en rentabilité)"
+
+# Generates a random wine price with 99 cents and the Euro (€) symbol.
 Faussaire::Wine.price 
 # => "39.99€"
+
+# Generates a random liquor name.
+Faussaire::Wine.licocorico 
+# => "AOC Grande Champagne (Eau de vie de vin) [Cognac]"
 ```
 </details>
 
-## Development
+## Want to contribute?
 
 To set up the development environment for **Faussaire**:
 
@@ -729,26 +877,25 @@ To set up the development environment for **Faussaire**:
    ```bash
    bin/setup
    ```
-4. Run tests:
+4. Run the tests:
    ```bash
    rake spec
    ```
 
 ## License
 
-The **Faussaire** gem is released under the [MIT License](LICENSE.txt), which provides broad permission to use, modify, and distribute the software contained within this gem. 
+The **Faussaire** gem is available under the [MIT License](LICENSE.txt), which allows you to freely use, modify, and distribute the software contained within this gem.
 
-However, please note that restrictions apply to the dataset used in this project. The MIT License covers the software itself, particularly if it were to be used with a different dataset.
+> [!IMPORTANT]
+> The MIT License only applies to the software itself. Restrictions apply to the dataset used in this project (_fr.yml_). Be sure to review the specific terms related to data usage.
 
-## Contributing
+## Is something missing?
 
-Contributions to **Faussaire** very appreciated! 
+All contributions to **Faussaire** are welcome and will always be!
 
-Whereas it's for enriching the dataset with a brilliant new addition or anihilating this bug you spotted with your neurons, feel free to contribute by opening issues or creating pull requests:
+Feel free to participate by submitting your pull requests:
 
-- **Issues:** Provide details about the issue and how to reproduce it.
-- **Pull Requests:** Include a clear explanation of changes and reference any relevant issues.
+- **Issues:** Provide as many details as possible about the problem encountered and how to reproduce it.
+- **Pull Requests:** Check out [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md).
 
-You can check [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md) for more details.
-
-Merci in advance! 🙂‍↕️
+Thanks to you, fellow faussaire! 🙂‍↕️

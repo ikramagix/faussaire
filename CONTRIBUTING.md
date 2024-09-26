@@ -131,7 +131,9 @@ Merci beaucoup for helping out and making Faussaire even better!
 
 # Devenir un Faussaire : Guide de Contribution
 
-Salut ! 👋 Vous pensiez contribuer à Faussaire ? Génial ! Que vous soyez un(e) dev expérimenté(e) ou un(e) débutant(e) cherchant à pratiquer, on a hâte de voir ce que vous allez proposer. Pour que tout se passe bien, voici quelques règles simples à suivre.
+Bonjour, monde ! 👋 Vous rejoignez le navire en contribuant à Faussaire ? Mais c'est génial ! 
+
+Que vous soyez un(e) dev expérimenté(e) ou un(e) débutant(e) cherchant à pratiquer, on a hâte de voir ce que vous allez proposer. Pour que tout se passe bien, voici quelques règles simples à suivre.
 
 > [!NOTE]
 > Ce ne sont QUE des lignes directrices—rien de plus. Si vous avez une super idée, n’hésitez pas ! Les pull requests bien documentées sont toujours les bienvenues, même si vous ne cochez pas toutes les "cases" ci-dessous. On est ici pour apprendre et s’amuser, après tout ! 😄

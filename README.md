@@ -17,8 +17,6 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 >   </a>
 > </p>
 
-
-
 ## Table des matières
 
 - [Pourquoi utiliser Faussaire ?](#pourquoi-utiliser-faussaire-)

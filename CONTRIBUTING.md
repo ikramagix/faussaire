@@ -2,19 +2,21 @@
 
 Bonjour mighty programmer! 👋 Thinking about contributing to Faussaire? That’s awesome! Whether you’re a seasoned dev or just a beginner looking to practice, we’re excited to see what you’ll come up with. To keep things running smoothly, we’ve got a few guidelines for you. 
 
+**_These are just guidelines—nothing here is set in stone._**
+
+If you’ve got something cool to add, don’t be shy! Well-documented pull requests are always welcome, even if you don’t check every box below. We’re here to learn and have fun, after all! 😄
+
+
 > [!NOTE]
-> These are just guidelines—nothing here is set in stone. If you’ve got something cool to add, don’t be shy! Well-documented pull requests are always welcome, even if you don’t check every box below. We’re here to learn and have fun, after all! 😄
-
-
-<p align="center">
-  <a href="#Français" style="text-decoration:none;">
-    <img src="bonjour.png" alt="Français" width="50" height="50">
-    <button>
-      Évidemment, vous pouvez aussi me lire en français. On est là pour ça, non ?
-    </button>
-    <img src="bonjour.png" alt="Français" width="50" height="50">
-  </a>
-</p>
+> <p align="center">
+>   <a href="#Français" style="text-decoration:none;">
+>     <img src="bonjour.png" alt="Français" width="50" height="50">
+>   </a>
+>   <br>
+>   <a href="#Français" style="text-decoration:none;">
+>     Évidemment, vous pouvez aussi me lire en français. On est là pour ça, non ?
+>   </a>
+> </p>
 
 ## Guidelines
 

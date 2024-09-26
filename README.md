@@ -28,17 +28,15 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 
 Nous avons pour projet de proposer une version grecque dans les mois à venir, et peut-être une version "globish".
 
-## Pourquoi utiliser Faussaire ?
+Quand on aime ce qu’on fait, on aime rendre ça ludique.
 
-Quand on aime ce qu'on fait, on aime rendre ça ludique. 
+Comme moi, ça a dû vous arriver.
 
-Comme moi, ça a du vous arriver. 
+Des phases de débogage interminables avec une base de données peuplée de Lorem Ipsum, ça devient vite lassant.
 
-Des phases de débogages interminables avec une base de données peuplée de Lorem Ipsum, ça devient vite lassant. 
+Et puis, comment tester cette REGEX sur le format des adresses françaises si les données de test n’ont pas de numéro de département à 3 chiffres ?
 
-Et puis, comment tester cette REGEX sur le format des addresses françaises si les données de tests n'ont pas de numéro de département à 3 chiffres ? 
-
-Mince, vous venez d'envoyer votre app en production mais vous vous rendez compte qu'en excluant les caractères spéciaux, vous avez aussi empêcher Stéphane de mettre un accent à son prénom.
+Mince, vous venez d’envoyer votre app en production, mais vous vous rendez compte qu’en excluant les caractères spéciaux, vous avez aussi empêché Stéphane de mettre un accent à son prénom.
 
 La liste est interminable.
 

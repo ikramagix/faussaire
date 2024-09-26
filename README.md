@@ -18,7 +18,7 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 
 ## Table des matières
 
-- [Pourquoi utiliser Faussaire ?](#pourquoi-utiliser-faussaire-si-faker-existe-déjà-🤔)
+- [Pourquoi utiliser Faussaire ?](#pourquoi-utiliser-faussaire-)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Modules Disponibles](#modules-disponibles-dans-faussaire)
@@ -28,7 +28,7 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 
 Nous avons pour projet de proposer une version grecque dans les mois à venir, et peut-être une version "globish".
 
-## Pourquoi utiliser Faussaire si Faker existe déjà ? 🤔
+## Pourquoi utiliser Faussaire ?
 
 Quand on aime ce qu'on fait, on aime rendre ça ludique. 
 

@@ -12,7 +12,7 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
     <button>
       Hey! You can also README in English!
     </button>
-    <img src="image-1.png" alt="English" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
+    <img src="hello.png" alt="English" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
   </a>
 </p>
 
@@ -449,11 +449,11 @@ Toutes les contributions à **Faussaire** sont les bienvenues et le seront toujo
 N'hésitez pas à participer en soumettant vos pull requests :
 
 - **Issues :** Donnez autant de détails que possible sur le problème rencontré et comment le reproduire.
-- **Pull Requests :** Consultez [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md).
+- **Pull Requests :** Vous trouverez la marche à suivre dans [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md).
 
-Merci à toi camarade faussaire ! 🙂‍↕️
+Merci à toi camarade faussaire ! 🙂‍
 
-#### English
+<a name="English"></a>
 
 # FAUSSAIRE • Goodbye Lorem Ipsum 😉
 
@@ -474,6 +474,8 @@ Designed to provide more accurate and less generic data than [Faker](https://git
 - [Contribution](#is-something-missing)
 
 We plan to offer a Greek version in the coming months, and perhaps a "globish" version.
+
+## Why Using Faussaire ?
 
 When you love what you do, you like to make it fun.
 
@@ -898,4 +900,4 @@ Feel free to participate by submitting your pull requests:
 - **Issues:** Provide as many details as possible about the problem encountered and how to reproduce it.
 - **Pull Requests:** Check out [CONTRIBUTING.md](https://github.com/ikramagix/faussaire/blob/main/CONTRIBUTING.md).
 
-Thanks to you, fellow faussaire! 🙂‍↕️
+Merci beaucoup, fellow faussaire! 🙂‍

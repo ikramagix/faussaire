@@ -1,4 +1,4 @@
-# Faussaire — Au revoir Lorem Ipsum
+# FAUSSAIRE • Au revoir Lorem Ipsum 😉
 
 ### Des données authentiques, des apps réalistes, des seeds ludiques
 
@@ -10,7 +10,7 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 <p align="center">
   <a href="#english-version" style="text-decoration:none;">
     <button style="background-color:#4CAF50;border:none;color:white;padding:10px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:4px;cursor:pointer;">
-      Je ne parle pas français, gimme this README in English!
+      Hey! You can also README in English!
     </button>
     <img src="image-1.png" alt="English" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
   </a>
@@ -22,11 +22,11 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Modules Disponibles](#modules-disponibles-dans-faussaire)
-- [Développement](#vous-voulez-y-toucher-)
+- [Développement](#vous-voulez-participer-)
 - [Licence](#licence)
-- [Contribution](#voulez-vous-contribuer-avec-moi-ce-soir-)
+- [Contribution](#il-manquerait-pas-un-petit-quelque-chose-)
 
-Nous avons pour projet d'offrir une version grecque dans les mois à venir, ainsi qu'une version "globish" pour animer la phase parfois laborieuse de test et seeds avec des propositions suprenantes.
+Nous avons pour projet de proposer une version grecque dans les mois à venir, et peut-être une version "globish" pour animer la phase parfois laborieuse de test et seeds avec des propositions suprenantes.
 
 ## Pourquoi utiliser Faussaire si Faker existe déjà ? 🤔
 
@@ -444,7 +444,7 @@ La gem **Faussaire** est disponible sous [Licence MIT](LICENSE.txt), qui vous pe
 > [!IMPORTANT]
 > **Veuillez noter :** La Licence MIT concerne uniquement le logiciel lui-même. Des restrictions s'appliquent au jeu de données utilisé dans ce projet (_fr.yml_). Assurez-vous de consulter les conditions spécifiques liées à l'utilisation des données.
 
-## Vous trouvez qu'il manque quelque chose ?
+## Il manquerait pas un petit quelque chose ?
 
 Toutes les contributions à **Faussaire** sont les bienvenues et le seront toujours !
 

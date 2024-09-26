@@ -1,6 +1,6 @@
 # Faussaire — Au revoir Lorem Ipsum
 
-### Des données authenthiques, des apps réalistes, des seeds ludiques
+### Des données authentiques, des apps réalistes, des seeds ludiques
 
 **Faussaire** est une alternative made in France à la gem [Faker](https://github.com/faker-ruby/faker) en Ruby, qui est elle-même une adaptation de [Perl's Data::Faker library](https://metacpan.org/pod/Data::Faker).
 
@@ -12,10 +12,9 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
     <button style="background-color:#4CAF50;border:none;color:white;padding:10px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:4px;cursor:pointer;">
       Je ne parle pas français, gimme this README in English!
     </button>
-    <img src="image-1.png" alt="English" width="24" height="24" style="vertical-align:middle;margin-left:10px;">
+    <img src="image-1.png" alt="English" width="14" height="14" style="vertical-align:middle;margin-left:10px;">
   </a>
 </p>
----
 
 ## Table des matières
 

@@ -98,14 +98,16 @@ Pour utiliser **Faussaire** dans vos applications Ruby, il suffit de charger la 
 require 'faussaire'
 ```
 
-## Modules Disponibles dans Faussaire
+Modules Disponibles dans Faussaire
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Ancien</strong> — Données historiques et mythologiques</summary>
 
-Le module `Faussaire::Ancien` permet de générer des noms de figures historiques, de créatures mythologiques et des mots en ancien français. Idéal pour les apps dans des domaines tels que le jeu vidéo, la narration et les applications éducatives.
 
-```ruby
+Le module Faussaire::Ancien permet de générer des noms de figures historiques, de créatures mythologiques et des mots en ancien français. Idéal pour les apps dans des domaines tels que le jeu vidéo, la narration et les applications éducatives.
+
 # Génère un nom de créature mythologique aléatoire.
 Faussaire::Ancien.creature 
 # => "Cocatrix"
@@ -117,15 +119,19 @@ Faussaire::Ancien.historic_figure
 # Récupère un mot ancien français aléatoire.
 Faussaire::Ancien.words 
 # => "niquenoque"
-```
+
 </details>
+
+
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Address</strong> — Adresses françaises</summary>
 
-Le module `Faussaire::Address` génère des adresses françaises détaillées. Ce module est particulièrement utile pour les tests, les simulations ou toute application nécessitant des données de localisation réalistes.
 
-```ruby
+Le module Faussaire::Address génère des adresses françaises détaillées. Ce module est particulièrement utile pour les tests, les simulations ou toute application nécessitant des données de localisation réalistes.
+
 # Renvoie un nom de ville aléatoire.
 Faussaire::Address.city 
 # => "Achiet-le-Petit"
@@ -173,15 +179,19 @@ Faussaire::Address.region
 # Génère une adresse complète en utilisant divers composants.
 Faussaire::Address.full_address 
 # => "88 Bourg Daniel Bustaffa, 91360 Prouville, La Réunion (974), Région Haute-Normandie"
-```
+
 </details>
 
-<details> 
+
+
+	•	
+
+<details>
 <summary><strong>Faussaire::Bizness</strong> — Brasseur de vent (phrases "corporate" dénuées de sens) et noms de marques françaises</summary>
 
-Le module `Faussaire::Bizness` génère des noms de marques françaises et des phrases clichés du monde de l'entreprise.
 
-```ruby
+Le module Faussaire::Bizness génère des noms de marques françaises et des phrases clichés du monde de l’entreprise.
+
 # Génère un nom de marque française aléatoire.
 Faussaire::Bizness.brands
 # => "Boulangerie Paul"
@@ -189,15 +199,19 @@ Faussaire::Bizness.brands
 # Génère un "charabia corporate" aléatoire.
 Faussaire::Bizness.pipotronic
 # => "En termes de redynamisation de une globalisation référentielle, un meilleur relationnel permet d'solutionner les nécessités back-office."
-```
+
 </details>
- 
+
+
+
+	•	
+
 <details> 
 <summary><strong>Faussaire::Citation</strong> — Proverbes & citations philosophiques</summary>
 
-Le module `Faussaire::Citation` génère des proverbes français et des citations philosophiques.
 
-```ruby
+Le module Faussaire::Citation génère des proverbes français et des citations philosophiques.
+
 # Génère une citation philosophique aléatoire.
 Faussaire::Citation.philo 
 # => "Homère a dit un jour : Le sommeil et la mort sont des frères jumeaux."
@@ -205,15 +219,19 @@ Faussaire::Citation.philo
 # Génère un proverbe français aléatoire.
 Faussaire::Citation.proverbe 
 # => "Pense deux fois avant de parler, tu en parleras deux fois mieux."
-```
+
 </details>
+
+
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Cosmos</strong> — Données cosmologiques</summary>
 
-Le module `Faussaire::Cosmos` génère des données liées aux corps célestes, aux planètes et aux événements cosmiques.
 
-```ruby
+Le module Faussaire::Cosmos génère des données liées aux corps célestes, aux planètes et aux événements cosmiques.
+
 # Génère un nom de planète aléatoire.
 Faussaire::Cosmos.planet 
 # => "Neptune"
@@ -229,18 +247,20 @@ Faussaire::Cosmos.neighborhood
 # Génère un nom d'exploration spatiale aléatoire.
 Faussaire::Cosmos.exploration 
 # => "Voyager 2"
-```
+
 </details>
+
+
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Creamerie</strong> — Données sur les produits laitiers</summary>
 
-Le module `Faussaire::Creamerie` génère des données liées aux produits laitiers français, parfait pour des applications ou des démonstrations liées à l'alimentation.
 
-```ruby
-# Génère un type de lait al
+Le module Faussaire::Creamerie génère des données liées aux produits laitiers français, parfait pour des applications ou des démonstrations liées à l’alimentation.
 
-éatoire.
+# Génère un type de lait aléatoire.
 Faussaire::Creamerie.milk_type 
 # => "Lait de bufflonne"
 
@@ -255,15 +275,19 @@ Faussaire::Creamerie.butter_producers
 # Génère un fromage aléatoire, en le liant à une région et une appellation.
 Faussaire::Creamerie.cheese 
 # => { type: "AOP", name: "Camembert de Normandie", region: "Normandie" }
-```
+
 </details>
+
+
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Gardinerie</strong> — Fruits, légumes et plantes diverses</summary>
 
-Le module `Faussaire::Gardinerie` est certifié bio! Des légumes, des fruits et diverses plantes, avec un accent particulier sur leur pertinence en France.
 
-```ruby
+Le module Faussaire::Gardinerie est certifié bio! Des légumes, des fruits et diverses plantes, avec un accent particulier sur leur pertinence en France.
+
 # Génère un nom de légume aléatoire et son mois de consommation idéal en France.
 Faussaire::Gardinerie.vegetable 
 # => "Carotte (Mars)"
@@ -283,15 +307,19 @@ Faussaire::Gardinerie.bang_bang_plant
 # Génère un nom de plante psychotrope aléatoire.
 Faussaire::Gardinerie.very_naughty_plant 
 # => "Nymphaea caerulea : Lotus bleu d’Égypte, plante aux effets enivrants et psychoactifs"
-```
+
 </details>
+
+
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Music</strong> — La Playlist!</summary>
 
-Le module `Faussaire::Music` génère des données liées à différents genres musicaux avec de la house, du rap français et des chansons de variété française.
 
-```ruby
+Le module Faussaire::Music génère des données liées à différents genres musicaux avec de la house, du rap français et des chansons de variété française.
+
 # Génère une chanson de house aléatoire.
 Faussaire::Music.house 
 # => "House is a feeling - LA Riots"
@@ -303,8 +331,12 @@ Faussaire::Music.rap
 # Génère une chanson de variété française aléatoire.
 Faussaire::Music.variete 
 # => "Mourir sur scène - Dalida"
-```
+
 </details>
+
+
+
+	•	
 
 <details>
 <summary><strong>Faussaire::Name</strong> — Noms et prénoms</summary>

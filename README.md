@@ -7,12 +7,12 @@
 Conçue pour fournir des données plus précises et moins génériques que [Faker](https://github.com/faker-ruby/faker), elle dispose actuellement d'un set français exhaustif, réaliste et culturellement pertinent pour vos projets Ruby francophones.
 
 <p align="center">
-  <a href="#english">
-  <img src="hello.png" alt="English" width="50" height="50">
-    <button>
+  <a href="#english" style="text-decoration:none; display:flex; align-items:center; justify-content:center;">
+    <img src="hello.png" alt="English" width="50" height="50" style="margin-right:10px;">
+    <span style="background-color:#4CAF50;border:none;color:white;padding:10px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:4px;cursor:pointer;">
       Hey! You can also README in English!
-    </button>
-   <img src="hello.png" alt="English" width="50" height="50">
+    </span>
+    <img src="hello.png" alt="English" width="50" height="50" style="margin-left:10px;">
   </a>
 </p>
 

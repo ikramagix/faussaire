@@ -1,6 +1,6 @@
 # Become a Faussaire: Contributing Guidelines
 
-Bonjour mighty programmer! 👋 Thinking about contributing to Faussaire? That’s awesome! Whether you’re a seasoned pro or just a begginer looking to practice, we’re excited to see what you’ll come up with. To keep things running smoothly, we’ve got a few guidelines for you. But first, a little note:
+Bonjour mighty programmer! 👋 Thinking about contributing to Faussaire? That’s awesome! Whether you’re a seasoned dev or just a begginer looking to practice, we’re excited to see what you’ll come up with. To keep things running smoothly, we’ve got a few guidelines for you. But first, a little note:
 
 These are just guidelines—nothing here is set in stone. If you’ve got something cool to add, don’t be shy! Well-documented pull requests are always welcome, even if you don’t check every box below. We’re here to learn and have fun, after all! 😄
 

@@ -412,9 +412,7 @@ Faussaire::Wine.licocorico
 ```
 </details>
 
-Voici la traduction en français :
-
-## Vous voulez y toucher ?
+## Vous voulez participer ?
 
 Pour configurer l'environnement de développement pour **Faussaire** :
 

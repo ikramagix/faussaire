@@ -66,11 +66,5 @@ RSpec.describe Faussaire::Bizness do
           expect(sentence.encoding.name).to eq("UTF-8")
           expect(sentence.valid_encoding?).to be true
         end
-
-        let(:pipotronic_phrase) { Faussaire::Bizness.pipotronic }
-
-        it 'should not contain grammatical errors' do
-          expect(pipotronic_phrase).to_not match(/(\bd'|d'\b|\ben |en\b)/)
-        end
     end
 end

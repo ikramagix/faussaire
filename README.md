@@ -1,4 +1,4 @@
-# FAUSSAIRE • Au revoir Lorem Ipsum 😉
+# FAUSSAIRE • Au revoir Lorem Ipsum
 
 ### Des données authentiques, des apps réalistes, des seeds ludiques
 
@@ -456,7 +456,7 @@ Merci à toi camarade faussaire ! 🙂‍
 
 <a name="English"></a>
 
-# FAUSSAIRE • Goodbye Lorem Ipsum 😉
+# FAUSSAIRE • Goodbye Lorem Ipsum
 
 ### Authentic French Data for Realistic Apps & Fun Seeding
 

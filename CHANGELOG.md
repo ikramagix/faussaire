@@ -4,8 +4,8 @@
 
 - Initial release
 
-## [Unreleased]
+## [RELEASED]
 
 ## [0.1.1] - 2024-09-28
 
-- Publishing attempt
+- First live version

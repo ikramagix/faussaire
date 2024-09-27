@@ -470,7 +470,7 @@ Designed to provide more accurate and less generic data than [Faker](https://git
 
 ## Table of Contents
 
-- [Why Use Faussaire?](#why-use-faussaire)
+- [Why Should I Use Faussaire?](#why-using-faussaire-)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Available Modules](#available-modules-in-faussaire)

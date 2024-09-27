@@ -31,6 +31,8 @@ Conçue pour fournir des données plus précises et moins génériques que [Fake
 
 Nous avons pour projet de proposer une version grecque dans les mois à venir, et peut-être une version "globish".
 
+## Pourquoi utiliser Faussaire ?
+
 Quand on aime ce qu’on fait, on aime rendre ça ludique.
 
 Comme moi, ça a dû vous arriver.

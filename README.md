@@ -1,5 +1,7 @@
 # FAUSSAIRE • Au revoir Lorem Ipsum
 
+[![Gem Version](https://badge.fury.io/rb/faussaire.svg)](https://badge.fury.io/rb/faussaire)
+
 ### Des données authentiques, des apps réalistes, des seeds ludiques
 
 **Faussaire** est une alternative made in France à la gem [Faker](https://github.com/faker-ruby/faker) en Ruby.

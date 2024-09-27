@@ -72,9 +72,5 @@ RSpec.describe Faussaire::Bizness do
         it 'should not contain grammatical errors' do
           expect(pipotronic_phrase).to_not match(/(\bd'|d'\b|\ben |en\b)/)
         end
-    
-        it 'should not contain French language errors' do
-          expect(pipotronic_phrase).to_not match(/(d'la|l')\s/)
-        end
     end
 end

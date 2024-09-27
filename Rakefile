@@ -2,6 +2,7 @@
 
 require "bundler/gem_tasks"
 require "rspec/core/rake_task"
+require "rubocop/rake_task"
 
 # Define the RSpec task for running tests
 RSpec::Core::RakeTask.new(:spec) do |t|

@@ -6,10 +6,10 @@ Gem::Specification.new do |spec|
   spec.name = "faussaire"
   spec.version = Faussaire::VERSION
   spec.authors = ["ikramagix"]
-  spec.email = ["ikrame.saadi@gmail.com"]
+  spec.email = ["hello@ikramagix.com"]
 
-  spec.summary = "Generate a wide range of fake data in French, Greek and English."
-  spec.description = "Faussaire is a Ruby gem that allows you to effortlessly generate a diverse set of fake data in multiple languages, including French, Greek, and English. Whether you're developing and testing applications or need placeholder content for design mockups, Faussaire provides a simple and flexible way to create realistic-looking data on demand."
+  spec.summary = "Generate a wide range of fake data in French and Greek"
+  spec.description = "Faussaire is a Ruby gem that allows you to effortlessly generate a diverse set of fake data in multiple languages, including French and Greek. Whether you're developing and testing applications or need placeholder content for design mockups, Faussaire provides a simple and flexible way to create realistic-looking data on demand."
   spec.homepage = "https://github.com/ikramagix/faussaire"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"

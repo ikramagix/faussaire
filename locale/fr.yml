@@ -16615,4 +16615,6 @@ fr:
       - "Capri c'est fini - Hervé Villard"
       - "Belles belles belles - Claude François"
     piraterie:
+      role:
       - "Pirate"
+      - "Moussaillon"

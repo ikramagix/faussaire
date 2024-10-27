@@ -22,7 +22,7 @@
 ## [0.1.1] - 2024-09-28
 - First live version
 
-## [0.1.4] - 2024-10-27
+## [0.1.5] - 2024-10-27
 ### Added
 - **New `Faussaire::Piraterie` Methods**:
   - `role`: Generates a learner status inspired by The Hacking Project.

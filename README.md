@@ -330,14 +330,14 @@ Faussaire::Name.name
 <details>
 <summary><strong>Faussaire::Piraterie</strong></summary>
 
-Le module `Faussaire::Piraterie` est un hommage à The Hacking Project, le bootcamp français qui réinvente l'apprentissage du code grâce à l'entraide et à l'esprit d'équipe. Ce module permet de générer des données inspirés de l'univers de la formation.
+Le module `Faussaire::Piraterie` est un hommage à The Hacking Project (THP), le bootcamp français qui réinvente l'apprentissage du code grâce à l'entraide et à l'esprit d'équipe. Ce module permet de générer des données inspirés de l'univers de la formation et a été réalisé pour être utilisé dans le cadre de la formation.
 
 ```ruby
-# Génère un rôle qu'un apprenant peut avoir chez The Hacking Project.
+# Génère un rôle qu'un apprenant peut avoir chez THP.
 Faussaire::Piraterie.role 
 # => "Moussaillon"
 
-# Génère un statut thématique autour de la piraterie mais qui n'est pas ().
+# Génère un statut thématique autour de la piraterie mais qui n'est pas (encore) utilisé chez THP.
 Faussaire::Piraterie.pnj 
 # => "Siresse"
 
@@ -345,17 +345,17 @@ Faussaire::Piraterie.pnj
 Faussaire::Piraterie.nav 
 # => "Frégate"
 
-# Génère un juron de marin pour ajouter du caractère à un texte.
+# Génère un juron de pirate.
 Faussaire::Piraterie.rage 
 # => "Mille millions de mille sabords !"
 
-# Génère une excuse aléatoire pour justifier une absence ou un retard.
+# Génère une excuse aléatoire pour justifier une absence, un retard ou un projet non rendu.
 Faussaire::Piraterie.excuse 
 # => "Les embruns de la mer de Frêche m'ont rendu un peu fébrile… ai-je droit à un peu de repos Capitaine ?"
 
-# Génère un potin amusant sur l'expérience d'apprentissage à THP.
+# Génère un potin amusant sur l'expérience d'apprentissage à THP, idéal pour le fameux Gossip Project.
 Faussaire::Piraterie.potin 
-# => "Il paraît qu’un moussaillon préfère naviguer en eaux troubles avec des commits non testés !"
+# => "“Une bête de prime en crypto” : un corsaire influent promet une récompense au premier moussaillon qui contribue à la gem Faussaire. Des bruits de ponton racontent qu'un corsaire influent de la promo aurait mis en jeu une prime en crypto pour inciter les moussaillons à contribuer à la célèbre gem Faussaire. Vrai bonne affaire ou simple manigance ?"
 ```
 </details>
 

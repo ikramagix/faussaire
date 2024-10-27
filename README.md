@@ -174,7 +174,7 @@ Faussaire::Address.full_address
 </details>
 
 <details> 
-<summary><strong>Faussaire::Bizness</strong> — <i>Brasseur de vent (phrases "corporate" dénuées de sens) et noms de marques françaises</i></summary>
+<summary><strong>Faussaire::Bizness</strong></summary>
 
 Le module `Faussaire::Bizness` génère des noms de marques françaises et des phrases clichés du monde de l'entreprise.
 

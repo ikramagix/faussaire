@@ -35,15 +35,7 @@ Nous avons pour projet de proposer une version grecque dans les mois à venir, e
 
 Quand on aime ce qu’on fait, on aime rendre ça ludique.
 
-Comme moi, ça a dû vous arriver.
-
-Des phases de débogage interminables avec une base de données peuplée de Lorem Ipsum, ça devient vite lassant.
-
-Et puis, comment tester cette REGEX sur le format des adresses françaises si les données de test n’ont pas de numéro de département à 3 chiffres ?
-
-Mince, vous venez d’envoyer votre app en production, mais vous vous rendez compte qu’en excluant les caractères spéciaux, vous avez aussi empêché Stéphane de mettre un accent à son prénom.
-
-La liste est interminable.
+Comme moi, ça a dû vous arriver. Des phases de débogage interminables avec une base de données peuplée de Lorem Ipsum, ça devient vite lassant. Et puis, comment tester cette REGEX sur le format des adresses françaises si les données de test n’ont pas de numéro de département à 3 chiffres ? Mince, vous venez d’envoyer votre app en production, mais vous vous rendez compte qu’en excluant les caractères spéciaux, vous avez aussi empêché Stéphane de mettre un accent à son prénom. La liste est interminable.
 
 Si comme moi, vous en avez marre de la standardisation à outrance et que vous voulez utiliser une librairie francophone, amusante et enrichissante, vous allez adorer Faussaire.
 
@@ -334,6 +326,39 @@ Faussaire::Name.name
 # => "Jeanne Gaillard"
 ```
 </details>
+
+<details>
+<summary><strong>Faussaire::Piraterie</strong></summary>
+
+Le module `Faussaire::Piraterie` est un hommage à The Hacking Project, le bootcamp français qui réinvente l'apprentissage du code grâce à l'entraide et à l'esprit d'équipe. Ce module permet de générer des données inspirés de l'univers de la formation.
+
+```ruby
+# Génère un rôle qu'un apprenant peut avoir chez The Hacking Project.
+Faussaire::Piraterie.role 
+# => "Moussaillon"
+
+# Génère un statut thématique autour de la piraterie mais qui n'est pas ().
+Faussaire::Piraterie.pnj 
+# => "Siresse"
+
+# Génère un type de navire pirate.
+Faussaire::Piraterie.nav 
+# => "Frégate"
+
+# Génère un juron de marin pour ajouter du caractère à un texte.
+Faussaire::Piraterie.rage 
+# => "Mille millions de mille sabords !"
+
+# Génère une excuse aléatoire pour justifier une absence ou un retard.
+Faussaire::Piraterie.excuse 
+# => "Les embruns de la mer de Frêche m'ont rendu un peu fébrile… ai-je droit à un peu de repos Capitaine ?"
+
+# Génère un potin amusant sur l'expérience d'apprentissage à THP.
+Faussaire::Piraterie.potin 
+# => "Il paraît qu’un moussaillon préfère naviguer en eaux troubles avec des commits non testés !"
+```
+</details>
+
 
 <details>
 <summary><strong>Faussaire::Tv</strong></summary>

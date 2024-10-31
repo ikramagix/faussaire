@@ -20,16 +20,30 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-----
+ADDITIONAL TERMS ON DATA OWNERSHIP AND USAGE:
 
-Additional Terms on Data Ownership & Usage
+The dataset included in this software, including but not limited to the `fr.yml` 
+file and other data files (the "Dataset"), is the property of the original creator 
+and is protected under applicable intellectual property laws. The following 
+additional terms apply specifically to the Dataset:
 
-The dataset included in this software, including but not limited to the `fr.yml` file and other data files (the "Dataset"), is the property of the original creator and is protected under applicable intellectual property laws. The following additional terms apply specifically to the Dataset:
+1. EDUCATIONAL USE ONLY: 
+The Dataset may be used, modified, and distributed for educational purposes only 
+as part of copies or substantial portions of the Software. Any other use of the 
+Dataset is strictly prohibited without prior written authorization from the 
+copyright holder.
 
-1. Educational Use Only: The Dataset may be used, modified, and distributed for educational purposes only as part of copies or substantial portions of the Software. Any other use of the Dataset is strictly prohibited without prior written authorization from the copyright holder.
+2. RESTRICTED USE FOR OTHER PROJECTS: 
+The Dataset, including the `fr.yml` file, may not be extracted, used, or 
+incorporated into other projects or software without explicit prior authorization 
+from the copyright holder. This restriction applies regardless of whether the other 
+project is for commercial or non-commercial purposes.
 
-2. Restricted Use for Other Projects: The Dataset, including the `fr.yml` file, may not be extracted, used, or incorporated into other projects or software without explicit prior authorization from the copyright holder. This restriction applies regardless of whether the other project is for commercial or non-commercial purposes.
+3. AUTHORIZATION REQUIRED: For any use of the Dataset outside the scope of these terms, 
+including but not limited to commercial use or incorporation into other software, explicit 
+authorization must be obtained from the copyright holder. 
+Please contact [hello@ikramagix.com] for inquiries and permissions.
 
-3. Authorization Required: For any use of the Dataset outside the scope of these terms, including but not limited to commercial use or incorporation into other software, explicit authorization must be obtained from the copyright holder. Please contact [hello@ikramagix.com] for inquiries and permissions.
-
-These additional terms do not modify the MIT License as it applies to the Software itself. The Software remains available under the terms of the MIT License, while the Dataset is subject to the above restrictions.
+These additional terms do not modify the MIT License as it applies to the Software itself. 
+The Software remains available under the terms of the MIT License, while the Dataset is 
+subject to the above restrictions.

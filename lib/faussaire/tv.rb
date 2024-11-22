@@ -169,5 +169,17 @@ module Faussaire
     def self.channel
       fetch('fr.faussaire.tv.channel')
     end
+
+    ##
+    # Produces a random Netflix program.
+    #
+    # @return [String]
+    #
+    # @example
+    #   Faussaire::Tv.netflix #=> "Stranger Things"
+    #
+    def self.netflix
+      fetch('fr.faussaire.tv.netflix')
+    end
   end
 end

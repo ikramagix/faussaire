@@ -1,30 +1,28 @@
 # FAUSSAIRE • Au revoir Lorem Ipsum
 
 [![Gem Version](https://badge.fury.io/rb/faussaire.svg)](https://badge.fury.io/rb/faussaire)
+<p align="left">
+   <a href="#english">
+     <img src="hello.png" alt="English" width="50" height="50">
+   </a>
+   <br>
+   <a href="#english">
+     Hey! You can also README in English!
+   </a>
+</p>
 
 ### Des données authentiques, des apps réalistes, des seeds ludiques
 
 **Faussaire** est une alternative made in France à la gem [Faker](https://github.com/faker-ruby/faker) en Ruby.
 
-Conçue pour fournir des données plus précises et moins génériques que [Faker](https://github.com/faker-ruby/faker), elle dispose actuellement d'un set français exhaustif, réaliste et culturellement pertinent pour vos projets Ruby francophones.
-
-> [!NOTE]
-> <p align="center">
->   <a href="#english">
->     <img src="hello.png" alt="English" width="50" height="50">
->   </a>
->   <br>
->   <a href="#english">
->     Hey! You can also README in English!
->   </a>
-> </p>
+Conçue pour fournir des données plus précises et plus diverses, elle dispose actuellement d'un set français exhaustif, réaliste et culturellement pertinent pour vos projets Ruby francophones.
 
 ## Table des matières
 
 - [Pourquoi utiliser Faussaire ?](#pourquoi-utiliser-faussaire-)
+- [Modules Disponibles](#modules-disponibles)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Modules Disponibles](#modules-disponibles-dans-faussaire)
 - [Développement](#vous-voulez-participer-)
 - [Licence](#licence)
 - [Contribution](#il-manquerait-pas-un-petit-quelque-chose-)
@@ -49,53 +47,7 @@ C'est quand même plus drôle d'avoir une liste d'AOC, un générateur de phrase
 
 - _Qualité des données:_ Proposer des options de génération de données soigneusement élaborés, précises et complètes, qu'il s'agisse de contextes professionnels ou de références culturelles.
 
-## Installation
-
-Avant de commencer, vérifiez que Ruby et RubyGems sont bien installés sur votre machine. Vous pouvez utiliser les commandes suivantes :
-
-_Pour Ruby :_
-
-```bash
-ruby -v
-```
-
-Cela affichera la version de Ruby installée, si Ruby est bien installé.
-
-_Pour RubyGems :_
-
-```bash
-gem -v
-```
-
-Cela affichera la version de RubyGems installée, si RubyGems est bien installé.
-
-Ensuite, vous pouvez installer **Faussaire** directement via RubyGems :
-
-```bash
-gem install faussaire
-```
-
-Vous pouvez également l'ajouter à votre Gemfile :
-
-```ruby
-gem 'faussaire'
-```
-
-et lancez la commande suivante pour l'installer :
-
-```bash
-bundle install
-```
-
-## Utilisation
-
-Pour utiliser **Faussaire** dans vos applications Ruby, il suffit de charger la gem :
-
-```ruby
-require 'faussaire'
-```
-
-## Modules Disponibles dans Faussaire
+## Modules Disponibles
 
 <details>
 <summary><strong>Faussaire::Ancien</strong></summary>
@@ -235,9 +187,7 @@ Faussaire::Cosmos.exploration
 Le module `Faussaire::Creamerie` génère des données liées aux produits laitiers français, parfait pour des applications ou des démonstrations liées à l'alimentation.
 
 ```ruby
-# Génère un type de lait al
-
-éatoire.
+# Génère un type de lait aléatoire.
 Faussaire::Creamerie.milk_type 
 # => "Lait de bufflonne"
 
@@ -366,6 +316,12 @@ Faussaire::Piraterie.potin
 Le module `Faussaire::Tv` génère des données factices liées à la télévision, y compris des titres d'émissions, des influenceurs, des couples célèbres, des chaînes TV, ainsi que des détails spécifiques liés au Festival de Cannes.
 
 ```ruby
+
+# Génère un titre de contenu Netflix Originals (séries, films, one-man show, etc...).
+# Plus de 1033 propositions !
+Faussaire::Tv.netflix 
+# => "Squid Game"
+
 # Génère un titre d'émission de télévision aléatoire.
 Faussaire::Tv.show 
 # => "Marjolaine et les Millionnaires"
@@ -376,7 +332,7 @@ Faussaire::Tv.influencer
 
 # Génère un couple célèbre de la télévision aléatoire.
 Faussaire::Tv.famous_couples 
-# => "J.Lo et Diddy (2000)"
+# => "Marilyn Monroe et Joe DiMaggio (1953)"
 
 # Génère un nom de chaîne TV aléatoire.
 Faussaire::Tv.channel 
@@ -443,6 +399,52 @@ Faussaire::Wine.licocorico
 # => "AOC Grande Champagne (Eau de vie de vin) [Cognac]"
 ```
 </details>
+
+## Installation
+
+Avant de commencer, vérifiez que Ruby et RubyGems sont bien installés sur votre machine. Vous pouvez utiliser les commandes suivantes :
+
+_Pour Ruby :_
+
+```bash
+ruby -v
+```
+
+Cela affichera la version de Ruby installée, si Ruby est bien installé.
+
+_Pour RubyGems :_
+
+```bash
+gem -v
+```
+
+Cela affichera la version de RubyGems installée, si RubyGems est bien installé.
+
+Ensuite, vous pouvez installer **Faussaire** directement via RubyGems :
+
+```bash
+gem install faussaire
+```
+
+Vous pouvez également l'ajouter à votre Gemfile :
+
+```ruby
+gem 'faussaire'
+```
+
+et lancez la commande suivante pour l'installer :
+
+```bash
+bundle install
+```
+
+## Utilisation
+
+Pour utiliser **Faussaire** dans vos applications Ruby, il suffit de charger la gem :
+
+```ruby
+require 'faussaire'
+```
 
 ## Vous voulez participer ?
 
@@ -815,7 +817,13 @@ Faussaire::Name.name
 The `Faussaire::Tv` module generates fake data related to television, including show titles, influencers, famous couples, TV channels, and specific details related to the Cannes Film Festival.
 
 ```ruby
-# Generates a random television show title.
+
+# Generates a Netflix Originals title (TV shows, movies, stand-up comedies, etc.).
+# Over 1,033 real possibilities
+Faussaire::Tv.netflix
+# => "Squid Game"
+
+# Generates a random French reality TV show title.
 Faussaire::Tv.show 
 # => "Marjolaine et les Millionnaires"
 
@@ -825,7 +833,7 @@ Faussaire::Tv.influencer
 
 # Generates a random famous television couple.
 Faussaire::Tv.famous_couples 
-# => "J.Lo et Diddy (2000)"
+# => "Marilyn Monroe et Joe DiMaggio (1953)"
 
 # Generates a random TV channel name.
 Faussaire::Tv.channel 

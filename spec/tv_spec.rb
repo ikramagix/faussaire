@@ -93,18 +93,39 @@ RSpec.describe Faussaire::Tv do
     end
   end
 
-  describe '.no duplicate values' do
-    # Example assuming you have a method to load all data at once for testing
-    it 'ensures no duplicate values in data lists' do
-      all_shows = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'show')
-      all_influencers = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'influencer')
-      all_channels = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'channel')
-      all_netflix = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'netflix')
-      
-      expect(all_shows.uniq.size).to eq(all_shows.size)
-      expect(all_influencers.uniq.size).to eq(all_influencers.size)
-      expect(all_channels.uniq.size).to eq(all_channels.size)
-      expect(all_netflix.uniq.size).to eq(all_netflix.size)
+  context 'in Netflix list' do
+    it 'does not contain duplicates' do
+      shows = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'netflix')
+      duplicates = shows.group_by { |show| show }.select { |_, v| v.size > 1 }.keys
+  
+      expect(duplicates).to be_empty, "Duplicates found in netflix: #{duplicates.join(', ')}"
+    end
+  end
+  
+  context 'in shows list' do
+    it 'does not contain duplicates' do
+      shows = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'show')
+      duplicates = shows.group_by { |show| show }.select { |_, v| v.size > 1 }.keys
+  
+      expect(duplicates).to be_empty, "Duplicates found in shows: #{duplicates.join(', ')}"
+    end
+  end
+  
+  context 'in influencers list' do
+    it 'does not contain duplicates' do
+      influencers = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'influencer')
+      duplicates = influencers.group_by { |influencer| influencer }.select { |_, v| v.size > 1 }.keys
+  
+      expect(duplicates).to be_empty, "Duplicates found in influencers: #{duplicates.join(', ')}"
+    end
+  end
+  
+  context 'in channels list' do
+    it 'does not contain duplicates' do
+      channels = YAML.load_file(Faussaire::Tv::DATA_PATH).dig('fr', 'faussaire', 'tv', 'channel')
+      duplicates = channels.group_by { |channel| channel }.select { |_, v| v.size > 1 }.keys
+  
+      expect(duplicates).to be_empty, "Duplicates found in channels: #{duplicates.join(', ')}"
     end
   end
 end

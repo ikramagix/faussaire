@@ -42,3 +42,22 @@
 - **Ruby Version Update**:
   - Adjusted the required Ruby version to address a `rubocop` PR conflict issue.
   - Standardized capitalization in the `license.txt` file.
+
+## [1.0.1] - 2026-02-12
+### Added
+- **New `Faussaire::So.mething` Method**:
+  - Generates a random ...
+  - Example: `Faussaire::So.mething` => `"Wiser"`
+
+### Enhancements
+- **W...**:
+  - A...
+  - S..
+
+- **W...**:
+  - A...
+  - S..
+
+- **W...**:
+  - A...
+  - S..

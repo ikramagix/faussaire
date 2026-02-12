@@ -1,0 +1,13 @@
+current directory: /home/hackerman/faussaire/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20260212-24291-x1c6yt.rb extconf.rb
+creating Makefile
+
+current directory: /home/hackerman/faussaire/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\= clean
+
+current directory: /home/hackerman/faussaire/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\=
+make: Nothing to be done for 'all'.
+
+current directory: /home/hackerman/faussaire/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make DESTDIR\= install

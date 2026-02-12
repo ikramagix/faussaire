@@ -14,7 +14,7 @@ If you’ve got something cool to add, don’t be shy! Well-documented pull requ
 >   </a>
 >   <br>
 >   <a href="#Français" style="text-decoration:none;">
->     Évidemment, vous pouvez aussi me lire en français. On est là pour ça, non ?
+>     Lisez-moi en français.
 >   </a>
 > </p>
 

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    faussaire (1.0.0)
+    faussaire (1.0.1)
 
 GEM
   remote: https://rubygems.org/

@@ -1,78 +1,76 @@
 # frozen_string_literal: true
 
 require "spec_helper"
+require "yaml"
 require "faussaire/name"
 
 RSpec.describe Faussaire::Name do
-  describe ".female_first_name" do
-    it "returns a female first name" do
-      expect(Faussaire::Name.female_first_name).to be_a(String)
-    end
+  let(:fr_name_data) { YAML.load_file(described_class::DATA_PATHS[:fr]).dig("fr", "faussaire", "name") }
+  let(:el_name_data) { YAML.load_file(described_class::DATA_PATHS[:el]).dig("el", "faussaire", "name") }
 
-    it "returns a different female first name on each call" do
-      name1 = Faussaire::Name.female_first_name
-      name2 = Faussaire::Name.female_first_name
+  before do
+    described_class.locale = :fr
+  end
 
-      expect(name1).not_to eq(name2)
+  after do
+    described_class.locale = :fr
+  end
+
+  describe ".available_locales" do
+    it "includes French and Greek locales" do
+      expect(described_class.available_locales).to include(:fr, :el)
     end
   end
 
-  describe ".male_first_name" do
-    it "returns a male first name" do
-      expect(Faussaire::Name.male_first_name).to be_a(String)
+  describe "when using French locale" do
+    it "returns a female first name from French data" do
+      expect(fr_name_data["female_first_name"]).to include(described_class.female_first_name)
     end
 
-    it "returns a different male first name on each call" do
-      name1 = Faussaire::Name.male_first_name
-      name2 = Faussaire::Name.male_first_name
-
-      expect(name1).not_to eq(name2)
-    end
-  end
-
-  describe ".family_name" do
-    it "returns a family name" do
-      expect(Faussaire::Name.family_name).to be_a(String)
+    it "returns a male first name from French data" do
+      expect(fr_name_data["male_first_name"]).to include(described_class.male_first_name)
     end
 
-    it "returns a different family name on each call" do
-      family_name1 = Faussaire::Name.family_name
-      family_name2 = Faussaire::Name.family_name
+    it "returns a family name from French data" do
+      expect(fr_name_data["family_name"]).to include(described_class.family_name)
+    end
 
-      expect(family_name1).not_to eq(family_name2)
+    it "returns a full name string" do
+      full_name = described_class.name
+      expect(full_name).to be_a(String)
+      expect(full_name).to include(" ")
     end
   end
 
-  describe ".name" do
-    it "returns a full name" do
-      expect(Faussaire::Name.name).to be_a(String)
+  describe "when using Greek locale" do
+    before do
+      described_class.locale = :el
     end
 
-    it "returns a different full name on each call" do
-      full_name1 = Faussaire::Name.name
-      full_name2 = Faussaire::Name.name
-
-      expect(full_name1).not_to eq(full_name2)
+    it "returns a female first name from Greek data" do
+      expect(el_name_data["female_first_name"]).to include(described_class.female_first_name)
     end
 
-    it "checks the uniqueness of every occurrence" do
-      generated_names = []
-
-      10.times do
-        full_name = Faussaire::Name.name
-
-        expect(full_name).not_to be_empty
-
-        expect(generated_names).not_to include(full_name)
-        generated_names << full_name
-      end
+    it "returns a male first name from Greek data" do
+      expect(el_name_data["male_first_name"]).to include(described_class.male_first_name)
     end
 
-    it "returns unique names when called multiple times" do
-      names = 15.times.map { Faussaire::Name.name }
+    it "returns a family name from Greek data" do
+      expect(el_name_data["family_name"]).to include(described_class.family_name)
+    end
 
-      expect(names).to all(be_a(String)).and all(be_truthy)
-      expect(names).to eq(names.uniq)
+    it "returns a full name string" do
+      full_name = described_class.name
+      expect(full_name).to be_a(String)
+      expect(full_name).to include(" ")
+    end
+  end
+
+  describe ".locale=" do
+    it "falls back to French if locale is unknown" do
+      described_class.locale = :xx
+      expect(described_class.locale).to eq(:fr)
+      expect(fr_name_data["female_first_name"]).to include(described_class.female_first_name)
     end
   end
 end

@@ -3,15 +3,54 @@
 require "yaml"
 
 module Faussaire
+  ##
+  # Generates randomized first and family names for supported locales.
+  #
   class Name
-    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
+    DATA_PATHS = {
+      fr: File.expand_path("../../locale/fr.yml", __dir__),
+      el: File.expand_path("../../locale/el.yml", __dir__)
+    }.freeze
+    DEFAULT_LOCALE = :fr
+    DATA_PATH = DATA_PATHS[DEFAULT_LOCALE]
 
     class << self
       ##
-      # Initializes the data from the YAML file.
+      # Initializes locale-specific data from the YAML file.
       #
-      def initialize_data
-        @data = YAML.load_file(DATA_PATH)
+      # @param locale [Symbol, String] The locale to load.
+      #
+      def initialize_data(locale = DEFAULT_LOCALE)
+        candidate_locale = normalize_locale(locale)
+        @locale = DATA_PATHS.key?(candidate_locale) ? candidate_locale : DEFAULT_LOCALE
+        @data = YAML.load_file(DATA_PATHS[@locale])
+      end
+
+      ##
+      # Returns all available locales for this module.
+      #
+      # @return [Array<Symbol>]
+      #
+      def available_locales
+        DATA_PATHS.keys
+      end
+
+      ##
+      # Returns the active locale.
+      #
+      # @return [Symbol]
+      #
+      def locale
+        @locale || DEFAULT_LOCALE
+      end
+
+      ##
+      # Sets the active locale and reloads data accordingly.
+      #
+      # @param locale [Symbol, String]
+      #
+      def locale=(locale)
+        initialize_data(locale)
       end
 
       ##
@@ -23,7 +62,7 @@ module Faussaire
       #   Faussaire::Name.female_first_name #=> "Marie"
       #
       def female_first_name
-        key = "fr.faussaire.name.female_first_name"
+        key = "#{locale}.faussaire.name.female_first_name"
         fetch(key)
       end
 
@@ -36,7 +75,7 @@ module Faussaire
       #   Faussaire::Name.male_first_name #=> "Jean"
       #
       def male_first_name
-        key = "fr.faussaire.name.male_first_name"
+        key = "#{locale}.faussaire.name.male_first_name"
         fetch(key)
       end
 
@@ -49,7 +88,7 @@ module Faussaire
       #   Faussaire::Name.family_name #=> "Dupont"
       #
       def family_name
-        key = "fr.faussaire.name.family_name"
+        key = "#{locale}.faussaire.name.family_name"
         fetch(key)
       end
 
@@ -89,7 +128,17 @@ module Faussaire
       # @return [Hash]
       #
       def data
-        @data ||= initialize_data
+        @data ||= initialize_data(locale)
+      end
+
+      ##
+      # Normalizes locale input to an internal symbol representation.
+      #
+      # @param locale [Symbol, String]
+      # @return [Symbol]
+      #
+      def normalize_locale(locale)
+        locale.to_s.strip.downcase.to_sym
       end
     end
   end

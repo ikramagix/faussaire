@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Piraterie
-    DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     ##
     # Fetches and samples data based on the provided key. If the fetched data is an array,
@@ -13,7 +15,7 @@ module Faussaire
     #
     def self.fetch(key)
       data = YAML.load_file(DATA_PATH)
-      result = data.dig(*key.split('.'))
+      result = data.dig(*key.split("."))
       result.is_a?(Array) ? result.sample : result
     end
 
@@ -26,7 +28,7 @@ module Faussaire
     #   Faussaire::Piraterie.role #=> "Moussaillon"
     #
     def self.role
-      fetch('fr.faussaire.piraterie.role')
+      fetch("fr.faussaire.piraterie.role")
     end
 
     ##
@@ -38,7 +40,7 @@ module Faussaire
     #   Faussaire::Piraterie.pnj #=> "Siresse"
     #
     def self.pnj
-      fetch('fr.faussaire.piraterie.pnj')
+      fetch("fr.faussaire.piraterie.pnj")
     end
 
     ##
@@ -50,9 +52,9 @@ module Faussaire
     #   Faussaire::Piraterie.nav #=> "Frégate"
     #
     def self.nav
-      fetch('fr.faussaire.piraterie.nav')
+      fetch("fr.faussaire.piraterie.nav")
     end
-    
+
     ##
     # Produces a random pirate swearing.
     #
@@ -62,7 +64,7 @@ module Faussaire
     #   Faussaire::Piraterie.rage #=> "Mille millions de mille sabords !"
     #
     def self.rage
-      fetch('fr.faussaire.piraterie.rage')
+      fetch("fr.faussaire.piraterie.rage")
     end
 
     ##
@@ -74,7 +76,7 @@ module Faussaire
     #   Faussaire::Piraterie.excuse #=> "Les embruns de la mer de Frêche m'ont rendu un peu fébrile… ai-je droit à un peu de repos Capitaine ?"
     #
     def self.excuse
-      fetch('fr.faussaire.piraterie.excuse')
+      fetch("fr.faussaire.piraterie.excuse")
     end
 
     ##
@@ -86,7 +88,7 @@ module Faussaire
     #   Faussaire::Piraterie.potin #=> "Il paraît qu’un moussaillon préfère naviguer en eaux troubles avec des commits non testés !"
     #
     def self.potin
-      fetch('fr.faussaire.piraterie.potin')
+      fetch("fr.faussaire.piraterie.potin")
     end
   end
 end

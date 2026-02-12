@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Cosmos
-    DATA_PATH = File.expand_path('../../locale/fr.yml', __dir__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     class << self
       def initialize_data
@@ -18,7 +20,7 @@ module Faussaire
       #   Faussaire::Cosmos.planet #=> "Mars"
       #
       def planet
-        fetch('fr.faussaire.cosmos.planet')
+        fetch("fr.faussaire.cosmos.planet")
       end
 
       ##
@@ -30,7 +32,7 @@ module Faussaire
       #   Faussaire::Cosmos.event #=> "Éclipse solaire"
       #
       def event
-        fetch('fr.faussaire.cosmos.event')
+        fetch("fr.faussaire.cosmos.event")
       end
 
       ##
@@ -42,7 +44,7 @@ module Faussaire
       #   Faussaire::Cosmos.neighborhood #=> "Voie lactée"
       #
       def neighborhood
-        fetch('fr.faussaire.cosmos.neighborhood')
+        fetch("fr.faussaire.cosmos.neighborhood")
       end
 
       ##
@@ -54,14 +56,15 @@ module Faussaire
       #   Faussaire::Cosmos.exploration #=> "Voyager"
       #
       def exploration
-        fetch('fr.faussaire.cosmos.exploration')
+        fetch("fr.faussaire.cosmos.exploration")
       end
 
       private
 
       def fetch(key)
-        return nil if data.nil? || data.dig(*key.split('.')).nil?
-        data.dig(*key.split('.')).sample
+        return nil if data.nil? || data.dig(*key.split(".")).nil?
+
+        data.dig(*key.split(".")).sample
       end
 
       def data

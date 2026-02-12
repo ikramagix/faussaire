@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Ancien
-    DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     ##
     # Fetches and samples data based on the provided key. If the fetched data is an array,
@@ -13,7 +15,7 @@ module Faussaire
     #
     def self.fetch(key)
       data = YAML.load_file(DATA_PATH)
-      result = data.dig(*key.split('.'))
+      result = data.dig(*key.split("."))
       result.is_a?(Array) ? result.sample : result
     end
 
@@ -26,7 +28,7 @@ module Faussaire
     #   Faussaire::Ancien.creature #=> "Dragon"
     #
     def self.creature
-      fetch('fr.faussaire.ancien.creature')
+      fetch("fr.faussaire.ancien.creature")
     end
 
     ##
@@ -38,7 +40,7 @@ module Faussaire
     #   Faussaire::Ancien.historic_figure #=> "Napoléon Bonaparte"
     #
     def self.historic_figure
-      fetch('fr.faussaire.ancien.historic_figure')
+      fetch("fr.faussaire.ancien.historic_figure")
     end
 
     ##
@@ -50,7 +52,7 @@ module Faussaire
     #   Faussaire::Ancien.words #=> "torteleresse"
     #
     def self.words
-      fetch('fr.faussaire.ancien.words')
+      fetch("fr.faussaire.ancien.words")
     end
   end
 end

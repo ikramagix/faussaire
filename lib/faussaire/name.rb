@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Name
-    DATA_PATH = File.expand_path('../../locale/fr.yml', __dir__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     class << self
       ##
@@ -21,7 +23,7 @@ module Faussaire
       #   Faussaire::Name.female_first_name #=> "Marie"
       #
       def female_first_name
-        key = 'fr.faussaire.name.female_first_name'
+        key = "fr.faussaire.name.female_first_name"
         fetch(key)
       end
 
@@ -34,7 +36,7 @@ module Faussaire
       #   Faussaire::Name.male_first_name #=> "Jean"
       #
       def male_first_name
-        key = 'fr.faussaire.name.male_first_name'
+        key = "fr.faussaire.name.male_first_name"
         fetch(key)
       end
 
@@ -47,7 +49,7 @@ module Faussaire
       #   Faussaire::Name.family_name #=> "Dupont"
       #
       def family_name
-        key = 'fr.faussaire.name.family_name'
+        key = "fr.faussaire.name.family_name"
         fetch(key)
       end
 
@@ -61,7 +63,7 @@ module Faussaire
       #
       def name
         first_name = [female_first_name, male_first_name].sample
-        [first_name, family_name].join(' ')
+        [first_name, family_name].join(" ")
       end
 
       private
@@ -75,8 +77,9 @@ module Faussaire
       # @return [Object, nil] The data fetched and optionally sampled.
       #
       def fetch(key)
-        return nil if data.nil? || data.dig(*key.split('.')).nil?
-        data.dig(*key.split('.')).sample
+        return nil if data.nil? || data.dig(*key.split(".")).nil?
+
+        data.dig(*key.split(".")).sample
       end
 
       ##

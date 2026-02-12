@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Tv
-    DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     # Provides data related to the Festival de Cannes.
     module FestivalCannes
@@ -16,7 +18,7 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.total_films #=> 3200
         #
         def total_films
-          festival_cannes_data['total_films'].first
+          festival_cannes_data["total_films"].first
         end
 
         ##
@@ -28,7 +30,7 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.most_represented_countries #=> "France"
         #
         def most_represented_countries
-          fetch('fr.faussaire.tv.festival_cannes.most_represented_countries')
+          fetch("fr.faussaire.tv.festival_cannes.most_represented_countries")
         end
 
         ##
@@ -40,7 +42,7 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.awarded_countries #=> "USA"
         #
         def awarded_countries
-          fetch('fr.faussaire.tv.festival_cannes.awarded_countries')
+          fetch("fr.faussaire.tv.festival_cannes.awarded_countries")
         end
 
         ##
@@ -52,7 +54,7 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.directors_with_two_palms #=> "Quentin Tarantino"
         #
         def directors_with_two_palms
-          fetch('fr.faussaire.tv.festival_cannes.directors_with_two_palms')
+          fetch("fr.faussaire.tv.festival_cannes.directors_with_two_palms")
         end
 
         ##
@@ -64,7 +66,7 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.multiple_awardises #=> "Meryl Streep"
         #
         def multiple_awardises
-          fetch('fr.faussaire.tv.festival_cannes.multiple_awardises')
+          fetch("fr.faussaire.tv.festival_cannes.multiple_awardises")
         end
 
         ##
@@ -76,7 +78,7 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.winners #=> "Parasite"
         #
         def winners
-          fetch('fr.faussaire.tv.festival_cannes.winners')
+          fetch("fr.faussaire.tv.festival_cannes.winners")
         end
 
         ##
@@ -88,18 +90,18 @@ module Faussaire
         #   Faussaire::Tv::FestivalCannes.box_office #=> "$500 million"
         #
         def box_office
-          fetch('fr.faussaire.tv.festival_cannes.box_office')
+          fetch("fr.faussaire.tv.festival_cannes.box_office")
         end
 
         private
 
         def festival_cannes_data
-          fetch('fr.faussaire.tv.festival_cannes')
+          fetch("fr.faussaire.tv.festival_cannes")
         end
 
         def fetch(key)
           data = YAML.load_file(Faussaire::Tv::DATA_PATH)
-          result = data.dig(*key.split('.'))
+          result = data.dig(*key.split("."))
           result.is_a?(Array) ? result.sample : result
         end
       end
@@ -114,7 +116,7 @@ module Faussaire
     #
     def self.fetch(key)
       data = YAML.load_file(DATA_PATH)
-      result = data.dig(*key.split('.'))
+      result = data.dig(*key.split("."))
       result.is_a?(Array) ? result.sample : result
     end
 
@@ -131,7 +133,7 @@ module Faussaire
     #   Faussaire::Tv.show #=> "Game of Thrones"
     #
     def self.show
-      fetch('fr.faussaire.tv.show')
+      fetch("fr.faussaire.tv.show")
     end
 
     ##
@@ -143,7 +145,7 @@ module Faussaire
     #   Faussaire::Tv.influencer #=> "Kim Kardashian"
     #
     def self.influencer
-      fetch('fr.faussaire.tv.influencer')
+      fetch("fr.faussaire.tv.influencer")
     end
 
     ##
@@ -155,7 +157,7 @@ module Faussaire
     #   Faussaire::Tv.famous_couples #=> "Ross and Rachel"
     #
     def self.famous_couples
-      fetch('fr.faussaire.tv.famous_couples')
+      fetch("fr.faussaire.tv.famous_couples")
     end
 
     ##
@@ -167,7 +169,7 @@ module Faussaire
     #   Faussaire::Tv.channel #=> "HBO"
     #
     def self.channel
-      fetch('fr.faussaire.tv.channel')
+      fetch("fr.faussaire.tv.channel")
     end
 
     ##
@@ -179,7 +181,7 @@ module Faussaire
     #   Faussaire::Tv.netflix #=> "Stranger Things"
     #
     def self.netflix
-      fetch('fr.faussaire.tv.netflix')
+      fetch("fr.faussaire.tv.netflix")
     end
   end
 end

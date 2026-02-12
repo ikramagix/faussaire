@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Music
-    DATA_PATH = File.expand_path('../../../locale/fr.yml', __FILE__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     ##
     # Fetches and samples data based on the provided key. If the fetched data is an array,
@@ -13,7 +15,7 @@ module Faussaire
     #
     def self.fetch(key)
       data = YAML.load_file(DATA_PATH)
-      result = data.dig(*key.split('.'))
+      result = data.dig(*key.split("."))
       result.is_a?(Array) ? result.sample : result
     end
 
@@ -26,7 +28,7 @@ module Faussaire
     #   Faussaire::Music.house #=> "House is a feeling - LA Riots"
     #
     def self.house
-      fetch('fr.faussaire.music.house')
+      fetch("fr.faussaire.music.house")
     end
 
     ##
@@ -38,7 +40,7 @@ module Faussaire
     #   Faussaire::Music.rap #=> "Onizuka - PNL"
     #
     def self.rap
-      fetch('fr.faussaire.music.rap')
+      fetch("fr.faussaire.music.rap")
     end
 
     ##
@@ -50,7 +52,7 @@ module Faussaire
     #   Faussaire::Music.variete #=> "Laisse tomber les filles - France Gall"
     #
     def self.variete
-      fetch('fr.faussaire.music.variete')
+      fetch("fr.faussaire.music.variete")
     end
   end
 end

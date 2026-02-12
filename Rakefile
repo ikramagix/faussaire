@@ -6,7 +6,7 @@ require "rubocop/rake_task"
 
 # Define the RSpec task for running tests
 RSpec::Core::RakeTask.new(:spec) do |t|
-  t.pattern = 'spec/**/*_spec.rb'
+  t.pattern = "spec/**/*_spec.rb"
 end
 
 RuboCop::RakeTask.new

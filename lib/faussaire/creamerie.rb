@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Creamerie
-    DATA_PATH = File.expand_path('../../locale/fr.yml', __dir__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     class << self
       ##
@@ -13,7 +15,7 @@ module Faussaire
       # @example
       #   Faussaire::Creamerie.milk_type #=> "de vache"
       def milk_type
-        fetch('fr.faussaire.creamerie.milk_type')
+        fetch("fr.faussaire.creamerie.milk_type")
       end
 
       ##
@@ -25,11 +27,11 @@ module Faussaire
       #   Faussaire::Creamerie.butter #=> { name: ..., type: ... }
       def butter
         {
-          name: fetch('fr.faussaire.creamerie.butter.name'),
-          type: fetch('fr.faussaire.creamerie.butter.type')
+          name: fetch("fr.faussaire.creamerie.butter.name"),
+          type: fetch("fr.faussaire.creamerie.butter.type")
         }
       end
-      
+
       ##
       # Produces information about top butter producers.
       #
@@ -38,7 +40,7 @@ module Faussaire
       # @example
       #   Faussaire::Creamerie.butter_producers #=> "N°1: États-Unis (892,801 t)"
       def butter_producers
-        fetch('fr.faussaire.creamerie.butter.top_producers')
+        fetch("fr.faussaire.creamerie.butter.top_producers")
       end
 
       ##
@@ -50,9 +52,9 @@ module Faussaire
       #   Faussaire::Creamerie.cheese #=> { type: ..., name: ..., region: ... }
       def cheese
         {
-          type: fetch('fr.faussaire.creamerie.cheese.type'),
-          name: fetch('fr.faussaire.creamerie.cheese.name'),
-          region: fetch('fr.faussaire.creamerie.cheese.region')
+          type: fetch("fr.faussaire.creamerie.cheese.type"),
+          name: fetch("fr.faussaire.creamerie.cheese.name"),
+          region: fetch("fr.faussaire.creamerie.cheese.region")
         }
       end
 
@@ -60,19 +62,19 @@ module Faussaire
 
       def fetch(key)
         data = YAML.load_file(DATA_PATH)
-        data.dig(*key.split('.')).sample
+        data.dig(*key.split(".")).sample
       end
 
       def cheese_type
-        fetch('creamerie.cheese.type')
+        fetch("creamerie.cheese.type")
       end
 
       def cheese_name
-        fetch('creamerie.cheese.name')
+        fetch("creamerie.cheese.name")
       end
 
       def cheese_region
-        fetch('creamerie.cheese.region')
+        fetch("creamerie.cheese.region")
       end
     end
   end

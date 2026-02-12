@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Address
-    DATA_PATH = File.expand_path('../../locale/fr.yml', __dir__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     class << self
       def initialize_data
@@ -18,7 +20,7 @@ module Faussaire
       #   Faussaire::Address.city #=> "Paris"
       #
       def city
-        fetch('fr.faussaire.address.city')
+        fetch("fr.faussaire.address.city")
       end
 
       ##
@@ -30,7 +32,7 @@ module Faussaire
       #   Faussaire::Address.street_number_99 #=> "42"
       #
       def street_number_99
-        fetch('fr.faussaire.address.street_number_99')
+        fetch("fr.faussaire.address.street_number_99")
       end
 
       ##
@@ -42,7 +44,7 @@ module Faussaire
       #   Faussaire::Address.street_number_999 #=> "123"
       #
       def street_number_999
-        fetch('fr.faussaire.address.street_number_999')
+        fetch("fr.faussaire.address.street_number_999")
       end
 
       ##
@@ -54,7 +56,7 @@ module Faussaire
       #   Faussaire::Address.street_number_9999 #=> "1234"
       #
       def street_number_9999
-        fetch('fr.faussaire.address.street_number_9999')
+        fetch("fr.faussaire.address.street_number_9999")
       end
 
       ##
@@ -66,7 +68,7 @@ module Faussaire
       #   Faussaire::Address.street_type #=> "Avenue"
       #
       def street_type
-        fetch('fr.faussaire.address.street_type')
+        fetch("fr.faussaire.address.street_type")
       end
 
       ##
@@ -78,7 +80,7 @@ module Faussaire
       #   Faussaire::Address.street_name #=> "Champs-Élysées"
       #
       def street_name
-        fetch('fr.faussaire.address.street_name')
+        fetch("fr.faussaire.address.street_name")
       end
 
       ##
@@ -90,7 +92,7 @@ module Faussaire
       #   Faussaire::Address.dpt_name #=> "Yvelines"
       #
       def dpt_name
-        fetch('fr.faussaire.address.dpt_name')
+        fetch("fr.faussaire.address.dpt_name")
       end
 
       ##
@@ -102,7 +104,7 @@ module Faussaire
       #   Faussaire::Address.dpt_number #=> "78"
       #
       def dpt_number
-        fetch('fr.faussaire.address.dpt_number_metropolis')
+        fetch("fr.faussaire.address.dpt_number_metropolis")
       end
 
       ##
@@ -114,7 +116,7 @@ module Faussaire
       #   Faussaire::Address.dpt_number_other #=> "971"
       #
       def dpt_number_other
-        fetch('fr.faussaire.address.dpt_number_overseas')
+        fetch("fr.faussaire.address.dpt_number_overseas")
       end
 
       ##
@@ -126,8 +128,8 @@ module Faussaire
       #   Faussaire::Address.postal_code #=> "75001"
       #
       def postal_code
-        code = fetch('fr.faussaire.address.postal_code')
-        code.to_s.rjust(5, '0')
+        code = fetch("fr.faussaire.address.postal_code")
+        code.to_s.rjust(5, "0")
       end
 
       ##
@@ -139,7 +141,7 @@ module Faussaire
       #   Faussaire::Address.region #=> "Île-de-France"
       #
       def region
-        fetch('fr.faussaire.address.region')
+        fetch("fr.faussaire.address.region")
       end
 
       ##
@@ -161,7 +163,6 @@ module Faussaire
         department_number = department_number_select
         reg = region
 
-
         "#{number} #{type} #{name}, #{postal} #{city_name}, #{department_name} (#{department_number}), Région #{reg}"
       end
 
@@ -180,8 +181,9 @@ module Faussaire
       end
 
       def fetch(key)
-        return nil if data.nil? || data.dig(*key.split('.')).nil?
-        data.dig(*key.split('.')).sample
+        return nil if data.nil? || data.dig(*key.split(".")).nil?
+
+        data.dig(*key.split(".")).sample
       end
 
       def data

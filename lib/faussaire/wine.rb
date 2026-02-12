@@ -1,8 +1,10 @@
-require 'yaml'
+# frozen_string_literal: true
+
+require "yaml"
 
 module Faussaire
   class Wine
-    DATA_PATH = File.expand_path('../../locale/fr.yml', __dir__)
+    DATA_PATH = File.expand_path("../../locale/fr.yml", __dir__)
 
     class << self
       ##
@@ -14,7 +16,7 @@ module Faussaire
       #   Faussaire::Wine.name #=> "Chateau Margaux"
       #
       def name
-        fetch('fr.faussaire.wine.name')
+        fetch("fr.faussaire.wine.name")
       end
 
       ##
@@ -26,7 +28,7 @@ module Faussaire
       #   Faussaire::Wine.type #=> "Red Wine"
       #
       def type
-        fetch('fr.faussaire.wine.type')
+        fetch("fr.faussaire.wine.type")
       end
 
       ##
@@ -38,7 +40,7 @@ module Faussaire
       #   Faussaire::Wine.bottle_type #=> "Cabernet Sauvignon"
       #
       def bottle_type
-        fetch('fr.faussaire.wine.bottle_types')
+        fetch("fr.faussaire.wine.bottle_types")
       end
 
       ##
@@ -50,7 +52,7 @@ module Faussaire
       #   Faussaire::Wine.region #=> "Bordeaux"
       #
       def region
-        fetch('fr.faussaire.wine.region')
+        fetch("fr.faussaire.wine.region")
       end
 
       ##
@@ -71,8 +73,8 @@ module Faussaire
         euros = case random_number
                 when 0...0.5 then rand(3.5..499).floor
                 when 0.5...0.85 then rand(500..2999).floor
-                when 0.85...0.95 then rand(3000..301300).floor
-                else rand(301301..482000).floor
+                when 0.85...0.95 then rand(3000..301_300).floor
+                else rand(301_301..482_000).floor
                 end
         "#{euros}.99€"
       end
@@ -86,7 +88,7 @@ module Faussaire
       #   Faussaire::Wine.licocorico #=> "Licocorico Special Blend"
       #
       def licocorico
-        fetch('fr.faussaire.wine.licocorico')
+        fetch("fr.faussaire.wine.licocorico")
       end
 
       private
@@ -100,7 +102,7 @@ module Faussaire
       #
       def fetch(key)
         data = YAML.load_file(DATA_PATH)
-        result = data.dig(*key.split('.'))
+        result = data.dig(*key.split("."))
         result.is_a?(Array) ? result.sample : result
       end
     end
